@@ -1,129 +1,225 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-09-10 16:18+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"expanded-multiverse/datatext_blueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/text_blueprints.xml.append:1
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MILITIA_unlock\"]"
-msgstr ""
+msgstr "Получите МВ-крейсер Возвышенных, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:2
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MINISTRY_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на крейсере Мультивселенной Ополчения, чтобы "
+"разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:3
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_THEOCRACY_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на крейсере Мультивселенной Министерства, чтобы "
+"разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:4
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_ANGEL_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на крейсере Мультивселенной Теократии, чтобы "
+"разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на крейсере Мультивселенной Ополчения."
 
 #: src-en/data/text_blueprints.xml.append:7
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_FEDAUTO_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на Ангельском вестнике смерти Мультивселенной, чтобы "
+"разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на крейсере Мультивселенной золтан."
 
 #: src-en/data/text_blueprints.xml.append:10
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_ALTREBEL_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на авто-крейсере Федерации Мультивселенной, чтобы "
+"разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на крейсере Мультивселенной Теократии."
 
 #: src-en/data/text_blueprints.xml.append:13
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_DUSK_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на альтернативном крейсере повстанцев "
+"Мультивселенной, чтобы разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на Ангельском вестнике смерти Мультивселенной."
 
 #: src-en/data/text_blueprints.xml.append:16
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_AUTO_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на крейсере Мультивселенной Вестников Заката, чтобы "
+"разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на авто-крейсере Федерации Мультивселенной."
 
 #: src-en/data/text_blueprints.xml.append:19
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_SPOOK_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на авто-крейсере Восстания Мультивселенной, чтобы "
+"разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на альтернативном крейсере повстанцев Мультивселенной."
 
 #: src-en/data/text_blueprints.xml.append:22
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_LEECH_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на крейсере Мультивселенной Ловцов призраков, чтобы "
+"разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на крейсере Мультивселенной Вестников Заката."
 
 #: src-en/data/text_blueprints.xml.append:25
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_HEKTAR_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на Республиканском крейсере Мультивселенной, чтобы "
+"разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на авто-крейсере Восстания Мультивселенной."
 
 #: src-en/data/text_blueprints.xml.append:28
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_FREEMANTIS_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на крейсере Мультивселенной \"Гектар Индастриз\", "
+"чтобы разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на крейсере Мультивселенной Ловцов призраков."
 
 #: src-en/data/text_blueprints.xml.append:31
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_ENFORCER_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на крейсере Мультивселенной Свободных Богомолов, "
+"чтобы разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на Республиканском крейсере Мультивселенной."
 
 #: src-en/data/text_blueprints.xml.append:34
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_SMUGGLER_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на альтернативном крейсере Мультивселенной силовике, "
+"чтобы разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на крейсере Мультивселенной \"Гектар Индастриз\"."
 
 #: src-en/data/text_blueprints.xml.append:37
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_HIVE_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на крейсере Мультивселенной прототипе, чтобы "
+"разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на крейсере Мультивселенной Свободных Богомолов."
 
 #: src-en/data/text_blueprints.xml.append:40
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_COALITION_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на крейсере Мультивселенной Улья, чтобы "
+"разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на альтернативном крейсере Мультивселенной силовике."
 
 #: src-en/data/text_blueprints.xml.append:43
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_LANIUS_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на крейсере Мультивселенной Коалиции, чтобы "
+"разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на крейсере Мультивселенной прототипе."
 
 #: src-en/data/text_blueprints.xml.append:46
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_LOSTSUN_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на крейсере Мультивселенной ланиусов, чтобы "
+"разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на крейсере Мультивселенной Улья."
 
 #: src-en/data/text_blueprints.xml.append:49
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_BISHOP_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на крейсере Мультивселенной Затерянных Солнц, чтобы "
+"разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на крейсере Мультивселенной Коалиции."
 
 #: src-en/data/text_blueprints.xml.append:52
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MFK_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на крейсере Мультивселенной Епископов, чтобы "
+"разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на крейсере Мультивселенной ланиусов."
 
 #: src-en/data/text_blueprints.xml.append:55
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_PALADIN_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на крейсере Мультивселенной МФК, чтобы "
+"разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на крейсере Мультивселенной Затерянных Солнц."
 
 #: src-en/data/text_blueprints.xml.append:58
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_CULTIVATOR_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на крейсере Мультивселенной Паладинов, чтобы "
+"разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на крейсере Мультивселенной Епископов."
 
 #: src-en/data/text_blueprints.xml.append:61
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_SALT_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на крейсере Мультивселенной Культиваторов, чтобы "
+"разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на крейсере Мультивселенной МФК."
 
 #: src-en/data/text_blueprints.xml.append:64
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_KADAHELLIAN_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на натриевом крейсере Мультивселенной, чтобы "
+"разблокировать этот корабль.\n"
+"\n"
+"ИЛИ пройдите игру на крейсере Мультивселенной Паладинов."
 
 #: src-en/data/text_blueprints.xml.append:67
 msgid ""
