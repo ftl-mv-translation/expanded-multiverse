@@ -1,9 +1,0 @@
-<mod:findName type="event" name="STORAGE_CHECK_JUKEBOX">
-	<mod-append:choice hidden="true" req="emv_juke_multiversal">
-		<text>EMV: Multiversal - Composed by Lizzard</text>
-		<event>
-			<playMusic>emvmultiversal</playMusic>
-			<loadEvent>STORAGE_CHECK_JUKEBOX</loadEvent>
-		</event>
-	</mod-append:choice>
-</mod:findName>

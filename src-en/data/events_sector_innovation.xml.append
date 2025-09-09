@@ -1,5 +1,0 @@
-
-<mod:findName type="event" name="CURA_DEFEATED">
-    <mod-append:unlockCustomShip shipReq="PLAYER_SHIP_EMV_MVSLOT8" silent="false">PLAYER_SHIP_EMV_MV_CURA</mod-append:unlockCustomShip>
-</mod:findName>
-
