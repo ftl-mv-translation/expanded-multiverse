@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-09-09 12:50+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"expanded-multiverse/datablueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
@@ -28,17 +36,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[2]"
-msgstr ""
+msgstr "Наносит 1.1х урон в бою с экипажем."
 
 #: src-en/data/blueprints.xml.append:14
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[3]"
-msgstr ""
+msgstr "Получает 0.9x урона в бою с экипажем и 0.6x от пожаров."
 
 #: src-en/data/blueprints.xml.append:15
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[4]"
-msgstr ""
+msgstr "Осваивает навыки гораздо быстрее."
 
 #: src-en/data/blueprints.xml.append:20
 msgid ""
@@ -63,22 +71,22 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:27
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[2]"
-msgstr ""
+msgstr "Наносит 1.8х урон в бою с экипажем."
 
 #: src-en/data/blueprints.xml.append:28
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[3]"
-msgstr ""
+msgstr "Ломает системы со скоростью 2x."
 
 #: src-en/data/blueprints.xml.append:29
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[4]"
-msgstr ""
+msgstr "Получает 0.7х урона в бою с экипажем, пожаров и удушья."
 
 #: src-en/data/blueprints.xml.append:30
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[5]"
-msgstr ""
+msgstr "Обучен навыкам 2 уровня."
 
 #: src-en/data/blueprints.xml.append:35
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/desc"
@@ -95,12 +103,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:41
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[1]"
-msgstr ""
+msgstr "Максимальное здоровье увеличено до 150."
 
 #: src-en/data/blueprints.xml.append:42
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[2]"
-msgstr ""
+msgstr "Передвигается со скоростью 0.6х."
 
 #: src-en/data/blueprints.xml.append:43
 msgid ""
@@ -110,22 +118,24 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:44
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[4]"
-msgstr ""
+msgstr "Получает половинный урон от среды."
 
 #: src-en/data/blueprints.xml.append:45
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[5]"
 msgstr ""
+"Самостоятельно принимает медикаменты, восстанавливая 3.2 ОЗ/с если не "
+"получает урон в течение 15 секунд."
 
 #: src-en/data/blueprints.xml.append:46
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[6]"
-msgstr ""
+msgstr "Обучен навыкам 2 уровня."
 
 #: src-en/data/blueprints.xml.append:47
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[7]"
-msgstr ""
+msgstr "Сопротивляется контролю разума."
 
 #: src-en/data/blueprints.xml.append:48
 msgid ""
@@ -152,27 +162,27 @@ msgstr "Мастер Лучей"
 #: src-en/data/blueprints.xml.append:60
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[1]"
-msgstr ""
+msgstr "Наносит 1.4х урон в бою с экипажем."
 
 #: src-en/data/blueprints.xml.append:61
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[2]"
-msgstr ""
+msgstr "Ломает системы со скоростью 1.5x."
 
 #: src-en/data/blueprints.xml.append:62
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[3]"
-msgstr ""
+msgstr "Получает 0.7х урона в бою с экипажем, пожаров и удушья."
 
 #: src-en/data/blueprints.xml.append:63
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[4]"
-msgstr ""
+msgstr "Обучен навыкам 1 уровня."
 
 #: src-en/data/blueprints.xml.append:64
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[5]"
-msgstr ""
+msgstr "Может телепортироваться на любой корабль."
 
 #: src-en/data/blueprints.xml.append:69
 msgid ""
@@ -197,7 +207,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:78
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[2]"
-msgstr ""
+msgstr "Регенерирует 3.2 ОЗ/с, если не получает урон в течение 15 секунд."
 
 #: src-en/data/blueprints.xml.append:79
 msgid ""
@@ -207,7 +217,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:80
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[4]"
-msgstr ""
+msgstr "Наносит вдвое меньший урон в бою с экипажем, обучается бою медленнее."
 
 #: src-en/data/blueprints.xml.append:96
 msgid ""
@@ -232,22 +242,22 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:105
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[2]"
-msgstr ""
+msgstr "0.25х скорость ремонта."
 
 #: src-en/data/blueprints.xml.append:106
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[3]"
-msgstr ""
+msgstr "1.5x урон в бою."
 
 #: src-en/data/blueprints.xml.append:107
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[4]"
-msgstr ""
+msgstr "Получает 0.6х урона от пожаров."
 
 #: src-en/data/blueprints.xml.append:108
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[5]"
-msgstr ""
+msgstr "Учится ремонту еще быстрее."
 
 #: src-en/data/blueprints.xml.append:134
 msgid ""
@@ -277,12 +287,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:144
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[3]"
-msgstr ""
+msgstr "Максимальное здоровье увеличено до 125."
 
 #: src-en/data/blueprints.xml.append:145
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[4]"
-msgstr ""
+msgstr "Невосприимчив к удушью и получает вдвое меньше урона от пожаров."
 
 #: src-en/data/blueprints.xml.append:150
 msgid ""
@@ -312,17 +322,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:160
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[3]"
-msgstr ""
+msgstr "Максимальное здоровье увеличено до 110."
 
 #: src-en/data/blueprints.xml.append:166
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/class"
-msgstr ""
+msgstr "МВ авто-крейсер"
 
 #: src-en/data/blueprints.xml.append:167
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/name"
-msgstr ""
+msgstr "Вихрь"
 
 #: src-en/data/blueprints.xml.append:168
 msgid ""
@@ -332,12 +342,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:245
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/class"
-msgstr ""
+msgstr "МВ-крейсер Коалиции"
 
 #: src-en/data/blueprints.xml.append:246
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/name"
-msgstr ""
+msgstr "Пальмовый вор"
 
 #: src-en/data/blueprints.xml.append:247
 msgid ""
@@ -347,12 +357,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:324
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/class"
-msgstr ""
+msgstr "Кадахельский МВ-крейсер"
 
 #: src-en/data/blueprints.xml.append:325
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/name"
-msgstr ""
+msgstr "Биоэтанол"
 
 #: src-en/data/blueprints.xml.append:326
 msgid ""
@@ -362,12 +372,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:485
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/class"
-msgstr ""
+msgstr "МВ авто-крейсер Федерации"
 
 #: src-en/data/blueprints.xml.append:486
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/name"
-msgstr ""
+msgstr "Луноход"
 
 #: src-en/data/blueprints.xml.append:487
 msgid ""
@@ -377,12 +387,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:565
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/class"
-msgstr ""
+msgstr "МВ Ангельский вестник смерти"
 
 #: src-en/data/blueprints.xml.append:566
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/name"
-msgstr ""
+msgstr "Рафаэль"
 
 #: src-en/data/blueprints.xml.append:567
 msgid ""
@@ -392,12 +402,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:643
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/class"
-msgstr ""
+msgstr "МВ-крейсер Свободных Богомолов"
 
 #: src-en/data/blueprints.xml.append:644
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/name"
-msgstr ""
+msgstr "Звездная пыль"
 
 #: src-en/data/blueprints.xml.append:645
 msgid ""
@@ -407,12 +417,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:722
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/class"
-msgstr ""
+msgstr "МВ-крейсер Ополчения"
 
 #: src-en/data/blueprints.xml.append:723
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/name"
-msgstr ""
+msgstr "Маршалл"
 
 #: src-en/data/blueprints.xml.append:724
 msgid ""
@@ -422,12 +432,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:806
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/class"
-msgstr ""
+msgstr "МВ-крейсер золтан"
 
 #: src-en/data/blueprints.xml.append:807
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/name"
-msgstr ""
+msgstr "Нулевая точка"
 
 #: src-en/data/blueprints.xml.append:808
 msgid ""
@@ -437,12 +447,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:884
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/class"
-msgstr ""
+msgstr "Республиканский МВ-крейсер"
 
 #: src-en/data/blueprints.xml.append:885
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/name"
-msgstr ""
+msgstr "Королевская пиявка"
 
 #: src-en/data/blueprints.xml.append:886
 msgid ""
@@ -452,12 +462,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:963
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/class"
-msgstr ""
+msgstr "МВ-крейсер Затерянных Солнц"
 
 #: src-en/data/blueprints.xml.append:964
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/name"
-msgstr ""
+msgstr "Путешественник"
 
 #: src-en/data/blueprints.xml.append:965
 msgid ""
@@ -467,7 +477,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1043
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/class"
-msgstr ""
+msgstr "Альтернативный МВ Флагман"
 
 #: src-en/data/blueprints.xml.append:1044
 msgid ""
@@ -482,12 +492,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1116
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/class"
-msgstr ""
+msgstr "Альтернативный МВ-крейсер повстанцев"
 
 #: src-en/data/blueprints.xml.append:1117
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/name"
-msgstr ""
+msgstr "Колумбус"
 
 #: src-en/data/blueprints.xml.append:1118
 msgid ""
@@ -497,12 +507,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1196
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/class"
-msgstr ""
+msgstr "МВ-крейсер Теократии"
 
 #: src-en/data/blueprints.xml.append:1197
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/name"
-msgstr ""
+msgstr "Кобальтовый Инквизитор"
 
 #: src-en/data/blueprints.xml.append:1198
 msgid ""
@@ -512,12 +522,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1274
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/class"
-msgstr ""
+msgstr "МВ-крейсер \"Гектар Индастриз\""
 
 #: src-en/data/blueprints.xml.append:1275
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/name"
-msgstr ""
+msgstr "Продленная гарантия"
 
 #: src-en/data/blueprints.xml.append:1276
 msgid ""
@@ -527,12 +537,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1354
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/class"
-msgstr ""
+msgstr "МВ-крейсер Епископов"
 
 #: src-en/data/blueprints.xml.append:1355
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/name"
-msgstr ""
+msgstr "Точильный камень"
 
 #: src-en/data/blueprints.xml.append:1356
 msgid ""
@@ -542,12 +552,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1510
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/class"
-msgstr ""
+msgstr "Альтернативный МВ-крейсер силовик"
 
 #: src-en/data/blueprints.xml.append:1511
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/name"
-msgstr ""
+msgstr "Брут"
 
 #: src-en/data/blueprints.xml.append:1512
 msgid ""
@@ -557,12 +567,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1589
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/class"
-msgstr ""
+msgstr "МВ-крейсер Паладинов"
 
 #: src-en/data/blueprints.xml.append:1590
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/name"
-msgstr ""
+msgstr "Варяг"
 
 #: src-en/data/blueprints.xml.append:1591
 msgid ""
@@ -572,12 +582,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1667
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/class"
-msgstr ""
+msgstr "МВ-крейсер Ловцов призраков"
 
 #: src-en/data/blueprints.xml.append:1668
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/name"
-msgstr ""
+msgstr "Бертон"
 
 #: src-en/data/blueprints.xml.append:1669
 msgid ""
@@ -587,7 +597,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1744
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/class"
-msgstr ""
+msgstr "МВ-крейсер ланиусов"
 
 #: src-en/data/blueprints.xml.append:1745
 msgid ""
@@ -602,12 +612,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1824
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/class"
-msgstr ""
+msgstr "МВ-крейсер Инноваций"
 
 #: src-en/data/blueprints.xml.append:1825
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/name"
-msgstr ""
+msgstr "Ч.И.С.Т."
 
 #: src-en/data/blueprints.xml.append:1826
 msgid ""
@@ -617,12 +627,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1901
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/class"
-msgstr ""
+msgstr "МВ-крейсер Вестников Заката"
 
 #: src-en/data/blueprints.xml.append:1902
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/name"
-msgstr ""
+msgstr "Нечеткий шар"
 
 #: src-en/data/blueprints.xml.append:1903
 msgid ""
@@ -632,12 +642,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1979
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/class"
-msgstr ""
+msgstr "МВ-крейсер Улья"
 
 #: src-en/data/blueprints.xml.append:1980
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/name"
-msgstr ""
+msgstr "Комодский варан"
 
 #: src-en/data/blueprints.xml.append:1981
 msgid ""
@@ -647,12 +657,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2058
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/class"
-msgstr ""
+msgstr "Натриевый МВ-крейсер"
 
 #: src-en/data/blueprints.xml.append:2059
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/name"
-msgstr ""
+msgstr "Сулане"
 
 #: src-en/data/blueprints.xml.append:2060
 msgid ""
@@ -662,12 +672,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2211
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/class"
-msgstr ""
+msgstr "МВ-крейсер прототип"
 
 #: src-en/data/blueprints.xml.append:2212
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/name"
-msgstr ""
+msgstr "Флюгер"
 
 #: src-en/data/blueprints.xml.append:2213
 msgid ""
@@ -677,12 +687,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2289
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/class"
-msgstr ""
+msgstr "МВ-крейсер Культиваторов"
 
 #: src-en/data/blueprints.xml.append:2290
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/name"
-msgstr ""
+msgstr "CRISPR"
 
 #: src-en/data/blueprints.xml.append:2291
 msgid ""
@@ -692,12 +702,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2369
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/class"
-msgstr ""
+msgstr "МВ-крейсер асов МФК"
 
 #: src-en/data/blueprints.xml.append:2370
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/name"
-msgstr ""
+msgstr "Посторонний солдат"
 
 #: src-en/data/blueprints.xml.append:2371
 msgid ""
@@ -712,7 +722,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2451
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/name"
-msgstr ""
+msgstr "Увядающая роза"
 
 #: src-en/data/blueprints.xml.append:2452
 msgid ""
@@ -727,7 +737,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2524
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/name"
-msgstr ""
+msgstr "Роза Верди"
 
 #: src-en/data/blueprints.xml.append:2525
 msgid ""
