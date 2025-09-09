@@ -1,0 +1,394 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_guards.xml.append:2
+msgid ""
+"data/events_special_guards.xml.append$//textList[@name=\"TEXT_EMV_DROPPOINT_GUARD\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:3
+msgid ""
+"data/events_special_guards.xml.append$//textList[@name=\"TEXT_EMV_DROPPOINT_GUARD\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:4
+msgid ""
+"data/events_special_guards.xml.append$//textList[@name=\"TEXT_EMV_DROPPOINT_GUARD\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:17
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"START_EMV_DROPPOINT_GUARD\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_guards.xml.append:32
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:36
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/choice[@req=\"emv_rep_renegades\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:40
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/choice[@req=\"emv_rep_renegades\""
+" and @lvl=\"3\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_guards.xml.append:44
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/choice[3]/text"
+msgstr "警備員を攻撃する。"
+
+#: src-en/data/events_special_guards.xml.append:46
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:49
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/choice[3]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_guards.xml.append:57
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_CRIMINAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:59
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_CRIMINAL\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_guards.xml.append:61
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_CRIMINAL\"]/choice/event/text"
+msgstr ""
+"あなたの戦歴があなたに追いついたようです。警備員はあなたが犯した犯罪について十分に聞いており、そして彼らはあなたをセクターに入れるつもりはありません！"
+
+#: src-en/data/events_special_guards.xml.append:64
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_CRIMINAL\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_guards.xml.append:72
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:74
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:76
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:84
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:86
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:94
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:96
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:104
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:106
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:114
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:116
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[5]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:119
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[5]/event/choice[1]/text"
+msgstr "船内で何かをする。"
+
+#: src-en/data/events_special_guards.xml.append:123
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[5]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_guards.xml.append:132
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:134
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:137
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/choice[1]/text"
+msgstr "船内で何かをする。"
+
+#: src-en/data/events_special_guards.xml.append:141
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_guards.xml.append:147
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:149
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[7]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:151
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[7]/event/choice[1]/text"
+msgstr "船内で何かをする。"
+
+#: src-en/data/events_special_guards.xml.append:155
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[7]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_guards.xml.append:163
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:167
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/choice[@req=\"emv_rep_renegades\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:171
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/choice[@req=\"emv_rep_renegades\""
+" and @lvl=\"3\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_guards.xml.append:175
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/choice[3]/text"
+msgstr "警備員を攻撃する。"
+
+#: src-en/data/events_special_guards.xml.append:177
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:180
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/choice[3]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_guards.xml.append:188
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:190
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:192
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:200
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:202
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:210
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:212
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:220
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:222
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:230
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:232
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[5]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:235
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[5]/event/choice[1]/text"
+msgstr "船内で何かをする。"
+
+#: src-en/data/events_special_guards.xml.append:239
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[5]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_guards.xml.append:248
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:250
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:253
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/choice[1]/text"
+msgstr "船内で何かをする。"
+
+#: src-en/data/events_special_guards.xml.append:257
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_guards.xml.append:263
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:265
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[7]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:267
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[7]/event/choice[1]/text"
+msgstr "船内で何かをする。"
+
+#: src-en/data/events_special_guards.xml.append:271
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[7]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_guards.xml.append:286
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ZOLTAN_DESTROY\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:289
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ZOLTAN_DESTROY\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_guards.xml.append:294
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ZOLTAN_DEADCREW\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:298
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ZOLTAN_DEADCREW\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_guards.xml.append:310
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ENGI_DESTROY\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:313
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ENGI_DESTROY\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_guards.xml.append:318
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ENGI_DEADCREW\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:322
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ENGI_DEADCREW\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_guards.xml.append:332
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"GUARD_EMV_RENEGADE_FOLLOWUP\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_guards.xml.append:335
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"GUARD_EMV_RENEGADE_FOLLOWUP\"]/choice[1]/text"
+msgstr "船内で何かをする。"
+
+#: src-en/data/events_special_guards.xml.append:339
+#, fuzzy
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"GUARD_EMV_RENEGADE_FOLLOWUP\"]/choice[2]/text"
+msgstr "何もしない。"

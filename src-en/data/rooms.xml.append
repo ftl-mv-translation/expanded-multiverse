@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<roomLayout name="emv_weapons_12">
+	<computerGlow x="88" y="6" dir="RIGHT" />
+</roomLayout>
+<roomLayout name="pilot_emv_1">
+	<computerGlow name="glow_pilot" x="43" y="19" dir="DOWN" />
+</roomLayout>

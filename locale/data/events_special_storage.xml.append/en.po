@@ -1,0 +1,278 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_storage.xml.append:72
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_LEECH_PARASITE\"]/mod-"
+"append:choice/text"
+msgstr ""
+"You cannot install this lab modification, as you still have the external "
+"version."
+
+#: src-en/data/events_special_storage.xml.append:82
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_HIVE_SLASH\"]/mod-"
+"append:choice/text"
+msgstr ""
+"You cannot install this lab modification, as you still have the external "
+"version."
+
+#: src-en/data/events_special_storage.xml.append:92
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_CARETAKER_HAZARD\"]/mod-"
+"append:choice/text"
+msgstr ""
+"You cannot install this lab modification, as you still have the external "
+"version."
+
+#: src-en/data/events_special_storage.xml.append:102
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_MEDBAY_NANO\"]/mod-"
+"append:choice/text"
+msgstr ""
+"This upgrade is unavailable. Blossoming Pheromones already fulfills its "
+"functionality."
+
+#: src-en/data/events_special_storage.xml.append:113
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
+"append:choice/text"
+msgstr "(Advanced Frequencies) Scan for nearby piracy."
+
+#: src-en/data/events_special_storage.xml.append:119
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/text"
+msgstr ""
+"Are you sure you want to do this? \n"
+"[Spawns a quest marker for a guaranteed encounter]"
+
+#: src-en/data/events_special_storage.xml.append:122
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
+" and @lvl=\"0\"]/text"
+msgstr "Yes."
+
+#: src-en/data/events_special_storage.xml.append:124
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
+" and @lvl=\"0\"]/event/text"
+msgstr "Select your focus, or test your luck.."
+
+#: src-en/data/events_special_storage.xml.append:126
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
+" and @lvl=\"0\"]/event/choice[1]/text"
+msgstr "Argeonn."
+
+#: src-en/data/events_special_storage.xml.append:130
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
+" and @lvl=\"0\"]/event/choice[2]/text"
+msgstr "Syndicate."
+
+#: src-en/data/events_special_storage.xml.append:134
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
+" and @lvl=\"0\"]/event/choice[3]/text"
+msgstr "Tiikaka."
+
+#: src-en/data/events_special_storage.xml.append:138
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
+" and @lvl=\"0\"]/event/choice[4]/text"
+msgstr "Test your luck..."
+
+#: src-en/data/events_special_storage.xml.append:142
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
+" and @lvl=\"0\"]/event/choice[5]/text"
+msgstr "Nevermind, do something else."
+
+#: src-en/data/events_special_storage.xml.append:152
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind, do something else."
+
+#: src-en/data/events_special_storage.xml.append:158
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN\"]/text"
+msgstr ""
+"You've found a Smuggler doing business in this sector, you mark their "
+"location down.."
+
+#: src-en/data/events_special_storage.xml.append:166
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE\"]/text"
+msgstr ""
+"You've found a Mercenary doing business in this sector, you mark their "
+"location down.."
+
+#: src-en/data/events_special_storage.xml.append:174
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA\"]/text"
+msgstr ""
+"You've found a Slaver doing business in this sector, you mark their location"
+" down.."
+
+#: src-en/data/events_special_storage.xml.append:182
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOMIZER\"]/text"
+msgstr ""
+"You decide to lock onto an occurence of piracy at complete random and mark "
+"it on your map."
+
+#: src-en/data/events_special_storage.xml.append:190
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/beaconType/unvisitedTooltip"
+msgstr "Location of a Smuggler."
+
+#: src-en/data/events_special_storage.xml.append:191
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_special_storage.xml.append:193
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/text"
+msgstr "You've made it to the location of the Smuggler."
+
+#: src-en/data/events_special_storage.xml.append:195
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:204
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE_QUEST\"]/beaconType/unvisitedTooltip"
+msgstr "Location of a Mercenary."
+
+#: src-en/data/events_special_storage.xml.append:205
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE_QUEST\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_special_storage.xml.append:207
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE_QUEST\"]/text"
+msgstr "You've made it to the location of the Mercenary."
+
+#: src-en/data/events_special_storage.xml.append:209
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE_QUEST\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:218
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/beaconType/unvisitedTooltip"
+msgstr "Location of a Mercenary."
+
+#: src-en/data/events_special_storage.xml.append:219
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_special_storage.xml.append:221
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/text"
+msgstr "You've made it to the location of the Slaver."
+
+#: src-en/data/events_special_storage.xml.append:223
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:232
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOM_QUEST\"]/beaconType/unvisitedTooltip"
+msgstr "Location of Piracy."
+
+#: src-en/data/events_special_storage.xml.append:233
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOM_QUEST\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_special_storage.xml.append:235
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOM_QUEST\"]/text"
+msgstr "You've made it to the location of the Pirate."
+
+#: src-en/data/events_special_storage.xml.append:237
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOM_QUEST\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:334
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[1]/text"
+msgstr "MVPMC Notoriety [--5]"
+
+#: src-en/data/events_special_storage.xml.append:338
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[2]/text"
+msgstr "MVPMC Notoriety [-5]"
+
+#: src-en/data/events_special_storage.xml.append:342
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[3]/text"
+msgstr "MVPMC Notoriety [-4]"
+
+#: src-en/data/events_special_storage.xml.append:346
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[4]/text"
+msgstr "MVPMC Notoriety [-3]"
+
+#: src-en/data/events_special_storage.xml.append:350
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[5]/text"
+msgstr "MVPMC Notoriety [-2]"
+
+#: src-en/data/events_special_storage.xml.append:354
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[6]/text"
+msgstr "MVPMC Notoriety [-1]"
+
+#: src-en/data/events_special_storage.xml.append:358
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[7]/text"
+msgstr "MVPMC Notoriety [1]"
+
+#: src-en/data/events_special_storage.xml.append:362
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[8]/text"
+msgstr "MVPMC Notoriety [2]"
+
+#: src-en/data/events_special_storage.xml.append:366
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[9]/text"
+msgstr "MVPMC Notoriety [3]"
+
+#: src-en/data/events_special_storage.xml.append:370
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[10]/text"
+msgstr "MVPMC Notoriety [4]"
+
+#: src-en/data/events_special_storage.xml.append:374
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[11]/text"
+msgstr "MVPMC Notoriety [5]"
+
+#: src-en/data/events_special_storage.xml.append:378
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[12]/text"
+msgstr "MVPMC Notoriety [5++]"

@@ -1,0 +1,7 @@
+<music>
+    <track> <!--composed by Lizzard-->
+        <name>emvmultiversal</name>
+        <explore>emv_MUS_MultiversalEXPLORE.mp3</explore>
+        <combat>emv_MUS_MultiversalBATTLE.mp3</combat>
+    </track>
+</music>

@@ -1,0 +1,14 @@
+<mod:findName type="event" name="THE_JUDGES_ZOLTAN">
+    <mod-append:choice req="EMV_LIST_CREW_ROGUE" blue="false">
+        <text>Present an Rogue Fleet Member.</text>
+		<event>
+			<text>"The Rebellion's finest... the wits of a Slug, quicker than a Mantis, and a relentless and unbreakable jingoist that even a Duskbringer would view extreme... How ever could you have... recruited it? No... this is not my place to ask questions. Your tribute is... very impressive. Well done, traveler. Expect... rewards before your next journey."</text>
+			<metaVariable name="prof_z_boon_human_2" op="set" val="1"/>
+			<achievement silent="false">ACH_BOON_HUMAN_2</achievement>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="THE_JUDGES_ZOLTAN_ADVICE"/>
+			</choice>
+		</event>
+	</mod-append:choice>
+</mod:findName>

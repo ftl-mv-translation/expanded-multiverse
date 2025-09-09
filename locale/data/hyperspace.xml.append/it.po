@@ -1,0 +1,181 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/hyperspace.xml.append:19
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_human_mercenary\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:20
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_human_mercenary\"]/powerEffect/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:67
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_human_medic\"]/powerEffect/buttonText"
+msgstr "TRIAGE"
+
+#: src-en/data/hyperspace.xml.append:68
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_human_medic\"]/powerEffect/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:136
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_human_engineer\"]/powerEffect/buttonText"
+msgstr "DRONE"
+
+#: src-en/data/hyperspace.xml.append:137
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_human_engineer\"]/powerEffect/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:190
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_human_commander\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:191
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_human_commander\"]/powerEffect/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:305
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_vance\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:306
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_vance\"]/powerEffect/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:399
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"unique_emv_mortis\"]/powerEffect/buttonText"
+msgstr "FERORMONE"
+
+#: src-en/data/hyperspace.xml.append:400
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"unique_emv_mortis\"]/powerEffect/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:457
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"unique_emv_vitae\"]/powerEffect/buttonText"
+msgstr "FERORMONE"
+
+#: src-en/data/hyperspace.xml.append:458
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"unique_emv_vitae\"]/powerEffect/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:563
+msgid "data/hyperspace.xml.append$//slug_ranger[@name=\"Bob\"]/@name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:884
+msgid "data/hyperspace.xml.append$//unique_obyn[@name=\"Obyn\"]/@name"
+msgstr "Obyn"
+
+#: src-en/data/hyperspace.xml.append:1010
+#, fuzzy
+msgid "data/hyperspace.xml.append$//emv_mv_vance[@name=\"Vance\"]/@name"
+msgstr "Vance"
+
+#: src-en/data/hyperspace.xml.append:1011
+msgid "data/hyperspace.xml.append$//emv_mv_leah[@name=\"Leah\"]/@name"
+msgstr "Leah"
+
+#: src-en/data/hyperspace.xml.append:1073
+msgid "data/hyperspace.xml.append$//unique_emv_mortis[@name=\"Mortis\"]/@name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1095
+msgid "data/hyperspace.xml.append$//unique_emv_vitae[@name=\"Vitae\"]/@name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1430
+msgid ""
+"data/hyperspace.xml.append$//statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1431
+msgid ""
+"data/hyperspace.xml.append$//statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1773
+msgid "data/hyperspace.xml.append$//unique_leah_mfk[@name=\"Leah\"]/@name"
+msgstr "Leah"
+
+#: src-en/data/hyperspace.xml.append:1836
+msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Sylvan\"]/@name"
+msgstr "Sylvan"
+
+#: src-en/data/hyperspace.xml.append:1872
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
+"append:shipIcon[1]/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1877
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
+"append:shipIcon[2]/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1882
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
+"append:shipIcon[3]/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1887
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
+"append:shipIcon[4]/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1892
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
+"append:shipIcon[5]/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1897
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
+"append:shipIcon[6]/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1902
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
+"append:shipIcon[7]/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2296
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[8]/mod-"
+"append:page/section/@text"
+msgstr ""

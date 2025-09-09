@@ -1,0 +1,3 @@
+<mod:findName type="event" name="HIVE_DESTROY">
+    <mod-append:unlockCustomShip shipReq="PLAYER_SHIP_EMV_MVSLOT4_2" silent="false">PLAYER_SHIP_EMV_VITAE</mod-append:unlockCustomShip>
+</mod:findName>

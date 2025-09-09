@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_multiverse.xml.append:3
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice/text"
+msgstr "Present an Rogue Fleet Member."
+
+#: src-en/data/events_special_multiverse.xml.append:5
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"\"The Rebellion's finest... the wits of a Slug, quicker than a Mantis, and a"
+" relentless and unbreakable jingoist that even a Duskbringer would view "
+"extreme... How ever could you have... recruited it? No... this is not my "
+"place to ask questions. Your tribute is... very impressive. Well done, "
+"traveler. Expect... rewards before your next journey.\""
+
+#: src-en/data/events_special_multiverse.xml.append:9
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice/event/choice/text"
+msgstr "Continue..."

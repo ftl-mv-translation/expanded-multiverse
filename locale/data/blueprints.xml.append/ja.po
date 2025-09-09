@@ -1,0 +1,1296 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:4
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:8
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:9
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:12
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:13
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:14
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:15
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:20
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:22
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:23
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:26
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:27
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:28
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:29
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:30
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[5]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:35
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:37
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:38
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:41
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:42
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:43
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:44
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:45
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[5]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:46
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[6]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:47
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[7]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:48
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[8]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:49
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[9]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:54
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:56
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:57
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:60
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:61
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:62
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:63
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:64
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[5]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:69
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:73
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:74
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/short"
+msgstr "メディック"
+
+#: src-en/data/blueprints.xml.append:77
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:78
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:79
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:80
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:96
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:100
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:101
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:104
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:105
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:106
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:107
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:108
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[5]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:134
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:137
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:138
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:142
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:143
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:144
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:145
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:150
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:153
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:154
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:158
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:159
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:160
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:166
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:167
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:168
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:245
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:246
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:247
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:324
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:325
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:326
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:485
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:486
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:487
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:565
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:566
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:567
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:643
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:644
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:645
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:722
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:723
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:724
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:806
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:807
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:808
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:884
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:885
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:886
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:963
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:964
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:965
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1043
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1044
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1045
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1116
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1117
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1118
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1196
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1197
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1198
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1274
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1275
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1276
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1354
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1355
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1356
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1510
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1511
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1512
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1589
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1590
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1591
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1667
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1668
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1669
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1744
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1745
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1746
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1824
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1825
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1826
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1901
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1902
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1903
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1979
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1980
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1981
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2058
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2059
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2060
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2211
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2212
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2213
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2289
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2290
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2291
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2369
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2370
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2371
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2450
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2451
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2452
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2523
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2524
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2525
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2596
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_MORTIS_PHEROMONES\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2597
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_MORTIS_PHEROMONES\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2609
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_VITAE_PHEROMONES\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2610
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_VITAE_PHEROMONES\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2620
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PERMISSION\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2621
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PERMISSION\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2628
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AI_SCANNER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2629
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AI_SCANNER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2636
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PREPERATION\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2637
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PREPERATION\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2644
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AUTOMATION\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2645
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AUTOMATION\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2652
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_RETRO_SHIELDING\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2653
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_RETRO_SHIELDING\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2661
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2662
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2670
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2671
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2678
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2679
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2686
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2687
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2694
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2695
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2702
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2703
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2710
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PURE_INTELLECT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2711
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PURE_INTELLECT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2722
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_PARASITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2723
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_PARASITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2732
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_HIVESLASH\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2733
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_HIVESLASH\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2742
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_CARETAKER_HAZARD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2743
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_CARETAKER_HAZARD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2752
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_ADV_FREQUENCIES\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2753
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_ADV_FREQUENCIES\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2761
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2762
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2764
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2765
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2801
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2802
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2803
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2804
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2842
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2843
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2844
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2845
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2873
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2874
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2877
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2878
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2918
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2919
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/short"
+msgstr "弩級砲"
+
+#: src-en/data/blueprints.xml.append:2920
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2921
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2959
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2960
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2962
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3001
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3002
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3003
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3004
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3032
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3033
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3036
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3037
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3089
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3090
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3091
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3092
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3118
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3119
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3121
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3122
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3143
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3144
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3146
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3147
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3184
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3185
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3186
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3187
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3224
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3225
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3226
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3227
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3255
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3256
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3259
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3260
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3300
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3301
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3303
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3304
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3341
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3342
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3343
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/desc"
+msgstr "これを見てはいけない。"
+
+#: src-en/data/blueprints.xml.append:3344
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/tooltip"
+msgstr "ダメージ1のミサイル1発を発射、全シールドを貫通する。"
+
+#: src-en/data/blueprints.xml.append:3382
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3383
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3385
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3386
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3430
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3431
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3432
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3433
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3460
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/title"
+msgstr "モジュラー・レーザー"
+
+#: src-en/data/blueprints.xml.append:3461
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/short"
+msgstr "Mod. レーザー"
+
+#: src-en/data/blueprints.xml.append:3463
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3468
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3504
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3505
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3507
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3508
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/tooltip"
+msgstr ""

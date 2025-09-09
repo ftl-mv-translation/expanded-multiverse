@@ -1,0 +1,3 @@
+<mod:findName type="event" name="FREEMANTIS_FLEET_FREDDYSAVE">
+    <mod-append:unlockCustomShip shipReq="PLAYER_SHIP_EMV_MVSLOT7_2" silent="false">PLAYER_SHIP_EMV_MORTIS</mod-append:unlockCustomShip>
+</mod:findName>

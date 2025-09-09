@@ -1,0 +1,444 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_guards.xml.append:2
+msgid ""
+"data/events_special_guards.xml.append$//textList[@name=\"TEXT_EMV_DROPPOINT_GUARD\"]/text[1]"
+msgstr ""
+"As soon as you get through, you take a glance around your. Lots of ships "
+"coming in and out, tight security and heavy armaments. You are very "
+"fortunate to have proper identification."
+
+#: src-en/data/events_special_guards.xml.append:3
+msgid ""
+"data/events_special_guards.xml.append$//textList[@name=\"TEXT_EMV_DROPPOINT_GUARD\"]/text[2]"
+msgstr ""
+"Jumping into MVPMC regions is always tense, even if it's not your first "
+"time. You see the stretching line of ships behind you as they wait to be "
+"registered in and out, and you hope that this security is good enough to "
+"delay the fleet a little."
+
+#: src-en/data/events_special_guards.xml.append:4
+msgid ""
+"data/events_special_guards.xml.append$//textList[@name=\"TEXT_EMV_DROPPOINT_GUARD\"]/text[3]"
+msgstr ""
+"Leaving hyperspeed, you look around and gaze upon the massive security wall "
+"set up by the MVPMC. It's unlike anything you've seen, a mix of all defenses"
+" used by the many races across the stretching space. You're lucky enough to "
+"not be registered as an eligible target for those behemoth cannons."
+
+#: src-en/data/events_special_guards.xml.append:17
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"START_EMV_DROPPOINT_GUARD\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_guards.xml.append:32
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/text"
+msgstr ""
+"Upon leaving lightspeed, you are greeted by one of the Zoltan guards hailing"
+" you. \"Greetings, fellow renegade. As per Article 17-B-Alpha, you are "
+"required to submit your ship for inspection, as well as providing your "
+"identification records, dates of employment and mission report for audit "
+"purposes.\""
+
+#: src-en/data/events_special_guards.xml.append:36
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/choice[@req=\"emv_rep_renegades\""
+" and @lvl=\"-999\"]/text"
+msgstr "Proceed with the inspection."
+
+#: src-en/data/events_special_guards.xml.append:40
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/choice[@req=\"emv_rep_renegades\""
+" and @lvl=\"3\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_guards.xml.append:44
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/choice[3]/text"
+msgstr "Attack the guard."
+
+#: src-en/data/events_special_guards.xml.append:46
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/choice[3]/event/text"
+msgstr ""
+"\"Alert, this is Stryker 6-6, we are experiencing a code black at entry "
+"point 12. I repeat, code black at entry point 12, we need back up, now!\" "
+"The guard aims their weapons at you and has undoubtedly alerted nearby "
+"reinforcements. Prepare to fight!\""
+
+#: src-en/data/events_special_guards.xml.append:49
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_guards.xml.append:57
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_CRIMINAL\"]/text"
+msgstr ""
+"Something seems off here. Usually, the MVPMC would certainly not bat an eye "
+"at a ship like yours, but now, you catch suspicious chatter on the guard "
+"ship."
+
+#: src-en/data/events_special_guards.xml.append:59
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_CRIMINAL\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_guards.xml.append:61
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_CRIMINAL\"]/choice/event/text"
+msgstr ""
+"It seems your track record has caught up to you. The guard's crew have heard"
+" enough of the crimes you've been committing, and they don't intend to let "
+"you into the sector!"
+
+#: src-en/data/events_special_guards.xml.append:64
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_CRIMINAL\"]/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_guards.xml.append:72
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/text"
+msgstr ""
+"The Zoltan inspector boards your ship and begins their thorough inspection. "
+"Despite how in depth it was, the inspection ends rather quickly because of "
+"the prepared info you had. \"Very well then, you may indulge yourself in the"
+" safety of this sector. You may also indulge in the services of this entry "
+"point according to article 09-Z-Delta, provided that the transactions are "
+"beneficial for all involved parties, without any hostility present from "
+"anyone.\""
+
+#: src-en/data/events_special_guards.xml.append:74
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[1]/text"
+msgstr "Repairs. [3$]"
+
+#: src-en/data/events_special_guards.xml.append:76
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[1]/event/text"
+msgstr "Several repair drones are dispatched to repair you."
+
+#: src-en/data/events_special_guards.xml.append:84
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[2]/text"
+msgstr "Fuel."
+
+#: src-en/data/events_special_guards.xml.append:86
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[2]/event/text"
+msgstr "A refueling drone is dispatched to refuel your ship."
+
+#: src-en/data/events_special_guards.xml.append:94
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[3]/text"
+msgstr "Ammo."
+
+#: src-en/data/events_special_guards.xml.append:96
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[3]/event/text"
+msgstr "A resupply drone is dispatched to resupply your ship."
+
+#: src-en/data/events_special_guards.xml.append:104
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[4]/text"
+msgstr "Drone parts."
+
+#: src-en/data/events_special_guards.xml.append:106
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[4]/event/text"
+msgstr "A resupply drone is dispatched to resupply your ship."
+
+#: src-en/data/events_special_guards.xml.append:114
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[5]/text"
+msgstr "A store."
+
+#: src-en/data/events_special_guards.xml.append:116
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[5]/event/text"
+msgstr ""
+"You are granted access to purchase gear, although you do have some time to "
+"do something else aboard the ship.."
+
+#: src-en/data/events_special_guards.xml.append:119
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[5]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_special_guards.xml.append:123
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[5]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_special_guards.xml.append:132
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/text"
+msgstr "(MVPMC Reputation) A store."
+
+#: src-en/data/events_special_guards.xml.append:134
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/text"
+msgstr "\"Ah my mistake you're a good client! Come on in, free of charge.\""
+
+#: src-en/data/events_special_guards.xml.append:137
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_special_guards.xml.append:141
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_special_guards.xml.append:147
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[7]/text"
+msgstr "Pass."
+
+#: src-en/data/events_special_guards.xml.append:149
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[7]/event/text"
+msgstr ""
+"You'd rather not spend your scrap here of all places. You do still have time"
+" to burn.."
+
+#: src-en/data/events_special_guards.xml.append:151
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[7]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_special_guards.xml.append:155
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[7]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_special_guards.xml.append:163
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/text"
+msgstr ""
+"Upon exiting lightspeed, you are greeted by one of the Engi guards hailing "
+"you. \"Identification = Renegade. Proof of verification: Required. Failing "
+"verification != an option.\" It looks like the Engi guard is ordering you to"
+" allow them onto your ship to conduct a quick inspection for your identity."
+
+#: src-en/data/events_special_guards.xml.append:167
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/choice[@req=\"emv_rep_renegades\""
+" and @lvl=\"-999\"]/text"
+msgstr "Proceed with the inspection."
+
+#: src-en/data/events_special_guards.xml.append:171
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/choice[@req=\"emv_rep_renegades\""
+" and @lvl=\"3\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_guards.xml.append:175
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/choice[3]/text"
+msgstr "Attack the guard."
+
+#: src-en/data/events_special_guards.xml.append:177
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/choice[3]/event/text"
+msgstr ""
+"\"Error 589. Ship status: hostile. Code = black. Deploying defensive "
+"protocols.\" The guard aims their weapons at you and has undoubtedly alerted"
+" nearby reinforcements. Prepare to fight!"
+
+#: src-en/data/events_special_guards.xml.append:180
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_guards.xml.append:188
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/text"
+msgstr ""
+"The Engi inspector boards your ship and begins their inspection. It doesn't "
+"take long for them to fully register you and verify your identity to let you"
+" in. \"Identity verification: success. Renegade = permitted. Monetary "
+"services available. Requirements: valid form of currency.\" By the looks of "
+"it, you are allowed to make purchases from the stores set up by the entry "
+"point of this sector, restocking on supplies before continuing your journey "
+"might be a good idea."
+
+#: src-en/data/events_special_guards.xml.append:190
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[1]/text"
+msgstr "Repairs. [3$]"
+
+#: src-en/data/events_special_guards.xml.append:192
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[1]/event/text"
+msgstr "Several repair drones are dispatched to repair you."
+
+#: src-en/data/events_special_guards.xml.append:200
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[2]/text"
+msgstr "Fuel."
+
+#: src-en/data/events_special_guards.xml.append:202
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[2]/event/text"
+msgstr "A refueling drone is dispatched to refuel your ship."
+
+#: src-en/data/events_special_guards.xml.append:210
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[3]/text"
+msgstr "Ammo."
+
+#: src-en/data/events_special_guards.xml.append:212
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[3]/event/text"
+msgstr "A resupply drone is dispatched to resupply your ship."
+
+#: src-en/data/events_special_guards.xml.append:220
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[4]/text"
+msgstr "Drone parts."
+
+#: src-en/data/events_special_guards.xml.append:222
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[4]/event/text"
+msgstr "A resupply drone is dispatched to resupply your ship."
+
+#: src-en/data/events_special_guards.xml.append:230
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[5]/text"
+msgstr "A store."
+
+#: src-en/data/events_special_guards.xml.append:232
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[5]/event/text"
+msgstr ""
+"You are granted access to purchase gear, although you do have some time to "
+"do something else aboard the ship.."
+
+#: src-en/data/events_special_guards.xml.append:235
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[5]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_special_guards.xml.append:239
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[5]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_special_guards.xml.append:248
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/text"
+msgstr "(MVPMC Reputation) A store."
+
+#: src-en/data/events_special_guards.xml.append:250
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/text"
+msgstr "\"Ah my mistake you're a good client! Come on in, free of charge.\""
+
+#: src-en/data/events_special_guards.xml.append:253
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_special_guards.xml.append:257
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_special_guards.xml.append:263
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[7]/text"
+msgstr "Pass."
+
+#: src-en/data/events_special_guards.xml.append:265
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[7]/event/text"
+msgstr ""
+"You'd rather not spend your scrap here of all places. You do still have time"
+" to burn.."
+
+#: src-en/data/events_special_guards.xml.append:267
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[7]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_special_guards.xml.append:271
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[7]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_special_guards.xml.append:286
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ZOLTAN_DESTROY\"]/text"
+msgstr ""
+"You have defeated the Renegade guard. Whatever might have been in their "
+"cargo has for certain been destroyed, but you can at least salvage some "
+"supplies from the ship."
+
+#: src-en/data/events_special_guards.xml.append:289
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ZOLTAN_DESTROY\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_guards.xml.append:294
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ZOLTAN_DEADCREW\"]/text"
+msgstr ""
+"You have defeated the Renegade guard. Without crew on board to stop you, you"
+" can investigate their cargo. You find a weapon to bring back to the ship, "
+"and move on to scrap their hull."
+
+#: src-en/data/events_special_guards.xml.append:298
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ZOLTAN_DEADCREW\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_guards.xml.append:310
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ENGI_DESTROY\"]/text"
+msgstr ""
+"You have defeated the Renegade guard. Whatever might have been in their "
+"cargo has for certain been destroyed, but you can at least salvage some "
+"supplies from the ship."
+
+#: src-en/data/events_special_guards.xml.append:313
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ENGI_DESTROY\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_guards.xml.append:318
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ENGI_DEADCREW\"]/text"
+msgstr ""
+"You have defeated the Renegade guard. Without crew on board to stop you, you"
+" can investigate their cargo. You find a weapon to bring back to the ship, "
+"and move on to scrap their hull."
+
+#: src-en/data/events_special_guards.xml.append:322
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ENGI_DEADCREW\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_guards.xml.append:332
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"GUARD_EMV_RENEGADE_FOLLOWUP\"]/text"
+msgstr ""
+"As you finish scrapping the guard, another Trespasser flies by your ship. "
+"You make a note of it to possibly hunt down later.."
+
+#: src-en/data/events_special_guards.xml.append:335
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"GUARD_EMV_RENEGADE_FOLLOWUP\"]/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_special_guards.xml.append:339
+msgid ""
+"data/events_special_guards.xml.append$//event[@name=\"GUARD_EMV_RENEGADE_FOLLOWUP\"]/choice[2]/text"
+msgstr "Do nothing."

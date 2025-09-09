@@ -1,0 +1,595 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_emv_gilded.xml:2
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:10
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:12
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:14
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/text"
+msgstr "Связаться с командным пунктом Федерации."
+
+#: src-en/data/events_sector_emv_gilded.xml:16
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:20
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/text"
+msgstr "Высадиться на станцию."
+
+#: src-en/data/events_sector_emv_gilded.xml:22
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:30
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:32
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:40
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:42
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:46
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:48
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:52
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:54
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:58
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:60
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:68
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "Да."
+
+#: src-en/data/events_sector_emv_gilded.xml:70
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:76
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:78
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:98
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:100
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:108
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:110
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:118
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:120
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:129
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:137
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"TULLY_PRESENT\"]/text"
+msgstr "Показать Талли посылку."
+
+#: src-en/data/events_sector_emv_gilded.xml:139
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"TULLY_PRESENT\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:165
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"TULLY_PRESENT\"]/event/crewMember"
+msgstr "Талли"
+
+#: src-en/data/events_sector_emv_gilded.xml:170
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"TULLY_PRESENT\"]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:201
+msgid "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_EMPTY\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:203
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_EMPTY\"]/choice[1]/text"
+msgstr "Заняться чем-либо на корабле."
+
+#: src-en/data/events_sector_emv_gilded.xml:207
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_EMPTY\"]/choice[2]/text"
+msgstr "Ничего не делать."
+
+#: src-en/data/events_sector_emv_gilded.xml:213
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:216
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:219
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:222
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:225
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[5]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:228
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[6]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:240
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_REVISIT\"]/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:246
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:249
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:252
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:255
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:258
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[5]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:261
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[6]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:273
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_TULLY_REVISIT\"]/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:280
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:282
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:285
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:292
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/event/choice[1]/text"
+msgstr "Узнать, что он предлагает."
+
+#: src-en/data/events_sector_emv_gilded.xml:294
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:299
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:307
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:310
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:313
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:316
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:319
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[5]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:322
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[6]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:334
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SYLVAN_REVISIT\"]/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:341
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:344
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:347
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:350
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:353
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[5]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:356
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[6]"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:368
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_JUDGES_REVISIT\"]/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:378
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:381
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:383
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:385
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:393
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LOSTSUN_START\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:395
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LOSTSUN_START\"]/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:397
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LOSTSUN_START\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:405
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_START\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:407
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_START\"]/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:409
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_START\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:416
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_AFTERMATH\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:418
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_AFTERMATH\"]/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:420
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_AFTERMATH\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:427
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:429
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:431
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:433
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[1]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:439
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:441
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:443
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[2]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:449
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:451
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:458
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_FINALE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:460
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_FINALE\"]/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:462
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_FINALE\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:469
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:471
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:473
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:475
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/text"
+msgstr "...?"
+
+#: src-en/data/events_sector_emv_gilded.xml:477
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:482
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:484
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:485
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/event/win/@text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:497
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_FINAL_REBEL\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:500
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_FINAL_REBEL\"]/destroyed/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:505
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_FINAL_REBEL\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:508
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_FINAL_REBEL\"]/deadCrew/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:516
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_LOSTSUN\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:519
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_LOSTSUN\"]/destroyed/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:524
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_LOSTSUN\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:527
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_LOSTSUN\"]/deadCrew/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:535
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_MERCHANT\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:538
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_MERCHANT\"]/destroyed/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:543
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_MERCHANT\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:546
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_MERCHANT\"]/deadCrew/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:554
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_FINAL\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:557
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_FINAL\"]/destroyed/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_emv_gilded.xml:562
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_FINAL\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:565
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_FINAL\"]/deadCrew/choice/text"
+msgstr "Продолжить..."

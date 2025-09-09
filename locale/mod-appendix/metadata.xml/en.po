@@ -1,0 +1,36 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/mod-appendix/metadata.xml:2
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
+msgstr "Expanded Multiverse"
+
+#: src-en/mod-appendix/metadata.xml:4
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/author"
+msgstr "Nauter and Willow"
+
+#: src-en/mod-appendix/metadata.xml:6
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
+msgstr ""
+"An addon that focuses on expanding the idea of Renegades.\n"
+"\n"
+"These additions include:\n"
+"\n"
+"More tutorial-esque ships that provide simple gameplay for some of the new features introduced by Vanilla Multiverse.\n"
+"\n"
+"New sectors that serve as pseudo-resting points for travellers to patch themselves up and stock up on supplies and/or accept quests\n"
+"\n"
+"Extra fanon lore that is well within MV's territory, not too outlandish but not too dull.\n"
+"\n"
+"Credits:\n"
+"\n"
+"Nauter - Lead Developer and ship designer \n"
+"InsayneBoko - Weapon art\n"
+"Willow L.M - Creative direction and ship layout making\n"
+"Lizzard - Musical direction\n"
+"Alder - Programming and creative assistance\n"
+"DarkieZ, Harmony, Evil PepperPlayz, leland, MsBinaryLily, Qaser7, SillySandvich and Vasyan - Playtesting and Quality Control"

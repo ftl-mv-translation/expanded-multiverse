@@ -1,0 +1,211 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_blueprints.xml.append:1
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MILITIA_unlock\"]"
+msgstr "Obtain the MV Augmented Cruiser to unlock this ship."
+
+#: src-en/data/text_blueprints.xml.append:2
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MINISTRY_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Militia Multiverse Cruiser to unlock this ship."
+
+#: src-en/data/text_blueprints.xml.append:3
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_THEOCRACY_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Ministry Multiverse Cruiser to unlock this ship."
+
+#: src-en/data/text_blueprints.xml.append:4
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_ANGEL_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Theocracy Multiverse Cruiser to unlock this ship\n"
+"\n"
+"OR Win with the Militia Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:7
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_FEDAUTO_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Angelic Multiverse Deathbringer to unlock this ship.\n"
+"\n"
+"OR Win with the Zoltan Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:10
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_ALTREBEL_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Fedration Multiverse Auto-Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the Theocracy Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:13
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_DUSK_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Alt-Rebel Multiverse Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the Angel Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:16
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_AUTO_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Duskbringer Multiverse Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the Federation Multiverse Auto-Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:19
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_SPOOK_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Rebellion Multiverse Auto-Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the Alt-Rebel Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:22
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_LEECH_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Spook Chaser Multiverse Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the Duskbringer Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:25
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_HEKTAR_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Republican Multiverse Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the Rebel Multiverse Auto-Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:28
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_FREEMANTIS_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Hektar Multiverse Cruiser(tm) to unlock this ship.\n"
+"\n"
+"OR Win with the Spook-Chaser Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:31
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_ENFORCER_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Free Mantis Multiverse Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the Republican Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:34
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_SMUGGLER_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Alt-MV Enforcer Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the Hektar Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:37
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_HIVE_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Smuggler Multiverse Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the Free Mantis Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:40
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_COALITION_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Hive Multiverse Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the Alt-Enforcer Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:43
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_LANIUS_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Coalition Multiverse Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the Smuggler Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:46
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_LOSTSUN_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Lanius Multiverse Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the Mantis Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:49
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_BISHOP_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Lost Sun Multiverse Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the Coalition Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:52
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MFK_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Bishop Multiverse Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the Lanius Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:55
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_PALADIN_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the MFK Multiverse Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the Lost Sun Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:58
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_CULTIVATOR_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Paladin Multiverse Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the Bishop Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:61
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_SALT_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Cultivator Multiverse Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the MFK Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:64
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_KADAHELLIAN_unlock\"]"
+msgstr ""
+"Get to Sector 5 with the Sodium Multiverse Cruiser to unlock this ship.\n"
+"\n"
+"OR Win with the Paladin Multiverse Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:67
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_FLAGSHIP_unlock\"]"
+msgstr "Achieve victory with all of the newly introduced Multiverse Cruisers."
+
+#: src-en/data/text_blueprints.xml.append:68
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_PURE_unlock\"]"
+msgstr "Defeat CURA as the MV Auto Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:69
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_VITAE_unlock\"]"
+msgstr "Destroy the Hive Palace as the MV Free Mantis Cruiser."
+
+#: src-en/data/text_blueprints.xml.append:70
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MORTIS_unlock\"]"
+msgstr "Save Freddy as the MV Hive Mantis Cruiser."

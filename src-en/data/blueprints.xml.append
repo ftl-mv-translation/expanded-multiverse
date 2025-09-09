@@ -1,0 +1,3544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<crewBlueprint name="emv_mv_human_mercenary">
+    <desc>Elite human crew. The skilled and deadly Rogue crew, trained to serve the Old Glory.
+	
+	Inherited Human stat: minor suffocation resistance</desc>
+    <cost>65</cost>
+    <title>Rogue Mercenary</title>
+    <short>Mercenary</short>
+    <rarity>0</rarity>
+    <powerList>
+		<power>Active ability: Performs a quick knife slash that inflicts a Bleeding debuff.</power>
+        <power>Inflicts 1.1x damage in crew combat.</power>
+		<power>Takes 0.9x damage from crew combat and 0.6x from fires.</power>
+        <power>Learns skills much faster.</power>
+    </powerList>
+</crewBlueprint>
+
+<crewBlueprint name="emv_mv_human_commander">
+	<desc>Super elite human crew. Carrying their Ace training, these guys can cripple even the morale of their prey, leaving them easy targets. </desc>
+	<cost>155</cost>
+	<title>Rogue Commander</title>
+	<short>Commander</short>
+	<rarity>0</rarity>
+	<powerList>
+		<power>Active ability: Shouts a roaring battle cry that empowers your human crew, and crippling the morale of all non-human crew at the same time.</power>
+		<power>Inflicts 1.8x damage in crew combat.</power>
+		<power>Sabotages systems at 2x speed.</power>
+		<power>Takes 0.7x damage from crew combat, fires, and suffocation.</power>
+		<power>Trained in lvl2 skills.</power>
+	</powerList>
+</crewBlueprint>
+
+<crewBlueprint name="emv_mv_vance">
+	<desc>Admiral Vance of the Multiversal Rogue Fleet. Sort of a criminal.</desc>
+	<cost>500</cost>
+	<title>Rogue Admiral</title>
+	<short>Rogue Admiral</short>
+	<rarity>0</rarity>
+	<powerList>
+        <power>Max Health is increased to 150.</power>
+        <power>Moves at 0.6x speed.</power>
+        <power>Deals 2x damage in crew combat. Sabotages at 2.2x speed.</power>
+        <power>Takes half damage from Hazards.</power>
+        <power>Self-administers medicine, healing 3.2hp/s if unharmed for 15 seconds.</power>
+        <power>Trained in lvl2 skills.</power>
+        <power>Resists mind control.</power>
+        <power>Will cloak at 30hp, becoming briefly uncontrollable but heals very quickly. Cannot be targeted.</power>
+        <power>Sheer xenophobia buffs allied humans in the same room, causing them to deal 1.25x damage, have 1.1x health and repair 1.2x as fast.</power>
+	</powerList>
+</crewBlueprint>
+
+<crewBlueprint name="emv_mv_leah">
+	<desc>The infamous Beam Master, and apparently the Right Hand Woman of the Multiversal Rogue Fleet.</desc>
+	<cost>500</cost>
+	<title>The Beam Master</title>
+	<short>The Beam Master</short>
+	<rarity>0</rarity>
+	<powerList>
+		<power>Inflicts 1.4x damage in crew combat.</power>
+		<power>Sabotages systems at 1.5x speed.</power>
+		<power>Takes 0.7x damage from crew combat, fires, and suffocation.</power>
+		<power>Trained in lvl1 skills.</power>
+		<power>Can teleport across any ship.</power>
+	</powerList>
+</crewBlueprint>
+
+<crewBlueprint name="emv_mv_human_medic">
+	<desc>Elite medic crew. Allies of a Multiversal criminal, but not as combative or keen on fixing up aliens..
+
+	Inherited Human stats: minor hazardous damage resistance, learns non-combat skills faster</desc>
+	<cost>65</cost>
+	<title>Rogue Medic</title>
+	<short>Medic</short>
+	<rarity>0</rarity>
+	<powerList>
+		<power>Active Ability: Heals all nearby allies for 15 hp and Halves damage taken briefly.</power>
+		<power>Regenerates 3.2hp/s if unharmed for 15 seconds.</power>
+		<power>All human crew heal 2 hp/s.</power>
+		<power>Inflicts halved damage in crew combat, learns combat slower.</power>
+	</powerList>
+	<colorList>
+		<layer> <!--skin-->
+			<color r="255" g="150" b="150" a="0.4" /> <!--white-->
+			<color r="90" g="60" b="40" a="0.7" /> <!--black-->
+			<color r="255" g="124" b="89" a="0" /> <!--other white-->
+			<color r="255" g="255" b="255" a="0.2" /> <!--yellow-->
+		</layer>
+		<layer> <!--hat-->
+			<color r="255" g="255" b="255" a="1"/> <!--white-->
+		</layer>
+	</colorList>
+</crewBlueprint>
+
+<crewBlueprint name="emv_mv_human_engineer">
+	<desc>Elite engineer crew. Skilled engineers who have repurposed their brawns for combat and repurposed drones to provide repairs.
+
+	Inherited Human stats: minor suffocation resistance, learns skills faster</desc>
+	<cost>40</cost>
+	<title>Rogue Engineer</title>
+	<short>Engineer</short>
+	<rarity>0</rarity>
+	<powerList>
+		<power>Active Ability: Summons a Repair Drone that lasts for 25 seconds.</power>
+		<power>0.25x repair speed.</power>
+		<power>1.5x Combat Damage.</power>
+		<power>Takes 0.6x damage from fires.</power>
+		<power>Learns repairs even faster.</power>
+	</powerList>
+	<colorList>
+		<layer> <!--skin-->
+			<color r="255" g="150" b="150" a="0.4" /> <!--white-->
+			<color r="90" g="60" b="40" a="0.7" /> <!--black-->
+			<color r="255" g="124" b="89" a="0" /> <!--other white-->
+			<color r="255" g="255" b="255" a="0.2" /> <!--yellow-->
+		</layer>
+		<layer> <!--hair-->
+			<color r="224" g="180" b="5" a="0.6" /> <!--blond-->
+			<color r="61" g="59" b="53" a="0.9" /> <!--black-->
+			<color r="189" g="187" b="178" a="0.6" /> <!--grey-->
+			<color r="121" g="96" b="56" a="0.2" /> <!--brown-->
+			<color r="109" g="70" b="65" a="0.8" /> <!--reddish-brown-->
+			<color r="201" g="127" b="11" a="0.7" /> <!--orange-->
+			
+			<color r="217" g="0" b="0" a="0.8" /> <!--red-->
+			<color r="46" g="147" b="60" a="0.7" /> <!--green-->
+			<color r="255" g="0" b="174" a="0.9" /> <!--pink-->
+			<color r="113" g="57" b="205" a="0.7" /> <!--purple-->
+		</layer>
+	</colorList>
+</crewBlueprint>
+
+<crewBlueprint name="unique_emv_mortis">
+	<desc>Former Bishop and part of the Queen's personal guard and now the greatest Mantis bounty hunter. Also has deep appreciation to Victoria era clothing.
+
+	Inherited Bishop Stat: 1.65x Movement speed, 0.07x repair speed.</desc>
+	<title>Mantis Bountymaster</title>
+	<short>Bountymaster</short>
+	<cost>180</cost>
+	<rarity>0</rarity>
+	<powerList>
+		<power>Active ability: Deploy pheromone bomb that greatly increases their combat damage and denies enemy healing.</power>
+		<power>Deals 2.5x combat damage. Takes 0.6x damage in crew combat.</power>
+		<power>Health increased to 125.</power>
+		<power>Immune to Suffocation and takes halved damage from fires.</power>
+	</powerList>
+</crewBlueprint>
+		<!--<power>Seasoned and sharp mantis claws prevent them from doing repairs.</power>-->
+<crewBlueprint name="unique_emv_vitae">
+	<desc>An unusually well versed former Mantis Warlord that excels in medical practice, but will kick you down regardless. An avid appreciator of human culture centered around health and medicine.
+
+	Inherited Warlord Stat: 0.8x Damage taken in crew combat, 0.5x repair speed.</desc>
+	<title>Mantis Doctor</title>
+	<short>Doctor</short>
+	<cost>180</cost>
+	<rarity>0</rarity>
+	<powerList>
+		<power>Active ability: Releases medical pheromones that heal allied crew for 7.5hp/s.</power>
+		<power>Combat damage increased to 1.4x.</power>
+		<power>Health increased to 110.</power>
+	</powerList>
+</crewBlueprint>
+		<!--<power>Surgical claws prevent her from doing repairs.</power>-->
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT8" layout="emv_mv_auto" img="emv_mv_auto">
+	<unlock id="ship_PLAYER_SHIP_EMV_AUTO_unlock"/>
+	<class>MV Auto-Cruiser</class>
+	<name>Whirlwind</name>
+	<desc>One of the forerunners of Multiversal travelling done by the Rebellion, this reprogrammed automated vessel is a nearly perfected vicious war machine.</desc>
+	<systemList>
+		<battery power="1" room="10" start="false" img="room_battery_14" />
+		<cloaking power="1" room="11" start="false" img="room_cloaking_13" />
+		<clonebay power="1" room="17" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="14" start="true" img="room_doors_noman">
+			<slot>
+				<direction>up</direction>
+				<number>-2</number>
+			</slot>
+		</doors>
+		<drones power="3" max="8" room="6" start="true" img="room_drones_12" />
+		<engines power="2" room="1" start="true" img="room_engines_2">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="7" start="false" img="room_hacking_8" />
+		<medbay power="1" room="17" start="false" img="room_medbay_6">
+			<slot>
+				<number>-2</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="5" start="false" img="room_mind_12" />
+		<oxygen power="1" room="4" start="false" img="room_oxygen" />
+		<pilot power="1" room="0" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="15" start="true" img="room_sensors_2_noman">
+			<slot>
+				<direction>up</direction>
+				<number>-2</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8"  room="9" start="true" img="room_shields_10">
+			<slot>
+				<direction>down</direction>
+				<number>3</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="16" start="false" />
+		<weapons power="2" room="8" start="true" img="room_weapons_9">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>3</droneSlots>
+	<weaponList missiles="11" count="4">
+		<weapon name="LASER_BURST_2" />
+		<weapon name="FOCUS_1" />
+	</weaponList>
+	<droneList drones="12" count="3">
+		<drone name="REPAIR" />
+		<drone name="REPAIR" />
+		<drone name="GUARDIAN_1_MISSILE" />
+	</droneList>
+	<health amount="30" />
+	<maxPower amount="7" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<aug name="NO_GHOST" />
+	<shieldImage>mup_wide2</shieldImage>
+    <mv-mapImage>map_icon_mup_auto_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT8_2" layout="emv_coalition_a" img="emv_coalition_a">
+	<unlock id="ship_PLAYER_SHIP_EMV_COALITION_unlock"/>
+	<class>MV Coalition Cruiser</class>
+	<name>Birgus latro</name>
+	<desc>The formation of the Coalition has been agreed upon by the notorious leaders of the Hive, the Theocracy, the Kleptocracy and the Eargen republic. Their goal is simple; vanquish their enemies, even through realities.</desc>
+	<systemList>
+		<battery power="1" room="1" start="false" img="room_battery_15" />
+		<cloaking power="1" room="14" start="true" img="room_cloaking" />
+		<clonebay power="1" room="6" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="13" start="true" img="room_doors_6">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="9" start="false" img="room_drones_9" />
+		<engines power="2" room="22" start="true" img="room_engines">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="15" start="false" img="room_hacking_8" />
+		<medbay power="1" room="6" start="true" img="room_medbay_4">
+			<slot>
+				<number>0</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="8" start="false" img="room_mind_4" />
+		<oxygen power="1" room="2" start="true" img="room_oxygen_8" />
+		<pilot power="2" room="0" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="21" start="true" img="room_sensors_9">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8"  room="10" start="false" img="room_shields">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="3" start="true" />
+		<weapons power="2" room="11" start="true" img="room_weapons">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>3</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="14" count="3">
+		<weapon name="MISSILES_STUN" />
+		<weapon name="LASER_BURST_2" />
+	</weaponList>
+	<droneList drones="0" count="2" />
+	<health amount="30" />
+	<maxPower amount="8" />
+	<crewCount amount="1" class="slug" />
+	<crewCount amount="1" class="rock" />
+	<crewCount amount="1" class="mantis" />
+	<crewCount amount="1" class="leech" />
+	<aug name="LOCKED_SLUG_GEL" />
+	<aug name="CREW_STIMS" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<shieldImage>mup_giant</shieldImage>
+    <mv-mapImage>map_icon_mup_coalition_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT8_3" layout="emv_ambassador_a" img="emv_ambassador_a">
+	<class>MV Kadahellian Cruiser</class>
+	<name>Bioethanol</name>
+	<desc>Having finally set aside their differences, the Florals and Vampweeds decided to take this ship, alongside an unlikely ally, to a joyride. They didn't expect that abandoning their former ideals was profitable.</desc>
+	<unlock id="ship_PLAYER_SHIP_EMV_KADAHELLIAN_unlock"/>
+	<systemList>
+		<battery power="1" room="11" start="false" img="room_battery_15" />
+		<cloaking power="1" room="3" start="false" img="room_cloaking_3" />
+		<clonebay power="1" room="1" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="4" start="true" img="room_doors_9">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="15" start="false" img="room_drones_2" />
+		<engines power="2" room="2" start="true" img="room_engines_8">
+			<slot>
+				<direction>left</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="16" start="false" img="room_hacking_7" />
+		<medbay power="2" room="1" start="true" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="17" start="false" img="room_mind_4" />
+		<oxygen power="1" room="8" start="true" img="room_oxygen_8" />
+		<pilot power="1" room="0" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="6" start="true" img="room_sensors_3">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="13" start="true" img="room_shields">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="5" start="true" />
+		<weapons power="3" room="14" start="true" img="room_weapons">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>3</weaponSlots>
+	<droneSlots>3</droneSlots>
+	<weaponList missiles="7" count="3">
+		<weapon name="BEAM_FIRE_PIERCE" />
+		<weapon name="LASER_FIRE_PLAYER" />
+	</weaponList>
+	<droneList drones="6" count="3" />
+	<health amount="30" />
+	<maxPower amount="8" />
+	<crewCount amount="1" class="orchid_praetor" />
+	<crewCount amount="1" class="orchid_caretaker" />
+	<crewCount amount="1" class="rock_commando" />
+	<crewCount amount="1" class="orchid" />
+	<!--<aug name="LOCKED_KERNEL_REPLICATOR" />-->
+	<aug name="EMV_EX_CARETAKER_HAZARD" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<shieldImage>mup_disk</shieldImage>
+    <mv-mapImage>map_icon_mup_ambassador_a</mv-mapImage>
+</shipBlueprint>
+
+
+<!--<shipBlueprint name="PLAYER_SHIP_EMV_SYLV" layout="emv_mvsylvan" img="emv_mvsylvan">
+	<unlock id="ship_PLAYER_SHIP_EMV_TRANSPORT_unlock"/>
+	<class>MV Merchant Transport</class>
+	<name>Voyager I</name>
+	<desc>For some reason, Sylvan got this ship to you as a gift of goodwill, but you cannot seem to find a trace to original blueprints of Sylvan's model that it was based on. It's a good ship though.</desc>
+	<systemList>
+		<battery power="1" room="12" start="false" img="room_battery_6" />
+		<cloaking power="1" room="2" start="true" img="room_cloaking_3" />
+		<clonebay power="1" max="3" room="9" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="4" start="true" img="room_doors">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="3" max="13" room="6" start="true" img="room_drones_18" />
+		<engines power="3" room="11" start="true" img="room_engines">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="1" start="false" img="room_hacking_2" />
+		<medbay power="1" max="3" room="9" start="true" img="room_medbay_4">
+			<slot>
+				<number>0</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="3" start="false" img="room_mind_12" />
+		<oxygen power="1" room="10" start="true" img="room_oxygen_13" />
+		<pilot power="1" room="0" start="true" img="room_pilot_4">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="8" start="true" img="room_sensors">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="1" max="16" room="13" start="true" img="room_shields_5">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="5" start="true" />
+		<weapons power="4" max="8" room="7" start="true" img="room_weapons_12">
+			<slot>
+				<direction>right</direction>
+				<number>2</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>3</droneSlots>
+	<weaponList missiles="5" count="4">
+		<weapon name="LASER_BURST_5_SYLVAN" />
+		<weapon name="LASER_BURST_2" />
+	</weaponList>
+	<droneList drones="5" count="3">
+		<drone name="BATTLETOG2_BOARDER" />
+	</droneList>
+	<health amount="30" />
+	<maxPower amount="9" />
+	<aug name="STORE_BEACON" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<aug name="LOCKED_SYLVAN_SHIELD" />
+	<shieldImage>mup_small_long1</shieldImage>
+    <mv-mapImage>map_icon_mup_sylvantrans</mv-mapImage>
+</shipBlueprint>-->
+
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT5" layout="emv_auto_fed_a" img="emv_auto_fed_a">
+	<unlock id="ship_PLAYER_SHIP_EMV_FEDAUTO_unlock"/>
+	<class>MV Federation Auto-Cruiser</class>
+	<name>Lunokhod</name>
+	<desc>A last ditch effort made by the Federation to mend the shortage of well armed Multiversal ships. Despite being originally made for research, it has been hastily refitted for combat purposes, paired with its pinpoint sensors' accuracy.</desc>
+	<systemList>
+		<battery power="1" room="12" start="false" img="room_battery_5" />
+		<cloaking power="1" room="8" start="false" img="room_cloaking_13" />
+		<clonebay power="1" room="7" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="2" room="11" start="true" img="room_doors">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="3" max="8" room="10" start="true" img="room_drones_20" />
+		<engines power="2" max="8" room="9" start="true" img="room_engines_8">
+			<slot>
+				<direction>left</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="2" start="true" img="room_hacking_6" />
+		<medbay power="1" room="7" start="false" img="room_medbay_13">
+			<slot>
+				<number>-2</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="1" start="false" img="room_mind_3" />
+		<oxygen power="1" room="14" start="false" img="room_oxygen_7" />
+		<pilot power="2" room="0" start="true" img="room_pilot_2">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="13" start="true" img="room_sensors_noman">
+			<slot>
+				<direction>up</direction>
+				<number>-2</number>
+			</slot>
+		</sensors>
+		<shields power="1" max="8" room="3" start="true" img="room_shields_7">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="15" start="false" />
+		<weapons power="2" max="8" room="4" start="true" img="room_weapons_12">
+			<slot>
+				<direction>right</direction>
+				<number>2</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>3</weaponSlots>
+	<droneSlots>3</droneSlots>
+	<weaponList missiles="4" count="3">
+		<weapon name="LASER_HEAVY_2" />
+		<weapon name="ION_CONSERVATIVE" />
+	</weaponList>
+	<droneList drones="12" count="3">
+		<drone name="REPAIR" />
+		<drone name="DEFENSE_1" />
+		<drone name="MANNING" />
+	</droneList>
+	<health amount="30" />
+	<maxPower amount="8" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<aug name="ADV_SCANNERS_CLOAK" />
+	<!--<aug name="EX_BREACH_SEALANT" />-->
+	<shieldImage>mup_orb3</shieldImage>
+    <mv-mapImage>map_icon_mup_auto_fed_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT4" layout="emv_mv_angel" img="emv_mv_angel">
+	<unlock id="ship_PLAYER_SHIP_EMV_ANGEL_unlock"/>
+	<class>MV Angelic Deathbringer</class>
+	<name>Raphael</name>
+	<desc>When Vael caught wind of the surge of Multiversal travelling, he wasted no time expanding his business across realities. This killer ship was the perfect candidate for his endeavours.</desc>
+	<systemList>
+		<battery power="1" room="16" start="false" img="room_battery_18" />
+		<cloaking power="2" room="11" start="true" img="room_cloaking_3" />
+		<clonebay power="1" room="4" start="true">
+			<slot>
+				<number>2</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="10" start="true" img="room_doors_2">
+			<slot>
+				<direction>down</direction>
+				<number>0</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="17" start="false" img="room_drones_15" />
+		<engines power="3" room="7" start="true" img="room_engines_3">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</engines>
+		<hacking power="2" room="13" start="false" img="room_hacking" />
+		<medbay power="1" room="4" start="false" img="room_medbay_10">
+			<slot>
+				<number>-2</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="1" start="true" img="room_mind_12" />
+		<oxygen power="1" room="15" start="true" img="room_oxygen_21" />
+		<pilot power="1" room="0" start="true" img="room_pilot_6">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="2" room="14" start="true" img="room_sensors_2">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="6" start="false" img="room_shields_5">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="2" room="5" start="true" />
+		<weapons power="2" room="2" start="true" img="room_weapons_12">
+			<slot>
+				<direction>right</direction>
+				<number>2</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="8" count="4">
+		<weapon name="LASER_BURST_2" />
+		<weapon name="ENERGY_1" />
+	</weaponList>
+	<droneList drones="4" count="2" />
+	<health amount="30" />
+	<maxPower amount="6" />
+	<crewCount amount="1" class="human_angel" />
+	<crewCount amount="1" class="slug" />
+	<crewCount amount="1" class="engi_separatist" />
+	<aug name="LOCKED_SYSTEM_CASING" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<shieldImage>mup_disk</shieldImage>
+    <mv-mapImage>map_icon_mup_angel_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT4_2" layout="emv_freemantis_a" img="emv_freemantis_a">
+	<unlock id="ship_PLAYER_SHIP_EMV_FREEMANTIS_unlock"/>
+	<class>MV Free Mantis Cruiser</class>
+	<name>Stardust</name>
+	<desc>You're not sure how, but whatever pheromone addiction the Free Mantis have couldn't stop them from getting a ship made for Multiversal purposes. This ship is a great example of the primal force of the Free Mantis, and their hate for the Hive and Zoltans.</desc>
+	<systemList>
+		<battery power="1" room="8" start="false" img="room_battery_7" />
+		<cloaking power="1" room="5" start="false" img="room_cloaking_2" />
+		<clonebay power="1" room="3" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="17" start="false" img="room_doors">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="21" start="false" img="room_drones_19" />
+		<engines power="1" room="6" start="true" img="room_engines_5">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="12" start="false" img="room_hacking_7" />
+		<medbay power="1" room="3" start="true" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="14" start="true" img="room_mind_10" />
+		<oxygen power="1" room="7" start="true" img="room_oxygen_19" />
+		<pilot power="1" room="10" start="true" img="room_pilot_4">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="20" start="true" img="room_sensors">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="0" start="true" img="room_shields_2">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="9" start="true" />
+		<weapons power="2" room="1" start="true" img="room_weapons_10">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="10" count="4">
+		<weapon name="BOMB_STUN" />
+		<weapon name="BOMB_FREE" />
+	</weaponList>
+	<droneList drones="0" count="2" />
+	<health amount="30" />
+	<maxPower amount="7" />
+	<crewCount amount="1" class="mantis_warlord" />
+	<crewCount amount="1" class="human_medic" />
+	<crewCount amount="1" class="engi_separatist" />
+	<aug name="LOCKED_SUPER_CREW_STIMS" />
+	<aug name="EX_ZOLTAN_BYPASS" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<shieldImage>mup_disk</shieldImage>
+    <mv-mapImage>map_icon_mup_freemantis_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT1" layout="emv_mv_militia" img="emv_mv_militia">
+	<unlock id="ship_PLAYER_SHIP_EMV_MILITIA_unlock"/>
+	<class>MV Militia Cruiser</class>
+	<name>Marshall</name>
+	<desc>One of the Militia's trustworthy Multiversal protectors. This massive warship is well suited to protect any Union sector in any reality from unwanted intruders.</desc>
+	<systemList>
+		<battery power="1" room="18" start="false" img="room_battery_18" />
+		<cloaking power="1" room="9" start="false" img="room_cloaking" />
+		<clonebay power="1" room="8" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="15" start="true" img="room_doors">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="13" start="true" img="room_drones_20" />
+		<engines power="2" room="0" start="true" img="room_engines_8">
+			<slot>
+				<direction>left</direction>
+				<number>3</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="10" start="false" img="room_hacking_8" />
+		<medbay power="1" room="8" start="true" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="12" start="false" img="room_mind_12" />
+		<oxygen power="1" room="19" start="true" img="room_oxygen_13" />
+		<pilot power="1" room="1" start="true" img="room_pilot_5">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="16" start="true" img="room_sensors">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="4" start="true" img="room_shields_3">
+			<slot>
+				<direction>left</direction>
+				<number>2</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="11" start="false" />
+		<weapons power="3" room="5" start="true" img="room_weapons_9">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="8" count="4">
+		<weapon name="LASER_HEAVY_PIERCE" /> <!-- Heavy pierce -->
+		<weapon name="MINELAUNCHER_FREE" /> <!-- Recycler minelauncher -->
+		<!--<weapon name="FOCUS_1" />--> 
+	</weaponList>
+	<droneList drones="10" count="2">
+		<drone name="COMBAT_1_LASER" />
+		<drone name="GUARDIAN_1_MISSILE" />
+	</droneList>
+	<health amount="30" />
+	<maxPower amount="8" />
+	<crewCount amount="1" class="human_soldier" />
+	<crewCount amount="1" class="zoltan" />
+	<crewCount amount="1" class="mantis_free" />
+	<crewCount amount="1" class="human_medic" />
+	<aug name="EX_SHIELD_RECHARGE" />
+	<aug name="EXTRA_PREP" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<shieldImage>mup_long2</shieldImage>
+    <mv-mapImage>map_icon_mup_militia_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT2" layout="emv_mv_ministry" img="emv_mv_ministry">
+	<unlock id="ship_PLAYER_SHIP_EMV_MINISTRY_unlock"/>
+	<class>MV Zoltan Cruiser</class>
+	<name>Zero-Point</name>
+	<desc>Following the orders of Minister Lumei, the Zoltan Ministry decided to expand its reach into the multiverse, unraveling its wonders and threats.</desc>
+	<systemList>
+		<battery power="1" room="12" start="false" img="room_battery_7" />
+		<cloaking power="1" room="4" start="true" img="room_cloaking_3" />
+		<clonebay power="1" room="8" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="6" start="true" img="room_doors_9">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="17" start="false" img="room_drones_18" />
+		<engines power="3" room="11" start="true" img="room_engines_9">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="9" start="false" img="room_hacking" />
+		<medbay power="1" room="8" start="true" img="room_medbay_8">
+			<slot>
+				<number>-2</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="14" start="false" img="room_mind_4" />
+		<oxygen power="1" room="10" start="true" img="room_oxygen_9" />
+		<pilot power="1" room="0" start="true" img="room_pilot_emv_1">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="1" start="true" img="room_sensors_3">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="5" start="false" img="room_shields_2">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="3" start="false" />
+		<weapons power="3" room="15" start="true" img="room_weapons_5">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="4" count="4">
+		<weapon name="ENERGY_2_PLAYER" />
+		<weapon name="BEAM_HULL" />
+	</weaponList>
+	<droneList drones="4" count="2" />
+	<health amount="30" />
+	<maxPower amount="5" />
+	<crewCount amount="1" class="engi_separatist" />
+	<crewCount amount="1" class="zoltan_peacekeeper" />
+	<crewCount amount="1" class="zoltan" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<aug name="LOCKED_ENERGY_SHIELD" />
+	<shieldImage>mup_small_long1</shieldImage>
+    <mv-mapImage>map_icon_mup_zoltan_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT2_2" layout="emv_leech_a" img="emv_leech_a">
+	<unlock id="ship_PLAYER_SHIP_EMV_LEECH_unlock"/>
+	<class>MV Republican Cruiser</class>
+	<name>The Tyrannobdella</name>
+	<desc>The Federation recovery teams managed to unravel some unused blueprints for a Republican cruiser outfitted for MV travel purposes. This cruiser lives up to the lost glory of the Eargen Republic.</desc>
+	<systemList>
+		<battery power="1" room="4" start="true" img="room_battery_14" />
+		<cloaking power="1" room="15" start="false" img="room_cloaking_8" />
+		<clonebay power="1" room="1" start="true">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="7" start="true" img="room_doors_7">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="9" start="false" img="room_drones_12" />
+		<engines power="2" room="6" start="true" img="room_engines_10">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="2" start="false" img="room_hacking_3" />
+		<medbay power="1" room="1" start="false" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="14" start="false" img="room_mind_6" />
+		<oxygen power="1" room="10" start="true" img="room_oxygen_20" />
+		<pilot power="2" room="0" start="true" img="room_pilot_9">
+			<slot>
+				<direction>right</direction>
+				<number>2</number>
+			</slot>
+		</pilot>
+		<sensors power="2" room="5" start="true" img="room_sensors_3">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="12" start="true" img="room_shields_4">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="3" start="true" />
+		<weapons power="2" room="13" start="true" img="room_weapons_8">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>3</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="3" count="3">
+		<weapon name="SHOTGUN_1" />
+		<!--<weapon name="LASER_BIO" />-->
+	</weaponList>
+	<droneList drones="0" count="2" />
+	<health amount="30" />
+	<maxPower amount="6" />
+	<crewCount amount="1" class="rock" />
+	<crewCount amount="1" class="leech_ampere" />
+	<crewCount amount="1" class="leech" />
+	<crewCount amount="1" class="leech" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<aug name="EMV_EX_PARASITE" />
+	<shieldImage>mup_disk</shieldImage>
+    <mv-mapImage>map_icon_mup_leech_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT2_3" layout="emv_lostsun_a" img="emv_lostsun_a">
+	<unlock id="ship_PLAYER_SHIP_EMV_LOSTSUN_unlock"/>
+	<class>MV Lost Sun Cruiser</class>
+	<name>The Sojourner</name>
+	<desc>Due to the countless attempts by the Theocracy to hunt them down, the Lost Sun commandos have no other option but to clash with their cruel brethren in their own battle across realities.</desc>
+	<systemList>
+		<battery power="1" room="19" start="true" img="room_battery_16" />
+		<cloaking power="1" room="13" start="false" img="room_cloaking_3" />
+		<clonebay power="1" room="15" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="14" start="false" img="room_doors_5">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="17" start="false" img="room_drones_15" />
+		<engines power="1" room="4" start="true" img="room_engines_8">
+			<slot>
+				<direction>left</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="11" start="false" img="room_hacking_8" />
+		<medbay power="1" room="15" start="true" img="room_medbay_4">
+			<slot>
+				<number>0</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="16" start="true" img="room_mind_11" />
+		<oxygen power="2" room="18" start="true" img="room_oxygen_2" />
+		<pilot power="1" room="1" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="2" room="12" start="true" img="room_sensors_6">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="10" start="true" img="room_shields_13">
+			<slot>
+				<direction>down</direction>
+				<number>3</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="0" start="false" />
+		<weapons power="4" room="9" start="true" img="room_weapons">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>3</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="25" count="3">
+		<weapon name="MISSILES_FIRE" />
+		<weapon name="BOMB_FIRE" />
+		<weapon name="MISSILES_FREE" />
+	</weaponList>
+	<droneList drones="0" count="2" />
+	<health amount="30" />
+	<maxPower amount="6" />
+	<crewCount amount="1" class="rock_commando" />
+	<crewCount amount="1" class="phantom_goul" />
+	<crewCount amount="1" class="rock" />
+	<aug name="LOCKED_REGEN_ARMOR" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<aug name="EX_FIRE_EXTINGUISHERS" />
+	<shieldImage>mup_small_long2</shieldImage>
+    <mv-mapImage>map_icon_mup_lostsun_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MV_FLAGSHIP" layout="emv_mv_flagship" img="emv_mv_flagship">
+	<unlock id="ship_PLAYER_SHIP_EMV_FLAGSHIP_unlock"/>
+	<class>Alt-MV Flagship</class>
+	<name>Ruptura Realitatis</name>
+	<desc>Having wrapped himself around the past, clinging to it, the Vance of this ship specifically built it as a homage to one of his defeats, and the might that his foes shall face.</desc>
+	<systemList>
+		<artillery power="2" max="5" room="2" start="true" weapon="EMV_ARTILLERY_MVFS_4" img="none" />
+		<artillery power="2" max="5" room="1" start="true" weapon="EMV_ARTILLERY_MVFS_1" img="none" />
+		<artillery power="2" max="5" room="3" start="true" weapon="EMV_ARTILLERY_MVFS_2" img="none" />
+		<artillery power="2" max="5" room="4" start="true" weapon="EMV_ARTILLERY_MVFS_3" img="none" />
+		<battery power="1" room="7" start="false" img="room_battery_2" />
+		<cloaking power="1" room="11" start="true" img="room_cloaking_8" />
+		<clonebay power="1" max="3" room="13" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="24" start="false" img="room_doors_2">
+			<slot>
+				<direction>down</direction>
+				<number>0</number>
+			</slot>
+		</doors>
+		<drones power="2" max="10" room="6" start="false" img="room_drones_14" />
+		<engines power="3" max="5" room="18" start="true" img="room_engines_8">
+			<slot>
+				<direction>left</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="16" start="false" img="room_hacking_emv_1" />
+		<medbay power="1" room="13" start="false" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="15" start="true" img="room_mind_emv_1" />
+		<oxygen power="1" room="12" start="true" img="room_oxygen_19" />
+		<pilot power="1" room="0" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="23" start="true" img="room_sensors_2">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="10" start="false" img="room_shields_10">
+			<slot>
+				<direction>down</direction>
+				<number>3</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="17" start="true" />
+		<weapons power="2" room="8" start="false" img="room_weapons">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>2</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<aug name="EMV_AI_SCANNER" />
+	<weaponList missiles="0" count="2" />
+	<droneList drones="5" count="2" />
+	<health amount="45" />
+	<maxPower amount="8" />
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT6" layout="emv_rebel_a" img="emv_rebel_a">
+	<unlock id="ship_PLAYER_SHIP_EMV_ALTREBEL_unlock"/>
+	<class>Alt-MV Rebel Cruiser</class>
+	<name>Columbus</name>
+	<desc>The oldest known model of Rebel ships designed to endure Multiversal travel. This ship, despite being weaker than its newer counterparts, still packs a strong punch with its gatling artillery.</desc>
+	<systemList>
+		<artillery power="2" max="4" room="4" start="true" weapon="EMV_ARTILLERY_REBEL_LASER" img="room_artillery_3" />
+		<battery power="1" room="5" start="true" img="room_battery_5" />
+		<cloaking power="1" room="13" start="false" img="room_cloaking_2" />
+		<clonebay power="1" room="14" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="18" start="true" img="room_doors_7">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="15" start="false" img="room_drones_6" />
+		<engines power="3" room="1" start="true" img="room_engines_2">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="12" start="false" img="room_hacking_6" />
+		<medbay power="1" room="14" start="true" img="room_medbay_4">
+			<slot>
+				<number>0</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="22" start="false" img="room_mind_12" />
+		<oxygen power="1" room="8" start="true" img="room_oxygen_2" />
+		<pilot power="1" room="0" start="true" img="room_pilot_4">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="19" start="true" img="room_sensors">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="6" start="true" img="room_shields_6">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="2" start="false" />
+		<weapons power="3" room="7" start="true" img="room_weapons_6">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>2</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="7" count="2">
+		<weapon name="LASER_BURST_3" />
+		<weapon name="BOMB_1" />
+	</weaponList>
+	<droneList drones="2" count="2" />
+	<health amount="25" />
+	<maxPower amount="6" />
+	<crewCount amount="1" class="emv_mv_human_mercenary" />
+	<crewCount amount="1" class="human_soldier" />
+	<crewCount amount="1" class="human_engineer" />
+	<crewCount amount="1" class="human_medic" />
+	<aug name="DISTRACTION_BUOY" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<shieldImage>mup_standard2</shieldImage>
+    <mv-mapImage>map_icon_mup_rebel_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT3" layout="emv_rockman" img="emv_rockman">
+	<unlock id="ship_PLAYER_SHIP_EMV_THEOCRACY_unlock"/>
+	<class>MV Theocracy Cruiser</class>
+	<name>Cobalt Inquisitor</name>
+	<desc>Recovery teams suggest that the original purpose of this cruiser was hunting down Outcasts across realities. Despite its bloody past, it's still a strong, durable ship.</desc>
+	<systemList>
+		<battery power="1" room="14" start="false" img="room_battery_8" />
+		<cloaking power="1" room="9" start="false" img="room_cloaking_9" />
+		<clonebay power="1" room="6" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="17" start="true" img="room_doors_5">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="4" start="false" img="room_drones_10" />
+		<engines power="2" room="0" start="true" img="room_engines_2">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="8" start="false" img="room_hacking_8" />
+		<medbay power="1" room="6" start="true" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="5" start="false" img="room_mind_9" />
+		<oxygen power="1" room="10" start="true" img="room_oxygen_7" />
+		<pilot power="1" room="3" start="true" img="room_pilot_5">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="16" start="true" img="room_sensors_4">
+			<slot>
+				<direction>left</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="12" start="true" img="room_shields_3">
+			<slot>
+				<direction>left</direction>
+				<number>2</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="7" start="false" />
+		<weapons power="3" room="11" start="true" img="room_weapons_4">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="20" count="4">
+		<weapon name="SHOTGUN_2" />
+		<weapon name="MISSILES_BURST" />
+	</weaponList>
+	<droneList drones="0" count="2" />
+	<health amount="30" />
+	<maxPower amount="8" />
+	<crewCount amount="1" class="rock_crusader" />
+	<crewCount amount="1" class="rock" />
+	<crewCount amount="1" class="rock" />
+	<aug name="LOCKED_ROCK_ARMOR" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<shieldImage>mup_small_long2</shieldImage>
+    <mv-mapImage>map_icon_mup_rock_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT3_2" layout="emv_hektar_a" img="emv_hektar_a">
+	<unlock id="ship_PLAYER_SHIP_EMV_HEKTAR_unlock"/>
+	<class>MV Hektar Cruiser(tm)</class>
+	<name>Extended Warranty</name>
+	<desc>When Billy Hektar was thinking about ideas for his expansion of business, he didn't think about going even far beyond his reality. Following the steps of his enigmatic brother, he decided to doom his employees to Overtime(tm) work.</desc>
+	<systemList>
+		<battery power="1" room="1" start="false" img="room_battery_12" />
+		<cloaking power="1" room="13" start="false" img="room_cloaking_2" />
+		<clonebay power="1" room="12" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="15" start="true" img="room_doors">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="9" start="false" img="room_drones_6" />
+		<engines power="3" room="11" start="true" img="room_engines">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="7" start="false" img="room_hacking_5" />
+		<medbay power="1" room="12" start="true" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="5" start="true" img="room_mind_12" />
+		<oxygen power="1" room="4" start="true" img="room_oxygen_20" />
+		<pilot power="1" room="0" start="true" img="room_pilot_4">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="16" start="false" img="room_sensors">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="3" start="true" img="room_shields_13">
+			<slot>
+				<direction>down</direction>
+				<number>3</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="2" start="false" />
+		<weapons power="3" room="6" start="true" img="room_weapons_2">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="13" count="4">
+		<weapon name="MODULAR_LASER_BASE_COOLDOWN" />
+		<weapon name="MODULAR_LASER_BASE_BIO" />
+	</weaponList>
+	<droneList drones="3" count="2" />
+	<health amount="30" />
+	<maxPower amount="8" />
+	<crewCount amount="1" class="slug_hektar" />
+	<crewCount amount="1" class="slug_hektar" />
+	<crewCount amount="1" class="slug" />
+	<crewCount amount="1" class="zoltan" />
+	<aug name="MODULAR_STORE" />
+	<aug name="EX_BREACH_SEALANT" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<shieldImage>mup_standard2</shieldImage>
+    <mv-mapImage>map_icon_mup_hektar_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT3_3" layout="emv_bishop_a" img="emv_bishop_a">
+	<unlock id="ship_PLAYER_SHIP_EMV_BISHOP_unlock"/>
+	<class>MV Bishop Cruiser</class>
+	<name>The Whetstone</name>
+	<desc>Despite their original mission of guarding the Queen Leikonpliiinakra, this Bishop task force was specifically ordered by said Queen to help strengthen the dominance of the Hive.</desc>
+	<systemList>
+		<battery power="1" room="6" start="false" img="room_battery_13" />
+		<cloaking power="2" room="10" start="true" img="room_cloaking_9" />
+		<clonebay power="1" room="1" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="2" room="15" start="true" img="room_doors_2">
+			<slot>
+				<direction>down</direction>
+				<number>0</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="11" start="false" img="room_drones_2" />
+		<engines power="3" room="3" start="true" img="room_engines_10">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="18" start="false" img="room_hacking_3" />
+		<medbay power="1" room="1" start="true" img="room_medbay_11">
+			<slot>
+				<number>-2</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="13" start="false" img="room_mind_12" />
+		<oxygen power="2" room="5" start="true" img="room_oxygen_2" />
+		<pilot power="1" room="0" start="true" img="room_pilot_2">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="14" start="false" img="room_sensors_2">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="8" start="false" img="room_shields">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="2" start="true" />
+		<weapons power="2" room="7" start="true" img="room_weapons_3">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>2</weaponSlots>
+	<droneSlots>3</droneSlots>
+	<weaponList missiles="8" count="2">
+		<weapon name="LASER_LIGHT_2" />
+		<weapon name="BOMB_FREE" />
+	</weaponList>
+	<droneList drones="4" count="3" />
+	<health amount="25" />
+	<maxPower amount="7" />
+	<crewCount amount="1" class="mantis_bishop" />
+	<crewCount amount="1" class="mantis_suzerain" />
+	<crewCount amount="1" class="orchid" />
+	<aug name="LOCKED_SUZERAIN_CREW_STIMS" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<shieldImage>mup_disk</shieldImage>
+    <mv-mapImage>map_icon_mup_bishop_a</mv-mapImage>
+</shipBlueprint>
+
+<!--<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT3_2" layout="emv_hacker_a" img="emv_hacker_a">
+	<class>MV Hacker Cruiser</class>
+	<name>W4NN4-CRY</name>
+	<desc>Having grown bored of staying in one place and harassing the sane group of people, the Hackers have took it upon themselves to traverse other realities to maximise their harassment of others.</desc>
+	<systemList>
+		<battery power="1" room="16" start="false" img="room_battery_14" />
+		<cloaking power="1" room="8" start="false" img="room_cloaking_9" />
+		<clonebay power="1" room="10" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="5" start="true" img="room_doors">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="3" max="8" room="12" start="false" img="room_drones" />
+		<engines power="3" room="1" start="true" img="room_engines_8">
+			<slot>
+				<direction>left</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="2" room="11" start="true" img="room_hacking_8" />
+		<medbay power="1" room="10" start="true" img="room_medbay">
+			<slot>
+				<number>-2</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="9" start="false" img="room_mind_2" />
+		<oxygen power="1" room="2" start="true" img="room_oxygen_2" />
+		<pilot power="2" room="0" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="4" start="false" img="room_sensors">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="6" start="true" img="room_shields_7">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="13" start="true" />
+		<weapons power="2" room="7" start="true" img="room_weapons_4">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>3</weaponSlots>
+	<droneSlots>3</droneSlots>
+	<weaponList missiles="10" count="3">
+		<weapon name="LASER_PARTICLE" />
+		<weapon name="BEAM_1"/>
+	</weaponList>
+	<droneList drones="23" count="3"/>
+	<health amount="30" />
+	<maxPower amount="9" />
+	<crewCount amount="1" class="slug_saboteur" />
+	<crewCount amount="1" class="mantis" />
+	<aug name="EX_DEFENSE_SCRAMBLER" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<aug name="LOCKED_SLUG_GEL" />
+	<shieldImage>mup_standard2</shieldImage>
+    <mv-mapImage>map_icon_mup_hacker_a</mv-mapImage>
+</shipBlueprint>-->
+
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT5_2" layout="emv_mvenf" img="emv_mvenf">
+	<unlock id="ship_PLAYER_SHIP_EMV_ENFORCER_unlock"/>
+	<class>Alt-MV Enforcer Cruiser</class>
+	<name>Brutus</name>
+	<desc>Originally belonging to one of the Rebellion's MV fleet. This cruiser deserted said fleet and joined the MV Enforcer unit, although the pilot of this warship refused giving it up for the standard issue MV Enforcer cruisers.</desc>
+	<systemList>
+		<battery power="1" room="11" start="false" img="room_battery_6" />
+		<cloaking power="1" room="17" start="false" img="room_cloaking_13" />
+		<clonebay power="1" room="9" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="2" start="true" img="room_doors_10">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="16" start="true" img="room_drones_4" />
+		<engines power="2" room="14" start="true" img="room_engines_2">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="8" start="false" img="room_hacking_8" />
+		<medbay power="1" room="9" start="true" img="room_medbay">
+			<slot>
+				<number>-2</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="18" start="false" img="room_mind_3" />
+		<oxygen power="1" room="10" start="true" img="room_oxygen_13" />
+		<pilot power="1" room="0" start="true" img="room_pilot_5">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="1" start="true" img="room_sensors">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="15" start="true" img="room_shields_9">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="4" start="false" />
+		<weapons power="4" room="7" start="true" img="room_weapons_7">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>3</weaponSlots>
+	<droneSlots>3</droneSlots>
+	<weaponList missiles="0" count="3">
+		<weapon name="ION_CHARGEGUN" />
+		<weapon name="BEAM_LONG" />
+	</weaponList>
+	<droneList drones="11" count="3">
+		<drone name="COMBAT_1_LASER" />
+	</droneList>
+	<health amount="30" />
+	<maxPower amount="9" />
+	<crewCount amount="1" class="human_soldier" />
+	<crewCount amount="1" class="emv_mv_human_medic" />
+	<crewCount amount="1" class="emv_mv_human_mercenary" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<shieldImage>mup_giant</shieldImage>
+    <mv-mapImage>map_icon_mup_mvrebel_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT5_3" layout="emv_paladin_a" img="emv_paladin_a">
+	<unlock id="ship_PLAYER_SHIP_EMV_PALADIN_unlock"/>
+	<class>MV Paladin Cruiser</class>
+	<name>Varangian</name>
+	<desc>The Paladin crew occupying this ship defected and escaped the assault of Numa V. They're outlaws to the Theocracy, but it's not like they have anything to lose now with their hulking mass of a battleship.</desc>
+	<systemList>
+		<battery power="1" room="10" start="false" img="room_battery_14" />
+		<cloaking power="2" room="11" start="true" img="room_cloaking_11" />
+		<clonebay power="1" room="4" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="21" start="false" img="room_doors">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="12" start="false" img="room_drones_6" />
+		<engines power="3" room="20" start="true" img="room_engines_10">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="6" start="false" img="room_hacking_2" />
+		<medbay power="1" room="4" start="true" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="7" start="false" img="room_mind_12" />
+		<oxygen power="1" room="9" start="true" img="room_oxygen_2" />
+		<pilot power="1" room="0" start="true" img="room_pilot_2">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="22" start="true" img="room_sensors">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8"  room="5" start="false" img="room_shields_9">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="8" start="false" />
+		<weapons power="3" room="3" start="true" img="room_emv_weapons_12">
+			<slot>
+				<direction>right</direction>
+				<number>2</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="13" count="4">
+		<weapon name="MISSILES_3" />
+		<weapon name="LASER_HEAVY_PIERCE" />
+	</weaponList>
+	<droneList drones="0" count="2" />
+	<health amount="30" />
+	<maxPower amount="9" />
+	<crewCount amount="1" class="rock_paladin" />
+	<crewCount amount="1" class="rock_crusader" />
+	<crewCount amount="1" class="rock" />
+	<aug name="LOCKED_PALADIN_ARMOR" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<shieldImage>mup_standard2</shieldImage>
+    <mv-mapImage>map_icon_mup_paladin_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT1_2" layout="emv_mv_spook" img="emv_mv_spook">
+	<unlock id="ship_PLAYER_SHIP_EMV_SPOOK_unlock"/>
+	<class>MV Spook Chaser Cruiser</class>
+	<name>Burton</name>
+	<desc>The designer of this nefarious ship has claimed the lives of countless unfortunate Renegade travellers, and won't stop until he scores the big game.</desc>
+	<systemList>
+		<battery power="1" room="10" start="false" img="room_battery_2" />
+		<cloaking power="1" room="15" start="false" img="room_cloaking_12" />
+		<clonebay power="1" room="7" start="false">
+			<slot>
+				<number>2</number>
+			</slot>
+		</clonebay>
+		<doors power="2" room="20" start="true" img="room_doors_9">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="5" start="true" img="room_drones_7" />
+		<engines power="2" room="1" start="true" img="room_engines_10">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="9" start="false" img="room_hacking_6" />
+		<medbay power="1" room="7" start="true" img="room_medbay_7">
+			<slot>
+				<number>2</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="13" start="false" img="room_mind_3" />
+		<oxygen power="1" room="14" start="true" img="room_oxygen" />
+		<pilot power="1" room="0" start="true" img="room_pilot_2">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="19" start="true" img="room_sensors_3">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="17" start="true" img="room_shields">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="8" start="false" />
+		<weapons power="3" room="2" start="true" img="room_weapons_8">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="7" count="4">
+		<weapon name="BEAM_BIO_CHAIN" />
+		<weapon name="ION_PIERCE_1" />
+	</weaponList>
+	<droneList drones="7" count="2">
+		<drone name="AMPHI_COMBAT" />
+	</droneList>
+	<health amount="30" />
+	<maxPower amount="9" />
+	<aug name="MVBOSS_SPAWNER" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<shieldImage>mup_disk</shieldImage>
+    <mv-mapImage>map_icon_mup_ghostbuster_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT1_3" layout="emv_lanius_a" img="emv_lanius_a">
+	<unlock id="ship_PLAYER_SHIP_EMV_LANIUS_unlock"/>
+	<class>MV Lanius Cruiser</class>
+	<name>Cr-24-G6-P4</name>
+	<desc>It's unclear how the Lanius managed to acquire MV technology, but the recovery teams assume that they snacked upon a few unlucky travellers.</desc>
+	<systemList>
+		<battery power="1" room="3" start="false" img="room_battery_2" />
+		<cloaking power="1" room="5" start="false" img="room_cloaking_2" />
+		<clonebay power="1" room="4" start="true">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="15" start="true" img="room_doors_2">
+			<slot>
+				<direction>down</direction>
+				<number>0</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="9" start="false" img="room_drones" />
+		<engines power="1" room="1" start="true" img="room_engines_7">
+			<slot>
+				<direction>right</direction>
+				<number>3</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="10" start="false" img="room_hacking_3" />
+		<medbay power="1" room="4" start="false" img="room_medbay_10">
+			<slot>
+				<number>-2</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="13" start="true" img="room_mind_12" />
+		<oxygen power="1" room="2" start="false" img="room_oxygen_23" />
+		<pilot power="1" room="0" start="true" img="room_pilot_4">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="14" start="false" img="room_sensors_2">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="7" start="true" img="room_shields_10">
+			<slot>
+				<direction>down</direction>
+				<number>3</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="12" start="true" />
+		<weapons power="2" room="8" start="true" img="room_weapons_9">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="3" count="4">
+		<weapon name="SHOTGUN_1" />
+		<weapon name="BEAM_BREACH" />
+	</weaponList>
+	<droneList drones="3" count="2" />
+	<health amount="30" />
+	<maxPower amount="8" />
+	<crewCount amount="1" class="lanius" />
+	<crewCount amount="1" class="lanius" />
+	<crewCount amount="1" class="engi_separatist_nano" />
+	<aug name="SCRAP_COLLECTOR" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<shieldImage>mup_disk</shieldImage>
+    <mv-mapImage>map_icon_mup_lanius_a</mv-mapImage>
+</shipBlueprint>
+
+
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MV_CURA" layout="emv_mv_cura" img="emv_mv_cura">
+	<unlock id="ship_PLAYER_SHIP_EMV_PURE_unlock"/>
+	<class>MV Innovation Cruiser</class>
+	<name>P.U.R.E.</name>
+	<desc>For whatever reason, the Rebel made C.I.C.A A.I decided to migrate itself into this secret MV class cruiser, boasting ulterior motives that are yet to be understood.</desc>
+	<systemList>
+		<artillery power="2" room="17" start="true" weapon="EMV_ARTILLERY_MVFS_3" img="room_artillery" />
+		<battery power="1" room="0" start="false" img="room_battery_6" />
+		<cloaking power="1" room="1" start="true" img="room_cloaking" />
+		<clonebay power="1" room="11" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="2" room="10" start="true" img="room_doors_7_noman">
+			<slot>
+				<direction>up</direction>
+				<number>-2</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="2" start="true" img="room_drones_5" />
+		<engines power="3" room="19" start="true" img="room_engines_5">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="13" start="false" img="room_hacking_3" />
+		<medbay power="1" room="8" start="false" img="room_medbay_13">
+			<slot>
+				<number>-2</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="16" start="false" img="room_mind_12" />
+		<oxygen power="1" room="14" start="false" img="room_oxygen_9" />
+		<pilot power="2" room="21" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="7" start="true" img="room_sensors_3_noman">
+			<slot>
+				<direction>up</direction>
+				<number>-2</number>
+			</slot>
+		</sensors>
+		<shields power="3" max="8" room="4" start="false" img="room_shields_4">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="5" start="false" />
+		<weapons power="2" room="3" start="true" img="room_weapons_4">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>3</weaponSlots>
+	<droneSlots>3</droneSlots>
+	<weaponList missiles="6" count="3">
+		<weapon name="BEAM_FIRE_PIERCE" />
+		<weapon name="LASER_BURST_3" />
+	</weaponList>
+	<droneList drones="9" count="3">
+		<drone name="ASSAULT_PIERCE" />
+	</droneList>
+	<health amount="30" />
+	<maxPower amount="8" />
+	<aug name="EMV_PURE_INTELLECT" />
+	<shieldImage>mup_disk</shieldImage>
+    <mv-mapImage>map_icon_mup_cura_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT7" layout="emv_mv_dusk" img="emv_mv_dusk">
+	<unlock id="ship_PLAYER_SHIP_EMV_DUSK_unlock"/>
+	<class>MV Duskbringer Cruiser</class>
+	<name>Fuzzball</name>
+	<desc>For whatever reason, the Duskbringers took their valued technology and decided to work as Renegades. Did their cause falter? Who knows, all you know is that their ship is no joke!</desc>
+	<systemList>
+		<battery power="1" room="5" start="false" img="room_battery_7" />
+		<cloaking power="1" room="15" start="false" img="room_cloaking_8" />
+		<clonebay power="2" room="7" start="true">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="13" start="true" img="room_doors_2">
+			<slot>
+				<direction>down</direction>
+				<number>0</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="6" start="false" img="room_drones_6" />
+		<engines power="1" room="11" start="true" img="room_engines_10">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="12" start="false" img="room_hacking_6" />
+		<medbay power="1" room="7" start="false" img="room_medbay_13">
+			<slot>
+				<number>-2</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="2" start="false" img="room_mind_12" />
+		<oxygen power="1" room="16" start="true" img="room_oxygen_13" />
+		<pilot power="1" room="0" start="true" img="room_pilot_emv_1">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="14" start="true" img="room_sensors_6">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="4" start="true" img="room_shields_4">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="9" start="true" />
+		<weapons power="3" room="1" start="true" img="room_weapons">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="12" count="4">
+		<weapon name="ENERGY_3" />
+		<weapon name="BEAM_CONSERVATIVE" />
+	</weaponList>
+	<droneList drones="0" count="2" />
+	<health amount="30" />
+	<maxPower amount="6" />
+	<crewCount amount="1" class="zoltan_devotee" />
+	<crewCount amount="1" class="zoltan_devotee" />
+	<crewCount amount="1" class="zoltan" />
+	<aug name="LOCKED_ENERGY_SHIELD" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<shieldImage>mup_small_long1</shieldImage>
+    <mv-mapImage>map_icon_mup_dusk_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT7_2" layout="emv_mantis_a" img="emv_mantis_a">
+	<unlock id="ship_PLAYER_SHIP_EMV_HIVE_unlock"/>
+	<class>MV Hive Cruiser</class>
+	<name>The Komodoensis</name>
+	<desc>As part of Queen Leikonpliiinakra's plan to expand the influence of the Hive and seek out the Free Mantis colonies to destroy them, she comissioned one of the finest Mantis ships to be outfitted for such task, even across realities.</desc>
+	<systemList>
+		<battery power="1" room="4" start="false" img="room_battery_6" />
+		<cloaking power="1" room="15" start="false" img="room_cloaking_10" />
+		<clonebay power="1" room="3" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="6" start="true" img="room_doors">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="11" start="false" img="room_drones_12" />
+		<engines power="2" room="16" start="true" img="room_engines_8">
+			<slot>
+				<direction>left</direction>
+				<number>1</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="10" start="false" img="room_hacking_6" />
+		<medbay power="1" room="3" start="true" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="13" start="false" img="room_mind_4" />
+		<oxygen power="1" room="17" start="true" img="room_oxygen_21" />
+		<pilot power="1" room="0" start="true" img="room_pilot_4">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="7" start="true" img="room_sensors">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="8" start="true" img="room_shields">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="5" start="true" />
+		<weapons power="3" room="9" start="true" img="room_weapons_7">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>3</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="8" count="3">
+		<weapon name="LASER_LIGHT_2" />
+		<weapon name="BOMB_BREACH_1" />
+	</weaponList>
+	<droneList drones="0" count="2" />
+	<health amount="30" />
+	<maxPower amount="7" />
+	<crewCount amount="1" class="mantis_suzerain" />
+	<crewCount amount="1" class="mantis" />
+	<crewCount amount="1" class="engi" />
+	<aug name="LOCKED_CREW_STIMS" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<aug name="EMV_EX_HIVESLASH" />
+	<shieldImage>mup_long2</shieldImage>
+    <mv-mapImage>map_icon_mup_mantis_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT7_3" layout="emv_salt_a" img="emv_salt_a">
+	<unlock id="ship_PLAYER_SHIP_EMV_SALT_unlock"/>
+	<class>MV Sodium Cruiser</class>
+	<name>The Soolane</name>
+	<desc>Having grown bored of harassing the entire Slug race forfree, the legendary Salt Man decided to join the ranks of the MVPMC to get paid for harassing Slugs and other wet work.</desc>
+	<systemList>
+		<battery power="1" room="18" start="false" img="room_battery_14" />
+		<cloaking power="1" room="11" start="false" img="room_cloaking_3" />
+		<clonebay power="1" room="17" start="true">
+			<slot>
+				<number>2</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="1" start="true" img="room_doors_2">
+			<slot>
+				<direction>down</direction>
+				<number>0</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="12" start="false" img="room_drones_4" />
+		<engines power="3" room="16" start="true" img="room_engines_2">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="3" start="false" img="room_hacking_10" />
+		<medbay power="1" room="17" start="false" img="room_medbay_7">
+			<slot>
+				<number>2</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="4" start="false" img="room_mind_10" />
+		<oxygen power="1" room="19" start="true" img="room_oxygen_2" />
+		<pilot power="1" room="0" start="true" img="room_pilot_3">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="2" start="true" img="room_sensors_2">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="6" start="true" img="room_shields">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="8" start="false" />
+		<weapons power="4" room="5" start="true" img="room_weapons_7">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="0" count="4">
+		<weapon name="SHOTGUN_ION" />
+		<weapon name="FOCUS_1" />
+	</weaponList>
+	<droneList drones="0" count="2" />
+	<health amount="30" />
+	<maxPower amount="9" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<aug name="SALT_ARMOR" />
+	<shieldImage>mup_small_long2</shieldImage>
+    <mv-mapImage>map_icon_mup_salt_a</mv-mapImage>
+</shipBlueprint>
+
+<!--<shipBlueprint name="PLAYER_SHIP_EMV_CEL" layout="emv_mvcel" img="emv_mvcel">
+	<class>MV C.E.L. Cruiser</class>
+	<name>Iter Infinitum</name>
+	<desc>This cruiser belongs to a strange Sylvan that used to work for some sort of enforcer league that he refuses to talk about. Nevertheless, he custom tuned it to his liking to serve his journies as a Renegade.</desc>
+	<systemList>
+		<artillery power="2" room="6" max="4" start="true" weapon="EMV_VINDICATOR" img="none" />
+		<artillery power="2" room="8" max="4" start="true" weapon="EMV_VINDICATOR" img="none" />
+		<battery power="1" room="11" start="false" img="room_battery_16" />
+		<cloaking power="1" room="14" start="false" img="room_cloaking" />
+		<clonebay power="1" room="5" start="true">
+			<slot>
+				<number>2</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="18" start="true" img="room_doors_6">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="16" start="false" img="room_drones_5" />
+		<engines power="2" room="10" start="true" img="room_engines_11">
+			<slot>
+				<direction>down</direction>
+				<number>3</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="13" start="false" img="room_hacking_8" />
+		<medbay power="1" room="5" start="false" img="room_medbay_7">
+			<slot>
+				<number>2</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="1" start="false" img="room_mind_12" />
+		<oxygen power="1" room="12" start="true" img="room_oxygen_7" />
+		<pilot power="1" room="0" start="true" img="room_pilot_5">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="17" start="false" img="room_sensors_9">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="4" room="3" start="true" img="room_shields_3">
+			<slot>
+				<direction>left</direction>
+				<number>2</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="19" start="true" />
+		<temporal power="1" room="2" start="true" img="room_temporal_4" />
+		<weapons power="1" room="15" start="false" img="room_weapons_9">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>2</weaponSlots>
+	<droneSlots>3</droneSlots>
+	<crewCount amount="1" class="nexus_sylvan_cel" />
+	<crewCount amount="1" class="slug_ranger" />
+	<weaponList missiles="0" count="2" />
+	<droneList drones="4" count="3">
+		<drone name="DRONE_SHIELD" />
+	</droneList>
+	<health amount="30" />
+	<maxPower amount="10" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<aug name="LOCKED_SYLVAN_SHIELD_CONTINUITY" />
+	<shieldImage>mup_giant</shieldImage>
+    <mv-mapImage>map_icon_mup_cel_a</mv-mapImage>
+</shipBlueprint>-->
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT6_2" layout="emv_smuggler_a" img="emv_smuggler_a">
+	<unlock id="ship_PLAYER_SHIP_EMV_SMUGGLER_unlock"/>
+	<class>MV Prototype Cruiser</class>
+	<name>Vane</name>
+	<desc>Despite the nature of this vessel, it bears an oxymoronic sentiment to it. No pirate can hide from it, and no civilian can fight it off easily.</desc>
+	<systemList>
+		<battery power="1" room="12" start="true" img="room_battery_15" />
+		<cloaking power="1" room="8" start="false" img="room_cloaking_2" />
+		<clonebay power="1" room="7" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="2" room="13" start="true" img="room_doors">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="9" start="false" img="room_drones_18" />
+		<engines power="3" room="6" start="true" img="room_engines">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="11" start="false" img="room_hacking_10" />
+		<medbay power="1" room="7" start="true" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="5" start="false" img="room_mind_12" />
+		<oxygen power="1" room="4" start="true" img="room_oxygen_20" />
+		<pilot power="1" room="0" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="2" room="14" start="true" img="room_sensors">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="2" start="true" img="room_shields_4">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="10" start="false" />
+		<weapons power="3" room="1" start="true" img="room_weapons_8">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="12" count="4">
+		<weapon name="LASER_PIERCE" />
+		<weapon name="FOCUS_BIO" />
+	</weaponList>
+	<droneList drones="5" count="2" />
+	<health amount="30" />
+	<maxPower amount="8" />
+	<crewCount amount="1" class="human_medic" />
+	<crewCount amount="1" class="orchid_vampweed" />
+	<crewCount amount="1" class="mantis_free" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<aug name="EMV_ADV_FREQUENCIES" />
+	<shieldImage>mup_small_long2</shieldImage>
+    <mv-mapImage>map_icon_mup_smuggler_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT6_3" layout="emv_mvcultivator_a" img="emv_mvcultivator_a">
+	<unlock id="ship_PLAYER_SHIP_EMV_CULTIVATOR_unlock"/>
+	<class>MV Cultivator Cruiser</class>
+	<name>CRISPR</name>
+	<desc>The Confederate Premier, Ivar, commissioned his elite Cultivators to scout the realities, in hopes of giving the Oro'bache Vampweeds a stronger backbone.</desc>
+	<systemList>
+		<battery power="1" room="10" start="false" img="room_battery_6" />
+		<cloaking power="1" room="12" start="false" img="room_cloaking_3" />
+		<clonebay power="1" room="8" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="19" start="true" img="room_doors">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8"  room="2" start="false" img="room_drones_12" />
+		<engines power="2" room="6" start="true" img="room_engines_8">
+			<slot>
+				<direction>left</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="1" start="false" img="room_hacking_3" />
+		<medbay power="1" room="8" start="true" img="room_medbay_4">
+			<slot>
+				<number>0</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="25" start="false" img="room_mind_6" />
+		<oxygen power="1" room="5" start="true" img="room_oxygen_13" />
+		<pilot power="1" room="0" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="18" start="true" img="room_sensors">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="14" start="true" img="room_shields_7">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="15" start="true" />
+		<weapons power="3" room="7" start="true" img="room_weapons_3">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="20" count="4">
+		<weapon name="SPORE_CHAIN" />
+		<weapon name="SENTRY_NORMAL" />
+	</weaponList>
+	<droneList drones="0" count="2" />
+	<health amount="30" />
+	<maxPower amount="6" />
+	<crewCount amount="1" class="orchid_cultivator" />
+	<crewCount amount="1" class="orchid_vampweed" />
+	<crewCount amount="1" class="human_technician" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<aug name="SPORE_AIR_BUFF" />
+	<aug name="EX_EXPLOSIVE_REPLICATOR"/>
+	<shieldImage>mup_giant</shieldImage>
+    <mv-mapImage>map_icon_mup_cultivator_a</mv-mapImage>
+</shipBlueprint>
+
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MVSLOT4_3" layout="emv_mfk_a" img="emv_mfk_a">
+	<unlock id="ship_PLAYER_SHIP_EMV_MFK_unlock"/>
+	<class>MV MFK Cruiser Ace</class>
+	<name>Soldat Etranger</name>
+	<desc>A result of the many successful attempts at Multiversal travel. This Ace cruiser is well suited to pilot itself while its crew can tear through enemy ships, up close and personal.</desc>
+	<systemList>
+		<battery power="1" room="2" start="false" img="room_battery_19" />
+		<cloaking power="1" room="8" start="false" img="room_cloaking" />
+		<clonebay power="1" room="15" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="12" start="true" img="room_doors_4">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="11" start="true" img="room_drones_20" />
+		<engines power="2" room="1" start="true" img="room_engines_10">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="10" start="false" img="room_hacking_6" />
+		<medbay power="1" room="15" start="true" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="6" start="false" img="room_mind_4" />
+		<oxygen power="1" room="17" start="true" img="room_oxygen_23" />
+		<pilot power="2" room="0" start="true" img="room_pilot_2">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="14" start="true" img="room_sensors_6">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8"  room="4" start="true" img="room_shields_6">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="18" start="true" />
+		<weapons power="2" room="13" start="true" img="room_weapons_10">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>3</weaponSlots>
+	<droneSlots>3</droneSlots>
+	<weaponList missiles="8" count="3">
+		<weapon name="LASER_BURST_2" />
+		<weapon name="BOMB_BREACH_1" />
+	</weaponList>
+	<droneList drones="6" count="3">
+		<drone name="MANNING" />
+	</droneList>
+	<health amount="30" />
+	<maxPower amount="7" />
+	<crewCount amount="1" class="human_engineer" />
+	<crewCount amount="1" class="human_mfk" />
+	<crewCount amount="1" class="human_mfk" />
+	<aug name="EX_O2_MASKS" />
+	<aug name="EX_SHIELD_RECHARGE" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<shieldImage>mup_disk</shieldImage>
+    <mv-mapImage>map_icon_mup_mfk_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_MORTIS" layout="emv_mortis_a" img="emv_mortis_a">
+	<unlock id="ship_PLAYER_SHIP_EMV_MORTIS_unlock"/>
+	<class>Mortis' Crewser</class>
+	<name>Arescentem Rosa</name>
+	<desc>A beast on the outside that rips through its enemies with ease, but on the inside, you'll find a very enthusiastic killer that loves coffee and a very special someone.</desc>
+	<systemList>
+		<battery power="1" room="17" start="false" img="room_battery_6" />
+		<cloaking power="2" room="18" start="true" img="room_cloaking_9" />
+		<clonebay power="1" room="13" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="9" start="true" img="room_doors_5">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="19" start="false" img="room_drones_15" />
+		<engines power="3" room="11" start="true" img="room_engines_10">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="16" start="false" img="room_hacking_13" />
+		<medbay power="1" room="13" start="false" img="room_medbay_4">
+			<slot>
+				<number>0</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="15" start="true" img="room_mind_9" />
+		<oxygen power="2" room="0" max="4" start="true" img="room_oxygen_9" />
+		<pilot power="2" room="3" start="true" img="room_pilot_2">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="10" start="false" img="room_sensors_6">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="4" start="false" img="room_shields_4">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="12" start="true" />
+		<weapons power="2" room="5" start="false" img="room_weapons_9">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="8" count="4" />
+	<droneList drones="4" count="2" />
+	<health amount="25" />
+	<maxPower amount="9" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<aug name="EX_TELEPORT_HEAL" />
+	<aug name="EMV_MORTIS_PHEROMONES" />
+	<shieldImage>mup_disk</shieldImage>
+    <mv-mapImage>map_icon_mup_bishop_a</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_EMV_VITAE" layout="emv_vitae_a" img="emv_vitae_a">
+	<unlock id="ship_PLAYER_SHIP_EMV_VITAE_unlock"/>
+	<class>Vitae's Crewser</class>
+	<name>Rosa Viridis</name>
+	<desc>The alluring hues of this cruiser give off a vibes of clarity and peace, mostly because it's, more or less, a portable clinic and spa that will still kill you, by love or by the claws of its doctor.</desc>
+	<systemList>
+		<battery power="1" room="4" start="false" img="room_battery_2" />
+		<cloaking power="1" room="14" start="false" img="room_cloaking_11" />
+		<!--<clonebay power="1" room="6" start="true">
+			<slot>
+				<number>3</number>
+			</slot>
+		</clonebay>-->
+		<doors power="1" room="17" start="false" img="room_doors">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="11" start="false" img="room_drones_14" />
+		<engines power="1" room="10" start="true" img="room_engines_8">
+			<slot>
+				<direction>left</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="0" start="false" img="room_hacking_4" />
+		<medbay power="2" room="7" start="true" img="room_medbay_11">
+			<slot>
+				<number>-2</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="1" start="true" img="room_mind_12" />
+		<oxygen power="1" room="3" start="true" img="room_oxygen_19" />
+		<pilot power="2" room="5" start="true" img="room_pilot_4">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="18" start="true" img="room_sensors">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="13" start="true" img="room_shields_4">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="6" start="true" />
+		<weapons power="2" room="12" start="false" img="room_weapons_6">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="10" count="4" />
+	<droneList drones="0" count="2" />
+	<health amount="30" />
+	<maxPower amount="7" />
+	<aug name="EMV_VITAE_PHEROMONES" />
+	<aug name="EX_ZOLTAN_BYPASS" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<shieldImage>mup_disk</shieldImage>
+    <mv-mapImage>map_icon_mup_freemantis_a</mv-mapImage>
+</shipBlueprint>
+
+
+<augBlueprint name="EMV_MORTIS_PHEROMONES">
+	<title>Withered Pheromones</title>
+	<desc>A concoction of Mortis' personally brewed pheromones. Mixed with a variety of deadly toxins and a very lethal dose of caffeine, making the air smell like a deadly café.
+	
+	For each powered level in life support, enemies are afflicted with a 10% decrease to health and a 5% decrease to movement speed.
+
+	A fully powered level 4 Life support system causes enemies to take damage while on your ship, and gain a decay-like effect when harmed on theirs.
+	Allied Mantis crew are given a 1.1x damage multiplier for each power in life support.</desc>
+	<cost>145</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EMV_VITAE_PHEROMONES">
+	<title>Blossoming Pheromones</title>
+	<desc>Vitae's specially brewed concoction of medical pheromones. Filled with aromatic herbs and remedies that can tranquilize even the angriest of equinoids and send them into a relaxing sleep.
+	
+	Provides cross-ship healing for allied crew, scaling with both Medbay and Life support systems' power levels.
+	For each powered level in life support, Allied crew gain a 1.1x multiplier to health, repair speed and movement speed.</desc>
+	<cost>145</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EMV_PERMISSION">
+	<title>EMV PERMISSION</title>
+	<desc>MAKES MV FLAGSHIP WORK YOU SHOULDNT SEE THIS</desc>
+	<cost>130</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EMV_AI_SCANNER">
+	<title>Advanced Navigator</title>
+	<desc>Reveals details about surrounding beacons, and allows the autoship to jump to any previously visited beacon.</desc>
+	<cost>130</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EMV_PREPERATION">
+	<title>Advanced Navigation AI</title>
+	<desc>Reveals details about surrounding beacons, and allows the autoship to jump to any previous visited beacon. Grants the ship basic autoship functionality.</desc>
+	<cost>130</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EMV_AUTOMATION">
+	<title>Advanced Rebellion AI</title>
+	<desc>The Advanced Rebel AI has taken full control over the ship! Reveals details about surrounding beacons and allows the autoship to jump to any previous visited beacon. Grants the ship full autoship functionality and disables oxygen generation.</desc>
+	<cost>145</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EMV_RETRO_SHIELDING">
+	<title>Advanced Shielding Unit</title>
+	<desc>Provides a stacking energy shield, used in the MV Retro Flagship.</desc>
+	<cost>145</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EMV_GILDED_SHIELDING">
+	<!--<title>[style[color:ffb045]]Gil[[/style]][style[color:ffbd64]]ded[[/style]][style[color:ffd780]] Shiel[[/style]][style[color:ffc369]]ding[[/style]]</title>-->
+	<title>Gilded Shielding</title>
+	<desc>Advanced Shielding powered by the purest aether imaginable, slowly recovers if undamaged for long periods of time..</desc>
+	<cost>145</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EMV_GILDED_WEAPONS">
+	<!--<title>[style[color:ffb045]]Gil[[/style]][style[color:ffbd64]]ded[[/style]][style[color:ffd780]] Weap[[/style]][style[color:ffc369]]ons[[/style]]</title>-->
+	<title>Gilded Weapons</title>
+	<desc>Advanced Weapon Systems powered by the purest aether imaginable, grants faster weapon fire rate..</desc>
+	<cost>145</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EMV_GILDED_REGEN">
+	<title>Gilded Regenerative Plating</title>
+	<desc>Good luck puncturing this armor! Wielding 25% Hull and System resistance and auto-repair functions!</desc>
+	<cost>130</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EMV_GILDED_PALADIN">
+	<title>Gilded Divine Armor</title>
+	<desc>Good luck puncturing this armor! Wielding 25% Hull and System resistance and auto-repair functions!</desc>
+	<cost>130</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EMV_GILDED_GEL">
+	<title>Gilded Gel</title>
+	<desc>Indescribable gel with the capability to not just repair breaches but systems as well.</desc>
+	<cost>130</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EMV_GILDED_MEDBOTS">
+	<title>Gilded Medbots</title>
+	<desc>Powerful Nanobots that not only heal but buff crew depending on medbay power!</desc>
+	<cost>130</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EMV_PURE_INTELLECT">
+	<title>Advanced Cognizance</title>
+	<desc>The Apex of AI Technology, Combines the abilities of the Advanced Navigator, Emancipation Grid and Drive Hacker.</desc>
+	<cost>130</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<!-- The Apex of AI Technology, Combines the abilities of the Advanced Navigator, Surge Controller and Drive Hacker. Allows you to reroute power to control various levels of power surges. The more power, the stronger and more unstable the surges will become. Can be powered with an Emergency Generator.
+	
+	Surge type: MELTDOWN [deals heavy self damage but creates bursts of heavy radiation via 2 damage beams, with 1 shield pierce -->
+
+<augBlueprint name="EMV_EX_PARASITE">
+	<title>[L] Parasitical Dep.</title>
+	<desc>Leeches have 60 less Max Health and do 4x less damage by default, but steal 3hp/s from all other enemy non-Leech crew in the room.
+	
+	[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.</desc>
+	<cost>35</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EMV_EX_HIVESLASH">
+	<title>[L] Claw Slash</title>
+	<desc>Regular Mantis gain a slash ability that does 15 damage to all enemy crew in the room. Can only slash twice per jump.
+	
+	[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.</desc>
+	<cost>35</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EMV_EX_CARETAKER_HAZARD">
+	<title>[L] Calming Spores</title>
+	<desc>Caretakers provide fire and stun immunity to nearby allies and themselves but no longer generate oxygen.
+	
+	[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.</desc>
+	<cost>35</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EMV_ADV_FREQUENCIES">
+	<title>Advanced Frequencies</title>
+	<desc>Allows detection of various piracy events, Also serves the same functions as Hijacked Frequencies.</desc>
+	<cost>45</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<weaponBlueprint name="EMV_ARTILLERY_MVFS_1">
+	<type>LASER</type>
+	<title>Heavy Piercing Laser Artillery</title>
+	<short>Pierce Heavy</short>
+	<tip>tip_laser</tip>
+	<desc>[Base cooldown: 18] Fires a barrage of powerful heavy lasers that pierce a shield layer.</desc>
+	<tooltip>Heavy laser Barrage, 2 damage, 1 shot. Pierces 1 shield layer.</tooltip>
+	<damage>2</damage>
+	<shots>1</shots>
+	<sp>1</sp>
+	<fireChance>0</fireChance>
+	<breachChance>4</breachChance>
+	<stunChance>2</stunChance>
+	<cooldown>18</cooldown>
+	<power>1</power>
+	<cost>65</cost>
+	<shots>3</shots>
+	<bp>6</bp>
+	<rarity>0</rarity>
+	<image>laser_heavy</image>
+	<launchSounds>
+		<sound>heavyLaser1</sound>
+		<sound>heavyLaser2</sound>
+		<sound>heavyLaser3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>emv_mvfs_1</weaponArt>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_ARTILLERY_MVFS_2">
+	<type>MISSILES</type>
+	<tip>tip_particle_missiles</tip>
+	<title>Particle Missile Artillery</title>
+	<short>Particle M.</short>
+	<desc>[Base cooldown: 30] Launches a barrage of particle missiles that devastate ship systems and lockdown rooms.</desc>
+	<tooltip>Particle Missile barrage, 1 sys damage, afflicts lockdown on hit.</tooltip>
+	<damage>0</damage>
+	<sysDamage>1</sysDamage>
+	<accuracyMod>2</accuracyMod>
+	<missiles>0</missiles>
+	<shots>3</shots>
+	<sp>10</sp>
+	<fireChance>4</fireChance>
+	<lockdown>1</lockdown>
+	<breachChance>0</breachChance>
+	<stunChance>0</stunChance>
+	<cooldown>30</cooldown>
+	<power>3</power>
+	<cost>75</cost>
+	<bp>6</bp>
+	<rarity>0</rarity>
+	<image>missile_particle</image>
+	<launchSounds>
+		<sound>smallMissile1</sound>
+		<sound>smallMissile2</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>smallExplosion</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>emv_mvfs_2</weaponArt>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_ARTILLERY_MVFS_3">
+	<type>BEAM</type>
+	<tip>tip_bio</tip>
+	<title>Advanced Fauchard Artillery</title>
+	<short>'Fauchard'</short>
+	<desc>[Base cooldown: 30] Fires off a devastating anti-bio beam that rips through enemy systems. Pierces all normal shields.</desc>
+	<tooltip>Fauchard Artillery, Extremely long beam, Pierces shields.</tooltip>
+	<sysDamage>2</sysDamage>
+	<persDamage>4</persDamage>
+	<statBoosts>
+        <statBoost name="moveSpeedMultiplier" load="RAD_MOVE"/>
+		<statBoost name="stunMultiplier" load="RAD_STUN"/>
+        <statBoost name="repairSpeed" load="RAD_REPAIR"/>
+    </statBoosts>
+	<sp>10</sp>
+	<fireChance>0</fireChance>
+	<breachChance>1</breachChance>
+	<cooldown>30</cooldown>
+	<speed>15</speed>
+	<power>3</power>
+	<cost>70</cost>
+	<bp>6</bp>
+	<rarity>0</rarity>
+	<length>270</length>
+	<image>beam_contact</image>
+	<launchSounds>
+		<sound>beam2</sound>
+	</launchSounds>
+	<weaponArt>emv_mvfs_3</weaponArt>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_ARTILLERY_MVFS_4">
+	<type>LASER</type>
+	<flavorType>Concentrated Energy Blast</flavorType>
+	<title>Heavy Energy Artillery</title>
+	<short>Heavy Energy</short>
+	<tip>tip_energy</tip>
+	<locked>1</locked>
+	<desc>[Base cooldown: 15] Fires a barrage of concentrated energy projectiles that deal hull and system damage with doubled hull damage in systemless rooms.</desc>
+	<tooltip>Fires a barrage of heavy energy projectiles. Can hit and disable shields as well as systems. 2x hull damage on systemless rooms.</tooltip>
+	<damage>2</damage>
+	<noSysDamage>true</noSysDamage>
+	<noPersDamage>true</noPersDamage>
+	<ion>2</ion>
+	<hullBust>1</hullBust>
+	<speed>40</speed>
+	<shots>2</shots>
+	<sp>0</sp>
+	<fireChance>4</fireChance>
+	<breachChance>0</breachChance>
+	<stunChance>0</stunChance>
+	<cooldown>15</cooldown>
+	<power>2</power>
+	<cost>50</cost>
+	<bp>3</bp>
+	<rarity>0</rarity>
+	<image>energy_shot</image>
+	<explosion>explosion_energy</explosion>
+	<launchSounds>
+		<sound>energy</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>ionHit1</sound>
+		<sound>ionHit2</sound>
+		<sound>ionHit3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>ionShields1</sound>
+		<sound>ionShields2</sound>
+		<sound>ionShields3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>emv_mvfs_4</weaponArt>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_ARTILLERY_REBEL_LASER">
+	<type>LASER</type>
+	<title>Prototype Gatling Artillery</title>
+	<short>Artillery</short>
+	<desc>[Base cooldown: 15/13.4/11.8/10.2/8.6/7/5.4] An impressively engineered laser artillery that chains its cooldown after every barrage, keeping enemy shields under constant fire.</desc>
+	<tooltip>Artillery: A relatively quick charging burst of lasers with moderate status effect chances.</tooltip>
+	<damage>1</damage>
+	<shots>3</shots>
+	<sp>0</sp>
+	<fireChance>4</fireChance>
+	<breachChance>4</breachChance>
+	<stunChance>2</stunChance>
+	<cooldown>15</cooldown>
+	<power>1</power>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<image>laser_heavy</image>
+	<launchSounds>
+		<sound>lightLaser1</sound>
+		<sound>lightLaser2</sound>
+		<sound>lightLaser3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+    <boost>
+		<type>cooldown</type>
+		<amount>1.6</amount>
+		<count>6</count>
+	</boost>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>emv_rebel_laser_artillery</weaponArt>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_VINDICATOR">
+	<type>LASER</type>
+	<title>Vindicator Laser</title>
+	<short>Vindicator</short>
+	<tip>tip_laser</tip>
+	<desc>Let it hit you and you're already dead.</desc>
+	<tooltip></tooltip>
+	<iconReplace>prime_laser_icon</iconReplace>
+	<damage>2</damage>
+	<shots>4</shots>
+	<sp>1</sp>
+	<fireChance>0</fireChance>
+	<breachChance>10</breachChance>
+	<cooldown>20</cooldown>
+	<power>2</power>
+	<cost>100</cost>
+	<bp>7</bp>
+	<rarity>0</rarity>
+	<image>laser_prime</image>
+	<explosion>explosion_random</explosion>
+	<launchSounds>
+		<sound>ancient_laser</sound>
+		<sound>ancient_laser</sound>
+		<sound>ancient_laser</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>smallExplosion</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>emv_vindicator</weaponArt>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_GILDED_TSUKIYARI">
+	<type>BEAM</type>
+	<tip>tip_adapter</tip>
+	<!--<title>[style[color:ffb045]]Gilded 'Tsukiyari' Beam[[/style]]</title>
+	<short>[style[color:ffb045]]G.[[/style]][style[color:ffbd64]] Tsu[[/style]][style[color:ffd780]]kiy[[/style]][style[color:ffc369]]ari[[/style]]</short>-->
+	<title>Gilded 'Tsukiyari' Beam</title>
+	<short>G. 'Tsukiyari'</short>
+	<desc>This advanced Beam was a prototype upgrade of the well known Kamayari and Suyari Beams.</desc>
+	<tooltip>Boss Loot.</tooltip>
+	<damage>2</damage>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>2</breachChance>
+	<cooldown>18</cooldown>
+	<power>5</power>
+	<cost>140</cost>
+	<bp>7</bp>
+	<rarity>0</rarity>
+	<length>80</length>
+	<image>beam_contact</image>
+	<boost>
+		<type>damage</type>
+		<amount>1.5</amount>
+		<count>999</count>
+	</boost>
+	<launchSounds>
+		<sound>beam2</sound>
+	</launchSounds>
+	<weaponArt>emv_gilded_tsuki</weaponArt>
+	<iconImage>beam</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_GILDED_PREION">
+	<type>BEAM</type>
+	<!--<title>[style[color:ffb045]]Gilded Ion Blast[[/style]]</title>
+	<short>[style[color:ffb045]]G.[[/style]][style[color:ffbd64]] Pr[[/style]][style[color:ffd780]]e-[[/style]][style[color:ffc369]]ion[[/style]]</short>-->
+	<title>Gilded Ion Blast</title>
+	<short>G. Pre-ion</short>
+	<locked>1</locked>
+	<tip>tip_preemptive</tip>
+	<desc>This ion weapon uses no power, charges instantly, and fires a strong ion beam capable of taking out enemy shields very effectively. However, it can only be shot once per combat.</desc>
+	<tooltip>Fires a single blast that does 1 ion damage. Can hit and disable shields as well as systems.</tooltip>
+	<damage>0</damage>
+	<ionBeamFix>true</ionBeamFix>
+	<mv-aiSystemTarget system="shields"/>
+	<ion>5</ion>
+	<speed>5</speed>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<stunChance>0</stunChance>
+	<cooldown>1</cooldown>
+	<power>0</power>
+	<mv-conservative/>
+	<cost>65</cost>
+	<bp>3</bp>
+	<rarity>0</rarity>
+	<color>
+		<r>133</r>
+		<g>231</g>
+		<b>237</b>
+	</color>
+	<shotLimit>1</shotLimit>
+	<length>1</length>
+	<image>explosion_small_ion</image>
+	<launchSounds>
+		<sound>ionShoot1</sound>
+		<sound>ionShoot2</sound>
+		<sound>ionShoot3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>ionHit1</sound>
+		<sound>ionHit2</sound>
+		<sound>ionHit3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>ionShields1</sound>
+		<sound>ionShields2</sound>
+		<sound>ionShields3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>emv_gilded_preion</weaponArt> 
+	<iconImage>ion_chain</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_GILDED_PREFIRE">
+	<type>BEAM</type>
+	<tip>tip_preemptive</tip>
+	<!--<title>[style[color:ffb045]]Gilded Pre-emptive 'Torch'[[/style]]</title>
+	<short>[style[color:ffb045]]G.[[/style]][style[color:ffbd64]] Pre-[[/style]][style[color:ffd780]]'Tor[[/style]][style[color:ffc369]]ch'[[/style]]</short>-->
+	<title>Gilded Pre-emptive 'Torch'</title>
+	<short>G. Pre-'Torch'</short>
+	<desc>A rapidly charging Pre-emptive weapon that pierces all shields and lights the enemy ship ablaze with a slow moving beam. Can only be fired once per combat.</desc>
+	<tooltip>Beam weapon that starts fires.</tooltip>
+	<damage>0</damage>
+	<sp>11</sp>
+	<fireChance>10</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>1</cooldown>
+	<power>0</power>
+	<mv-conservative/>
+	<cost>100</cost>
+	<shotLimit>1</shotLimit>
+	<bp>6</bp>
+	<rarity>0</rarity>
+	<speed>1</speed>
+	<length>60</length>
+	<image>beam_contact</image>
+	<launchSounds>
+		<sound>beam2</sound>
+	</launchSounds>
+	<weaponArt>emv_gilded_prefire</weaponArt> 
+	<iconImage>beam</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_GILDED_BEAM_4">
+	<type>BEAM</type>
+	<!--<title>[style[color:ffb045]]Gilded 'Voulge' Beam[[/style]]</title>
+	<short>[style[color:ffb045]]G.[[/style]][style[color:ffbd64]] 'Vou[[/style]][style[color:ffd780]]lg[[/style]][style[color:ffc369]]e'[[/style]]</short>-->
+	<title>Gilded 'Voulge' Beam</title>
+	<short>G. 'Voulge'</short>
+	<tip>tip_beams</tip>
+	<desc>The heaviest hitting Beam ever conceived, made in direct response for a poor fool who dared utter that the Glaive might be as strong as it gets.</desc>
+	<tooltip>Large beam that does 4 damage per room.</tooltip>
+	<damage>4</damage>
+	<sp>0</sp>
+	<fireChance>1</fireChance>
+	<breachChance>5</breachChance>
+	<cooldown>25</cooldown>
+	<power>5</power>
+	<cost>110</cost>
+	<bp>12</bp>
+	<rarity>0</rarity>
+	<length>100</length>
+	<image>beam_contact</image>
+	<launchSounds>
+		<sound>beam2</sound>
+	</launchSounds>
+	<weaponArt>emv_gilded_beam_4</weaponArt> 
+	<iconImage>beam</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_GILDED_ARTI_1">
+	<type>LASER</type>
+	<title>Piercing Heavy Laser</title>
+	<short>Pierce Heavy</short>
+	<tip>tip_laser</tip>
+	<desc>[ARTILLERY, PIERCE HEAVY ARTI, 2 DAMAGE, CANNOT MISS, 3 PER CHARGE, LOCKDOWN ON HIT]</desc>
+	<tooltip>Heavy laser; 2 damage, 1 shot. 11 second cooldown. Pierces 1 shield layer.</tooltip>
+	<damage>2</damage>
+	<mv-stealth/>
+	<shots>1</shots>
+	<sp>1</sp>
+	<fireChance>0</fireChance>
+	<breachChance>4</breachChance>
+	<stunChance>2</stunChance>
+	<cooldown>18</cooldown>
+	<power>1</power>
+	<cost>65</cost>
+	<shots>3</shots>
+	<bp>6</bp>
+	<rarity>0</rarity>
+	<image>laser_heavy</image>
+	<launchSounds>
+		<sound>heavyLaser1</sound>
+		<sound>heavyLaser2</sound>
+		<sound>heavyLaser3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>emv_gilded_arti_1</weaponArt>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_GILDED_ARTI_2">
+	<type>MISSILES</type>
+	<tip>tip_particle_missiles</tip>
+	<title>Particle Missile</title>
+	<short>Particle M.</short>
+	<desc>[ARTILLERY, PARTICLE MISSILE ARTI, 1 SYS DAMAGE, CANNOT MISS, 3 PER CHARGE, LOCKDOWN ON HIT]</desc>
+	<tooltip>Part Missile; 7 system damage, 1 shot. 22 second cooldown. Starts Fires.</tooltip>
+	<damage>0</damage>
+	<sysDamage>1</sysDamage>
+	<accuracyMod>10</accuracyMod>
+	<shots>3</shots>
+	<sp>10</sp>
+	<fireChance>2</fireChance>
+	<lockdown>1</lockdown>
+	<breachChance>0</breachChance>
+	<stunChance>0</stunChance>
+	<cooldown>30</cooldown>
+	<power>3</power>
+	<cost>75</cost>
+	<bp>6</bp>
+	<rarity>0</rarity>
+	<image>missile_particle</image>
+	<launchSounds>
+		<sound>smallMissile1</sound>
+		<sound>smallMissile2</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>smallExplosion</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>emv_gilded_arti_2</weaponArt>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_GILDED_ARTI_3">
+	<type>BEAM</type>
+	<tip>tip_bio</tip>
+	<title>'Fauchard' Beam</title>
+	<short>'Fauchard'</short>
+	<desc>This terrifying radiation Beam is capable of shredding shipboard systems in addition to crew.</desc>
+	<tooltip>2 power beam weapon that greatly damages enemy crew.</tooltip>
+	<sysDamage>2</sysDamage>
+	<persDamage>4</persDamage>
+	<statBoosts>
+        <statBoost name="moveSpeedMultiplier" load="RAD_MOVE"/>
+		<statBoost name="stunMultiplier" load="RAD_STUN"/>
+        <statBoost name="repairSpeed" load="RAD_REPAIR"/>
+    </statBoosts>
+	<sp>10</sp>
+	<fireChance>0</fireChance>
+	<breachChance>1</breachChance>
+	<cooldown>30</cooldown>
+	<speed>15</speed>
+	<power>3</power>
+	<cost>70</cost>
+	<bp>6</bp>
+	<rarity>0</rarity>
+	<length>90</length>
+	<image>beam_contact</image>
+	<launchSounds>
+		<sound>beam2</sound>
+	</launchSounds>
+	<weaponArt>emv_gilded_arti_3</weaponArt>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_GILDED_ARTI_4">
+	<type>LASER</type>
+	<flavorType>Concentrated Energy Blast</flavorType>
+	<title>Heavy Energy</title>
+	<short>Heavy Energy</short>
+	<tip>tip_energy</tip>
+	<locked>1</locked>
+	<desc>Energy weapons can disable systems while also causing hull damage. This one does additional hull damage on systemless rooms.</desc>
+	<tooltip>Fires a single blast that does 2 ion damage and 1 hull damage. Can hit and disable shields as well as systems. 2x hull damage on systemless rooms.</tooltip>
+	<damage>2</damage>
+	<noSysDamage>true</noSysDamage>
+	<noPersDamage>true</noPersDamage>
+	<ion>2</ion>
+	<hullBust>1</hullBust>
+	<speed>40</speed>
+	<shots>3</shots>
+	<sp>0</sp>
+	<fireChance>4</fireChance>
+	<breachChance>0</breachChance>
+	<stunChance>0</stunChance>
+	<cooldown>15</cooldown>
+	<power>2</power>
+	<cost>50</cost>
+	<bp>3</bp>
+	<rarity>0</rarity>
+	<image>energy_shot</image>
+	<explosion>explosion_energy</explosion>
+	<launchSounds>
+		<sound>energy</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>ionHit1</sound>
+		<sound>ionHit2</sound>
+		<sound>ionHit3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>ionShields1</sound>
+		<sound>ionShields2</sound>
+		<sound>ionShields3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>emv_gilded_arti_4</weaponArt>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_GILDED_LASER_FIRE">
+	<type>LASER</type>
+	<title>Fire-Starter</title>
+	<short>Fire-Starter</short>
+	<tip>tip_laser</tip>
+	<desc>A modified Laser weapon which starts a fire with each projectile, as well as harming enemy systems and hull but not crew.</desc>
+	<tooltip>Burst laser; 1 damage, 2 shots. 14 second cooldown. Starts fires.</tooltip>
+	<damage>1</damage>
+	<noPersDamage>true</noPersDamage>
+	<shots>2</shots>
+	<sp>0</sp>
+	<fireChance>10</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>14</cooldown>
+	<power>2</power>
+	<cost>60</cost>
+	<bp>7</bp>
+	<rarity>0</rarity>
+	<image>laser_burst</image>
+	<launchSounds>
+		<sound>lightLaser1</sound>
+		<sound>lightLaser2</sound>
+		<sound>lightLaser3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>emv_gilded_laser_fire</weaponArt>
+	<iconImage>laser</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_GILDED_MISSILE_FIRE_ENEMY">
+	<type>MISSILES</type>
+	<tip>tip_missiles</tip>
+	<title>'Hades' Missiles</title>
+	<short>'Hades'</short>
+	<desc>YOU SHOULD NEVER SEE THIS.</desc>
+	<tooltip>Fires 1 missile; does 1 damage; pierces all shields.</tooltip>
+	<damage>2</damage>
+	<missiles>1</missiles>
+	<speed>50</speed>
+	<shots>1</shots>
+	<sp>10</sp>
+	<fireChance>10</fireChance>
+	<breachChance>0</breachChance>
+	<stunChance>2</stunChance>
+	<cooldown>18</cooldown>
+	<power>3</power>
+	<cost>70</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<image>missile_fire</image>
+	<launchSounds>
+		<sound>smallMissile1</sound>
+		<sound>smallMissile2</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>explosion_heavy</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>emv_gilded_missiles_fire</weaponArt>
+	<iconImage>missile</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_GILDED_SHOTGUN_FIRE">
+	<type>BURST</type>
+	<flavorType>Physical Projectile Blast</flavorType>
+	<drone_targetable>1</drone_targetable>
+	<title>Ignited Flak Gun</title>
+	<short>Fire Flak</short>
+	<tip>tip_flak</tip>
+	<desc>Fires 4 flaming projectiles that have an increased chance to start a fire.</desc>
+	<tooltip>Fires a blast of debris across a random area doing up to 7 damage.</tooltip>
+	<radius>55</radius>
+	<damage>1</damage>
+	<spin>720</spin>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>8</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>12</cooldown>
+	<power>3</power>
+	<cost>80</cost>
+	<bp>10</bp>
+	<speed>26</speed>
+	<rarity>0</rarity>
+	<projectiles>
+		<projectile count="1" fake="false">debris_large_fire</projectile>
+		<projectile count="3" fake="false">debris_med</projectile>
+		<projectile count="6" fake="true">debris_small</projectile>
+	</projectiles>
+	<launchSounds>
+		<sound>flak</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>flakImpact1</sound>
+		<sound>flakImpact2</sound>
+		<sound>flakImpact3</sound>
+		<sound>flakImpact4</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>emv_gilded_shotgun_fire</weaponArt> 
+	<iconImage>flak</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_GILDED_FOCUS_CHAIN_ENEMY">
+	<type>BEAM</type>
+	<flavorType>Focus Gun</flavorType>
+	<tip>tip_focus</tip>
+	<title>'Cinquedea' Pinpoint</title>
+    <short>'Cinquedea'</short>
+    <desc>This Pinpoint weapon only does a moderate amount of damage, but quickly ramps up its fire rate until it becomes devastating on enemies with their shields down.</desc>
+    <tooltip>Three damage when there are no shields. Otherwise, 2 damage or less.</tooltip>
+	<damage>2</damage>
+    <sp>0</sp>
+    <fireChance>0</fireChance>
+    <breachChance>2</breachChance>
+    <cooldown>12</cooldown>
+    <speed>1</speed>
+    <power>4</power>
+    <cost>90</cost>
+    <bp>2</bp>
+    <rarity>0</rarity>
+    <image>beam_contact</image>
+    <boost>
+		<type>cooldown</type>
+		<amount>1.6</amount>
+		<count>5</count>
+	</boost>
+    <length>1</length>
+	<launchSounds>
+		<sound>focus_weak</sound>
+	</launchSounds>
+	<weaponArt>emv_gilded_focus_chain</weaponArt>
+	<iconImage>beam</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_GILDED_MODULAR_LASER">
+	<type>LASER</type>
+	<title>Modular Laser</title>
+	<short>Mod. Laser</short>
+	<tip>tip_laser</tip>
+	<desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+	Has no incompatible modules.
+	----CURRENTLY INSTALLED MODULES----
+	Attribute - Firestarter
+	Status - Lockdown</desc>
+	<tooltip>No modules attached.</tooltip>
+	<damage>1</damage>
+	<shots>3</shots>
+	<lockdown>1</lockdown>
+	<sp>0</sp>
+	<fireChance>3</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>14</cooldown>
+	<power>2</power>
+	<cost>80</cost>
+	<bp>4</bp>
+	<rarity>0</rarity>
+	<image>laser_frost</image>
+	<launchSounds>
+		<sound>lightLaser1</sound>
+		<sound>lightLaser2</sound>
+		<sound>lightLaser3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>emv_gilded_modular_laser</weaponArt>
+	<iconImage>laser</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="EMV_GILDED_UPLIFTED_LASER">
+	<type>LASER</type>
+	<title>Uplifted Burst Laser II</title>
+	<short>Uplifted II</short>
+	<tip>tip_laser</tip>
+	<desc>Pew pew pew, ssstranger.</desc>
+	<tooltip>Pew pew pew, ssstranger.</tooltip>
+	<damage>1</damage>
+	<shots>3</shots>
+	<sp>0</sp>
+	<fireChance>8</fireChance>
+	<breachChance>10</breachChance>
+	<stunChance>10</stunChance>
+	<cooldown>13</cooldown>
+	<power>2</power>
+	<cost>85</cost>
+	<bp>7</bp>
+	<rarity>0</rarity>
+	<image>laser_burst</image>
+	<launchSounds>
+		<sound>lightLaser1</sound>
+		<sound>lightLaser2</sound>
+		<sound>lightLaser3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>emv_gilded_uplifted_laser</weaponArt>
+	<iconImage>laser</iconImage>
+</weaponBlueprint>
+
+
+
+

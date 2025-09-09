@@ -1,0 +1,76 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/sector_data.xml.append:3
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_GILDED_FINALE\"]/nameList/name"
+msgstr "The Last Stand."
+
+#: src-en/data/sector_data.xml.append:66
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[1]"
+msgstr "Renegade Colonies"
+
+#: src-en/data/sector_data.xml.append:67
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[2]"
+msgstr "Renegade Space"
+
+#: src-en/data/sector_data.xml.append:68
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[3]"
+msgstr "Renegade Settlements"
+
+#: src-en/data/sector_data.xml.append:69
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[4]"
+msgstr "Renegade Frontier"
+
+#: src-en/data/sector_data.xml.append:70
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[5]"
+msgstr "Renegade Territory"
+
+#: src-en/data/sector_data.xml.append:71
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[6]"
+msgstr "Renegade Domain"
+
+#: src-en/data/sector_data.xml.append:72
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[7]"
+msgstr "Renegade Rimworlds"
+
+#: src-en/data/sector_data.xml.append:73
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[8]"
+msgstr "Renegade Regions"
+
+#: src-en/data/sector_data.xml.append:74
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[9]"
+msgstr "Renegade Precinct"
+
+#: src-en/data/sector_data.xml.append:75
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[10]"
+msgstr "Renegade District"
+
+#: src-en/data/sector_data.xml.append:76
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[11]"
+msgstr "Renegade Turf"
+
+#: src-en/data/sector_data.xml.append:77
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[12]"
+msgstr "Renegade Quarter"
+
+#: src-en/data/sector_data.xml.append:78
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[13]"
+msgstr "Renegade Outreaches"

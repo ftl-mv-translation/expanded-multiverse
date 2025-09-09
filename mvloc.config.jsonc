@@ -1,0 +1,90 @@
+{
+    "filePatterns": [
+        // Files to translate (glob pattern)
+
+        "data/autoBlueprints.xml.append",
+        "data/blueprints.xml.append",
+        "data/hyperspace.xml.append",
+        "data/events_sector_emv_droppoint.xml",
+        "data/events_sector_emv_gilded.xml",
+        "data/events_special_guards.xml.append",
+        "data/events_special_morality.xml.append",
+        "data/sector_data.xml.append",
+        "data/text_blueprints.xml.append",
+        "data/events_special_lightspeed.xml.append",
+        "data/events_special_multiverse.xml.append",
+        "data/events_special_storage.xml.append",
+        "data/text_misc.xml.append",
+        "data/text_events.xml.append",
+        "mod-appendix/metadata.xml"
+    ],
+    "stringSelectionXPath": [
+        // XML text extraction rules (XPath)
+
+        "//crewBlueprint/title",
+        "//crewBlueprint/short",
+        "//crewBlueprint/desc",
+        "//crewBlueprint/powerList/power",
+        "//weaponBlueprint/title",
+        "//weaponBlueprint/desc",
+        "//weaponBlueprint/short",
+        "//weaponBlueprint/tooltip",
+        "//shipBlueprint/class",
+        "//shipBlueprint/desc",
+        "//shipBlueprint/name",
+        "//augBlueprint/title",
+        "//augBlueprint/desc",
+
+        "//unvisitedTooltip",
+        "//visitedTooltip",
+        "//win/@text",
+        "//mod:findLike/mod-append:page/section/@text",
+        "//crewMember",
+        "//customStore/category/customTitle",
+		
+        // sector
+        "//sectorDescription/nameList/name",
+
+
+        "//text",
+        "//metadata/title",
+        "//metadata/description",
+        "//metadata/author",
+        "//mod-append:shipIcon/tooltip",
+        "//powerEffect/buttonText",
+        "//powerEffect/tooltip",
+        "//mod:findLike/mod-append:customShip/crew/*/@name",
+        "//customShip/crew/*/@name",
+    ],
+
+    "useDummyRoot": true,
+
+    "languageSpecifics": {
+        "ko": {
+            "copySourceTemplate": [
+                // Aka wont-translate.
+                // Specify which entries are 1:1-copied from English by default when syncing the English changes.
+
+                "//crewBlueprint/short",
+                "//droneBlueprint/short",
+                "//weaponBlueprint/short",
+                "//crewMember",
+                "//customShip/crew/*/@name",
+                "//mod-append:customShip/crew/*/@name",
+                "//spawnCrew/name",
+            ]
+        },
+        "zh_Hans": {
+            // Apply the translation flagged as fuzzy.
+            "applyUseFuzzy": true
+        }
+    },
+
+    "packaging": {
+        "fullOriginal": [
+            "https://github.com/ftl-mv-translation/expanded-multiverse/raw/expanded-multiverse-english/EMV_0.6.1.zip",
+        ],
+        "prefix": "Expanded-Multiverse",
+        "version": "0.6.1"
+    }
+}

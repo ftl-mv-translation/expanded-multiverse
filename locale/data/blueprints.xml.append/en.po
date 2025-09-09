@@ -1,0 +1,1509 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:4
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/desc"
+msgstr ""
+"Elite human crew. The skilled and deadly Rogue crew, trained to serve the Old Glory.\n"
+"\t\n"
+"\tInherited Human stat: minor suffocation resistance"
+
+#: src-en/data/blueprints.xml.append:8
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/title"
+msgstr "Rogue Mercenary"
+
+#: src-en/data/blueprints.xml.append:9
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/short"
+msgstr "Mercenary"
+
+#: src-en/data/blueprints.xml.append:12
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[1]"
+msgstr ""
+"Active ability: Performs a quick knife slash that inflicts a Bleeding "
+"debuff."
+
+#: src-en/data/blueprints.xml.append:13
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[2]"
+msgstr "Inflicts 1.1x damage in crew combat."
+
+#: src-en/data/blueprints.xml.append:14
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[3]"
+msgstr "Takes 0.9x damage from crew combat and 0.6x from fires."
+
+#: src-en/data/blueprints.xml.append:15
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[4]"
+msgstr "Learns skills much faster."
+
+#: src-en/data/blueprints.xml.append:20
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/desc"
+msgstr ""
+"Super elite human crew. Carrying their Ace training, these guys can cripple "
+"even the morale of their prey, leaving them easy targets."
+
+#: src-en/data/blueprints.xml.append:22
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/title"
+msgstr "Rogue Commander"
+
+#: src-en/data/blueprints.xml.append:23
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/short"
+msgstr "Commander"
+
+#: src-en/data/blueprints.xml.append:26
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[1]"
+msgstr ""
+"Active ability: Shouts a roaring battle cry that empowers your human crew, "
+"and crippling the morale of all non-human crew at the same time."
+
+#: src-en/data/blueprints.xml.append:27
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[2]"
+msgstr "Inflicts 1.8x damage in crew combat."
+
+#: src-en/data/blueprints.xml.append:28
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[3]"
+msgstr "Sabotages systems at 2x speed."
+
+#: src-en/data/blueprints.xml.append:29
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[4]"
+msgstr "Takes 0.7x damage from crew combat, fires, and suffocation."
+
+#: src-en/data/blueprints.xml.append:30
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[5]"
+msgstr "Trained in lvl2 skills."
+
+#: src-en/data/blueprints.xml.append:35
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/desc"
+msgstr "Admiral Vance of the Multiversal Rogue Fleet. Sort of a criminal."
+
+#: src-en/data/blueprints.xml.append:37
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/title"
+msgstr "Rogue Admiral"
+
+#: src-en/data/blueprints.xml.append:38
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/short"
+msgstr "Rogue Admiral"
+
+#: src-en/data/blueprints.xml.append:41
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[1]"
+msgstr "Max Health is increased to 150."
+
+#: src-en/data/blueprints.xml.append:42
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[2]"
+msgstr "Moves at 0.6x speed."
+
+#: src-en/data/blueprints.xml.append:43
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[3]"
+msgstr "Deals 2x damage in crew combat. Sabotages at 2.2x speed."
+
+#: src-en/data/blueprints.xml.append:44
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[4]"
+msgstr "Takes half damage from Hazards."
+
+#: src-en/data/blueprints.xml.append:45
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[5]"
+msgstr ""
+"Self-administers medicine, healing 3.2hp/s if unharmed for 15 seconds."
+
+#: src-en/data/blueprints.xml.append:46
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[6]"
+msgstr "Trained in lvl2 skills."
+
+#: src-en/data/blueprints.xml.append:47
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[7]"
+msgstr "Resists mind control."
+
+#: src-en/data/blueprints.xml.append:48
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[8]"
+msgstr ""
+"Will cloak at 30hp, becoming briefly uncontrollable but heals very quickly. "
+"Cannot be targeted."
+
+#: src-en/data/blueprints.xml.append:49
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[9]"
+msgstr ""
+"Sheer xenophobia buffs allied humans in the same room, causing them to deal "
+"1.25x damage, have 1.1x health and repair 1.2x as fast."
+
+#: src-en/data/blueprints.xml.append:54
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/desc"
+msgstr ""
+"The infamous Beam Master, and apparently the Right Hand Woman of the "
+"Multiversal Rogue Fleet."
+
+#: src-en/data/blueprints.xml.append:56
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/title"
+msgstr "The Beam Master"
+
+#: src-en/data/blueprints.xml.append:57
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/short"
+msgstr "The Beam Master"
+
+#: src-en/data/blueprints.xml.append:60
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[1]"
+msgstr "Inflicts 1.4x damage in crew combat."
+
+#: src-en/data/blueprints.xml.append:61
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[2]"
+msgstr "Sabotages systems at 1.5x speed."
+
+#: src-en/data/blueprints.xml.append:62
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[3]"
+msgstr "Takes 0.7x damage from crew combat, fires, and suffocation."
+
+#: src-en/data/blueprints.xml.append:63
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[4]"
+msgstr "Trained in lvl1 skills."
+
+#: src-en/data/blueprints.xml.append:64
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[5]"
+msgstr "Can teleport across any ship."
+
+#: src-en/data/blueprints.xml.append:69
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/desc"
+msgstr ""
+"Elite medic crew. Allies of a Multiversal criminal, but not as combative or keen on fixing up aliens..\n"
+"\n"
+"\tInherited Human stats: minor hazardous damage resistance, learns non-combat skills faster"
+
+#: src-en/data/blueprints.xml.append:73
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/title"
+msgstr "Rogue Medic"
+
+#: src-en/data/blueprints.xml.append:74
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/short"
+msgstr "Medic"
+
+#: src-en/data/blueprints.xml.append:77
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[1]"
+msgstr ""
+"Active Ability: Heals all nearby allies for 15 hp and Halves damage taken "
+"briefly."
+
+#: src-en/data/blueprints.xml.append:78
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[2]"
+msgstr "Regenerates 3.2hp/s if unharmed for 15 seconds."
+
+#: src-en/data/blueprints.xml.append:79
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[3]"
+msgstr "All human crew heal 2 hp/s."
+
+#: src-en/data/blueprints.xml.append:80
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[4]"
+msgstr "Inflicts halved damage in crew combat, learns combat slower."
+
+#: src-en/data/blueprints.xml.append:96
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/desc"
+msgstr ""
+"Elite engineer crew. Skilled engineers who have repurposed their brawns for combat and repurposed drones to provide repairs.\n"
+"\n"
+"\tInherited Human stats: minor suffocation resistance, learns skills faster"
+
+#: src-en/data/blueprints.xml.append:100
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/title"
+msgstr "Rogue Engineer"
+
+#: src-en/data/blueprints.xml.append:101
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/short"
+msgstr "Engineer"
+
+#: src-en/data/blueprints.xml.append:104
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[1]"
+msgstr "Active Ability: Summons a Repair Drone that lasts for 25 seconds."
+
+#: src-en/data/blueprints.xml.append:105
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[2]"
+msgstr "0.25x repair speed."
+
+#: src-en/data/blueprints.xml.append:106
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[3]"
+msgstr "1.5x Combat Damage."
+
+#: src-en/data/blueprints.xml.append:107
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[4]"
+msgstr "Takes 0.6x damage from fires."
+
+#: src-en/data/blueprints.xml.append:108
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[5]"
+msgstr "Learns repairs even faster."
+
+#: src-en/data/blueprints.xml.append:134
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/desc"
+msgstr ""
+"Former Bishop and part of the Queen's personal guard and now the greatest Mantis bounty hunter. Also has deep appreciation to Victoria era clothing.\n"
+"\n"
+"\tInherited Bishop Stat: 1.65x Movement speed, 0.07x repair speed."
+
+#: src-en/data/blueprints.xml.append:137
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/title"
+msgstr "Mantis Bountymaster"
+
+#: src-en/data/blueprints.xml.append:138
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/short"
+msgstr "Bountymaster"
+
+#: src-en/data/blueprints.xml.append:142
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[1]"
+msgstr ""
+"Active ability: Deploy pheromone bomb that greatly increases their combat "
+"damage and denies enemy healing."
+
+#: src-en/data/blueprints.xml.append:143
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[2]"
+msgstr "Deals 2.5x combat damage. Takes 0.6x damage in crew combat."
+
+#: src-en/data/blueprints.xml.append:144
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[3]"
+msgstr "Health increased to 125."
+
+#: src-en/data/blueprints.xml.append:145
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[4]"
+msgstr "Immune to Suffocation and takes halved damage from fires."
+
+#: src-en/data/blueprints.xml.append:150
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/desc"
+msgstr ""
+"An unusually well versed former Mantis Warlord that excels in medical practice, but will kick you down regardless. An avid appreciator of human culture centered around health and medicine.\n"
+"\n"
+"\tInherited Warlord Stat: 0.8x Damage taken in crew combat, 0.5x repair speed."
+
+#: src-en/data/blueprints.xml.append:153
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/title"
+msgstr "Mantis Doctor"
+
+#: src-en/data/blueprints.xml.append:154
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/short"
+msgstr "Doctor"
+
+#: src-en/data/blueprints.xml.append:158
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[1]"
+msgstr ""
+"Active ability: Releases medical pheromones that heal allied crew for "
+"7.5hp/s."
+
+#: src-en/data/blueprints.xml.append:159
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[2]"
+msgstr "Combat damage increased to 1.4x."
+
+#: src-en/data/blueprints.xml.append:160
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[3]"
+msgstr "Health increased to 110."
+
+#: src-en/data/blueprints.xml.append:166
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/class"
+msgstr "MV Auto-Cruiser"
+
+#: src-en/data/blueprints.xml.append:167
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/name"
+msgstr "Whirlwind"
+
+#: src-en/data/blueprints.xml.append:168
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/desc"
+msgstr ""
+"One of the forerunners of Multiversal travelling done by the Rebellion, this"
+" reprogrammed automated vessel is a nearly perfected vicious war machine."
+
+#: src-en/data/blueprints.xml.append:245
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/class"
+msgstr "MV Coalition Cruiser"
+
+#: src-en/data/blueprints.xml.append:246
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/name"
+msgstr "Birgus latro"
+
+#: src-en/data/blueprints.xml.append:247
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/desc"
+msgstr ""
+"The formation of the Coalition has been agreed upon by the notorious leaders"
+" of the Hive, the Theocracy, the Kleptocracy and the Eargen republic. Their "
+"goal is simple; vanquish their enemies, even through realities."
+
+#: src-en/data/blueprints.xml.append:324
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/class"
+msgstr "MV Kadahellian Cruiser"
+
+#: src-en/data/blueprints.xml.append:325
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/name"
+msgstr "Bioethanol"
+
+#: src-en/data/blueprints.xml.append:326
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/desc"
+msgstr ""
+"Having finally set aside their differences, the Florals and Vampweeds "
+"decided to take this ship, alongside an unlikely ally, to a joyride. They "
+"didn't expect that abandoning their former ideals was profitable."
+
+#: src-en/data/blueprints.xml.append:485
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/class"
+msgstr "MV Federation Auto-Cruiser"
+
+#: src-en/data/blueprints.xml.append:486
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/name"
+msgstr "Lunokhod"
+
+#: src-en/data/blueprints.xml.append:487
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/desc"
+msgstr ""
+"A last ditch effort made by the Federation to mend the shortage of well "
+"armed Multiversal ships. Despite being originally made for research, it has "
+"been hastily refitted for combat purposes, paired with its pinpoint sensors'"
+" accuracy."
+
+#: src-en/data/blueprints.xml.append:565
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/class"
+msgstr "MV Angelic Deathbringer"
+
+#: src-en/data/blueprints.xml.append:566
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/name"
+msgstr "Raphael"
+
+#: src-en/data/blueprints.xml.append:567
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/desc"
+msgstr ""
+"When Vael caught wind of the surge of Multiversal travelling, he wasted no "
+"time expanding his business across realities. This killer ship was the "
+"perfect candidate for his endeavours."
+
+#: src-en/data/blueprints.xml.append:643
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/class"
+msgstr "MV Free Mantis Cruiser"
+
+#: src-en/data/blueprints.xml.append:644
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/name"
+msgstr "Stardust"
+
+#: src-en/data/blueprints.xml.append:645
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/desc"
+msgstr ""
+"You're not sure how, but whatever pheromone addiction the Free Mantis have "
+"couldn't stop them from getting a ship made for Multiversal purposes. This "
+"ship is a great example of the primal force of the Free Mantis, and their "
+"hate for the Hive and Zoltans."
+
+#: src-en/data/blueprints.xml.append:722
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/class"
+msgstr "MV Militia Cruiser"
+
+#: src-en/data/blueprints.xml.append:723
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/name"
+msgstr "Marshall"
+
+#: src-en/data/blueprints.xml.append:724
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/desc"
+msgstr ""
+"One of the Militia's trustworthy Multiversal protectors. This massive "
+"warship is well suited to protect any Union sector in any reality from "
+"unwanted intruders."
+
+#: src-en/data/blueprints.xml.append:806
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/class"
+msgstr "MV Zoltan Cruiser"
+
+#: src-en/data/blueprints.xml.append:807
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/name"
+msgstr "Zero-Point"
+
+#: src-en/data/blueprints.xml.append:808
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/desc"
+msgstr ""
+"Following the orders of Minister Lumei, the Zoltan Ministry decided to "
+"expand its reach into the multiverse, unraveling its wonders and threats."
+
+#: src-en/data/blueprints.xml.append:884
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/class"
+msgstr "MV Republican Cruiser"
+
+#: src-en/data/blueprints.xml.append:885
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/name"
+msgstr "The Tyrannobdella"
+
+#: src-en/data/blueprints.xml.append:886
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/desc"
+msgstr ""
+"The Federation recovery teams managed to unravel some unused blueprints for "
+"a Republican cruiser outfitted for MV travel purposes. This cruiser lives up"
+" to the lost glory of the Eargen Republic."
+
+#: src-en/data/blueprints.xml.append:963
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/class"
+msgstr "MV Lost Sun Cruiser"
+
+#: src-en/data/blueprints.xml.append:964
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/name"
+msgstr "The Sojourner"
+
+#: src-en/data/blueprints.xml.append:965
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/desc"
+msgstr ""
+"Due to the countless attempts by the Theocracy to hunt them down, the Lost "
+"Sun commandos have no other option but to clash with their cruel brethren in"
+" their own battle across realities."
+
+#: src-en/data/blueprints.xml.append:1043
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/class"
+msgstr "Alt-MV Flagship"
+
+#: src-en/data/blueprints.xml.append:1044
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/name"
+msgstr "Ruptura Realitatis"
+
+#: src-en/data/blueprints.xml.append:1045
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/desc"
+msgstr ""
+"Having wrapped himself around the past, clinging to it, the Vance of this "
+"ship specifically built it as a homage to one of his defeats, and the might "
+"that his foes shall face."
+
+#: src-en/data/blueprints.xml.append:1116
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/class"
+msgstr "Alt-MV Rebel Cruiser"
+
+#: src-en/data/blueprints.xml.append:1117
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/name"
+msgstr "Columbus"
+
+#: src-en/data/blueprints.xml.append:1118
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/desc"
+msgstr ""
+"The oldest known model of Rebel ships designed to endure Multiversal travel."
+" This ship, despite being weaker than its newer counterparts, still packs a "
+"strong punch with its gatling artillery."
+
+#: src-en/data/blueprints.xml.append:1196
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/class"
+msgstr "MV Theocracy Cruiser"
+
+#: src-en/data/blueprints.xml.append:1197
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/name"
+msgstr "Cobalt Inquisitor"
+
+#: src-en/data/blueprints.xml.append:1198
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/desc"
+msgstr ""
+"Recovery teams suggest that the original purpose of this cruiser was hunting"
+" down Outcasts across realities. Despite its bloody past, it's still a "
+"strong, durable ship."
+
+#: src-en/data/blueprints.xml.append:1274
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/class"
+msgstr "MV Hektar Cruiser(tm)"
+
+#: src-en/data/blueprints.xml.append:1275
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/name"
+msgstr "Extended Warranty"
+
+#: src-en/data/blueprints.xml.append:1276
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/desc"
+msgstr ""
+"When Billy Hektar was thinking about ideas for his expansion of business, he"
+" didn't think about going even far beyond his reality. Following the steps "
+"of his enigmatic brother, he decided to doom his employees to Overtime(tm) "
+"work."
+
+#: src-en/data/blueprints.xml.append:1354
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/class"
+msgstr "MV Bishop Cruiser"
+
+#: src-en/data/blueprints.xml.append:1355
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/name"
+msgstr "The Whetstone"
+
+#: src-en/data/blueprints.xml.append:1356
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/desc"
+msgstr ""
+"Despite their original mission of guarding the Queen Leikonpliiinakra, this "
+"Bishop task force was specifically ordered by said Queen to help strengthen "
+"the dominance of the Hive."
+
+#: src-en/data/blueprints.xml.append:1510
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/class"
+msgstr "Alt-MV Enforcer Cruiser"
+
+#: src-en/data/blueprints.xml.append:1511
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/name"
+msgstr "Brutus"
+
+#: src-en/data/blueprints.xml.append:1512
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/desc"
+msgstr ""
+"Originally belonging to one of the Rebellion's MV fleet. This cruiser "
+"deserted said fleet and joined the MV Enforcer unit, although the pilot of "
+"this warship refused giving it up for the standard issue MV Enforcer "
+"cruisers."
+
+#: src-en/data/blueprints.xml.append:1589
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/class"
+msgstr "MV Paladin Cruiser"
+
+#: src-en/data/blueprints.xml.append:1590
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/name"
+msgstr "Varangian"
+
+#: src-en/data/blueprints.xml.append:1591
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/desc"
+msgstr ""
+"The Paladin crew occupying this ship defected and escaped the assault of "
+"Numa V. They're outlaws to the Theocracy, but it's not like they have "
+"anything to lose now with their hulking mass of a battleship."
+
+#: src-en/data/blueprints.xml.append:1667
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/class"
+msgstr "MV Spook Chaser Cruiser"
+
+#: src-en/data/blueprints.xml.append:1668
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/name"
+msgstr "Burton"
+
+#: src-en/data/blueprints.xml.append:1669
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/desc"
+msgstr ""
+"The designer of this nefarious ship has claimed the lives of countless "
+"unfortunate Renegade travellers, and won't stop until he scores the big "
+"game."
+
+#: src-en/data/blueprints.xml.append:1744
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/class"
+msgstr "MV Lanius Cruiser"
+
+#: src-en/data/blueprints.xml.append:1745
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/name"
+msgstr "Cr-24-G6-P4"
+
+#: src-en/data/blueprints.xml.append:1746
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/desc"
+msgstr ""
+"It's unclear how the Lanius managed to acquire MV technology, but the "
+"recovery teams assume that they snacked upon a few unlucky travellers."
+
+#: src-en/data/blueprints.xml.append:1824
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/class"
+msgstr "MV Innovation Cruiser"
+
+#: src-en/data/blueprints.xml.append:1825
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/name"
+msgstr "P.U.R.E."
+
+#: src-en/data/blueprints.xml.append:1826
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/desc"
+msgstr ""
+"For whatever reason, the Rebel made C.I.C.A A.I decided to migrate itself "
+"into this secret MV class cruiser, boasting ulterior motives that are yet to"
+" be understood."
+
+#: src-en/data/blueprints.xml.append:1901
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/class"
+msgstr "MV Duskbringer Cruiser"
+
+#: src-en/data/blueprints.xml.append:1902
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/name"
+msgstr "Fuzzball"
+
+#: src-en/data/blueprints.xml.append:1903
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/desc"
+msgstr ""
+"For whatever reason, the Duskbringers took their valued technology and "
+"decided to work as Renegades. Did their cause falter? Who knows, all you "
+"know is that their ship is no joke!"
+
+#: src-en/data/blueprints.xml.append:1979
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/class"
+msgstr "MV Hive Cruiser"
+
+#: src-en/data/blueprints.xml.append:1980
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/name"
+msgstr "The Komodoensis"
+
+#: src-en/data/blueprints.xml.append:1981
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/desc"
+msgstr ""
+"As part of Queen Leikonpliiinakra's plan to expand the influence of the Hive"
+" and seek out the Free Mantis colonies to destroy them, she comissioned one "
+"of the finest Mantis ships to be outfitted for such task, even across "
+"realities."
+
+#: src-en/data/blueprints.xml.append:2058
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/class"
+msgstr "MV Sodium Cruiser"
+
+#: src-en/data/blueprints.xml.append:2059
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/name"
+msgstr "The Soolane"
+
+#: src-en/data/blueprints.xml.append:2060
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/desc"
+msgstr ""
+"Having grown bored of harassing the entire Slug race forfree, the legendary "
+"Salt Man decided to join the ranks of the MVPMC to get paid for harassing "
+"Slugs and other wet work."
+
+#: src-en/data/blueprints.xml.append:2211
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/class"
+msgstr "MV Prototype Cruiser"
+
+#: src-en/data/blueprints.xml.append:2212
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/name"
+msgstr "Vane"
+
+#: src-en/data/blueprints.xml.append:2213
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/desc"
+msgstr ""
+"Despite the nature of this vessel, it bears an oxymoronic sentiment to it. "
+"No pirate can hide from it, and no civilian can fight it off easily."
+
+#: src-en/data/blueprints.xml.append:2289
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/class"
+msgstr "MV Cultivator Cruiser"
+
+#: src-en/data/blueprints.xml.append:2290
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/name"
+msgstr "CRISPR"
+
+#: src-en/data/blueprints.xml.append:2291
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/desc"
+msgstr ""
+"The Confederate Premier, Ivar, commissioned his elite Cultivators to scout "
+"the realities, in hopes of giving the Oro'bache Vampweeds a stronger "
+"backbone."
+
+#: src-en/data/blueprints.xml.append:2369
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/class"
+msgstr "MV MFK Cruiser Ace"
+
+#: src-en/data/blueprints.xml.append:2370
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/name"
+msgstr "Soldat Etranger"
+
+#: src-en/data/blueprints.xml.append:2371
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/desc"
+msgstr ""
+"A result of the many successful attempts at Multiversal travel. This Ace "
+"cruiser is well suited to pilot itself while its crew can tear through enemy"
+" ships, up close and personal."
+
+#: src-en/data/blueprints.xml.append:2450
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/class"
+msgstr "Mortis' Crewser"
+
+#: src-en/data/blueprints.xml.append:2451
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/name"
+msgstr "Arescentem Rosa"
+
+#: src-en/data/blueprints.xml.append:2452
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/desc"
+msgstr ""
+"A beast on the outside that rips through its enemies with ease, but on the "
+"inside, you'll find a very enthusiastic killer that loves coffee and a very "
+"special someone."
+
+#: src-en/data/blueprints.xml.append:2523
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/class"
+msgstr "Vitae's Crewser"
+
+#: src-en/data/blueprints.xml.append:2524
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/name"
+msgstr "Rosa Viridis"
+
+#: src-en/data/blueprints.xml.append:2525
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/desc"
+msgstr ""
+"The alluring hues of this cruiser give off a vibes of clarity and peace, "
+"mostly because it's, more or less, a portable clinic and spa that will still"
+" kill you, by love or by the claws of its doctor."
+
+#: src-en/data/blueprints.xml.append:2596
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_MORTIS_PHEROMONES\"]/title"
+msgstr "Withered Pheromones"
+
+#: src-en/data/blueprints.xml.append:2597
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_MORTIS_PHEROMONES\"]/desc"
+msgstr ""
+"A concoction of Mortis' personally brewed pheromones. Mixed with a variety of deadly toxins and a very lethal dose of caffeine, making the air smell like a deadly café.\n"
+"\t\n"
+"\tFor each powered level in life support, enemies are afflicted with a 10% decrease to health and a 5% decrease to movement speed.\n"
+"\n"
+"\tA fully powered level 4 Life support system causes enemies to take damage while on your ship, and gain a decay-like effect when harmed on theirs.\n"
+"\tAllied Mantis crew are given a 1.1x damage multiplier for each power in life support."
+
+#: src-en/data/blueprints.xml.append:2609
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_VITAE_PHEROMONES\"]/title"
+msgstr "Blossoming Pheromones"
+
+#: src-en/data/blueprints.xml.append:2610
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_VITAE_PHEROMONES\"]/desc"
+msgstr ""
+"Vitae's specially brewed concoction of medical pheromones. Filled with aromatic herbs and remedies that can tranquilize even the angriest of equinoids and send them into a relaxing sleep.\n"
+"\t\n"
+"\tProvides cross-ship healing for allied crew, scaling with both Medbay and Life support systems' power levels.\n"
+"\tFor each powered level in life support, Allied crew gain a 1.1x multiplier to health, repair speed and movement speed."
+
+#: src-en/data/blueprints.xml.append:2620
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PERMISSION\"]/title"
+msgstr "EMV PERMISSION"
+
+#: src-en/data/blueprints.xml.append:2621
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PERMISSION\"]/desc"
+msgstr "MAKES MV FLAGSHIP WORK YOU SHOULDNT SEE THIS"
+
+#: src-en/data/blueprints.xml.append:2628
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AI_SCANNER\"]/title"
+msgstr "Advanced Navigator"
+
+#: src-en/data/blueprints.xml.append:2629
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AI_SCANNER\"]/desc"
+msgstr ""
+"Reveals details about surrounding beacons, and allows the autoship to jump "
+"to any previously visited beacon."
+
+#: src-en/data/blueprints.xml.append:2636
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PREPERATION\"]/title"
+msgstr "Advanced Navigation AI"
+
+#: src-en/data/blueprints.xml.append:2637
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PREPERATION\"]/desc"
+msgstr ""
+"Reveals details about surrounding beacons, and allows the autoship to jump "
+"to any previous visited beacon. Grants the ship basic autoship "
+"functionality."
+
+#: src-en/data/blueprints.xml.append:2644
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AUTOMATION\"]/title"
+msgstr "Advanced Rebellion AI"
+
+#: src-en/data/blueprints.xml.append:2645
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AUTOMATION\"]/desc"
+msgstr ""
+"The Advanced Rebel AI has taken full control over the ship! Reveals details "
+"about surrounding beacons and allows the autoship to jump to any previous "
+"visited beacon. Grants the ship full autoship functionality and disables "
+"oxygen generation."
+
+#: src-en/data/blueprints.xml.append:2652
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_RETRO_SHIELDING\"]/title"
+msgstr "Advanced Shielding Unit"
+
+#: src-en/data/blueprints.xml.append:2653
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_RETRO_SHIELDING\"]/desc"
+msgstr "Provides a stacking energy shield, used in the MV Retro Flagship."
+
+#: src-en/data/blueprints.xml.append:2661
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/title"
+msgstr "Gilded Shielding"
+
+#: src-en/data/blueprints.xml.append:2662
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/desc"
+msgstr ""
+"Advanced Shielding powered by the purest aether imaginable, slowly recovers "
+"if undamaged for long periods of time.."
+
+#: src-en/data/blueprints.xml.append:2670
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/title"
+msgstr "Gilded Weapons"
+
+#: src-en/data/blueprints.xml.append:2671
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/desc"
+msgstr ""
+"Advanced Weapon Systems powered by the purest aether imaginable, grants "
+"faster weapon fire rate.."
+
+#: src-en/data/blueprints.xml.append:2678
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/title"
+msgstr "Gilded Regenerative Plating"
+
+#: src-en/data/blueprints.xml.append:2679
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/desc"
+msgstr ""
+"Good luck puncturing this armor! Wielding 25% Hull and System resistance and"
+" auto-repair functions!"
+
+#: src-en/data/blueprints.xml.append:2686
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/title"
+msgstr "Gilded Divine Armor"
+
+#: src-en/data/blueprints.xml.append:2687
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/desc"
+msgstr ""
+"Good luck puncturing this armor! Wielding 25% Hull and System resistance and"
+" auto-repair functions!"
+
+#: src-en/data/blueprints.xml.append:2694
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/title"
+msgstr "Gilded Gel"
+
+#: src-en/data/blueprints.xml.append:2695
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/desc"
+msgstr ""
+"Indescribable gel with the capability to not just repair breaches but "
+"systems as well."
+
+#: src-en/data/blueprints.xml.append:2702
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/title"
+msgstr "Gilded Medbots"
+
+#: src-en/data/blueprints.xml.append:2703
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/desc"
+msgstr ""
+"Powerful Nanobots that not only heal but buff crew depending on medbay "
+"power!"
+
+#: src-en/data/blueprints.xml.append:2710
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PURE_INTELLECT\"]/title"
+msgstr "Advanced Cognizance"
+
+#: src-en/data/blueprints.xml.append:2711
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PURE_INTELLECT\"]/desc"
+msgstr ""
+"The Apex of AI Technology, Combines the abilities of the Advanced Navigator,"
+" Emancipation Grid and Drive Hacker."
+
+#: src-en/data/blueprints.xml.append:2722
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_PARASITE\"]/title"
+msgstr "[L] Parasitical Dep."
+
+#: src-en/data/blueprints.xml.append:2723
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_PARASITE\"]/desc"
+msgstr ""
+"Leeches have 60 less Max Health and do 4x less damage by default, but steal 3hp/s from all other enemy non-Leech crew in the room.\n"
+"\t\n"
+"\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself."
+
+#: src-en/data/blueprints.xml.append:2732
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_HIVESLASH\"]/title"
+msgstr "[L] Claw Slash"
+
+#: src-en/data/blueprints.xml.append:2733
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_HIVESLASH\"]/desc"
+msgstr ""
+"Regular Mantis gain a slash ability that does 15 damage to all enemy crew in the room. Can only slash twice per jump.\n"
+"\t\n"
+"\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself."
+
+#: src-en/data/blueprints.xml.append:2742
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_CARETAKER_HAZARD\"]/title"
+msgstr "[L] Calming Spores"
+
+#: src-en/data/blueprints.xml.append:2743
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_CARETAKER_HAZARD\"]/desc"
+msgstr ""
+"Caretakers provide fire and stun immunity to nearby allies and themselves but no longer generate oxygen.\n"
+"\t\n"
+"\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself."
+
+#: src-en/data/blueprints.xml.append:2752
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_ADV_FREQUENCIES\"]/title"
+msgstr "Advanced Frequencies"
+
+#: src-en/data/blueprints.xml.append:2753
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_ADV_FREQUENCIES\"]/desc"
+msgstr ""
+"Allows detection of various piracy events, Also serves the same functions as"
+" Hijacked Frequencies."
+
+#: src-en/data/blueprints.xml.append:2761
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/title"
+msgstr "Heavy Piercing Laser Artillery"
+
+#: src-en/data/blueprints.xml.append:2762
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/short"
+msgstr "Pierce Heavy"
+
+#: src-en/data/blueprints.xml.append:2764
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/desc"
+msgstr ""
+"[Base cooldown: 18] Fires a barrage of powerful heavy lasers that pierce a "
+"shield layer."
+
+#: src-en/data/blueprints.xml.append:2765
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/tooltip"
+msgstr "Heavy laser Barrage, 2 damage, 1 shot. Pierces 1 shield layer."
+
+#: src-en/data/blueprints.xml.append:2801
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/title"
+msgstr "Particle Missile Artillery"
+
+#: src-en/data/blueprints.xml.append:2802
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/short"
+msgstr "Particle M."
+
+#: src-en/data/blueprints.xml.append:2803
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/desc"
+msgstr ""
+"[Base cooldown: 30] Launches a barrage of particle missiles that devastate "
+"ship systems and lockdown rooms."
+
+#: src-en/data/blueprints.xml.append:2804
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/tooltip"
+msgstr "Particle Missile barrage, 1 sys damage, afflicts lockdown on hit."
+
+#: src-en/data/blueprints.xml.append:2842
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/title"
+msgstr "Advanced Fauchard Artillery"
+
+#: src-en/data/blueprints.xml.append:2843
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/short"
+msgstr "'Fauchard'"
+
+#: src-en/data/blueprints.xml.append:2844
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/desc"
+msgstr ""
+"[Base cooldown: 30] Fires off a devastating anti-bio beam that rips through "
+"enemy systems. Pierces all normal shields."
+
+#: src-en/data/blueprints.xml.append:2845
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/tooltip"
+msgstr "Fauchard Artillery, Extremely long beam, Pierces shields."
+
+#: src-en/data/blueprints.xml.append:2873
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/title"
+msgstr "Heavy Energy Artillery"
+
+#: src-en/data/blueprints.xml.append:2874
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/short"
+msgstr "Heavy Energy"
+
+#: src-en/data/blueprints.xml.append:2877
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/desc"
+msgstr ""
+"[Base cooldown: 15] Fires a barrage of concentrated energy projectiles that "
+"deal hull and system damage with doubled hull damage in systemless rooms."
+
+#: src-en/data/blueprints.xml.append:2878
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/tooltip"
+msgstr ""
+"Fires a barrage of heavy energy projectiles. Can hit and disable shields as "
+"well as systems. 2x hull damage on systemless rooms."
+
+#: src-en/data/blueprints.xml.append:2918
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/title"
+msgstr "Prototype Gatling Artillery"
+
+#: src-en/data/blueprints.xml.append:2919
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/short"
+msgstr "Artillery"
+
+#: src-en/data/blueprints.xml.append:2920
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/desc"
+msgstr ""
+"[Base cooldown: 15/13.4/11.8/10.2/8.6/7/5.4] An impressively engineered "
+"laser artillery that chains its cooldown after every barrage, keeping enemy "
+"shields under constant fire."
+
+#: src-en/data/blueprints.xml.append:2921
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/tooltip"
+msgstr ""
+"Artillery: A relatively quick charging burst of lasers with moderate status "
+"effect chances."
+
+#: src-en/data/blueprints.xml.append:2959
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/title"
+msgstr "Vindicator Laser"
+
+#: src-en/data/blueprints.xml.append:2960
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/short"
+msgstr "Vindicator"
+
+#: src-en/data/blueprints.xml.append:2962
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/desc"
+msgstr "Let it hit you and you're already dead."
+
+#: src-en/data/blueprints.xml.append:3001
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/title"
+msgstr "Gilded 'Tsukiyari' Beam"
+
+#: src-en/data/blueprints.xml.append:3002
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/short"
+msgstr "G. 'Tsukiyari'"
+
+#: src-en/data/blueprints.xml.append:3003
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/desc"
+msgstr ""
+"This advanced Beam was a prototype upgrade of the well known Kamayari and "
+"Suyari Beams."
+
+#: src-en/data/blueprints.xml.append:3004
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/tooltip"
+msgstr "Boss Loot."
+
+#: src-en/data/blueprints.xml.append:3032
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/title"
+msgstr "Gilded Ion Blast"
+
+#: src-en/data/blueprints.xml.append:3033
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/short"
+msgstr "G. Pre-ion"
+
+#: src-en/data/blueprints.xml.append:3036
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/desc"
+msgstr ""
+"This ion weapon uses no power, charges instantly, and fires a strong ion "
+"beam capable of taking out enemy shields very effectively. However, it can "
+"only be shot once per combat."
+
+#: src-en/data/blueprints.xml.append:3037
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/tooltip"
+msgstr ""
+"Fires a single blast that does 1 ion damage. Can hit and disable shields as "
+"well as systems."
+
+#: src-en/data/blueprints.xml.append:3089
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/title"
+msgstr "Gilded Pre-emptive 'Torch'"
+
+#: src-en/data/blueprints.xml.append:3090
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/short"
+msgstr "G. Pre-'Torch'"
+
+#: src-en/data/blueprints.xml.append:3091
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/desc"
+msgstr ""
+"A rapidly charging Pre-emptive weapon that pierces all shields and lights "
+"the enemy ship ablaze with a slow moving beam. Can only be fired once per "
+"combat."
+
+#: src-en/data/blueprints.xml.append:3092
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/tooltip"
+msgstr "Beam weapon that starts fires."
+
+#: src-en/data/blueprints.xml.append:3118
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/title"
+msgstr "Gilded 'Voulge' Beam"
+
+#: src-en/data/blueprints.xml.append:3119
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/short"
+msgstr "G. 'Voulge'"
+
+#: src-en/data/blueprints.xml.append:3121
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/desc"
+msgstr ""
+"The heaviest hitting Beam ever conceived, made in direct response for a poor"
+" fool who dared utter that the Glaive might be as strong as it gets."
+
+#: src-en/data/blueprints.xml.append:3122
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/tooltip"
+msgstr "Large beam that does 4 damage per room."
+
+#: src-en/data/blueprints.xml.append:3143
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/title"
+msgstr "Piercing Heavy Laser"
+
+#: src-en/data/blueprints.xml.append:3144
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/short"
+msgstr "Pierce Heavy"
+
+#: src-en/data/blueprints.xml.append:3146
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/desc"
+msgstr ""
+"[ARTILLERY, PIERCE HEAVY ARTI, 2 DAMAGE, CANNOT MISS, 3 PER CHARGE, LOCKDOWN"
+" ON HIT]"
+
+#: src-en/data/blueprints.xml.append:3147
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/tooltip"
+msgstr ""
+"Heavy laser; 2 damage, 1 shot. 11 second cooldown. Pierces 1 shield layer."
+
+#: src-en/data/blueprints.xml.append:3184
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/title"
+msgstr "Particle Missile"
+
+#: src-en/data/blueprints.xml.append:3185
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/short"
+msgstr "Particle M."
+
+#: src-en/data/blueprints.xml.append:3186
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/desc"
+msgstr ""
+"[ARTILLERY, PARTICLE MISSILE ARTI, 1 SYS DAMAGE, CANNOT MISS, 3 PER CHARGE, "
+"LOCKDOWN ON HIT]"
+
+#: src-en/data/blueprints.xml.append:3187
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/tooltip"
+msgstr ""
+"Part Missile; 7 system damage, 1 shot. 22 second cooldown. Starts Fires."
+
+#: src-en/data/blueprints.xml.append:3224
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/title"
+msgstr "'Fauchard' Beam"
+
+#: src-en/data/blueprints.xml.append:3225
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/short"
+msgstr "'Fauchard'"
+
+#: src-en/data/blueprints.xml.append:3226
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/desc"
+msgstr ""
+"This terrifying radiation Beam is capable of shredding shipboard systems in "
+"addition to crew."
+
+#: src-en/data/blueprints.xml.append:3227
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/tooltip"
+msgstr "2 power beam weapon that greatly damages enemy crew."
+
+#: src-en/data/blueprints.xml.append:3255
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/title"
+msgstr "Heavy Energy"
+
+#: src-en/data/blueprints.xml.append:3256
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/short"
+msgstr "Heavy Energy"
+
+#: src-en/data/blueprints.xml.append:3259
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/desc"
+msgstr ""
+"Energy weapons can disable systems while also causing hull damage. This one "
+"does additional hull damage on systemless rooms."
+
+#: src-en/data/blueprints.xml.append:3260
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/tooltip"
+msgstr ""
+"Fires a single blast that does 2 ion damage and 1 hull damage. Can hit and "
+"disable shields as well as systems. 2x hull damage on systemless rooms."
+
+#: src-en/data/blueprints.xml.append:3300
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/title"
+msgstr "Fire-Starter"
+
+#: src-en/data/blueprints.xml.append:3301
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/short"
+msgstr "Fire-Starter"
+
+#: src-en/data/blueprints.xml.append:3303
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/desc"
+msgstr ""
+"A modified Laser weapon which starts a fire with each projectile, as well as"
+" harming enemy systems and hull but not crew."
+
+#: src-en/data/blueprints.xml.append:3304
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/tooltip"
+msgstr "Burst laser; 1 damage, 2 shots. 14 second cooldown. Starts fires."
+
+#: src-en/data/blueprints.xml.append:3341
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/title"
+msgstr "'Hades' Missiles"
+
+#: src-en/data/blueprints.xml.append:3342
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/short"
+msgstr "'Hades'"
+
+#: src-en/data/blueprints.xml.append:3343
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/desc"
+msgstr "YOU SHOULD NEVER SEE THIS."
+
+#: src-en/data/blueprints.xml.append:3344
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/tooltip"
+msgstr "Fires 1 missile; does 1 damage; pierces all shields."
+
+#: src-en/data/blueprints.xml.append:3382
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/title"
+msgstr "Ignited Flak Gun"
+
+#: src-en/data/blueprints.xml.append:3383
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/short"
+msgstr "Fire Flak"
+
+#: src-en/data/blueprints.xml.append:3385
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/desc"
+msgstr ""
+"Fires 4 flaming projectiles that have an increased chance to start a fire."
+
+#: src-en/data/blueprints.xml.append:3386
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/tooltip"
+msgstr "Fires a blast of debris across a random area doing up to 7 damage."
+
+#: src-en/data/blueprints.xml.append:3430
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/title"
+msgstr "'Cinquedea' Pinpoint"
+
+#: src-en/data/blueprints.xml.append:3431
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/short"
+msgstr "'Cinquedea'"
+
+#: src-en/data/blueprints.xml.append:3432
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/desc"
+msgstr ""
+"This Pinpoint weapon only does a moderate amount of damage, but quickly "
+"ramps up its fire rate until it becomes devastating on enemies with their "
+"shields down."
+
+#: src-en/data/blueprints.xml.append:3433
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/tooltip"
+msgstr "Three damage when there are no shields. Otherwise, 2 damage or less."
+
+#: src-en/data/blueprints.xml.append:3460
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/title"
+msgstr "Modular Laser"
+
+#: src-en/data/blueprints.xml.append:3461
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/short"
+msgstr "Mod. Laser"
+
+#: src-en/data/blueprints.xml.append:3463
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/desc"
+msgstr ""
+"Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.\n"
+"\tHas no incompatible modules.\n"
+"\t----CURRENTLY INSTALLED MODULES----\n"
+"\tAttribute - Firestarter\n"
+"\tStatus - Lockdown"
+
+#: src-en/data/blueprints.xml.append:3468
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/tooltip"
+msgstr "No modules attached."
+
+#: src-en/data/blueprints.xml.append:3504
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/title"
+msgstr "Uplifted Burst Laser II"
+
+#: src-en/data/blueprints.xml.append:3505
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/short"
+msgstr "Uplifted II"
+
+#: src-en/data/blueprints.xml.append:3507
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/desc"
+msgstr "Pew pew pew, ssstranger."
+
+#: src-en/data/blueprints.xml.append:3508
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/tooltip"
+msgstr "Pew pew pew, ssstranger."
