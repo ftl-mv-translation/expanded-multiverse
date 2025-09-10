@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-09 12:50+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-09-10 16:18+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -17,21 +17,27 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/desc"
 msgstr ""
+"Элитный экипаж людей. Опытный и смертоносный экипаж Разбойников, обученный "
+"служить Старому порядку.\n"
+"\t\n"
+"\tНаследует характеристики человека: незначительная сопротивляемость удушью"
 
 #: src-en/data/blueprints.xml.append:8
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/title"
-msgstr ""
+msgstr "Наемник Разбойников"
 
 #: src-en/data/blueprints.xml.append:9
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/short"
-msgstr ""
+msgstr "Наемник"
 
 #: src-en/data/blueprints.xml.append:12
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: выполняет быстрый удар ножом, накладывающий дебафф "
+"\"Кровотечение\"."
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
@@ -52,21 +58,26 @@ msgstr "Осваивает навыки гораздо быстрее."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/desc"
 msgstr ""
+"Суперэлитный экипаж людей. Благодаря своему отличным навыкам, эти парни "
+"могут подорвать боевой дух своих жертв, превратив их в легкую добычу."
 
 #: src-en/data/blueprints.xml.append:22
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/title"
-msgstr ""
+msgstr "Командир Разбойников"
 
 #: src-en/data/blueprints.xml.append:23
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/short"
-msgstr ""
+msgstr "Командир"
 
 #: src-en/data/blueprints.xml.append:26
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: издает грозный боевой клич, который придает силы "
+"вашему экипажу людей и одновременно подрывает боевой дух всех нечеловеческих "
+"членов экипажа."
 
 #: src-en/data/blueprints.xml.append:27
 msgid ""
@@ -91,14 +102,15 @@ msgstr "Обучен навыкам 2 уровня."
 #: src-en/data/blueprints.xml.append:35
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/desc"
 msgstr ""
+"Адмирал Вэнс из флота Разбойников Мультивселенной. Своего рода преступник."
 
 #: src-en/data/blueprints.xml.append:37
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/title"
-msgstr ""
+msgstr "Разбойник-Адмирал"
 
 #: src-en/data/blueprints.xml.append:38
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/short"
-msgstr ""
+msgstr "Разбойник-Адмирал"
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
@@ -113,7 +125,7 @@ msgstr "Передвигается со скоростью 0.6х."
 #: src-en/data/blueprints.xml.append:43
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[3]"
-msgstr ""
+msgstr "Наносит урон в 2х урона в бою с экипажем. 2.2х скорость диверсии."
 
 #: src-en/data/blueprints.xml.append:44
 msgid ""
@@ -141,15 +153,21 @@ msgstr "Сопротивляется контролю разума."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[8]"
 msgstr ""
+"При 30 ОЗ становится невидимым, на короткое время теряет контроль над собой, "
+"но очень быстро восстанавливает здоровье. Не может быть целью атаки."
 
 #: src-en/data/blueprints.xml.append:49
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[9]"
 msgstr ""
+"Искренняя ксенофобия объединяет людей в одном отсеке, заставляя их наносить "
+"в 1.25х урона в бою, иметь 1.1х здоровья и лечиться со скоростью 1.2х."
 
 #: src-en/data/blueprints.xml.append:54
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/desc"
 msgstr ""
+"Печально известная Мастер Лучей и, по всей видимости, правая рука флота "
+"Разбойников Мультивселенной."
 
 #: src-en/data/blueprints.xml.append:56
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/title"
@@ -185,14 +203,20 @@ msgid ""
 msgstr "Может телепортироваться на любой корабль."
 
 #: src-en/data/blueprints.xml.append:69
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/desc"
 msgstr ""
+"Элитный медицинский экипаж. Соратники преступников Мультивселенной, но не "
+"столь воинственные и не столь заинтересованные в лечении пришельцев.\n"
+"\n"
+"Наследует  характеристики людей: небольшая устойчивость к опасностям, "
+"быстрее осваивает небоевые навыки."
 
 #: src-en/data/blueprints.xml.append:73
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/title"
-msgstr ""
+msgstr "Медик Разбойников"
 
 #: src-en/data/blueprints.xml.append:74
 msgid ""
@@ -203,6 +227,8 @@ msgstr "Медик"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: исцеляет всех союзников поблизости на 15 ОЗ и на "
+"короткое время уменьшает получаемый урон вдвое."
 
 #: src-en/data/blueprints.xml.append:78
 msgid ""
@@ -212,7 +238,7 @@ msgstr "Регенерирует 3.2 ОЗ/с, если не получает у�
 #: src-en/data/blueprints.xml.append:79
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[3]"
-msgstr ""
+msgstr "Все члены экипажа восстанавливают 2 ОЗ/с."
 
 #: src-en/data/blueprints.xml.append:80
 msgid ""
@@ -223,11 +249,17 @@ msgstr "Наносит вдвое меньший урон в бою с экип�
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/desc"
 msgstr ""
+"Элитный экипаж инженеров. Квалифицированные инженеры, которые направили свою "
+"физическую силу для боевых действий и перепрофилировали дронов для "
+"проведения ремонтных работ.\n"
+"\n"
+"\tНаследует характеристики людей: небольшая сопротивляемость удушью, быстрое "
+"освоение навыков."
 
 #: src-en/data/blueprints.xml.append:100
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/title"
-msgstr ""
+msgstr "Инженер Разбойников"
 
 #: src-en/data/blueprints.xml.append:101
 msgid ""
@@ -238,6 +270,8 @@ msgstr "Инженер"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: вызывает ремонтный дрон, который действует в течении "
+"25 секунд."
 
 #: src-en/data/blueprints.xml.append:105
 msgid ""
@@ -263,26 +297,33 @@ msgstr "Учится ремонту еще быстрее."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/desc"
 msgstr ""
+"Бывший Епископ и член личной гвардии королевы, а ныне величайший охотник за "
+"головами из клана богомолов. Также очень любит одежду викторианской эпохи.\n"
+"\n"
+"\tНаследует характеристики Епископа: 1.65х скорость передвижения, 0.07x "
+"скорость ремонта."
 
 #: src-en/data/blueprints.xml.append:137
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/title"
-msgstr ""
+msgstr "Богомол Баунтимастер"
 
 #: src-en/data/blueprints.xml.append:138
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/short"
-msgstr ""
+msgstr "Баунтимастер"
 
 #: src-en/data/blueprints.xml.append:142
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Размещает феромонную бомбу, которая значительно "
+"увеличивает его боевой урон и лишает врагов возможности лечения."
 
 #: src-en/data/blueprints.xml.append:143
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[2]"
-msgstr ""
+msgstr "Наносит 2.5х боевой урон. Получает 0.6х урон в бою с экипажем."
 
 #: src-en/data/blueprints.xml.append:144
 msgid ""
@@ -298,26 +339,34 @@ msgstr "Невосприимчив к удушью и получает вдво�
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/desc"
 msgstr ""
+"Необычайно опытный бывший Полководец богомолов, который преуспел в медицине, "
+"но при этом не пощадит вас. Ярый поклонник человеческой культуры, связанной "
+"со здоровьем и медициной.\n"
+"\n"
+"\tНаследует характеристики Полководца: 0.8x получаемый урон в бою с "
+"экипажем, 0.5x скорость ремонта."
 
 #: src-en/data/blueprints.xml.append:153
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/title"
-msgstr ""
+msgstr "Богомол Доктор"
 
 #: src-en/data/blueprints.xml.append:154
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/short"
-msgstr ""
+msgstr "Доктор"
 
 #: src-en/data/blueprints.xml.append:158
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: выделяет медицинские феромоны, которые лечат союзников "
+"на 7.5 ОЗ/с."
 
 #: src-en/data/blueprints.xml.append:159
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[2]"
-msgstr ""
+msgstr "Урон в бою увеличен до 1.4х."
 
 #: src-en/data/blueprints.xml.append:160
 msgid ""
@@ -335,9 +384,13 @@ msgid ""
 msgstr "Вихрь"
 
 #: src-en/data/blueprints.xml.append:168
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/desc"
 msgstr ""
+"Один из предшественников путешествий по Мультивселенной, осуществляемых "
+"повстанцами, этот перепрограммированный автоматизированный корабль "
+"представляет собой почти совершенную чудовищную военную машину."
 
 #: src-en/data/blueprints.xml.append:245
 msgid ""
@@ -353,6 +406,9 @@ msgstr "Пальмовый вор"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/desc"
 msgstr ""
+"О создании коалиции договорились известные лидеры Улья, Теократии, "
+"Клептократии и Иргенской Республики. Их цель проста: победить своих врагов, "
+"даже сквозь реальности."
 
 #: src-en/data/blueprints.xml.append:324
 msgid ""
@@ -368,6 +424,10 @@ msgstr "Биоэтанол"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/desc"
 msgstr ""
+"Наконец преодолев разногласия, Флоралы и вампсорняки объединились на этом "
+"корабле вместе с неожиданным союзником, чтобы отправиться в захватывающее "
+"путешествие. Они и представить не могли, что отказ от прежних идеалов "
+"окажется настолько плодотворным."
 
 #: src-en/data/blueprints.xml.append:485
 msgid ""
