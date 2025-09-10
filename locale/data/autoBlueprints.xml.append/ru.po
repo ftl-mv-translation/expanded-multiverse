@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-09 15:41+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"PO-Revision-Date: 2025-09-10 16:18+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataautoblueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -26,19 +26,19 @@ msgstr "Сторожевой корабль Ренегата Мультивсе�
 #: src-en/data/autoBlueprints.xml.append:312
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EMV_GILDED_BEAM_MASTER\"]/class"
-msgstr ""
+msgstr "Позолоченный мастер"
 
 #: src-en/data/autoBlueprints.xml.append:349
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EMV_GILDED_SUN\"]/class"
-msgstr ""
+msgstr "Падшее солнце"
 
 #: src-en/data/autoBlueprints.xml.append:388
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EMV_GILDED_TRUEFLAGSHIP\"]/class"
-msgstr ""
+msgstr "\"Анимаэ ауратаэ\""
 
 #: src-en/data/autoBlueprints.xml.append:431
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EMV_GILDED_MERCHANT\"]/class"
-msgstr ""
+msgstr "Позолоченный торговец"
