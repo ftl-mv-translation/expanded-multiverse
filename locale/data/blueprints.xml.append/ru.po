@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-10 16:18+0000\n"
+"PO-Revision-Date: 2025-09-11 20:18+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/datablueprintsxmlappend/ru/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/desc"
 msgstr ""
-"Элитный экипаж людей. Опытный и смертоносный экипаж Разбойников, обученный "
+"Элитный экипаж людей. Опытный и смертоносный экипаж Отступников, обученный "
 "служить Старому порядку.\n"
 "\t\n"
 "\tНаследует характеристики человека: незначительная сопротивляемость удушью"
@@ -25,7 +25,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/title"
-msgstr "Наемник Разбойников"
+msgstr "Наемник Отступников"
 
 #: src-en/data/blueprints.xml.append:9
 msgid ""
@@ -64,7 +64,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/title"
-msgstr "Командир Разбойников"
+msgstr "Командир Отступников"
 
 #: src-en/data/blueprints.xml.append:23
 msgid ""
@@ -102,15 +102,15 @@ msgstr "Обучен навыкам 2 уровня."
 #: src-en/data/blueprints.xml.append:35
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/desc"
 msgstr ""
-"Адмирал Вэнс из флота Разбойников Мультивселенной. Своего рода преступник."
+"Адмирал Вэнс из флота Отступников Мультивселенной. Своего рода преступник."
 
 #: src-en/data/blueprints.xml.append:37
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/title"
-msgstr "Разбойник-Адмирал"
+msgstr "Отступник-Адмирал"
 
 #: src-en/data/blueprints.xml.append:38
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/short"
-msgstr "Разбойник-Адмирал"
+msgstr "Отступник-Адмирал"
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
@@ -167,7 +167,7 @@ msgstr ""
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/desc"
 msgstr ""
 "Печально известная Мастер Лучей и, по всей видимости, правая рука флота "
-"Разбойников Мультивселенной."
+"Отступников Мультивселенной."
 
 #: src-en/data/blueprints.xml.append:56
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/title"
@@ -216,7 +216,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:73
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/title"
-msgstr "Медик Разбойников"
+msgstr "Медик Отступников"
 
 #: src-en/data/blueprints.xml.append:74
 msgid ""
@@ -259,7 +259,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:100
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/title"
-msgstr "Инженер Разбойников"
+msgstr "Инженер Отступников"
 
 #: src-en/data/blueprints.xml.append:101
 msgid ""
