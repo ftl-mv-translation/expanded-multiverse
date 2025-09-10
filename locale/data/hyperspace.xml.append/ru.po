@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-09-10 16:18+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"expanded-multiverse/datahyperspace-xml-append/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/hyperspace.xml.append:19
 msgid ""
@@ -16,6 +24,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_mercenary\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с]\n"
+"\t\t\t\tНакладывает на выбранную цель дебафф кровотечения."
 
 #: src-en/data/hyperspace.xml.append:67
 msgid ""
@@ -24,10 +34,14 @@ msgid ""
 msgstr "ЛЕЧИТЬ"
 
 #: src-en/data/hyperspace.xml.append:68
+#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_medic\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:30с]\n"
+"\t\t\t\tСтимулирует всех ближайших членов экипажа, восстанавливая им 15 "
+"здоровья и давая временную сопротивляемость урону."
 
 #: src-en/data/hyperspace.xml.append:136
 msgid ""
@@ -40,18 +54,24 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_engineer\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:25с]\n"
+"\t\t\t\tСоздает временного дрона-помощника, который может ремонтировать, но "
+"не может сражаться или совершать диверсии. Продолжительность жизни 25 секунд."
 
 #: src-en/data/hyperspace.xml.append:190
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_commander\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЕВОЙ КЛИЧ"
 
 #: src-en/data/hyperspace.xml.append:191
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_commander\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:25с]\n"
+"\t\t\t\tВсе союзные люди в том же отсеке получают усиление, все остальные "
+"расы получают ослабление, независимо от их принадлежности."
 
 #: src-en/data/hyperspace.xml.append:305
 msgid ""
@@ -64,6 +84,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_vance\"]/powerEffect/tooltip"
 msgstr ""
+"На короткое время становится неуправляемым, но очень быстро лечится. Не "
+"может быть целью атаки."
 
 #: src-en/data/hyperspace.xml.append:399
 msgid ""
@@ -76,6 +98,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_emv_mortis\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:20с  ДЛИТЕЛЬНОСТЬ:10с]\n"
+"\t\t\t\tУвеличивает скорость движения до 3.5х и урон по экипажу до 5х. "
+"Теряет возможность ремонтировать, а также не дает врагам лечиться на время "
+"действия."
 
 #: src-en/data/hyperspace.xml.append:457
 msgid ""
@@ -88,6 +114,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_emv_vitae\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:20с  ДЛИТЕЛЬНОСТЬ:10с]\n"
+"\t\t\tВыделяет медицинские феромоны, которые лечат союзников на 7.5 ОЗ/с."
 
 #: src-en/data/hyperspace.xml.append:563
 msgid "data/hyperspace.xml.append$//slug_ranger[@name=\"Bob\"]/@name"
@@ -107,11 +135,11 @@ msgstr "Лия"
 
 #: src-en/data/hyperspace.xml.append:1073
 msgid "data/hyperspace.xml.append$//unique_emv_mortis[@name=\"Mortis\"]/@name"
-msgstr ""
+msgstr "Мортис"
 
 #: src-en/data/hyperspace.xml.append:1095
 msgid "data/hyperspace.xml.append$//unique_emv_vitae[@name=\"Vitae\"]/@name"
-msgstr ""
+msgstr "Витаэ"
 
 #: src-en/data/hyperspace.xml.append:1430
 msgid ""
@@ -138,6 +166,10 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[1]/tooltip"
 msgstr ""
+"[style[color:ffb045]]Позол[[/style]][style[color:ffbd64]]оченная[[/style]]"
+"[style[color:ffd780]] уг[[/style]][style[color:ffc369]]роза:[[/style]]\n"
+"[style[color:ffb045]]Покажи [[/style]][style[color:ffbd64]]нам[[/style]]"
+"[style[color:ffd780]] свою[[/style]][style[color:ffc369]] силу![[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1877
 msgid ""
