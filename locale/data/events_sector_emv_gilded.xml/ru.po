@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-11 20:18+0000\n"
+"PO-Revision-Date: 2025-09-12 13:10+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_sector_emv_gildedxml/ru/>\n"
@@ -535,26 +535,57 @@ msgstr ""
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[2]"
 msgstr ""
+"Вы вернулись туда, где был Сильван, и надеетесь увидеть его корабль или "
+"какие-либо следы его пребывания там, где видели его раньше... И тут вы "
+"получаете сообщение...\n"
+"\n"
+"    \"[style[color:ffc369]]Ссстранник, ссстранник. Я что, ссстал "
+"сссвидетелем эволюции, поссскольку ты вернулссся ко мне ссс недавно "
+"отросссшшшим хвоссстом между ног? Или мне это кажетссся?[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:313
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[3]"
 msgstr ""
+"Вы вернулись туда, где был Сильван, и надеетесь увидеть его корабль или "
+"какие-либо следы его пребывания там, где видели его раньше... И тут вы "
+"получаете сообщение...\n"
+"\n"
+"    \"[style[color:ffc369]]Ссстранник, сссколько раз мне нужно тебя учить, "
+"чтобы ты не убегал?[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:316
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[4]"
 msgstr ""
+"Вы вернулись туда, где был Сильван, и надеетесь увидеть его корабль или "
+"какие-либо следы его пребывания там, где видели его раньше... И тут вы "
+"получаете сообщение...\n"
+"\n"
+"    \"[style[color:ffc369]]Ссстранник, я ценю твою поддержку Сссильвана... Я "
+"прощу тебе это...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:319
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[5]"
 msgstr ""
+"Вы вернулись туда, где был Сильван, и надеетесь увидеть его корабль или "
+"какие-либо следы его пребывания там, где видели его раньше... И тут вы "
+"получаете сообщение...\n"
+"\n"
+"    \"[style[color:ffc369]]Ссстранник, сссколько еще ты будешшшь "
+"готовитьссся к этому?[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:322
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[6]"
 msgstr ""
+"Вы вернулись туда, где был Сильван, и надеетесь увидеть его корабль или "
+"какие-либо следы его пребывания там, где видели его раньше... И тут вы "
+"получаете сообщение...\n"
+"\n"
+"    \"[style[color:ffc369]]Ссстранник, надеюсь, ты понимаешшшь, ссс чем "
+"имеешшшь дело...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:334
 msgid ""
@@ -565,31 +596,58 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[1]"
 msgstr ""
+"Когда вы возвращаетесь на станцию, надеясь на спасение и выход из этого "
+"сектора, прежде чем вы успеваете запросить разрешение, вы получаете "
+"сообщение...\n"
+"\n"
+"    \"[style[color:ffd780]]Как насчет того, чтобы мы вместо этого судили "
+"тебя?[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:344
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[2]"
 msgstr ""
+"Когда вы думаете, что делать, вы понимаете, что вам пришло сообщение... в "
+"нем написано...\n"
+"\n"
+"    \"[style[color:ffd780]]Покажи нам огонь своей решимости![[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:347
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[3]"
 msgstr ""
+"Когда вы думаете, что делать, вы понимаете, что вам пришло сообщение... в "
+"нем написано...\n"
+"\n"
+"    \"[style[color:ffd780]]Почему финал должен быть таким бесславным?!"
+"[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:350
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[4]"
 msgstr ""
+"Когда вы думаете, что делать, вы понимаете, что вам пришло сообщение... в "
+"нем написано...\n"
+"\n"
+"    \"[style[color:ffd780]]Открой нам свои пылающие желания![[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:353
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[5]"
 msgstr ""
+"Когда вы думаете, что делать, вы понимаете, что вам пришло сообщение... в "
+"нем написано...\n"
+"\n"
+"    \"[style[color:ffd780]]Покажи нам свою страсть![[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:356
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[6]"
 msgstr ""
+"Когда вы думаете, что делать, вы понимаете, что вам пришло сообщение... в "
+"нем написано...\n"
+"\n"
+"    \"[style[color:ffd780]]Я обещаю, это не будет больно...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:368
 msgid ""
@@ -599,12 +657,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_emv_gilded.xml:378
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Золотые огни..."
 
 #: src-en/data/events_sector_emv_gilded.xml:381
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/text"
-msgstr ""
+msgstr "Вы наконец достигли кульминации своего путешествия. Конец близок."
 
 #: src-en/data/events_sector_emv_gilded.xml:383
 msgid ""
@@ -614,12 +672,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_emv_gilded.xml:385
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/choice/event/text"
-msgstr ""
+msgstr "\"[style[color:ffc561]]УМРИ, СЦУКА![[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:393
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LOSTSUN_START\"]/text"
-msgstr ""
+msgstr "Следующий корабль материализуется в воздухе перед вами..."
 
 #: src-en/data/events_sector_emv_gilded.xml:395
 msgid ""
@@ -629,12 +687,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_emv_gilded.xml:397
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LOSTSUN_START\"]/choice/event/text"
-msgstr ""
+msgstr "\"[style[color:ffd780]]Встать в строй![[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:405
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_START\"]/text"
-msgstr ""
+msgstr "Следующий корабль материализуется в воздухе перед вами..."
 
 #: src-en/data/events_sector_emv_gilded.xml:407
 msgid ""
@@ -645,11 +703,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_START\"]/choice/event/text"
 msgstr ""
+"\"[style[color:ffc369]]Ссстранник... Ты уже на полпути, продолжай.[[/style]]"
+"\""
 
 #: src-en/data/events_sector_emv_gilded.xml:416
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_AFTERMATH\"]/text"
 msgstr ""
+"\"[style[color:ffc369]]Ссстранник... Молодец, дейссствительно, молодец... Ты "
+"ссс блессском выполнил нашшши требования... Но сссможешшшь ли ты их "
+"превзойти?[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:418
 msgid ""
@@ -660,21 +723,25 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_AFTERMATH\"]/choice/event/text"
 msgstr ""
+"\"[style[color:ffc369]]Ссстранник... Помни, всссе это сссейчассс - лишшшь "
+"чессстный поединок... Нет ничего поссстыдного в том, чтобы признать сссвое "
+"поражение...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:427
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/text"
 msgstr ""
+"\"[style[color:ffc369]]Итак, ссстранник... Что же это будет?[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:429
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[1]/text"
-msgstr ""
+msgstr "Давайте продолжим борьбу!"
 
 #: src-en/data/events_sector_emv_gilded.xml:431
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "\"[style[color:ffc369]]Ты дейссствительно один из нассс...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:433
 msgid ""
@@ -684,12 +751,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_emv_gilded.xml:439
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[2]/text"
-msgstr ""
+msgstr "Я понимаю, когда я проиграл."
 
 #: src-en/data/events_sector_emv_gilded.xml:441
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[2]/event/text"
 msgstr ""
+"\"[style[color:ffc369]]Конечно... В таком ссслучае... Вссстретимссся на "
+"поверхносссти...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:443
 msgid ""
@@ -699,17 +768,20 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_emv_gilded.xml:449
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[3]/text"
-msgstr ""
+msgstr "Дайте мне подумать..."
 
 #: src-en/data/events_sector_emv_gilded.xml:451
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[3]/event/text"
 msgstr ""
+"\"[style[color:ffc369]]Ссстранник... Не торописссь. Тут некуда "
+"ссспешшшить... ну, разве что есссли учесть, что ссспешшить тебе все-таки "
+"придедтсся...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:458
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_FINALE\"]/text"
-msgstr ""
+msgstr "Следующий корабль материализуется в воздухе перед вами..."
 
 #: src-en/data/events_sector_emv_gilded.xml:460
 msgid ""
@@ -720,11 +792,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_FINALE\"]/choice/event/text"
 msgstr ""
+"\"[style[color:ffb045]]Ко[[/style]][style[color:ffbd64]]нец[[/style]]"
+"[style[color:ffd780]] бли[[/style]][style[color:ffc369]]зок...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:469
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/text"
 msgstr ""
+"Вы начинаете спускаться к базе... видя, как золотые огни спускаются рядом с "
+"вами..."
 
 #: src-en/data/events_sector_emv_gilded.xml:471
 msgid ""
@@ -735,6 +811,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/text"
 msgstr ""
+"Вы выходите из корабля, дрожа от пережитого... К вам подходит Позолоченный "
+"торговец."
 
 #: src-en/data/events_sector_emv_gilded.xml:475
 msgid ""
@@ -745,26 +823,43 @@ msgstr "...?"
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/text"
 msgstr ""
+"\"[style[color:ffc369]]Молодец, ссстранник... Ты продемонссстрировал "
+"доссстаточную компетентносссть, чтобы вписссатьссся в нашшши ряды... Хотя, "
+"может быть... в ссследующий раз попробуй пойти дальшшше, а?[[/style]]»\n"
+"Вы не понимаете, что он имеет в виду... Когда вы пытаетесь задать ему "
+"вопрос, он просто подмигивает вам...\n"
+"\"[style[color:ffc369]]Теперь, как один из руководителей Позолоченного "
+"флота, я хотел бы официально назначить тебя одним из нашшших сссоратников"
+"...[[/style]]\"\n"
+"Он протягивает руку."
 
 #: src-en/data/events_sector_emv_gilded.xml:482
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/text"
 msgstr ""
+"[style[color:ffb045]]Про[[/style]][style[color:ffbd64]]дол[[/style]]"
+"[style[color:ffd780]]жай[[/style]][style[color:ffc369]]...[[/style]]"
 
 #: src-en/data/events_sector_emv_gilded.xml:484
+#, fuzzy
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"[style[color:ffb045]]До[[/style]][style[color:ffbd64]]бро[[/style]]"
+"[style[color:ffd780]] пожаловать[[/style]][style[color:ffc369]]на борт!"
+"[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:485
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/event/win/@text"
 msgstr ""
+"[style[color:ffb045]]Идти [[/style]][style[color:ffbd64]] да[[/style]]"
+"[style[color:ffd780]]ль[[/style]][style[color:ffc369]]ше...[[/style]]"
 
 #: src-en/data/events_sector_emv_gilded.xml:497
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_FINAL_REBEL\"]/destroyed/text"
-msgstr ""
+msgstr "Слава Богу, она ушла."
 
 #: src-en/data/events_sector_emv_gilded.xml:500
 msgid ""
@@ -774,7 +869,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_emv_gilded.xml:505
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_FINAL_REBEL\"]/deadCrew/text"
-msgstr ""
+msgstr "Слава Богу, она ушла."
 
 #: src-en/data/events_sector_emv_gilded.xml:508
 msgid ""
@@ -784,7 +879,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_emv_gilded.xml:516
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_LOSTSUN\"]/destroyed/text"
-msgstr ""
+msgstr "Вы потеете, наблюдая, как корабль уничтожается на ваших глазах."
 
 #: src-en/data/events_sector_emv_gilded.xml:519
 msgid ""
@@ -794,7 +889,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_emv_gilded.xml:524
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_LOSTSUN\"]/deadCrew/text"
-msgstr ""
+msgstr "Вы потеете, наблюдая, как корабль уничтожается на ваших глазах."
 
 #: src-en/data/events_sector_emv_gilded.xml:527
 msgid ""
@@ -804,7 +899,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_emv_gilded.xml:535
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_MERCHANT\"]/destroyed/text"
-msgstr ""
+msgstr "Вы потеете, наблюдая, как корабль уничтожается на ваших глазах."
 
 #: src-en/data/events_sector_emv_gilded.xml:538
 msgid ""
@@ -814,7 +909,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_emv_gilded.xml:543
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_MERCHANT\"]/deadCrew/text"
-msgstr ""
+msgstr "Вы потеете, наблюдая, как корабль уничтожается на ваших глазах."
 
 #: src-en/data/events_sector_emv_gilded.xml:546
 msgid ""
@@ -824,7 +919,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_emv_gilded.xml:554
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_FINAL\"]/destroyed/text"
-msgstr ""
+msgstr "Вы сделали это, вы победили."
 
 #: src-en/data/events_sector_emv_gilded.xml:557
 msgid ""
@@ -834,7 +929,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_emv_gilded.xml:562
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_FINAL\"]/deadCrew/text"
-msgstr ""
+msgstr "Вы сделали это, вы победили."
 
 #: src-en/data/events_sector_emv_gilded.xml:565
 msgid ""
