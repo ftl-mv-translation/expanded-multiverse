@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-09-12 13:26+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_special_guardsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -50,7 +50,7 @@ msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/text"
 msgstr ""
 "Выйдя из гиперскорости, вас встречает один из охранников золтан \"Приветствую"
-", товарищ Ренегат. В соответствии со статьей 17-B-Альфа, вы обязаны "
+", товарищ Ренегат. В соответствии со статьей 17-Б-Альфа, вы обязаны "
 "представить свой корабль для осмотра, а также предоставить свои "
 "идентификационные данные, даты трудоустройства и отчет о миссии в целях "
 "аудита\"."
@@ -76,6 +76,10 @@ msgstr "Атаковать сторожевой корабль."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/choice[3]/event/text"
 msgstr ""
+"\"Внимание, это Страйкер 6-6, у нас код черный на входе 12. Повторяю, код "
+"черный на входе 12, нам нужна подмога, немедленно!\" Сторожевой корабль "
+"нацеливает на вас оружие и, несомненно, вызывает подкрепление. Приготовьтесь "
+"к бою!"
 
 #: src-en/data/events_special_guards.xml.append:49
 msgid ""
@@ -86,6 +90,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_CRIMINAL\"]/text"
 msgstr ""
+"Здесь что-то не так. Обычно МВЧВК даже не обратили бы внимания на такой "
+"корабль, как ваш, но сейчас вы слышите подозрительные разговоры на "
+"сторожевом корабле."
 
 #: src-en/data/events_special_guards.xml.append:59
 msgid ""
@@ -108,11 +115,18 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/text"
 msgstr ""
+"Инспектор Золтан поднимается на борт вашего корабля и приступает к "
+"тщательной проверке. Несмотря на ее тщательность, проверка заканчивается "
+"довольно быстро благодаря заранее подготовленной вами информации. \"Хорошо, "
+"тогда вы можете наслаждаться безопасностью этого сектора. Вы также можете "
+"воспользоваться услугами этого входного маяка в соответствии со статьей 09-З-"
+"Дельта, при условии, что сделки будут выгодны для всех вовлеченных сторон и "
+"не будут сопровождаться враждебностью со стороны кого-либо\"."
 
 #: src-en/data/events_special_guards.xml.append:74
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[1]/text"
-msgstr ""
+msgstr "Починиться. [3$]"
 
 #: src-en/data/events_special_guards.xml.append:76
 msgid ""
@@ -158,12 +172,14 @@ msgstr ""
 #: src-en/data/events_special_guards.xml.append:114
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[5]/text"
-msgstr ""
+msgstr "Отправиться в магазин."
 
 #: src-en/data/events_special_guards.xml.append:116
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[5]/event/text"
 msgstr ""
+"Вам предоставлен доступ к покупке снаряжения, хотя у вас есть некоторое "
+"время, чтобы заняться чем-то другим на борту корабля."
 
 #: src-en/data/events_special_guards.xml.append:119
 msgid ""
@@ -178,12 +194,12 @@ msgstr "Ничего не делать."
 #: src-en/data/events_special_guards.xml.append:132
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/text"
-msgstr ""
+msgstr "(Репутация МВЧВК) Отправиться в магазин."
 
 #: src-en/data/events_special_guards.xml.append:134
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/text"
-msgstr ""
+msgstr "\"Ой, простите, вы же уважаемый клиент! Заходите, бесплатно\"."
 
 #: src-en/data/events_special_guards.xml.append:137
 msgid ""
@@ -198,12 +214,14 @@ msgstr "Ничего не делать."
 #: src-en/data/events_special_guards.xml.append:147
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[7]/text"
-msgstr ""
+msgstr "Я пас."
 
 #: src-en/data/events_special_guards.xml.append:149
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[7]/event/text"
 msgstr ""
+"Лучше не тратить свой лом именно здесь. У вас еще есть время, чтобы "
+"потратить его..."
 
 #: src-en/data/events_special_guards.xml.append:151
 msgid ""
@@ -219,12 +237,17 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/text"
 msgstr ""
+"При выходе из световой скорости вас встречает один из сторожевых кораблей "
+"энджи, вызывает вас. \"Идентификация = Ренегат. Подтверждение личности: "
+"требуется. Отказ от проверки != допускается\". Похоже, энджи приказывает вам "
+"пропустить его на борт корабля для проведения быстрой проверки вашей "
+"личности."
 
 #: src-en/data/events_special_guards.xml.append:167
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/choice[@req=\"emv_rep_renegades\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "Пройти проверку."
 
 #: src-en/data/events_special_guards.xml.append:171
 msgid ""
@@ -241,6 +264,9 @@ msgstr "Атаковать сторожевой корабль."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/choice[3]/event/text"
 msgstr ""
+"\"Ошибка 589. Статус корабля: враждебный. Код = черный. Запуск защитных "
+"протоколов\". Сторожевой корабль нацеливает на вас оружие и, несомненно, "
+"вызывает подкрепление. Приготовьтесь к бою!"
 
 #: src-en/data/events_special_guards.xml.append:180
 msgid ""
@@ -251,11 +277,18 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/text"
 msgstr ""
+"Инспектор энджи поднимается на борт вашего корабля и приступает к проверке. "
+"Не проходит много времени, как он регистрирует вас и проверяет вашу "
+"личность, чтобы пропустить вас. \"Проверка личности: успешна. Ренегат = "
+"разрешен. Доступны денежные услуги. Требования: наличие валюты\". Судя по "
+"всему, вам разрешено совешать покупки в магазинах, расположенных у входа в "
+"этот сектор, поэтому перед продолжением путешествия было бы неплохо "
+"пополнить запасы."
 
 #: src-en/data/events_special_guards.xml.append:190
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[1]/text"
-msgstr ""
+msgstr "Починиться. [3$]"
 
 #: src-en/data/events_special_guards.xml.append:192
 msgid ""
@@ -301,12 +334,14 @@ msgstr ""
 #: src-en/data/events_special_guards.xml.append:230
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[5]/text"
-msgstr ""
+msgstr "Отправиться в магазин."
 
 #: src-en/data/events_special_guards.xml.append:232
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[5]/event/text"
 msgstr ""
+"Вам предоставлен доступ к покупке снаряжения, хотя у вас есть некоторое "
+"время, чтобы заняться чем-то другим на борту корабля."
 
 #: src-en/data/events_special_guards.xml.append:235
 msgid ""
@@ -321,12 +356,12 @@ msgstr "Ничего не делать."
 #: src-en/data/events_special_guards.xml.append:248
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/text"
-msgstr ""
+msgstr "(Репутация МВЧВК) Отправиться в магазин."
 
 #: src-en/data/events_special_guards.xml.append:250
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/text"
-msgstr ""
+msgstr "\"Ой, простите, вы же уважаемый клиент! Заходите, бесплатно\"."
 
 #: src-en/data/events_special_guards.xml.append:253
 msgid ""
@@ -341,12 +376,14 @@ msgstr "Ничего не делать."
 #: src-en/data/events_special_guards.xml.append:263
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[7]/text"
-msgstr ""
+msgstr "Я пас."
 
 #: src-en/data/events_special_guards.xml.append:265
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[7]/event/text"
 msgstr ""
+"Лучше не тратить свой лом именно здесь. У вас еще есть время, чтобы "
+"потратить его..."
 
 #: src-en/data/events_special_guards.xml.append:267
 msgid ""
@@ -362,6 +399,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ZOLTAN_DESTROY\"]/text"
 msgstr ""
+"Вы победили сторожевой корабль. Что бы ни было в их грузе, оно наверняка "
+"уничтожено, но вы можете подобрать хотя бы часть припасов с корабля."
 
 #: src-en/data/events_special_guards.xml.append:289
 msgid ""
@@ -372,6 +411,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ZOLTAN_DEADCREW\"]/text"
 msgstr ""
+"Вы победили сторожевой корабль. Без экипажа на борту, который мог бы вас "
+"остановить, вы можете осмотреть их груз. Вы находите оружие, которое можно "
+"забрать на корабль, и приступаете к разборке их корпуса."
 
 #: src-en/data/events_special_guards.xml.append:298
 msgid ""
@@ -382,6 +424,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ENGI_DESTROY\"]/text"
 msgstr ""
+"Вы победили сторожевой корабль. Что бы ни было в их грузе, оно наверняка "
+"уничтожено, но вы можете подобрать хотя бы часть припасов с корабля."
 
 #: src-en/data/events_special_guards.xml.append:313
 msgid ""
@@ -392,6 +436,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ENGI_DEADCREW\"]/text"
 msgstr ""
+"Вы победили сторожевой корабль. Без экипажа на борту, который мог бы вас "
+"остановить, вы можете осмотреть их груз. Вы находите оружие, которое можно "
+"забрать на корабль, и приступаете к разборке их корпуса."
 
 #: src-en/data/events_special_guards.xml.append:322
 msgid ""
@@ -402,6 +449,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"GUARD_EMV_RENEGADE_FOLLOWUP\"]/text"
 msgstr ""
+"Когда вы заканчиваете сражение с сторожевым кораблем, мимо вашего корабля "
+"пролетает еще одни нарушители. Вы делаете заметку, чтобы, возможно, поймать "
+"их позже..."
 
 #: src-en/data/events_special_guards.xml.append:335
 msgid ""
