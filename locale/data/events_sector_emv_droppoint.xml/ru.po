@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-11 20:18+0000\n"
+"PO-Revision-Date: 2025-09-12 13:26+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_sector_emv_droppointxml/ru/>\n"
@@ -221,7 +221,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_emv_droppoint.xml:239
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местонахождение нарушителя."
 
 #: src-en/data/events_sector_emv_droppoint.xml:240
 msgid ""
@@ -232,6 +232,8 @@ msgstr "Посещенное место. Ничего интересного."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/text"
 msgstr ""
+"Согласно сообщениям, сюда приближаются нарушители... И вот, как по команде, "
+"они уже здесь!"
 
 #: src-en/data/events_sector_emv_droppoint.xml:244
 msgid ""
