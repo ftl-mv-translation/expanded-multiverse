@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-12 13:11+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-09-12 13:12+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_special_guardsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -49,6 +49,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/text"
 msgstr ""
+"Выйдя из гиперскорости, вас встречает один из охранников золтан \"Приветствую"
+", товарищ Ренегат. В соответствии со статьей 17-B-Альфа, вы обязаны "
+"представить свой корабль для осмотра, а также предоставить свои "
+"идентификационные данные, даты трудоустройства и отчет о миссии в целях "
+"аудита\"."
 
 #: src-en/data/events_special_guards.xml.append:36
 msgid ""
