@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-12 13:10+0000\n"
+"PO-Revision-Date: 2025-09-12 13:11+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_special_guardsxmlappend/ru/>\n"
@@ -25,11 +25,20 @@ msgstr ""
 msgid ""
 "data/events_special_guards.xml.append$//textList[@name=\"TEXT_EMV_DROPPOINT_GUARD\"]/text[2]"
 msgstr ""
+"Вход в пространство МВЧВК всегда сопровождается волнениями, даже если вы не "
+"впервые туда попадаете. Вы видите длинную очередь кораблей, ожидающих "
+"регистрации при входе и выходе, и надеетесь, что меры безопасности "
+"достаточно эффективны, чтобы немного задержать флот."
 
 #: src-en/data/events_special_guards.xml.append:4
 msgid ""
 "data/events_special_guards.xml.append$//textList[@name=\"TEXT_EMV_DROPPOINT_GUARD\"]/text[3]"
 msgstr ""
+"Выйдя из гиперскорости, вы оглядываетесь вокруг и смотрите на массивную "
+"защитную стену, возведенную МВЧВК. Она не похожа ни на что из того, что вы "
+"видели раньше, представляя собой смесь сочетание средств обороны, "
+"используемых многими расами в бескрайнем космосе. К счастью, вы не записаны "
+"в список целей для этих громадных пушек."
 
 #: src-en/data/events_special_guards.xml.append:17
 msgid ""
