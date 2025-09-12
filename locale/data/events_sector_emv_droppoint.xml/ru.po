@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-12 13:26+0000\n"
+"PO-Revision-Date: 2025-09-13 14:18+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_sector_emv_droppointxml/ru/>\n"
@@ -17,6 +17,13 @@ msgstr ""
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/text"
 msgstr ""
+"Вы отслеживаете сигнал бедствия, но, выйдя из световой скорости, едва не "
+"задеваете корпус корабля, который его передает. Сориентировавшись, вы "
+"связываетесь с кораблем.\n"
+"\n"
+"\"Здравствуйте, э-э-э, вы можете нам помочь? Мы недооценили количество "
+"топлива, необходимое для этого путешествия, и... у нас нет топлива, так что "
+"не могли бы вы оказать нам небольшую услугу?\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:35
 msgid ""
@@ -27,26 +34,46 @@ msgstr "Дать им немного топлива."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[1]/event/text"
 msgstr ""
+"Вы предлагаете Ренегату несколько топливных элементов и желаете им удачи в "
+"путешествии. Перед вашим уходом они связываются с вами.\n"
+"\n"
+"\"Эй, спасибо за помощь. Я подумал, что вам это пригодится в пути, вам это "
+"нужно больше, чем мне. Удачи, капитан\".\n"
+"Ренегат предлагает установить оружие, которое у них было, на ваш корабль в "
+"качестве ответной услуги за вашу помощь."
 
 #: src-en/data/events_sector_emv_droppoint.xml:48
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[2]/text"
 msgstr ""
+"Сказать, что у вас тоже мало топлива, но дать им один топливный элемент."
 
 #: src-en/data/events_sector_emv_droppoint.xml:50
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[2]/event/text"
 msgstr ""
+"Вы объясняете Ренегату, что у вас тоже заканчивается топливо и вы едва "
+"способны добраться до ближайшего маяка, но все равно даете ему одну "
+"топливную ячейку и желаете удачи.\n"
+"\n"
+"\"Ну... Я не стану умолять, это лучше, чем ничего. По крайней мере, вы не "
+"такой, как те козлы, у которых много топлива, но они его прячут. Вот, "
+"возьмите это, я не беру ничего даром\"."
 
 #: src-en/data/events_sector_emv_droppoint.xml:60
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[3]/text"
-msgstr ""
+msgstr "Отключить связь и открыть огонь."
 
 #: src-en/data/events_sector_emv_droppoint.xml:62
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[3]/event/text"
 msgstr ""
+"Услышав просьбу, вы прерываете связь, но с вами снова связываться, когда "
+"корабль набирает скорость и движется в вашу сторону.\n"
+"\n"
+"\"ОХ, ТЫ ЦЕНИШЬ ОДИН ТОПЛИВНЫЙ ЭЛЕМЕНТ БОЛЬШЕ, ЧЕМ ЖИЗНЬ!? Я ПОКАЖУ ТЕБЕ, "
+"КАК ДОРОГА ЖИЗНЬ, УБИВ ТЕБЯ!\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:67
 msgid ""
@@ -56,12 +83,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_emv_droppoint.xml:77
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[4]/text"
-msgstr ""
+msgstr "Извиниться и уйти."
 
 #: src-en/data/events_sector_emv_droppoint.xml:79
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[4]/event/text"
-msgstr ""
+msgstr "Вы оставляете Ренегата в глубоком замешательстве, извиняясь и уходя."
 
 #: src-en/data/events_sector_emv_droppoint.xml:81
 msgid ""
@@ -71,17 +98,21 @@ msgstr "Заняться чем-либо на корабле."
 #: src-en/data/events_sector_emv_droppoint.xml:85
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[4]/event/choice[2]/text"
-msgstr ""
+msgstr "Как можно быстрее выйти из неловкой ситуации."
 
 #: src-en/data/events_sector_emv_droppoint.xml:93
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/text"
 msgstr ""
+"Краем глаза вы видите вдали два корабля с наведенным друг на друга оружием. "
+"Это необычно, поскольку МВЧВК Ренегаты строго запрещено применять оружие "
+"друг против друга в этом месте. Однако при ближайшем рассмотрении "
+"выясняется, что один корабль принадлежит Ренегатам, а другой - Союзу."
 
 #: src-en/data/events_sector_emv_droppoint.xml:95
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/text"
-msgstr ""
+msgstr "Подключиться к частоте."
 
 #: src-en/data/events_sector_emv_droppoint.xml:97
 msgid ""
