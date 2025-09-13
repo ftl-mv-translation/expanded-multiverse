@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-09 12:50+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-09-13 18:59+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -41,13 +41,14 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_MEDBAY_NANO\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Это улучшение недоступно. Цветущие феромоны уже выполняют свою функцию."
 
 #: src-en/data/events_special_storage.xml.append:113
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice/text"
 msgstr ""
+"(Расширенные частоты) Провести сканирование на наличие пиратов поблизости."
 
 #: src-en/data/events_special_storage.xml.append:119
 msgid ""
@@ -66,7 +67,7 @@ msgstr "Да."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "Выберите свою цель или испытайте удачу..."
 
 #: src-en/data/events_special_storage.xml.append:126
 msgid ""
@@ -90,7 +91,7 @@ msgstr "Тиикака."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
 " and @lvl=\"0\"]/event/choice[4]/text"
-msgstr ""
+msgstr "Испытать удачу..."
 
 #: src-en/data/events_special_storage.xml.append:142
 msgid ""
@@ -107,26 +108,32 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN\"]/text"
 msgstr ""
+"Вы обнаружили контрабандистов, ведущих свою деятельность в этом секторе, и "
+"отмечаете их местонахождение."
 
 #: src-en/data/events_special_storage.xml.append:166
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE\"]/text"
 msgstr ""
+"Вы обнаружили наемников, ведущих свои дела в этом секторе, и отмечаете их "
+"местонахождение."
 
 #: src-en/data/events_special_storage.xml.append:174
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA\"]/text"
 msgstr ""
+"Вы обнаружили работорговцев, ведущих свои дела в этом секторе, и отмечаете "
+"их местонахождение."
 
 #: src-en/data/events_special_storage.xml.append:182
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOMIZER\"]/text"
-msgstr ""
+msgstr "Вы решаете случайным образом выбрать пиратов и отметить их на карте."
 
 #: src-en/data/events_special_storage.xml.append:190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местонахождение контрабандистов."
 
 #: src-en/data/events_special_storage.xml.append:191
 msgid ""
@@ -136,7 +143,7 @@ msgstr "Посещенное место. Ничего интересного."
 #: src-en/data/events_special_storage.xml.append:193
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/text"
-msgstr ""
+msgstr "Вы добрались до местонахождения контрабандистов."
 
 #: src-en/data/events_special_storage.xml.append:195
 msgid ""
@@ -146,7 +153,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:204
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местонахождение наемников."
 
 #: src-en/data/events_special_storage.xml.append:205
 msgid ""
@@ -156,7 +163,7 @@ msgstr "Посещенное место. Ничего интересного."
 #: src-en/data/events_special_storage.xml.append:207
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE_QUEST\"]/text"
-msgstr ""
+msgstr "Вы добрались до местонахождения наемников."
 
 #: src-en/data/events_special_storage.xml.append:209
 msgid ""
@@ -166,7 +173,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:218
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местонахождение работорговцев."
 
 #: src-en/data/events_special_storage.xml.append:219
 msgid ""
@@ -176,7 +183,7 @@ msgstr "Посещенное место. Ничего интересного."
 #: src-en/data/events_special_storage.xml.append:221
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/text"
-msgstr ""
+msgstr "Вы добрались до местонахождения работорговцев."
 
 #: src-en/data/events_special_storage.xml.append:223
 msgid ""
@@ -186,7 +193,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:232
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOM_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местонахождение пиратов."
 
 #: src-en/data/events_special_storage.xml.append:233
 msgid ""
@@ -196,7 +203,7 @@ msgstr "Посещенное место. Ничего интересного."
 #: src-en/data/events_special_storage.xml.append:235
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOM_QUEST\"]/text"
-msgstr ""
+msgstr "Вы добрались до местонахождения пиратов."
 
 #: src-en/data/events_special_storage.xml.append:237
 msgid ""
@@ -207,70 +214,70 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Известность МВЧВК [--5]"
 
 #: src-en/data/events_special_storage.xml.append:338
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Известность МВЧВК [-5]"
 
 #: src-en/data/events_special_storage.xml.append:342
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Известность МВЧВК [-4]"
 
 #: src-en/data/events_special_storage.xml.append:346
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Известность МВЧВК [-3]"
 
 #: src-en/data/events_special_storage.xml.append:350
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "Известность МВЧВК [-2]"
 
 #: src-en/data/events_special_storage.xml.append:354
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "Известность МВЧВК [-1]"
 
 #: src-en/data/events_special_storage.xml.append:358
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "Известность МВЧВК [1]"
 
 #: src-en/data/events_special_storage.xml.append:362
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "Известность МВЧВК [2]"
 
 #: src-en/data/events_special_storage.xml.append:366
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "Известность МВЧВК [3]"
 
 #: src-en/data/events_special_storage.xml.append:370
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[10]/text"
-msgstr ""
+msgstr "Известность МВЧВК [4]"
 
 #: src-en/data/events_special_storage.xml.append:374
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[11]/text"
-msgstr ""
+msgstr "Известность МВЧВК [5]"
 
 #: src-en/data/events_special_storage.xml.append:378
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[12]/text"
-msgstr ""
+msgstr "Известность МВЧВК [5++]"
