@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -41,8 +41,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_MEDBAY_NANO\"]/mod-"
 "append:choice/text"
-msgstr ""
-"Это улучшение недоступно. Цветущие феромоны уже выполняют свою функцию."
+msgstr "Это улучшение недоступно. Цветущие феромоны уже выполняют свою функцию."
 
 #: src-en/data/events_special_storage.xml.append:113
 msgid ""
