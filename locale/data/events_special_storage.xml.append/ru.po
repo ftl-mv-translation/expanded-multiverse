@@ -244,7 +244,7 @@ msgstr "Дурная слава МВЧВК [-2]"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[6]/text"
-msgstr "Известность МВЧВК [-1]"
+msgstr "Дурная слава МВЧВК [-1]"
 
 #: src-en/data/events_special_storage.xml.append:358
 msgid ""
