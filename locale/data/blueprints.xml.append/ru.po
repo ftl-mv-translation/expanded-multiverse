@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-13 14:18+0000\n"
+"PO-Revision-Date: 2025-09-13 18:59+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/datablueprintsxmlappend/ru/>\n"
@@ -970,7 +970,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2752
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_ADV_FREQUENCIES\"]/title"
-msgstr ""
+msgstr "Расширенные частоты"
 
 #: src-en/data/blueprints.xml.append:2753
 msgid ""
