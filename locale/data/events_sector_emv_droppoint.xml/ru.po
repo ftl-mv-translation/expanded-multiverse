@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-13 14:18+0000\n"
+"PO-Revision-Date: 2025-09-14 19:18+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_sector_emv_droppointxml/ru/>\n"
@@ -118,16 +118,44 @@ msgstr "Подключиться к частоте."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/text"
 msgstr ""
+"\"Хорошо, как ты вообще сюда попал? Ни за что ты не смог добраться сюда сам, "
+"кто тебя пропустил?\"\n"
+"\n"
+"\"Это не твоё дело. Я живу в этом секторе, мой дом буквально здесь!\"\n"
+"\n"
+"\"Что... че... зачем... Ладно, послушай меня. Я объясню просто: если ты "
+"позволишь мне перенаправить тебя в другое место без сопротивления, я смогу "
+"сделать вид, что ничего этого не было.\"\n"
+"\n"
+"\"Не-а.\"\n"
+"\n"
+"\"Что? Что значит \"не-а\"?\"\n"
+"\n"
+"\"Я не пойду на твои условия.\"\n"
+"\n"
+"\"О, ради всего святого, просто... погоди, как долго ты там находишься... "
+"вообще-то, можешь убить эту несанкционированную штуку? Я позабочусь о "
+"награде, просто, пожалуйста, облегчи мне жизнь.\"\n"
+"\n"
+"\"Стой, нет, нет, нет, нет, так не пойдет, ты же не будешь его слушать? Я "
+"просто гражданский, ты не можешь просто убить меня!\"\n"
+"\n"
+"\"Эм, могут? И типа, насколько я помню, гражданские здесь не живут?\"\n"
+"\n"
+"\"Пожалуйста, вы не можете убить меня за то, что я говорю правду!\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:119
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Атаковать судно Союза."
 
 #: src-en/data/events_sector_emv_droppoint.xml:122
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Вы решаете соблюдать правила и избавиться от посторонних лиц в єтом "
+"пространстве. \"Нет! Ты не можешь так со мной поступить!\" Приготовьтесь к "
+"бою!"
 
 #: src-en/data/events_sector_emv_droppoint.xml:124
 msgid ""
@@ -137,12 +165,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_emv_droppoint.xml:130
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Атаковать Ренегатов."
 
 #: src-en/data/events_sector_emv_droppoint.xml:133
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Когда вы готовитесь к атаке, Ренегаты связываются с вами с недоверием. \"ЧТО "
+"Ж, КАК БУДТО МОЙ ДЕНЬ НЕ МОЖЕТ СТАТЬ ЕЩЕ ХУЖЕ! У НАС ЕСТЬ АКТИВИСТ, "
+"ЗАЩИЩАЮЩИЙ ГРАЖДАНСКОЕ НАСЕЛЕНИЕ! ВСЕ К БОЕВЫМ ПОСТАМ!\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:135
 msgid ""
@@ -152,12 +183,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_emv_droppoint.xml:141
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Пусть они сами с этим разберутся."
 
 #: src-en/data/events_sector_emv_droppoint.xml:143
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"\"Что? О, СЕЙЧАС ТЫ ВДРУГ СТАЛ МОРАЛИСТОМ? Боже, почему все считают нужным "
+"быть со мной мягкими...\" Вы отключаете связь и готовитесь уйти, пока "
+"ситуация не накалилась еще больше из-за вашего присутствия."
 
 #: src-en/data/events_sector_emv_droppoint.xml:145
 msgid ""
@@ -167,17 +201,20 @@ msgstr "Заняться чем-либо на корабле."
 #: src-en/data/events_sector_emv_droppoint.xml:149
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "Ничего не делать..."
 
 #: src-en/data/events_sector_emv_droppoint.xml:157
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[2]/text"
-msgstr ""
+msgstr "Пусть они получат по заслугам."
 
 #: src-en/data/events_sector_emv_droppoint.xml:159
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[2]/event/text"
 msgstr ""
+"Что бы ни происходило между этими двоими, вас это не касается. Вы уходите, "
+"пока ситуация не обострилась и по какой-то причине они не решили, что вы в "
+"ней участвуете. Вы готовите двигатели к прыжку."
 
 #: src-en/data/events_sector_emv_droppoint.xml:161
 msgid ""
@@ -187,12 +224,15 @@ msgstr "Заняться чем-либо на корабле."
 #: src-en/data/events_sector_emv_droppoint.xml:165
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Ничего не делать..."
 
 #: src-en/data/events_sector_emv_droppoint.xml:188
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DESTROYED_UNION_UNAUTHORIZED\"]/text"
 msgstr ""
+"Гражданское судно было уничтожено. Вы сомневаетесь, что это будет хорошо "
+"смотреться в вашем послужном списке, но с другой стороны, можно заработать "
+"много лома..."
 
 #: src-en/data/events_sector_emv_droppoint.xml:191
 msgid ""
@@ -203,6 +243,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DESTROYED_UNION_UNAUTHORIZED\"]/choice/event/text"
 msgstr ""
+"Корабль Ренегатов снова вызывает вас. \"Наконец-то кто-то решил освободить "
+"меня от этого малыша. Благодаря тебе я могу вернуться к своей смене без "
+"происшествий. Вот, прими это в качестве подарка за помощь Ренегатам в беде\"."
 
 #: src-en/data/events_sector_emv_droppoint.xml:196
 msgid ""
@@ -213,6 +256,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEADCREW_UNION_UNAUTHORIZED\"]/text"
 msgstr ""
+"Гражданское судно было уничтожено. Вы сомневаетесь, что это будет хорошо "
+"смотреться в вашем послужном списке, но с другой стороны, можно заработать "
+"много лома..."
 
 #: src-en/data/events_sector_emv_droppoint.xml:207
 msgid ""
@@ -223,6 +269,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEADCREW_UNION_UNAUTHORIZED\"]/choice/event/text"
 msgstr ""
+"Корабль Ренегатов снова вызывает вас. \"Наконец-то кто-то решил освободить "
+"меня от этого малыша. Благодаря тебе я могу вернуться к своей смене без "
+"происшествий. Вот, прими это в качестве подарка за помощь Ренегатам в беде\"."
 
 #: src-en/data/events_sector_emv_droppoint.xml:212
 msgid ""
@@ -233,6 +282,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_GUARD_UNAUTHORIZED\"]/text"
 msgstr ""
+"Несмотря на все последствия, которые из этого последуют, вы уничтожаете "
+"корабль Ренегатов, чтобы защитить корабль Союза."
 
 #: src-en/data/events_sector_emv_droppoint.xml:223
 msgid ""
@@ -243,6 +294,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_GUARD_UNAUTHORIZED\"]/choice/event/text"
 msgstr ""
+"Когда вы разбираете корабль на лом, вас вызывает судно Союза. \"Я... я не "
+"знаю, что сказать, но спасибо. Я не хотел, чтобы все закончилось "
+"кровопролитием, но он не отступал. Не думаю, что для вас все закончится без "
+"последствий, но возьмите это. Удачи\"."
 
 #: src-en/data/events_sector_emv_droppoint.xml:228
 msgid ""
@@ -275,6 +330,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_RETIREMENT\"]/text"
 msgstr ""
+"Ренегат останавливает вас на пути и просит об одном. \"Эй, красавчик. Возьми "
+"его, мне больше не нужен мой корабль. Я буду жить в моем старом доме до "
+"смерти и стану одним целым с пылью, увидимся\". По какой-то причине Ренегат "
+"отдает вам свой корабль на лом - вы не станете отказываться от такого "
+"подарка."
 
 #: src-en/data/events_sector_emv_droppoint.xml:253
 msgid ""
@@ -290,6 +350,16 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_BADASSITUDE\"]/text"
 msgstr ""
+"Ваша система связи автоматически настраивается на телевизионный сигнал о "
+"каком-то древнем хранилище, скрытом во вселенной, ищущем охотников за "
+"хранилищами, чтобы открыть его. Когда вы изучаете предложение, трансляция "
+"внезапно переключается на мускулистого мужчину с большими усами и "
+"солнцезащитными очками, называющего это скучным. "
+"\"Я ТОРК, И У МЕНЯ ЕСТЬ ОДИН ВОПРОС, И ТОЛЬКО ОДИН ВОПРОС. ВЗРЫВЫ????\" "
+"Когда парень говорит это, сигнал мерцает, показывая логотип компании с плохо "
+"вмонтированными эффектами взрывов. Вы видите перепалку между двумя людьми на "
+"экране, что заставляет вас выключить трансляцию. Вы также замечаете, что "
+"какое-то ракетное оружие почему-то плавает в космосе."
 
 #: src-en/data/events_sector_emv_droppoint.xml:265
 msgid ""
@@ -300,6 +370,14 @@ msgstr "Продолжить."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_CONSPIRACY\"]/text"
 msgstr ""
+"Как только вы попадаете в систему, ваша система связи мгновенно заглушается "
+"непонятным бормотанием кого-то, говорящего о "
+"\" глубинном государстве слизней\" и \"древних богах\", которые существуют "
+"за пределами нашего понимания. Он также бормочет о чем-то \"позолоченном\", "
+"что испытывает только самых могущественных людей. Вы не слишком долго "
+"случаете передачу, потому что владельца быстро испаряет корабль Ренегатов, "
+"чтобы остановить трансляцию. В результате этого к вашему кораблю прилетают "
+"обломки лома."
 
 #: src-en/data/events_sector_emv_droppoint.xml:273
 msgid ""
@@ -310,16 +388,26 @@ msgstr "Продолжить."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/text"
 msgstr ""
+"Через систему связи вашего корабля вы обнаруживаете частоту повстанцев, "
+"транслирующую пропаганду, чтобы привлечь внимание Ренегатов. Они также "
+"говорят о вас, предлагая вознаграждение любому, кто сообщит о вашем "
+"местонахождении. Вы беспокоитесь, что это может дать флоту точные данные о "
+"вашем местонахождении."
 
 #: src-en/data/events_sector_emv_droppoint.xml:281
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[1]/text"
-msgstr ""
+msgstr "Вмешаться и предложить еще более крупную награду."
 
 #: src-en/data/events_sector_emv_droppoint.xml:283
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[1]/event/text"
 msgstr ""
+"Вы открываете канал связи своего корабля для всех желающих, обещая щедрую "
+"награду тому, кто перехватит флот, выдавая себя за вас. К большому огорчению "
+"повстанцев, один из Ренегатов принимает ваше предложение и очень быстро "
+"получает ваш лом, чтобы броситься в бой с флотом. Это должно дать вам "
+"хорошее преимущество над повстанцами."
 
 #: src-en/data/events_sector_emv_droppoint.xml:289
 msgid ""
@@ -329,47 +417,64 @@ msgstr "Продолжить."
 #: src-en/data/events_sector_emv_droppoint.xml:295
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[2]/text"
-msgstr ""
+msgstr "Попытаться запугать повстанцев."
 
 #: src-en/data/events_sector_emv_droppoint.xml:299
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[3]/text"
-msgstr ""
+msgstr "Уйти как можно быстрее."
 
 #: src-en/data/events_sector_emv_droppoint.xml:301
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[3]/event/text"
 msgstr ""
+"Даже если ваше местоположение будет раскрыто, вы должны как можно скорее "
+"убраться отсюда, чтобы не попасть под руку флота и обстрел его ПКБ."
 
 #: src-en/data/events_sector_emv_droppoint.xml:305
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "(Взломщик) Перехватить частоты."
 
 #: src-en/data/events_sector_emv_droppoint.xml:307
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[@req=\"hacking\"]/event/text"
 msgstr ""
+"Вы удаленно захватываете частоту повстанцев и начинаете транслировать... не "
+"совсем подходящие для всех прослушивания передачи. Повстанцы спешат "
+"исправить свою \"оплошность\", когда к ним приближаются представители МВЧВК "
+"и приказывают покинуть систему. Пока вы этим занимаетесь, вы также передаете "
+"ложные данные флоту."
 
 #: src-en/data/events_sector_emv_droppoint.xml:320
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA_GOOD\"]/text"
 msgstr ""
+"Вы приближаетесь к повстанцам, вещающим пропаганду, с нацеленным на них "
+"оружием. Их вещание мгновенно прекращается, и они извиняются за неудобства и "
+"собирают манатки. Вы также вымогаете у них немного лома за причиненные "
+"неприятности."
 
 #: src-en/data/events_sector_emv_droppoint.xml:326
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA_BAD\"]/text"
 msgstr ""
+"Когда вы подлетаете к повстанцам с активированным оружием, с недовольством "
+"замечаете, что навстречу выходит элитный истребитель! Сразу же с вами "
+"связывается капитан повстанцев: \"Так ты прибыл ко мне?!\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:329
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA_BAD\"]/choice/text"
-msgstr ""
+msgstr "Я не могу уничтожить тебя, не приблизившись!"
 
 #: src-en/data/events_sector_emv_droppoint.xml:344
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_REBEL_ELITE_PROPAGANDA\"]/text"
 msgstr ""
+"Несмотря на неожиданную атаку одного из элитных истребителей повстанцев, они "
+"все равно не смогли противостоять вашему мастерству. Вы приближаетесь, чтобы "
+"уничтожить их корабль, прежде чем заняться радиостанцией повстанцев."
 
 #: src-en/data/events_sector_emv_droppoint.xml:347
 msgid ""
@@ -380,16 +485,23 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_REBEL_ELITE_PROPAGANDA\"]/choice/event/text"
 msgstr ""
+"Ладно-ладно, ты доказал свою точку зрения! Больше никаких ф-флотов, по "
+"рукам? Делай все, что хочешь, только не убивай нас и бери все, что тебе "
+"нужно! Мы уходим!"
 
 #: src-en/data/events_sector_emv_droppoint.xml:358
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/text"
 msgstr ""
+"Когда вы появляетесь в системе, к вам приближается человек, похожий на "
+"\"шерифа\", и просит о помощи. \"Приветствую, Ренегат. Меня зовут шериф "
+"Урингер, я ищу преступника в этом секторе. Не хотите стать помощником шерифа?"
+"\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:360
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[1]/text"
-msgstr ""
+msgstr "Конечно, почему бы и нет?"
 
 #: src-en/data/events_sector_emv_droppoint.xml:362
 msgid ""
@@ -414,7 +526,7 @@ msgstr "Заняться чем-либо на корабле."
 #: src-en/data/events_sector_emv_droppoint.xml:375
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Ничего не делать..."
 
 #: src-en/data/events_sector_emv_droppoint.xml:381
 msgid ""
@@ -494,7 +606,7 @@ msgstr "Заняться чем-либо на корабле."
 #: src-en/data/events_sector_emv_droppoint.xml:443
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Ничего не делать..."
 
 #: src-en/data/events_sector_emv_droppoint.xml:458
 msgid ""
@@ -589,7 +701,7 @@ msgstr "Заняться чем-либо на корабле."
 #: src-en/data/events_sector_emv_droppoint.xml:525
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Ничего не делать..."
 
 #: src-en/data/events_sector_emv_droppoint.xml:533
 msgid ""
@@ -609,7 +721,7 @@ msgstr "Заняться чем-либо на корабле."
 #: src-en/data/events_sector_emv_droppoint.xml:541
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Ничего не делать..."
 
 #: src-en/data/events_sector_emv_droppoint.xml:558
 msgid ""
@@ -659,7 +771,7 @@ msgstr "Заняться чем-либо на корабле."
 #: src-en/data/events_sector_emv_droppoint.xml:605
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_CONVOY\"]/choice[2]/text"
-msgstr ""
+msgstr "Ничего не делать..."
 
 #: src-en/data/events_sector_emv_droppoint.xml:611
 msgid ""
@@ -674,7 +786,7 @@ msgstr "Заняться чем-либо на корабле."
 #: src-en/data/events_sector_emv_droppoint.xml:617
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_ENVY\"]/choice[2]/text"
-msgstr ""
+msgstr "Ничего не делать..."
 
 #: src-en/data/events_sector_emv_droppoint.xml:625
 msgid ""
@@ -784,7 +896,7 @@ msgstr "Заняться чем-либо на корабле."
 #: src-en/data/events_sector_emv_droppoint.xml:712
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Ничего не делать..."
 
 #: src-en/data/events_sector_emv_droppoint.xml:725
 msgid ""
