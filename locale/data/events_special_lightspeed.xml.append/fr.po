@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_special_lightspeedxmlappend/fr/>\n"
 "Language: fr\n"
@@ -33,7 +33,8 @@ msgstr ""
 "\tFaction dominante : [style[color:ffd780]]Les Dorés.[[/style]]\n"
 "\tNiveau de menace rebelle : [style[color:ffb045]]Inexistant.[[/style]]\n"
 "\n"
-"\t[style[color:ffb045]]Prep[[/style]][style[color:ffbd64]]sont[[/style]][style[color:ffd780]] pour[[/style]][style[color:ffc369]] nous...[[/style]]"
+"\t[style[color:ffb045]]Prep[[/style]][style[color:ffbd64]]sont[[/style]]"
+"[style[color:ffd780]] pour[[/style]][style[color:ffc369]] nous...[[/style]]"
 
 #: src-en/data/events_special_lightspeed.xml.append:26
 msgid ""
