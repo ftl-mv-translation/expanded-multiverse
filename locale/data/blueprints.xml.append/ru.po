@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-13 18:59+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-09-15 07:35+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -210,8 +210,8 @@ msgstr ""
 "Элитный медицинский экипаж. Соратники преступников Мультивселенной, но не "
 "столь воинственные и не столь заинтересованные в лечении пришельцев.\n"
 "\n"
-"Наследует  характеристики людей: небольшая устойчивость к опасностям, "
-"быстрее осваивает небоевые навыки."
+"Наследует характеристики людей: небольшая устойчивость к опасностям, быстрее "
+"осваивает небоевые навыки."
 
 #: src-en/data/blueprints.xml.append:73
 msgid ""
