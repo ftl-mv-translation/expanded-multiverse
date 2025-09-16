@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-09-17 12:21+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1082,7 +1082,7 @@ msgstr "[Л] Удар когтем"
 #: src-en/data/blueprints.xml.append:2733
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_HIVESLASH\"]/desc"
 msgstr ""
-"Обычные богомолі получают способность наносить удары, которые наносят 15 "
+"Обычные богомолы получают способность наносить удары, которые наносят 15 "
 "единиц урона всем вражеским членам экипажа в отсеке. Могут наносить удары "
 "только два раза за прыжок.\n"
 "\t\n"
@@ -1196,7 +1196,7 @@ msgstr "Тяж. энергет. арт."
 #: src-en/data/blueprints.xml.append:2874
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/short"
-msgstr "Тяжелая энергия"
+msgstr "Тяжелая ЭП"
 
 #: src-en/data/blueprints.xml.append:2877
 msgid ""
@@ -1422,12 +1422,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3255
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/title"
-msgstr "Тяжелая энергия"
+msgstr "Тяжелая энергетическая пушка"
 
 #: src-en/data/blueprints.xml.append:3256
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/short"
-msgstr "Тяжелая энергия"
+msgstr "Тяжелая ЭП"
 
 #: src-en/data/blueprints.xml.append:3259
 msgid ""
