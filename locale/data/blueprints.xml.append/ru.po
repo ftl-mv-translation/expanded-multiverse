@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-16 13:33+0000\n"
+"PO-Revision-Date: 2025-09-16 14:25+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/datablueprintsxmlappend/ru/>\n"
@@ -400,7 +400,7 @@ msgstr "МВ-крейсер Коалиции"
 #: src-en/data/blueprints.xml.append:246
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/name"
-msgstr "Пальмовый вор"
+msgstr "Пальмовый Вор"
 
 #: src-en/data/blueprints.xml.append:247
 msgid ""
@@ -474,7 +474,7 @@ msgstr "МВ-крейсер Свободных Богомолов"
 #: src-en/data/blueprints.xml.append:644
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/name"
-msgstr "Звездная пыль"
+msgstr "Звездная Пыль"
 
 #: src-en/data/blueprints.xml.append:645
 msgid ""
@@ -511,7 +511,7 @@ msgstr "МВ-крейсер золтан"
 #: src-en/data/blueprints.xml.append:807
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/name"
-msgstr "Нулевая точка"
+msgstr "Нулевая Точка"
 
 #: src-en/data/blueprints.xml.append:808
 msgid ""
@@ -528,7 +528,7 @@ msgstr "Республиканский МВ-крейсер"
 #: src-en/data/blueprints.xml.append:885
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/name"
-msgstr "Королевская пиявка"
+msgstr "Королевская Пиявка"
 
 #: src-en/data/blueprints.xml.append:886
 msgid ""
@@ -609,7 +609,7 @@ msgid ""
 msgstr ""
 "Поисковые группы предполагают, что изначально этот крейсер предназначался "
 "для охоты на Изгоев в разных реальностях. Несмотря на свое кровавое прошлое, "
-"он по-прежнему остается мощным и прочным кораблём."
+"он по-прежнему остается мощным и прочным кораблем."
 
 #: src-en/data/blueprints.xml.append:1274
 msgid ""
@@ -619,12 +619,16 @@ msgstr "МВ-крейсер \"Гектар Индастриз\""
 #: src-en/data/blueprints.xml.append:1275
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/name"
-msgstr "Продленная гарантия"
+msgstr "Продленная Гарантия"
 
 #: src-en/data/blueprints.xml.append:1276
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/desc"
 msgstr ""
+"Когда Билли Гектар размышлял над идеями для расширения своего бизнеса, он не "
+"думал о том, чтобы выйти за пределы своей реальности. Следуя по стопам "
+"своего загадочного брата, он решил обречь своих сотрудников на "
+"Сверхурочную(ТМ) работу."
 
 #: src-en/data/blueprints.xml.append:1354
 msgid ""
@@ -634,12 +638,15 @@ msgstr "МВ-крейсер Епископов"
 #: src-en/data/blueprints.xml.append:1355
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/name"
-msgstr "Точильный камень"
+msgstr "Точильный Камень"
 
 #: src-en/data/blueprints.xml.append:1356
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/desc"
 msgstr ""
+"Несмотря на свою первоначальную миссию по охране королевы Лейконплииинакры, "
+"эта оперативная группа Епископов получила специальный приказ от упомянутой "
+"королевы помочь укрепить господство Улья."
 
 #: src-en/data/blueprints.xml.append:1510
 msgid ""
@@ -655,6 +662,10 @@ msgstr "Брут"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/desc"
 msgstr ""
+"Первоначально принадлежал флоту МВ-повстанцев. Этот крейсер дезертировал из "
+"флота и присоединился к подразделению МВ-силовиков, хотя пилот этого "
+"военного корабля отказался обменять его на один из стандартных крейсеров "
+"МВ-силовиков."
 
 #: src-en/data/blueprints.xml.append:1589
 msgid ""
@@ -670,6 +681,9 @@ msgstr "Варяг"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/desc"
 msgstr ""
+"Экипаж Паладинов, захвативший этот корабль, дезертировал во время нападения "
+"на Нуму V. Они являются изгоями для Теократии, но с их огромным боевым "
+"кораблем им теперь нечего бояться."
 
 #: src-en/data/blueprints.xml.append:1667
 msgid ""
@@ -685,6 +699,9 @@ msgstr "Бертон"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/desc"
 msgstr ""
+"Конструктор этого злобного корабля унес жизни бесчисленного количества "
+"несчастных путешественников-Ренегатов и не остановится, пока не добьется "
+"своей цели."
 
 #: src-en/data/blueprints.xml.append:1744
 msgid ""
@@ -694,12 +711,15 @@ msgstr "МВ-крейсер ланиусов"
 #: src-en/data/blueprints.xml.append:1745
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/name"
-msgstr ""
+msgstr "Ср-24-Г6-П4"
 
 #: src-en/data/blueprints.xml.append:1746
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/desc"
 msgstr ""
+"Неясно, как ланиусам удалось заполучить технологию МВ-привода, но "
+"специалисты полагают, что они полакомились несколькими несчастными "
+"путешественниками."
 
 #: src-en/data/blueprints.xml.append:1824
 msgid ""
@@ -715,6 +735,9 @@ msgstr "Ч.И.С.Т."
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/desc"
 msgstr ""
+"По какой-то причине повстанцы заставили Ц.Р.Б.А переместиться в этот "
+"секретный крейсер класса МВ, преследуя скрытые мотивы, которые пока остаются "
+"неясными."
 
 #: src-en/data/blueprints.xml.append:1901
 msgid ""
@@ -724,12 +747,15 @@ msgstr "МВ-крейсер Вестников Заката"
 #: src-en/data/blueprints.xml.append:1902
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/name"
-msgstr "Нечеткий шар"
+msgstr "Нечеткий Шар"
 
 #: src-en/data/blueprints.xml.append:1903
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/desc"
 msgstr ""
+"По какой-то причине Вестники Заката взяли свои ценные технологии и решили "
+"работать как Ренегаты. Потерпела ли их изначальная цель неудачу? Кто знает, "
+"все, что вы знаете, это то, что их корабль - это не шутка!"
 
 #: src-en/data/blueprints.xml.append:1979
 msgid ""
@@ -739,12 +765,16 @@ msgstr "МВ-крейсер Улья"
 #: src-en/data/blueprints.xml.append:1980
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/name"
-msgstr "Комодский варан"
+msgstr "Комодский Варан"
 
 #: src-en/data/blueprints.xml.append:1981
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/desc"
 msgstr ""
+"В рамках плана королевы Лейконплииинакры по расширению влияния Роя и поиску "
+"колоний Свободных Богомолов с целью их уничтожения, она поручила оснастить "
+"один из лучших кораблей богомолов для выполнения этой задачи, даже в других "
+"реальностях."
 
 #: src-en/data/blueprints.xml.append:2058
 msgid ""
@@ -760,6 +790,9 @@ msgstr "Сулане"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/desc"
 msgstr ""
+"Устав бесплатно преследовать всю расу слизней, легендарный Соляной человек "
+"решил вступить в ряды МВЧВК, чтобы получать деньги за преследование слизней "
+"и другие грязные дела."
 
 #: src-en/data/blueprints.xml.append:2211
 msgid ""
@@ -775,6 +808,9 @@ msgstr "Флюгер"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/desc"
 msgstr ""
+"Несмотря на природу этого судна, в нем заложен оксюморонный смысл. Ни один "
+"пират не может от него скрыться, и ни один гражданский не может легко с ним "
+"справиться."
 
 #: src-en/data/blueprints.xml.append:2289
 msgid ""
@@ -790,6 +826,8 @@ msgstr "CRISPR"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/desc"
 msgstr ""
+"Премьер-министр Конфедерации Ивар поручил своим элитным Культиваторам "
+"изучить реальность в надежде укрепить позиции Оро'баче Вампсорняков."
 
 #: src-en/data/blueprints.xml.append:2369
 msgid ""
@@ -799,32 +837,38 @@ msgstr "МВ-крейсер асов МФК"
 #: src-en/data/blueprints.xml.append:2370
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/name"
-msgstr "Посторонний солдат"
+msgstr "Посторонний Солдат"
 
 #: src-en/data/blueprints.xml.append:2371
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/desc"
 msgstr ""
+"Результат многочисленных успешных попыток путешествий по Мультивселенной. "
+"Этот крейсер асов отлично подходит для автономного пилотирования, а его "
+"экипаж может сражаться с вражескими кораблями в ближнем бою."
 
 #: src-en/data/blueprints.xml.append:2450
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/class"
-msgstr ""
+msgstr "Корабль Мортиса"
 
 #: src-en/data/blueprints.xml.append:2451
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/name"
-msgstr "Увядающая роза"
+msgstr "Увядающая Роза"
 
 #: src-en/data/blueprints.xml.append:2452
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/desc"
 msgstr ""
+"Снаружи это зверь, который с легкостью разрывает своих врагов, но внутри вы "
+"найдете очень увлеченного убийцу, который любит кофе и одного очень "
+"особенного человека."
 
 #: src-en/data/blueprints.xml.append:2523
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/class"
-msgstr ""
+msgstr "Корабль Витае"
 
 #: src-en/data/blueprints.xml.append:2524
 msgid ""
@@ -835,34 +879,58 @@ msgstr "Роза Верди"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/desc"
 msgstr ""
+"Привлекательные оттенки этого крейсера создают атмосферу ясности и покоя, в "
+"основном потому, что он, по сути, представляет собой передвижную клинику и "
+"спа-салон, который так или иначе убьет вас - любовью или когтями своего "
+"доктора."
 
 #: src-en/data/blueprints.xml.append:2596
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_MORTIS_PHEROMONES\"]/title"
-msgstr ""
+msgstr "Увядающие феромоны"
 
 #: src-en/data/blueprints.xml.append:2597
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_MORTIS_PHEROMONES\"]/desc"
 msgstr ""
+"Смесь феромонов, приготовленных лично Мортисом. Смешанные с различными "
+"смертельными токсинами и очень сильной дозой кофеина, они придают воздуху "
+"запах смертельного кафе.\n"
+"\n"
+"\tЗа каждый уровень мощности системы жизнеобеспечения враги получают 10% "
+"снижение здоровья и 5% снижение скорости передвижения.\n"
+"\n"
+"\tСистема жизнеобеспечения 4-го уровня при полной мощности заставляет врагов "
+"получать урон, находясь на вашем корабле, и получать эффект разложения при "
+"получении урона на своем.\n"
+"\tСоюзный экипаж богомолов получает множитель урона до 1.1x за каждый "
+"уровень мощности системы жизнеобеспечения."
 
 #: src-en/data/blueprints.xml.append:2609
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_VITAE_PHEROMONES\"]/title"
-msgstr ""
+msgstr "Цветущие феромоны"
 
 #: src-en/data/blueprints.xml.append:2610
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_VITAE_PHEROMONES\"]/desc"
 msgstr ""
+"Специально приготовленная смесь лечебных феромонов Витае. Наполненная "
+"ароматными травами и лекарствами, которые могут успокоить даже самых злых "
+"эквиноидов и погрузить их в расслабляющий сон.\n"
+"\t\n"
+"\tОбеспечивает исцеление союзников на других кораблях, масштабируемое в "
+"зависимости от уровня мощности Медотсека и системы жизнеобеспечения.\n"
+"\tЗа каждый уровень мощности системы жизнеобеспечения союзники получают "
+"множитель 1.1х к здоровью, скорости ремонта и скорости передвижения."
 
 #: src-en/data/blueprints.xml.append:2620
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PERMISSION\"]/title"
-msgstr ""
+msgstr "ЕМВ РАЗРЕШЕНИЕ"
 
 #: src-en/data/blueprints.xml.append:2621
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PERMISSION\"]/desc"
-msgstr ""
+msgstr "ЗАСТАВЛЯЕТ РАБОТАТЬ МВ-ФЛАГМАН. ВЫ НЕ ДОЛЖНЫ ЭТОГО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2628
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AI_SCANNER\"]/title"
@@ -871,126 +939,176 @@ msgstr "Расширенный навигатор"
 #: src-en/data/blueprints.xml.append:2629
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AI_SCANNER\"]/desc"
 msgstr ""
+"Показывает подробную информацию об окружающих маяках и позволяет "
+"автоматическому кораблю перемещаться к любому ранее посещенному маяку."
 
 #: src-en/data/blueprints.xml.append:2636
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PREPERATION\"]/title"
-msgstr ""
+msgstr "Продв. навигац. ИИ"
 
 #: src-en/data/blueprints.xml.append:2637
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PREPERATION\"]/desc"
 msgstr ""
+"Показывает информацию об окружающих маяках и позволяет автоматическому "
+"кораблю прыгать к любому ранее посещенному маяку. Дает кораблю базовую "
+"функциональность автоматического корабля."
 
 #: src-en/data/blueprints.xml.append:2644
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AUTOMATION\"]/title"
-msgstr ""
+msgstr "Продв. ИИ повстанцев"
 
 #: src-en/data/blueprints.xml.append:2645
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AUTOMATION\"]/desc"
 msgstr ""
+"Продвинутый ИИ повстанцев полностью взял под свой контроль корабль! "
+"Показывает подробную информацию об окружающих маяках и позволяет "
+"автоматическому кораблю перемещаться к любому ранее посещенному маяку. "
+"Предоставляет кораблю полную функциональность автоматического корабля и "
+"отключает генерацию кислорода."
 
 #: src-en/data/blueprints.xml.append:2652
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_RETRO_SHIELDING\"]/title"
-msgstr ""
+msgstr "Продв. блок экранир."
 
 #: src-en/data/blueprints.xml.append:2653
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_RETRO_SHIELDING\"]/desc"
 msgstr ""
+"Обеспечивает накопительный энергетический щит, используемый в МВ Ретро "
+"Флагмане."
 
 #: src-en/data/blueprints.xml.append:2661
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/title"
-msgstr ""
+msgstr "Позолоч. щиты"
 
 #: src-en/data/blueprints.xml.append:2662
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/desc"
 msgstr ""
+"Продвинутые щиты, питаемые чистейшим эфиром, который только можно "
+"вообразить, медленно восстанавливаются, если в течение длительного времени "
+"не повреждаются."
 
 #: src-en/data/blueprints.xml.append:2670
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/title"
-msgstr ""
+msgstr "Позолоченное оружие"
 
 #: src-en/data/blueprints.xml.append:2671
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/desc"
 msgstr ""
+"Продвинутая система вооружения, работающая на чистейшем эфире, обеспечивают "
+"более высокую скорость стрельбы."
 
 #: src-en/data/blueprints.xml.append:2678
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/title"
-msgstr ""
+msgstr "Позолоч. регенер. обшивка"
 
 #: src-en/data/blueprints.xml.append:2679
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/desc"
 msgstr ""
+"Удачи в пробивании этой брони! Обладает 25% шансом не получить урон по "
+"корпусу и системе, а также функциями автоматического ремонта!"
 
 #: src-en/data/blueprints.xml.append:2686
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/title"
-msgstr ""
+msgstr "Позолоч. божеств. броня"
 
 #: src-en/data/blueprints.xml.append:2687
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/desc"
 msgstr ""
+"Удачи в пробивании этой брони! Обладает 25% шансом не получить урон по "
+"корпусу и системе, а также функциями автоматического ремонта!"
 
 #: src-en/data/blueprints.xml.append:2694
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/title"
-msgstr ""
+msgstr "Позолоченный гель"
 
 #: src-en/data/blueprints.xml.append:2695
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/desc"
 msgstr ""
+"Неописуемый гель, способный восстанавливать не только повреждения, но и "
+"системы."
 
 #: src-en/data/blueprints.xml.append:2702
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/title"
-msgstr ""
+msgstr "Позолоченные медботы"
 
 #: src-en/data/blueprints.xml.append:2703
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/desc"
 msgstr ""
+"Мощные наноботы, которые не только лечат, но и усиливают экипаж в "
+"зависимости от мощности Медотсека!"
 
 #: src-en/data/blueprints.xml.append:2710
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PURE_INTELLECT\"]/title"
-msgstr ""
+msgstr "Продвинутые знания"
 
 #: src-en/data/blueprints.xml.append:2711
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PURE_INTELLECT\"]/desc"
 msgstr ""
+"Вершина технологий ИИ, сочетающая в себе возможности Расширенного "
+"навигатора, Дезинтегрирующих полей и Взломщика МВ-приводов."
 
 #: src-en/data/blueprints.xml.append:2722
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_PARASITE\"]/title"
-msgstr ""
+msgstr "[Л] Паразит. зависим."
 
 #: src-en/data/blueprints.xml.append:2723
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_PARASITE\"]/desc"
 msgstr ""
+"Пиявки имеют на 60 меньше макс. ОЗ и по умолчанию наносят в 4 раза меньше "
+"урона, но истощают 3 ОЗ/с у всех других вражеских членов экипажа, кроме "
+"пиявок, находящихся в отсеке.\n"
+"\t\n"
+"\t[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, "
+"но занимает слот модуля. Оно не может быть преобразовано во внутреннее "
+"лабораторное улучшение, но не занимает его основной слот. Не суммируется с "
+"самим собой."
 
 #: src-en/data/blueprints.xml.append:2732
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_HIVESLASH\"]/title"
-msgstr ""
+msgstr "[Л] Удар когтем"
 
 #: src-en/data/blueprints.xml.append:2733
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_HIVESLASH\"]/desc"
 msgstr ""
+"Обычные богомолі получают способность наносить удары, которые наносят 15 "
+"единиц урона всем вражеским членам экипажа в отсеке. Могут наносить удары "
+"только два раза за прыжок.\n"
+"\t\n"
+"\t[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, "
+"но занимает слот модуля. Оно не может быть преобразовано во внутреннее "
+"лабораторное улучшение, но не занимает его основной слот. Не суммируется с "
+"самим собой."
 
 #: src-en/data/blueprints.xml.append:2742
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_CARETAKER_HAZARD\"]/title"
-msgstr ""
+msgstr "[Л] Успокаив. споры"
 
 #: src-en/data/blueprints.xml.append:2743
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_CARETAKER_HAZARD\"]/desc"
 msgstr ""
+"Смотрители обеспечивают иммунитет к огню и оглушению союзникам поблизости и "
+"себе, но больше не генерируют кислород.\n"
+"\t\n"
+"\t[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, "
+"но занимает слот модуля. Оно не может быть преобразовано во внутреннее "
+"лабораторное улучшение, но не занимает его основной слот. Не суммируется с "
+"самим собой."
 
 #: src-en/data/blueprints.xml.append:2752
 msgid ""
@@ -1001,11 +1119,13 @@ msgstr "Расширенные частоты"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_ADV_FREQUENCIES\"]/desc"
 msgstr ""
+"Позволяет обнаруживать различные случаи пиратства, а также выполняет те же "
+"функции, что и Частоты для перехвата."
 
 #: src-en/data/blueprints.xml.append:2761
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/title"
-msgstr ""
+msgstr "Тяж. пронз. лазер. арт."
 
 #: src-en/data/blueprints.xml.append:2762
 msgid ""
@@ -1016,16 +1136,19 @@ msgstr "Пронз. тяжелый"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 18] Выпускает залп мощных тяжелых лазеров, пробивающих "
+"слой щита."
 
 #: src-en/data/blueprints.xml.append:2765
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/tooltip"
 msgstr ""
+"Тяжелый лазерный залп, 2 единицы урона, 1 выстрел. Пробивает 1 слой щита."
 
 #: src-en/data/blueprints.xml.append:2801
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/title"
-msgstr ""
+msgstr "Частич. ракетн. арт."
 
 #: src-en/data/blueprints.xml.append:2802
 msgid ""
@@ -1036,16 +1159,19 @@ msgstr "УЧ-ракеты"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 30] Запускает залп частичных ракет, которые разрушают "
+"системы корабля и запирают помещения."
 
 #: src-en/data/blueprints.xml.append:2804
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/tooltip"
 msgstr ""
+"Залп частичных ракет, 1 единица урона, накладывает изоляцию при попадании."
 
 #: src-en/data/blueprints.xml.append:2842
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/title"
-msgstr ""
+msgstr "Продв. Фошар арт."
 
 #: src-en/data/blueprints.xml.append:2843
 msgid ""
@@ -1056,46 +1182,57 @@ msgstr "Фашард"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 30] Выпускает разрушительный антибиологический луч, "
+"пронзающий системы противника. Пробивает все обычные щиты."
 
 #: src-en/data/blueprints.xml.append:2845
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/tooltip"
-msgstr ""
+msgstr "Фошар артиллерия, чрезвычайно длинный луч, пробивает щиты."
 
 #: src-en/data/blueprints.xml.append:2873
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/title"
-msgstr ""
+msgstr "Тяж. энергет. арт."
 
 #: src-en/data/blueprints.xml.append:2874
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/short"
-msgstr ""
+msgstr "Тяжелая энергия"
 
 #: src-en/data/blueprints.xml.append:2877
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 15] Выпускает залп сконцентрированных энергетических "
+"снарядов, которые наносят урон корпусу и системам, причем в помещениях без "
+"систем урон корпусу удваивается."
 
 #: src-en/data/blueprints.xml.append:2878
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/tooltip"
 msgstr ""
+"Выпускает залп тяжелых энергетических снарядов. Может поражать и выводить из "
+"строя щиты, а также системы. Наносит урон корпусу в 2 раза больше в отсеках "
+"без систем."
 
 #: src-en/data/blueprints.xml.append:2918
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/title"
-msgstr ""
+msgstr "Прототип арт. Гатлинга"
 
 #: src-en/data/blueprints.xml.append:2919
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/short"
-msgstr ""
+msgstr "Артиллерия"
 
 #: src-en/data/blueprints.xml.append:2920
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 15/13,4/11.8/10.2/8.6/7/5.4] Впечатляющая лазерная "
+"артиллерия, которая после каждого залпа уменьшает время перезарядки, "
+"удерживая щиты противника под постоянным огнем."
 
 #: src-en/data/blueprints.xml.append:2921
 msgid ""
@@ -1275,12 +1412,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3255
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/title"
-msgstr ""
+msgstr "Тяжелая энергия"
 
 #: src-en/data/blueprints.xml.append:3256
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/short"
-msgstr ""
+msgstr "Тяжелая энергия"
 
 #: src-en/data/blueprints.xml.append:3259
 msgid ""
