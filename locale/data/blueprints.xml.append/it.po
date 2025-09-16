@@ -1,74 +1,92 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-09-17 12:21+0000\n"
+"Last-Translator: Nicola Morelli <nicomore1702@gmail.com>\n"
+"Language-Team: Italian <https://weblate.hyperq.be/projects/"
+"expanded-multiverse/datablueprintsxmlappend/it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/desc"
 msgstr ""
+"Equipaggio umano d'élite. L'equipaggio dei Fuorilegge abili e letali, "
+"allenati per servire la Vecchia Gloria.\n"
+"\t\n"
+"\tTratti umani ereditati: leggera resistenza a soffocamento"
 
 #: src-en/data/blueprints.xml.append:8
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/title"
-msgstr ""
+msgstr "Mercenario Fuorilegge"
 
 #: src-en/data/blueprints.xml.append:9
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/short"
-msgstr ""
+msgstr "Mercenario"
 
 #: src-en/data/blueprints.xml.append:12
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[1]"
 msgstr ""
+"Potere attivo: esegue una pugnalata veloce che infligge un debuff di "
+"emorragia."
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[2]"
-msgstr ""
+msgstr "Infligge danno 1,1x in combattimento."
 
 #: src-en/data/blueprints.xml.append:14
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[3]"
-msgstr ""
+msgstr "Subisce danno 0,9x in combattimento e 0,6x da fuoco."
 
 #: src-en/data/blueprints.xml.append:15
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[4]"
-msgstr ""
+msgstr "Le abilità migliorano molto più velocemente."
 
 #: src-en/data/blueprints.xml.append:20
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/desc"
 msgstr ""
+"Equipaggio umano super élite. Col loro addestramento da Ace, questi qui "
+"possono spezzare persino il morale delle loro prede, rendendoli bersagli "
+"facili."
 
 #: src-en/data/blueprints.xml.append:22
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/title"
-msgstr ""
+msgstr "Comandante Fuorilegge"
 
 #: src-en/data/blueprints.xml.append:23
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/short"
-msgstr ""
+msgstr "Comandante"
 
 #: src-en/data/blueprints.xml.append:26
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[1]"
 msgstr ""
+"Potere attivo: fa un grido di guerra ruggente che potenzia il tuo equipaggio "
+"umano e spezza il morale di tutto l'equipaggio non umano."
 
 #: src-en/data/blueprints.xml.append:27
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[2]"
-msgstr ""
+msgstr "Infligge danno 1,8x in combattimento."
 
 #: src-en/data/blueprints.xml.append:28
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[3]"
-msgstr ""
+msgstr "Sabota sistemi a velocità 2x."
 
 #: src-en/data/blueprints.xml.append:29
 msgid ""
