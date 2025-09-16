@@ -1,15 +1,23 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-09-17 19:22+0000\n"
+"Last-Translator: Nicola Morelli <nicomore1702@gmail.com>\n"
+"Language-Team: Italian <https://weblate.hyperq.be/projects/"
+"expanded-multiverse/datablueprintsxmlappend/it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/desc"
 msgstr ""
-"Equipaggio umano d'élite. L'equipaggio dei Fuorilegge abili e letali, allenati per servire la Vecchia Gloria.\n"
+"Equipaggio umano d'élite. L'equipaggio dei Fuorilegge abili e letali, "
+"allenati per servire la Vecchia Gloria.\n"
 "\t\n"
 "\tTratti umani ereditati: leggera resistenza a soffocamento"
 
@@ -67,8 +75,8 @@ msgstr "Comandante"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[1]"
 msgstr ""
-"Potere attivo: fa un grido di guerra ruggente che potenzia il tuo equipaggio"
-" umano e spezza il morale di tutto l'equipaggio non umano."
+"Potere attivo: fa un grido di guerra ruggente che potenzia il tuo equipaggio "
+"umano e spezza il morale di tutto l'equipaggio non umano."
 
 #: src-en/data/blueprints.xml.append:27
 msgid ""
