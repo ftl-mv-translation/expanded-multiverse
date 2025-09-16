@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-16 13:31+0000\n"
+"PO-Revision-Date: 2025-09-16 13:32+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/datablueprintsxmlappend/ru/>\n"
@@ -536,7 +536,7 @@ msgid ""
 msgstr ""
 "Поисковым группам Федерации удалось раздобыть несколько неиспользованных "
 "чертежей Республиканского крейсера, оборудованного для путешествии по "
-"Мультивселенной. Этот крейсер оправдывает утраченную славу Иргенской "
+"Мультивселенной. Этот крейсер воскрешает утраченную славу Иргенской "
 "Республики."
 
 #: src-en/data/blueprints.xml.append:963
