@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-16 14:25+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-09-17 12:21+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -203,15 +203,14 @@ msgid ""
 msgstr "Может телепортироваться на любой корабль."
 
 #: src-en/data/blueprints.xml.append:69
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/desc"
 msgstr ""
 "Элитный медицинский экипаж. Соратники преступников Мультивселенной, но не "
 "столь воинственные и не столь заинтересованные в лечении пришельцев.\n"
 "\n"
-"Наследует характеристики людей: небольшая устойчивость к опасностям, быстрее "
-"осваивает небоевые навыки."
+"\tНаследует характеристики людей: небольшая устойчивость к опасностям, "
+"быстрее осваивает небоевые навыки."
 
 #: src-en/data/blueprints.xml.append:73
 msgid ""
@@ -384,7 +383,6 @@ msgid ""
 msgstr "Вихрь"
 
 #: src-en/data/blueprints.xml.append:168
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/desc"
 msgstr ""
@@ -1259,12 +1257,12 @@ msgstr "Стоит ему попасть, и ты - труп."
 #: src-en/data/blueprints.xml.append:3001
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/title"
-msgstr ""
+msgstr "Позолоченный луч \"Цукияри\""
 
 #: src-en/data/blueprints.xml.append:3002
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/short"
-msgstr ""
+msgstr "П. \"Цукияри\""
 
 #: src-en/data/blueprints.xml.append:3003
 msgid ""
@@ -1276,17 +1274,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3004
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/tooltip"
-msgstr ""
+msgstr "Добыча босса."
 
 #: src-en/data/blueprints.xml.append:3032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/title"
-msgstr ""
+msgstr "Позолоченный ионный бластер"
 
 #: src-en/data/blueprints.xml.append:3033
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/short"
-msgstr ""
+msgstr "П. упрежд. ИБ"
 
 #: src-en/data/blueprints.xml.append:3036
 msgid ""
@@ -1300,16 +1298,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/tooltip"
 msgstr ""
+"Выпускает один выстрел, наносящий 1 единицу ионного урона. Может поражать и "
+"выводить из строя щиты, а также системы."
 
 #: src-en/data/blueprints.xml.append:3089
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/title"
-msgstr ""
+msgstr "Позолоченный упреждающий \"Факел\""
 
 #: src-en/data/blueprints.xml.append:3090
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/short"
-msgstr ""
+msgstr "П. упр. \"Факел\""
 
 #: src-en/data/blueprints.xml.append:3091
 msgid ""
@@ -1322,17 +1322,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3092
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/tooltip"
-msgstr ""
+msgstr "Лучевое оружие, вызывающее возгорание."
 
 #: src-en/data/blueprints.xml.append:3118
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/title"
-msgstr ""
+msgstr "Позолоченный луч \"Вульж\""
 
 #: src-en/data/blueprints.xml.append:3119
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/short"
-msgstr ""
+msgstr "П. \"Вульж\""
 
 #: src-en/data/blueprints.xml.append:3121
 msgid ""
@@ -1345,7 +1345,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3122
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/tooltip"
-msgstr ""
+msgstr "Большой луч, наносящий 4 единицы урона за отсек."
 
 #: src-en/data/blueprints.xml.append:3143
 msgid ""
@@ -1361,11 +1361,15 @@ msgstr "Пронз. тяжелый"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/desc"
 msgstr ""
+"[АРТИЛЛЕРИЯ, ПРОНЗАЮЩАЯ ТЯЖЕЛАЯ АРТИЛЛЕРИЯ, 2 УРОНА, НЕ МОЖЕТ ПРОМАХНУТЬСЯ, "
+"3 ВЫСТРЕЛА ЗА ЗАЛП, ЗАПИРАНИЕ ПРИ ПОПАДАНИИ]"
 
 #: src-en/data/blueprints.xml.append:3147
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/tooltip"
 msgstr ""
+"Тяжелый лазер; 2 единицы урона, 1 выстрел. Время перезарядки 11 секунд. "
+"Пробивает 1 слой щита."
 
 #: src-en/data/blueprints.xml.append:3184
 msgid ""
@@ -1381,11 +1385,15 @@ msgstr "УЧ-ракеты"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/desc"
 msgstr ""
+"[АРТИЛЛЕРИЯ, РАКЕТА С ЧАСТИЦАМИ, 1 СИСТЕМНЫЙ УРОН, НЕ МОЖЕТ ПРОМАХНУТЬСЯ, 3 "
+"ВЫСТРЕЛА ЗА ЗАЛП, ЗАПИРАНИЕ ПРИ ПОПАДАНИИ]"
 
 #: src-en/data/blueprints.xml.append:3187
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/tooltip"
 msgstr ""
+"Частичная ракета; 7 единиц урона системе, 1 выстрел. 22 секунды перезарядки. "
+"Вызывает возгорание."
 
 #: src-en/data/blueprints.xml.append:3224
 msgid ""
@@ -1408,6 +1416,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/tooltip"
 msgstr ""
+"Лучевое оружие стоимостью 2 энергии, наносящее значительный урон экипажу "
+"противника."
 
 #: src-en/data/blueprints.xml.append:3255
 msgid ""
@@ -1430,6 +1440,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/tooltip"
 msgstr ""
+"Выпускает один выстрел, наносящий 2 единицы ионного урона и 1 единицу урона "
+"корпусу. Может поражать и выводить из строя щиты, а также системы. Наносит "
+"2x урона корпусу в отсеках без систем."
 
 #: src-en/data/blueprints.xml.append:3300
 msgid ""
@@ -1452,6 +1465,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/tooltip"
 msgstr ""
+"Импульсный лазер; 1 единица урона, 2 выстрела. Время перезарядки 14 секунд. "
+"Вызывает возгорание."
 
 #: src-en/data/blueprints.xml.append:3341
 msgid ""
@@ -1493,7 +1508,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3386
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/tooltip"
-msgstr ""
+msgstr "Выпускает обломки по случайной области, нанося до 7 единиц урона."
 
 #: src-en/data/blueprints.xml.append:3430
 msgid ""
@@ -1516,6 +1531,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/tooltip"
 msgstr ""
+"Наносит 3 урона, если нет щитов. В противном случае - 2 урона или меньше."
 
 #: src-en/data/blueprints.xml.append:3460
 msgid ""
@@ -1540,7 +1556,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3468
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/tooltip"
-msgstr ""
+msgstr "Модули не установлены."
 
 #: src-en/data/blueprints.xml.append:3504
 msgid ""
