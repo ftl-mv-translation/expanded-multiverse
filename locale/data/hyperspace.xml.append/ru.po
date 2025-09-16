@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-16 14:25+0000\n"
+"PO-Revision-Date: 2025-09-17 12:21+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/datahyperspace-xml-append/ru/>\n"
@@ -34,7 +34,6 @@ msgid ""
 msgstr "ЛЕЧИТЬ"
 
 #: src-en/data/hyperspace.xml.append:68
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_medic\"]/powerEffect/tooltip"
