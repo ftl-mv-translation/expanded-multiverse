@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-16 13:32+0000\n"
+"PO-Revision-Date: 2025-09-16 13:33+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/datablueprintsxmlappend/ru/>\n"
@@ -565,12 +565,14 @@ msgstr "Альтернативный МВ Флагман"
 #: src-en/data/blueprints.xml.append:1044
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/name"
-msgstr ""
+msgstr "Разрыв Реальности"
 
 #: src-en/data/blueprints.xml.append:1045
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/desc"
 msgstr ""
+"Цепляясь за прошлое, Вэнс специально построил этот корабль в честь одного из "
+"своих поражений и в знак силы, с которой столкнутся его враги."
 
 #: src-en/data/blueprints.xml.append:1116
 msgid ""
@@ -586,6 +588,10 @@ msgstr "Колумбус"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/desc"
 msgstr ""
+"Самая старая из известных моделей кораблей повстанцев, предназначенных для "
+"путешествий по Мультивселенной. Несмотря на то, что этот корабль слабее "
+"своих более новых аналогов,он по-прежнему способен наносить серьезный урон "
+"благодаря своей артиллерии Гатлинга."
 
 #: src-en/data/blueprints.xml.append:1196
 msgid ""
