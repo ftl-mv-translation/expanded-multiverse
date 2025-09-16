@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-09-16 14:25+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1434,12 +1434,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3300
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/title"
-msgstr ""
+msgstr "Поджигатель"
 
 #: src-en/data/blueprints.xml.append:3301
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/short"
-msgstr ""
+msgstr "Поджигат"
 
 #: src-en/data/blueprints.xml.append:3303
 msgid ""
