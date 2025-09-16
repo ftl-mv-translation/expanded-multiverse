@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-09-16 14:25+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_sector_emv_gildedxml/ru/>\n"
 "Language: ru\n"
@@ -77,7 +77,7 @@ msgstr ""
 "эти слова. Это... это был... Тулли, адмирал флота Федерации.\n"
 "\n"
 "\"Приказ об эвакуации был отдан уже давно, я удивлен, что вы еще не улетели\""
-", — говорит Тулли, откинувшись на спинку кресла и глядя на космос."
+", - говорит Тулли, откинувшись на спинку кресла и глядя на космос."
 
 #: src-en/data/events_sector_emv_gilded.xml:30
 msgid ""
