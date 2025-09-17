@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-09-17 19:22+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/expanded-multiverse/datablueprintsxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
@@ -1043,7 +1050,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3036
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/desc"
-msgstr "这种离子武器无需供能，充能迅速，并发射一束强大的离子束，能够非常有效地瓦解敌方护盾。但是，每场战斗只能开火一次。"
+msgstr "这种离子武器无需供能，充能迅速，并发射一束强大的离子束，能够非常有效地瓦解敌"
+"方护盾。但是，每场战斗只能开火一次。"
 
 #: src-en/data/blueprints.xml.append:3089
 msgid ""
@@ -1058,7 +1066,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3091
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/desc"
-msgstr "一种极速充能的先发武器，可发射一束缓慢的光束穿透所有护盾并点燃敌舰。每场战斗只能使用一次。"
+msgstr "一种极速充能的先发武器，可发射一束缓慢的光束穿透所有护盾并点燃敌舰。每场战斗"
+"只能使用一次。"
 
 #: src-en/data/blueprints.xml.append:3118
 msgid ""
@@ -1133,7 +1142,8 @@ msgstr "重型能量炮"
 #: src-en/data/blueprints.xml.append:3259
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/desc"
-msgstr "能量武器可以使系统失效，同时也会造成舰体伤害。这种可对无系统的舱室造成额外的舰体伤害。"
+msgstr "能量武器可以使系统失效，同时也会造成舰体伤害。这种可对无系统的舱室造成额外的"
+"舰体伤害。"
 
 #: src-en/data/blueprints.xml.append:3300
 msgid ""
@@ -1148,7 +1158,8 @@ msgstr "火焰激光"
 #: src-en/data/blueprints.xml.append:3303
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/desc"
-msgstr "一种改装激光武器，每枚弹体都会引发火焰，并伤害敌方的系统和舰体，但不会伤害船员。"
+msgstr "一种改装激光武器，每枚弹体都会引发火焰，并伤害敌方的系统和舰体，但不会伤害船"
+"员。"
 
 #: src-en/data/blueprints.xml.append:3341
 msgid ""
@@ -1193,7 +1204,8 @@ msgstr "指剑光点"
 #: src-en/data/blueprints.xml.append:3432
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/desc"
-msgstr "这种光点武器只能造成中量的伤害，但其射速会迅速提高，直至对护盾失效的敌人造成毁灭性打击。"
+msgstr "这种光点武器只能造成中量的伤害，但其射速会迅速提高，直至对护盾失效的敌人造成"
+"毁灭性打击。"
 
 #: src-en/data/blueprints.xml.append:3460
 msgid ""
