@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Japanese <https://weblate.hyperq.be/projects/"
-"expanded-multiverse/dataevents_special_guardsxmlappend/ja/>\n"
-"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_guards.xml.append:2
 msgid ""
@@ -82,8 +75,7 @@ msgstr "次へ…"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_CRIMINAL\"]/choice/event/text"
 msgstr ""
-"あなたの戦歴があなたに追いついたようです。警備員はあなたが犯した犯罪について"
-"十分に聞いており、そして彼らはあなたをセクターに入れるつもりはありません！"
+"あなたの戦歴があなたに追いついたようです。警備員はあなたが犯した犯罪について十分に聞いており、そして彼らはあなたをセクターに入れるつもりはありません！"
 
 #: src-en/data/events_special_guards.xml.append:64
 #, fuzzy

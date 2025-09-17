@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/expanded-multiverse/dataevents_sector_emv_gildedxml/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_emv_gilded.xml:2
 msgid ""
@@ -365,6 +358,11 @@ msgstr ""
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_JUDGES_REVISIT\"]/choice/text"
 msgstr "继续。"
+
+#: src-en/data/events_sector_emv_gilded.xml:376
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/beaconType/@text"
+msgstr ""
 
 #: src-en/data/events_sector_emv_gilded.xml:378
 msgid ""

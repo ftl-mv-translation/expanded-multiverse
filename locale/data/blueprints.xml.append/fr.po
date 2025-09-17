@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/"
-"expanded-multiverse/datablueprintsxmlappend/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
@@ -1039,11 +1032,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/desc"
 msgstr "Prototype de Rayon avancé des armes Kamayari et Suyari."
 
-#: src-en/data/blueprints.xml.append:3004
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/title"
@@ -1061,11 +1049,6 @@ msgstr ""
 "Cette arme à ion n'utilise pas de courant, se charge instantanément et tire "
 "un rayon ion capable de mettre à mal les bouclier ennemis. Cependant, ne "
 "peut tirer qu'une fois par combat."
-
-#: src-en/data/blueprints.xml.append:3037
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/tooltip"
-msgstr ""
 
 #: src-en/data/blueprints.xml.append:3089
 msgid ""
@@ -1085,11 +1068,6 @@ msgstr ""
 "le vaisseau ennemi avec un rayon qui se déplace lentement. Ne peut être "
 "tirée qu'une seule fois par combat."
 
-#: src-en/data/blueprints.xml.append:3092
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3118
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/title"
@@ -1107,11 +1085,6 @@ msgstr ""
 "Le Rayon le plus lourd jamais conçu, apparu en réponse directe à un pauvre "
 "imbécile qui a osé dire que le Rayon Glaive était le plus puissant possible."
 
-#: src-en/data/blueprints.xml.append:3122
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3143
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/title"
@@ -1127,11 +1100,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3147
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3184
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/title"
@@ -1145,11 +1113,6 @@ msgstr "M. Part."
 #: src-en/data/blueprints.xml.append:3186
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:3187
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/tooltip"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:3224
@@ -1169,11 +1132,6 @@ msgstr ""
 "Ce redoutable rayon de radiation est capable de déchiqueter les systèmes du "
 "vaisseau en plus de l'équipage."
 
-#: src-en/data/blueprints.xml.append:3227
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3255
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/title"
@@ -1190,11 +1148,6 @@ msgid ""
 msgstr ""
 "Les armes à énergie désactivent les systèmes et infligent des dégâts de "
 "coque. Variante anticoque."
-
-#: src-en/data/blueprints.xml.append:3260
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/tooltip"
-msgstr ""
 
 #: src-en/data/blueprints.xml.append:3300
 msgid ""
@@ -1213,11 +1166,6 @@ msgstr ""
 "Une arme Laser modifiée pour allumer un feu à chaque projectile, "
 "endommageant le vaisseau, mais pas directement l'équipage."
 
-#: src-en/data/blueprints.xml.append:3304
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3341
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/title"
@@ -1232,11 +1180,6 @@ msgstr "'Hadès'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/desc"
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
-
-#: src-en/data/blueprints.xml.append:3344
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/tooltip"
-msgstr "Tire 1 missiles ; 1 dégat ; traverse tout les boucliers."
 
 #: src-en/data/blueprints.xml.append:3382
 msgid ""
@@ -1255,11 +1198,6 @@ msgstr ""
 "Tire 4 projectiles enflammés qui ont plus de chances de déclencher un "
 "incendie."
 
-#: src-en/data/blueprints.xml.append:3386
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3430
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/title"
@@ -1273,11 +1211,6 @@ msgstr "'Cinquedea'"
 #: src-en/data/blueprints.xml.append:3432
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:3433
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:3460
@@ -1294,17 +1227,11 @@ msgstr "Laser Mod."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/desc"
 msgstr ""
-"Produit par Hektar Industries(TM), cette arme est une base de Laser "
-"modulaire. Peut intégrer 1 module d'attribut et 1 module de statut.\n"
+"Produit par Hektar Industries(TM), cette arme est une base de Laser modulaire. Peut intégrer 1 module d'attribut et 1 module de statut.\n"
 "\tPas de module incompatible.\n"
 "\t----MODULES INSTALLÉS----\n"
 "\tAttribut - Incendiaire\n"
 "\tStatut - Verrouillage"
-
-#: src-en/data/blueprints.xml.append:3468
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/tooltip"
-msgstr ""
 
 #: src-en/data/blueprints.xml.append:3504
 msgid ""
@@ -1321,7 +1248,10 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/desc"
 msgstr "Piou piou piou, étranger."
 
-#: src-en/data/blueprints.xml.append:3508
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/tooltip"
-msgstr "Piou piou piou, étranger."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/tooltip"
+#~ msgstr "Tire 1 missiles ; 1 dégat ; traverse tout les boucliers."
+
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/tooltip"
+#~ msgstr "Piou piou piou, étranger."

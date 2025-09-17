@@ -28,7 +28,7 @@
         "//weaponBlueprint/title",
         "//weaponBlueprint/desc",
         "//weaponBlueprint/short",
-        "//weaponBlueprint/tooltip",
+        "//weaponBlueprint[starts-with(@name,'EMV_ARTILLERY_')]/tooltip",
         "//shipBlueprint/class",
         "//shipBlueprint/desc",
         "//shipBlueprint/name",
@@ -40,7 +40,8 @@
         "//win/@text",
         "//mod:findLike/mod-append:page/section/@text",
         "//crewMember",
-        "//customStore/category/customTitle",
+		"//event/beaconType/@text",
+		"//mod-append:customStore/category/customTitle",
 		
         // sector
         "//sectorDescription/nameList/name",

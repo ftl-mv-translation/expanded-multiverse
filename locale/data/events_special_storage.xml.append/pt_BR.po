@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Portuguese (Brazil) <https://weblate.hyperq.be/projects/"
-"expanded-multiverse/dataevents_special_storagexmlappend/pt_BR/>\n"
-"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_storage.xml.append:72
 msgid ""
@@ -114,6 +107,11 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOMIZER\"]/text"
 msgstr ""
 
+#: src-en/data/events_special_storage.xml.append:188
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/beaconType/@text"
+msgstr ""
+
 #: src-en/data/events_special_storage.xml.append:190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/beaconType/unvisitedTooltip"
@@ -134,6 +132,11 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/choice/text"
 msgstr "Continuar..."
+
+#: src-en/data/events_special_storage.xml.append:202
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE_QUEST\"]/beaconType/@text"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:204
 msgid ""
@@ -156,6 +159,11 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE_QUEST\"]/choice/text"
 msgstr "Continuar..."
 
+#: src-en/data/events_special_storage.xml.append:216
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/beaconType/@text"
+msgstr ""
+
 #: src-en/data/events_special_storage.xml.append:218
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/beaconType/unvisitedTooltip"
@@ -176,6 +184,11 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/choice/text"
 msgstr "Continuar..."
+
+#: src-en/data/events_special_storage.xml.append:230
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOM_QUEST\"]/beaconType/@text"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:232
 msgid ""

@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Japanese <https://weblate.hyperq.be/projects/"
-"expanded-multiverse/datablueprintsxmlappend/ja/>\n"
-"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
@@ -1037,11 +1030,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3004
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/title"
@@ -1055,11 +1043,6 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3036
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:3037
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/tooltip"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:3089
@@ -1077,11 +1060,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3092
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3118
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/title"
@@ -1095,11 +1073,6 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3121
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:3122
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/tooltip"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:3143
@@ -1117,11 +1090,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3147
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3184
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/title"
@@ -1135,11 +1103,6 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3186
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:3187
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/tooltip"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:3224
@@ -1157,11 +1120,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3227
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3255
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/title"
@@ -1175,11 +1133,6 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3259
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:3260
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/tooltip"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:3300
@@ -1197,11 +1150,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3304
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3341
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/title"
@@ -1217,11 +1165,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/desc"
 msgstr "これを見てはいけない。"
 
-#: src-en/data/blueprints.xml.append:3344
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/tooltip"
-msgstr "ダメージ1のミサイル1発を発射、全シールドを貫通する。"
-
 #: src-en/data/blueprints.xml.append:3382
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/title"
@@ -1235,11 +1178,6 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3385
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:3386
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/tooltip"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:3430
@@ -1257,11 +1195,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3433
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3460
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/title"
@@ -1275,11 +1208,6 @@ msgstr "Mod. レーザー"
 #: src-en/data/blueprints.xml.append:3463
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:3468
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/tooltip"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:3504
@@ -1297,7 +1225,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3508
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/tooltip"
-msgstr ""
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/tooltip"
+#~ msgstr "ダメージ1のミサイル1発を発射、全シールドを貫通する。"

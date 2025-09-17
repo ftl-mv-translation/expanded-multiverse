@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: German <https://weblate.hyperq.be/projects/"
-"expanded-multiverse/datahyperspace-xml-append/de/>\n"
-"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/hyperspace.xml.append:19
 msgid ""
@@ -180,6 +173,102 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[7]/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1946
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[1]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1964
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[2]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1982
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[3]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2000
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[4]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2018
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[5]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2036
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[6]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2054
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[7]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2072
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[8]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2090
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[9]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2127
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[1]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2147
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[2]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2167
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[3]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2207
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[7]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2221
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[8]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2239
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[9]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2257
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[10]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2296

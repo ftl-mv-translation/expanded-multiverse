@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/expanded-multiverse/datablueprintsxmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
@@ -1037,11 +1030,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/desc"
 msgstr "这种先进的光束是著名的镰枪和缨枪光束的原型升级。"
 
-#: src-en/data/blueprints.xml.append:3004
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/title"
@@ -1055,13 +1043,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3036
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/desc"
-msgstr "这种离子武器无需供能，充能迅速，并发射一束强大的离子束，能够非常有效地瓦解敌"
-"方护盾。但是，每场战斗只能开火一次。"
-
-#: src-en/data/blueprints.xml.append:3037
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/tooltip"
-msgstr ""
+msgstr "这种离子武器无需供能，充能迅速，并发射一束强大的离子束，能够非常有效地瓦解敌方护盾。但是，每场战斗只能开火一次。"
 
 #: src-en/data/blueprints.xml.append:3089
 msgid ""
@@ -1076,13 +1058,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3091
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/desc"
-msgstr "一种极速充能的先发武器，可发射一束缓慢的光束穿透所有护盾并点燃敌舰。每场战斗"
-"只能使用一次。"
-
-#: src-en/data/blueprints.xml.append:3092
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/tooltip"
-msgstr ""
+msgstr "一种极速充能的先发武器，可发射一束缓慢的光束穿透所有护盾并点燃敌舰。每场战斗只能使用一次。"
 
 #: src-en/data/blueprints.xml.append:3118
 msgid ""
@@ -1099,11 +1075,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/desc"
 msgstr "史上最重型的光束武器，为回应一个敢说宽刃光束无可匹敌的可怜傻瓜而制造。"
 
-#: src-en/data/blueprints.xml.append:3122
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3143
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/title"
@@ -1117,11 +1088,6 @@ msgstr "穿刺重激"
 #: src-en/data/blueprints.xml.append:3146
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:3147
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/tooltip"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:3184
@@ -1139,11 +1105,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3187
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3224
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/title"
@@ -1159,11 +1120,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/desc"
 msgstr "这种可怕的虚弱光束不仅能摧毁船员，还能伤害舰上的系统。"
 
-#: src-en/data/blueprints.xml.append:3227
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3255
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/title"
@@ -1177,13 +1133,7 @@ msgstr "重型能量炮"
 #: src-en/data/blueprints.xml.append:3259
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/desc"
-msgstr "能量武器可以使系统失效，同时也会造成舰体伤害。这种可对无系统的舱室造成额外的"
-"舰体伤害。"
-
-#: src-en/data/blueprints.xml.append:3260
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/tooltip"
-msgstr ""
+msgstr "能量武器可以使系统失效，同时也会造成舰体伤害。这种可对无系统的舱室造成额外的舰体伤害。"
 
 #: src-en/data/blueprints.xml.append:3300
 msgid ""
@@ -1198,13 +1148,7 @@ msgstr "火焰激光"
 #: src-en/data/blueprints.xml.append:3303
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/desc"
-msgstr "一种改装激光武器，每枚弹体都会引发火焰，并伤害敌方的系统和舰体，但不会伤害船"
-"员。"
-
-#: src-en/data/blueprints.xml.append:3304
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/tooltip"
-msgstr ""
+msgstr "一种改装激光武器，每枚弹体都会引发火焰，并伤害敌方的系统和舰体，但不会伤害船员。"
 
 #: src-en/data/blueprints.xml.append:3341
 msgid ""
@@ -1221,11 +1165,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/desc"
 msgstr "开发人员信息。"
 
-#: src-en/data/blueprints.xml.append:3344
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/tooltip"
-msgstr "1发导弹，每发1伤，穿透所有护盾。"
-
 #: src-en/data/blueprints.xml.append:3382
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/title"
@@ -1241,11 +1180,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/desc"
 msgstr "发射4枚燃烧弹体，这些弹体有更高的几率引发火灾。"
 
-#: src-en/data/blueprints.xml.append:3386
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3430
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/title"
@@ -1259,13 +1193,7 @@ msgstr "指剑光点"
 #: src-en/data/blueprints.xml.append:3432
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/desc"
-msgstr "这种光点武器只能造成中量的伤害，但其射速会迅速提高，直至对护盾失效的敌人造成"
-"毁灭性打击。"
-
-#: src-en/data/blueprints.xml.append:3433
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "这种光点武器只能造成中量的伤害，但其射速会迅速提高，直至对护盾失效的敌人造成毁灭性打击。"
 
 #: src-en/data/blueprints.xml.append:3460
 msgid ""
@@ -1287,11 +1215,6 @@ msgstr ""
 "\t特性 - 引火\n"
 "\t特效 - 封锁"
 
-#: src-en/data/blueprints.xml.append:3468
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3504
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/title"
@@ -1307,7 +1230,10 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/desc"
 msgstr "BiuBiuBiu，陌生～～人。"
 
-#: src-en/data/blueprints.xml.append:3508
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/tooltip"
-msgstr "BiuBiuBiu，陌生～～人。"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/tooltip"
+#~ msgstr "1发导弹，每发1伤，穿透所有护盾。"
+
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/tooltip"
+#~ msgstr "BiuBiuBiu，陌生～～人。"

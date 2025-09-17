@@ -202,6 +202,102 @@ msgstr ""
 "[style[color:ffb045]]Gil[[/style]][style[color:ffbd64]]ded[[/style]][style[color:ffd780]] Med-[[/style]][style[color:ffc369]] bots:[[/style]]\n"
 "[style[color:ffc369]]Indessscribable gel that not only repairsss breachesss but sssyssstemsss asss well..[[/style]]"
 
+#: src-en/data/hyperspace.xml.append:1946
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[1]/customTitle"
+msgstr "LASERS"
+
+#: src-en/data/hyperspace.xml.append:1964
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[2]/customTitle"
+msgstr "BEAMS"
+
+#: src-en/data/hyperspace.xml.append:1982
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[3]/customTitle"
+msgstr "IONS"
+
+#: src-en/data/hyperspace.xml.append:2000
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[4]/customTitle"
+msgstr "TRASH GUNS"
+
+#: src-en/data/hyperspace.xml.append:2018
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[5]/customTitle"
+msgstr "DRONES"
+
+#: src-en/data/hyperspace.xml.append:2036
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[6]/customTitle"
+msgstr "ESSENTIAL SYSTEMS"
+
+#: src-en/data/hyperspace.xml.append:2054
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[7]/customTitle"
+msgstr "AUXILIARY SYSTEMS"
+
+#: src-en/data/hyperspace.xml.append:2072
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[8]/customTitle"
+msgstr "LOOT"
+
+#: src-en/data/hyperspace.xml.append:2090
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[9]/customTitle"
+msgstr "LOOT"
+
+#: src-en/data/hyperspace.xml.append:2127
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[1]/customTitle"
+msgstr "WEAPONS OF THE DAY [33% OFF]"
+
+#: src-en/data/hyperspace.xml.append:2147
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[2]/customTitle"
+msgstr "DRONES OF THE DAY [33% OFF]"
+
+#: src-en/data/hyperspace.xml.append:2167
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[3]/customTitle"
+msgstr "AUGMENTS OF THE DAY [33% OFF]"
+
+#: src-en/data/hyperspace.xml.append:2207
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[7]/customTitle"
+msgstr "DECKHANDS [CURATED]"
+
+#: src-en/data/hyperspace.xml.append:2221
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[8]/customTitle"
+msgstr "ESSENTIAL SYSTEMS"
+
+#: src-en/data/hyperspace.xml.append:2239
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[9]/customTitle"
+msgstr "AUXILIARY SYSTEMS"
+
+#: src-en/data/hyperspace.xml.append:2257
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[10]/customTitle"
+msgstr "WEAPONS [CURATED]"
+
 #: src-en/data/hyperspace.xml.append:2296
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[8]/mod-"

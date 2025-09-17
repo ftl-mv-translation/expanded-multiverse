@@ -125,6 +125,11 @@ msgstr ""
 "You decide to lock onto an occurence of piracy at complete random and mark "
 "it on your map."
 
+#: src-en/data/events_special_storage.xml.append:188
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/beaconType/@text"
+msgstr "SMUGGLER"
+
 #: src-en/data/events_special_storage.xml.append:190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/beaconType/unvisitedTooltip"
@@ -144,6 +149,11 @@ msgstr "You've made it to the location of the Smuggler."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/choice/text"
 msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:202
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE_QUEST\"]/beaconType/@text"
+msgstr "MERCENARY"
 
 #: src-en/data/events_special_storage.xml.append:204
 msgid ""
@@ -165,6 +175,11 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE_QUEST\"]/choice/text"
 msgstr "Continue..."
 
+#: src-en/data/events_special_storage.xml.append:216
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/beaconType/@text"
+msgstr "SLAVER"
+
 #: src-en/data/events_special_storage.xml.append:218
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/beaconType/unvisitedTooltip"
@@ -184,6 +199,11 @@ msgstr "You've made it to the location of the Slaver."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/choice/text"
 msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:230
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOM_QUEST\"]/beaconType/@text"
+msgstr "PIRATES"
 
 #: src-en/data/events_special_storage.xml.append:232
 msgid ""

@@ -280,6 +280,11 @@ msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_GUARD_UNAUTHORIZED\"]/choice/event/choice/text"
 msgstr "Continue..."
 
+#: src-en/data/events_sector_emv_droppoint.xml:237
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/beaconType/@text"
+msgstr "[style[color:ffffff]]TRESPASSER[[/style]]"
+
 #: src-en/data/events_sector_emv_droppoint.xml:239
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/beaconType/unvisitedTooltip"

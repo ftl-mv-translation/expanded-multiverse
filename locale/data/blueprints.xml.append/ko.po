@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/"
-"expanded-multiverse/datablueprintsxmlappend/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
@@ -1005,8 +998,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2921
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/tooltip"
-msgstr "함포: 비교적 충전이 빠른 점사 레이저이며 상당한 확률로 화재, 균열, 기절을 "
-"일으킵니다."
+msgstr "함포: 비교적 충전이 빠른 점사 레이저이며 상당한 확률로 화재, 균열, 기절을 일으킵니다."
 
 #: src-en/data/blueprints.xml.append:2959
 msgid ""
@@ -1038,11 +1030,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/desc"
 msgstr "이 최첨단 빔은 유명한 스야리와 카마야리 빔의 프로토타입 강화판입니다."
 
-#: src-en/data/blueprints.xml.append:3004
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/title"
@@ -1057,14 +1044,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/desc"
 msgstr ""
-"이 이온 무기는 전력을 사용하지 않고, 즉시 충전되며, 방어막을 아주 효과적으로 "
-"마비시킬 수 있는 강한 이온 빔을 발사합니다. 전투당 한 번만 사용할 수 "
-"있습니다."
-
-#: src-en/data/blueprints.xml.append:3037
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/tooltip"
-msgstr ""
+"이 이온 무기는 전력을 사용하지 않고, 즉시 충전되며, 방어막을 아주 효과적으로 마비시킬 수 있는 강한 이온 빔을 발사합니다. 전투당 한"
+" 번만 사용할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:3089
 msgid ""
@@ -1080,13 +1061,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/desc"
 msgstr ""
-"타격 속도는 느리지만 충전이 빠른 빔으로 모든 방어막을 관통하여 적함을 불길로 "
-"감싸는 선제 무기입니다. 전투당 한 번만 사용할 수 있습니다."
-
-#: src-en/data/blueprints.xml.append:3092
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/tooltip"
-msgstr ""
+"타격 속도는 느리지만 충전이 빠른 빔으로 모든 방어막을 관통하여 적함을 불길로 감싸는 선제 무기입니다. 전투당 한 번만 사용할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:3118
 msgid ""
@@ -1101,13 +1077,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3121
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/desc"
-msgstr "글레이브보다 강할 순 없다고 감히 말하던 불쌍한 바보에 대한 직접적인 응답으로 "
-"만들어진 역대 최강의 빔입니다."
-
-#: src-en/data/blueprints.xml.append:3122
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/tooltip"
-msgstr ""
+msgstr "글레이브보다 강할 순 없다고 감히 말하던 불쌍한 바보에 대한 직접적인 응답으로 만들어진 역대 최강의 빔입니다."
 
 #: src-en/data/blueprints.xml.append:3143
 msgid ""
@@ -1122,11 +1092,6 @@ msgstr "Pierce Heavy"
 #: src-en/data/blueprints.xml.append:3146
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:3147
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/tooltip"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:3184
@@ -1144,11 +1109,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3187
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3224
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/title"
@@ -1162,13 +1122,7 @@ msgstr "'Fauchard'"
 #: src-en/data/blueprints.xml.append:3226
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/desc"
-msgstr "이 무시무시한 방사성 빔은 함선 시스템과 선원 양쪽 모두를 박살내는데 "
-"효과적입니다."
-
-#: src-en/data/blueprints.xml.append:3227
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/tooltip"
-msgstr ""
+msgstr "이 무시무시한 방사성 빔은 함선 시스템과 선원 양쪽 모두를 박살내는데 효과적입니다."
 
 #: src-en/data/blueprints.xml.append:3255
 msgid ""
@@ -1183,13 +1137,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3259
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/desc"
-msgstr "에너지 무기는 시스템을 마비시키면서 선체에도 피해를 줍니다. 이 무기는 "
-"시스템이 없는 선실에 추가적인 피해를 입힙니다."
-
-#: src-en/data/blueprints.xml.append:3260
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/tooltip"
-msgstr ""
+msgstr "에너지 무기는 시스템을 마비시키면서 선체에도 피해를 줍니다. 이 무기는 시스템이 없는 선실에 추가적인 피해를 입힙니다."
 
 #: src-en/data/blueprints.xml.append:3300
 msgid ""
@@ -1204,13 +1152,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3303
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/desc"
-msgstr "확정적으로 화재를 일으키도록 개조된 레이저 무기입니다. 선원에게 직접적인 "
-"피해를 줄 수 없습니다."
-
-#: src-en/data/blueprints.xml.append:3304
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/tooltip"
-msgstr ""
+msgstr "확정적으로 화재를 일으키도록 개조된 레이저 무기입니다. 선원에게 직접적인 피해를 줄 수 없습니다."
 
 #: src-en/data/blueprints.xml.append:3341
 msgid ""
@@ -1227,11 +1169,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS."
 
-#: src-en/data/blueprints.xml.append:3344
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/tooltip"
-msgstr "Fires 1 missile; does 1 damage; pierces all shields."
-
 #: src-en/data/blueprints.xml.append:3382
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/title"
@@ -1246,11 +1183,6 @@ msgstr "Fire Flak"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/desc"
 msgstr "높은 화재 발생 확률을 가진 4발의 불타는 우주쓰레기를 발사합니다."
-
-#: src-en/data/blueprints.xml.append:3386
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/tooltip"
-msgstr ""
 
 #: src-en/data/blueprints.xml.append:3430
 msgid ""
@@ -1267,11 +1199,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3433
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/tooltip"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:3460
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/title"
@@ -1286,17 +1213,11 @@ msgstr "Mod. Laser"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/desc"
 msgstr ""
-"헥타르 산업(TM)에서 생산하는 모듈식 레이저의 몸체입니다. 각각 1개의 속성 "
-"모듈과 상태 모듈을 설치할 수 있습니다.\n"
+"헥타르 산업(TM)에서 생산하는 모듈식 레이저의 몸체입니다. 각각 1개의 속성 모듈과 상태 모듈을 설치할 수 있습니다.\n"
 "\t모든 모듈과 호환됩니다.\n"
 "\t----현재 설치된 모듈----\n"
 "\t속성 - 방화\n"
 "\t상태 - 봉쇄"
-
-#: src-en/data/blueprints.xml.append:3468
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/tooltip"
-msgstr ""
 
 #: src-en/data/blueprints.xml.append:3504
 msgid ""
@@ -1313,7 +1234,10 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/desc"
 msgstr "뿅뿅뿅이에요, 낯썬이."
 
-#: src-en/data/blueprints.xml.append:3508
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/tooltip"
-msgstr "뿅뿅뿅이에요, 낯썬이."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/tooltip"
+#~ msgstr "Fires 1 missile; does 1 damage; pierces all shields."
+
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/tooltip"
+#~ msgstr "뿅뿅뿅이에요, 낯썬이."

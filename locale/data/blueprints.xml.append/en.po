@@ -1210,11 +1210,6 @@ msgstr ""
 "This advanced Beam was a prototype upgrade of the well known Kamayari and "
 "Suyari Beams."
 
-#: src-en/data/blueprints.xml.append:3004
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/tooltip"
-msgstr "Boss Loot."
-
 #: src-en/data/blueprints.xml.append:3032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/title"
@@ -1232,13 +1227,6 @@ msgstr ""
 "This ion weapon uses no power, charges instantly, and fires a strong ion "
 "beam capable of taking out enemy shields very effectively. However, it can "
 "only be shot once per combat."
-
-#: src-en/data/blueprints.xml.append:3037
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/tooltip"
-msgstr ""
-"Fires a single blast that does 1 ion damage. Can hit and disable shields as "
-"well as systems."
 
 #: src-en/data/blueprints.xml.append:3089
 msgid ""
@@ -1258,11 +1246,6 @@ msgstr ""
 "the enemy ship ablaze with a slow moving beam. Can only be fired once per "
 "combat."
 
-#: src-en/data/blueprints.xml.append:3092
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/tooltip"
-msgstr "Beam weapon that starts fires."
-
 #: src-en/data/blueprints.xml.append:3118
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/title"
@@ -1279,11 +1262,6 @@ msgid ""
 msgstr ""
 "The heaviest hitting Beam ever conceived, made in direct response for a poor"
 " fool who dared utter that the Glaive might be as strong as it gets."
-
-#: src-en/data/blueprints.xml.append:3122
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/tooltip"
-msgstr "Large beam that does 4 damage per room."
 
 #: src-en/data/blueprints.xml.append:3143
 msgid ""
@@ -1302,12 +1280,6 @@ msgstr ""
 "[ARTILLERY, PIERCE HEAVY ARTI, 2 DAMAGE, CANNOT MISS, 3 PER CHARGE, LOCKDOWN"
 " ON HIT]"
 
-#: src-en/data/blueprints.xml.append:3147
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/tooltip"
-msgstr ""
-"Heavy laser; 2 damage, 1 shot. 11 second cooldown. Pierces 1 shield layer."
-
 #: src-en/data/blueprints.xml.append:3184
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/title"
@@ -1324,12 +1296,6 @@ msgid ""
 msgstr ""
 "[ARTILLERY, PARTICLE MISSILE ARTI, 1 SYS DAMAGE, CANNOT MISS, 3 PER CHARGE, "
 "LOCKDOWN ON HIT]"
-
-#: src-en/data/blueprints.xml.append:3187
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/tooltip"
-msgstr ""
-"Part Missile; 7 system damage, 1 shot. 22 second cooldown. Starts Fires."
 
 #: src-en/data/blueprints.xml.append:3224
 msgid ""
@@ -1348,11 +1314,6 @@ msgstr ""
 "This terrifying radiation Beam is capable of shredding shipboard systems in "
 "addition to crew."
 
-#: src-en/data/blueprints.xml.append:3227
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/tooltip"
-msgstr "2 power beam weapon that greatly damages enemy crew."
-
 #: src-en/data/blueprints.xml.append:3255
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/title"
@@ -1369,13 +1330,6 @@ msgid ""
 msgstr ""
 "Energy weapons can disable systems while also causing hull damage. This one "
 "does additional hull damage on systemless rooms."
-
-#: src-en/data/blueprints.xml.append:3260
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/tooltip"
-msgstr ""
-"Fires a single blast that does 2 ion damage and 1 hull damage. Can hit and "
-"disable shields as well as systems. 2x hull damage on systemless rooms."
 
 #: src-en/data/blueprints.xml.append:3300
 msgid ""
@@ -1394,11 +1348,6 @@ msgstr ""
 "A modified Laser weapon which starts a fire with each projectile, as well as"
 " harming enemy systems and hull but not crew."
 
-#: src-en/data/blueprints.xml.append:3304
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/tooltip"
-msgstr "Burst laser; 1 damage, 2 shots. 14 second cooldown. Starts fires."
-
 #: src-en/data/blueprints.xml.append:3341
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/title"
@@ -1413,11 +1362,6 @@ msgstr "'Hades'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS."
-
-#: src-en/data/blueprints.xml.append:3344
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/tooltip"
-msgstr "Fires 1 missile; does 1 damage; pierces all shields."
 
 #: src-en/data/blueprints.xml.append:3382
 msgid ""
@@ -1434,11 +1378,6 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/desc"
 msgstr ""
 "Fires 4 flaming projectiles that have an increased chance to start a fire."
-
-#: src-en/data/blueprints.xml.append:3386
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/tooltip"
-msgstr "Fires a blast of debris across a random area doing up to 7 damage."
 
 #: src-en/data/blueprints.xml.append:3430
 msgid ""
@@ -1457,11 +1396,6 @@ msgstr ""
 "This Pinpoint weapon only does a moderate amount of damage, but quickly "
 "ramps up its fire rate until it becomes devastating on enemies with their "
 "shields down."
-
-#: src-en/data/blueprints.xml.append:3433
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/tooltip"
-msgstr "Three damage when there are no shields. Otherwise, 2 damage or less."
 
 #: src-en/data/blueprints.xml.append:3460
 msgid ""
@@ -1483,11 +1417,6 @@ msgstr ""
 "\tAttribute - Firestarter\n"
 "\tStatus - Lockdown"
 
-#: src-en/data/blueprints.xml.append:3468
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/tooltip"
-msgstr "No modules attached."
-
 #: src-en/data/blueprints.xml.append:3504
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/title"
@@ -1501,9 +1430,4 @@ msgstr "Uplifted II"
 #: src-en/data/blueprints.xml.append:3507
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/desc"
-msgstr "Pew pew pew, ssstranger."
-
-#: src-en/data/blueprints.xml.append:3508
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/tooltip"
 msgstr "Pew pew pew, ssstranger."

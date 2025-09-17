@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/"
-"expanded-multiverse/dataevents_special_multiversexmlappend/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_multiverse.xml.append:3
 msgid ""
@@ -23,11 +16,9 @@ msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice/event/text"
 msgstr ""
-"\"반군의 최정예... 슬러그의 지혜를 지녔고, 맨티스보다도 빠르며, "
-"더스크브링어조차도 극단적이라고 생각할 정도의 끈질기고 강인한 강경파... 대체 "
-"어떻게 해서... 고용한 것이죠? 아닙니다... 제 역활은 질문하는 게 아니죠. "
-"당신의 공물은... 정말 인상적입니다. 잘하셨습니다, 여행자여. 다음 여정을 "
-"시작할 때... 보상을 기대하십시오.\""
+"\"반군의 최정예... 슬러그의 지혜를 지녔고, 맨티스보다도 빠르며, 더스크브링어조차도 극단적이라고 생각할 정도의 끈질기고 강인한 "
+"강경파... 대체 어떻게 해서... 고용한 것이죠? 아닙니다... 제 역활은 질문하는 게 아니죠. 당신의 공물은... 정말 인상적입니다."
+" 잘하셨습니다, 여행자여. 다음 여정을 시작할 때... 보상을 기대하십시오.\""
 
 #: src-en/data/events_special_multiverse.xml.append:9
 msgid ""

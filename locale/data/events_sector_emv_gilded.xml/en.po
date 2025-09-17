@@ -535,6 +535,11 @@ msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_JUDGES_REVISIT\"]/choice/text"
 msgstr "Continue..."
 
+#: src-en/data/events_sector_emv_gilded.xml:376
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/beaconType/@text"
+msgstr "THE END."
+
 #: src-en/data/events_sector_emv_gilded.xml:378
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/beaconType/unvisitedTooltip"

@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:00+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"expanded-multiverse/datahyperspace-xml-append/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/hyperspace.xml.append:19
 msgid ""
@@ -39,8 +31,7 @@ msgid ""
 "append:race[@name=\"emv_mv_human_medic\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:30с]\n"
-"\t\t\t\tСтимулирует всех ближайших членов экипажа, восстанавливая им 15 "
-"здоровья и давая временную сопротивляемость урону."
+"\t\t\t\tСтимулирует всех ближайших членов экипажа, восстанавливая им 15 здоровья и давая временную сопротивляемость урону."
 
 #: src-en/data/hyperspace.xml.append:136
 msgid ""
@@ -54,8 +45,7 @@ msgid ""
 "append:race[@name=\"emv_mv_human_engineer\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:25с]\n"
-"\t\t\t\tСоздает временного дрона-помощника, который может ремонтировать, но "
-"не может сражаться или совершать диверсии. Продолжительность жизни 25 секунд."
+"\t\t\t\tСоздает временного дрона-помощника, который может ремонтировать, но не может сражаться или совершать диверсии. Продолжительность жизни 25 секунд."
 
 #: src-en/data/hyperspace.xml.append:190
 msgid ""
@@ -69,8 +59,7 @@ msgid ""
 "append:race[@name=\"emv_mv_human_commander\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:25с]\n"
-"\t\t\t\tВсе союзные люди в том же отсеке получают усиление, все остальные "
-"расы получают ослабление, независимо от их принадлежности."
+"\t\t\t\tВсе союзные люди в том же отсеке получают усиление, все остальные расы получают ослабление, независимо от их принадлежности."
 
 #: src-en/data/hyperspace.xml.append:305
 msgid ""
@@ -98,9 +87,7 @@ msgid ""
 "append:race[@name=\"unique_emv_mortis\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:20с  ДЛИТЕЛЬНОСТЬ:10с]\n"
-"\t\t\t\tУвеличивает скорость движения до 3.5х и урон по экипажу до 5х. "
-"Теряет возможность ремонтировать, а также не дает врагам лечиться на время "
-"действия."
+"\t\t\t\tУвеличивает скорость движения до 3.5х и урон по экипажу до 5х. Теряет возможность ремонтировать, а также не дает врагам лечиться на время действия."
 
 #: src-en/data/hyperspace.xml.append:457
 msgid ""
@@ -165,76 +152,152 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[1]/tooltip"
 msgstr ""
-"[style[color:ffb045]]Позол[[/style]][style[color:ffbd64]]оченная[[/style]]"
-"[style[color:ffd780]] уг[[/style]][style[color:ffc369]]роза:[[/style]]\n"
-"[style[color:ffb045]]Покажи [[/style]][style[color:ffbd64]]нам[[/style]]"
-"[style[color:ffd780]] свою[[/style]][style[color:ffc369]] силу![[/style]]"
+"[style[color:ffb045]]Позол[[/style]][style[color:ffbd64]]оченная[[/style]][style[color:ffd780]] уг[[/style]][style[color:ffc369]]роза:[[/style]]\n"
+"[style[color:ffb045]]Покажи [[/style]][style[color:ffbd64]]нам[[/style]][style[color:ffd780]] свою[[/style]][style[color:ffc369]] силу![[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1877
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[2]/tooltip"
 msgstr ""
-"[style[color:ffb045]]Позоло[[/style]][style[color:ffbd64]]ченные[[/style]]"
-"[style[color:ffd780]] щи[[/style]][style[color:ffc369]]ты:[[/style]]\n"
-"[style[color:ffbd64]]Древняя сила позволяет нашим щитам превосходить все "
-"остальные, давая 10 единиц прочности и позволяя им перезаряжаться, если их "
-"оставить в покое...[[/style]]"
+"[style[color:ffb045]]Позоло[[/style]][style[color:ffbd64]]ченные[[/style]][style[color:ffd780]] щи[[/style]][style[color:ffc369]]ты:[[/style]]\n"
+"[style[color:ffbd64]]Древняя сила позволяет нашим щитам превосходить все остальные, давая 10 единиц прочности и позволяя им перезаряжаться, если их оставить в покое...[[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1882
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[3]/tooltip"
 msgstr ""
-"[style[color:ffb045]]Позоло[/style]][style[color:ffbd64]]ченное[[/style]]"
-"[style[color:ffd780]] ору[[/style]][style[color:ffc369]]жие:[[/style]]\n"
-"[style[color:ffd780]]Чистая мифическая сила пронизывает наше оружие, "
-"сокращая время перезарядки![[/style]]"
+"[style[color:ffb045]]Позоло[/style]][style[color:ffbd64]]ченное[[/style]][style[color:ffd780]] ору[[/style]][style[color:ffc369]]жие:[[/style]]\n"
+"[style[color:ffd780]]Чистая мифическая сила пронизывает наше оружие, сокращая время перезарядки![[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1887
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[4]/tooltip"
 msgstr ""
-"[style[color:ffb045]]Позоло[[/style]][style[color:ffbd64]]ченная[[/style]]"
-"[style[color:ffd780]] регенеративная[[/style]][style[color:ffc369]] обшивка:"
-"[[/style]]\n"
-"[style[color:ffd780]]Удачи в пробивании этой брони! Обладает 25% "
-"сопротивлением корпуса и систем, а также функциями автоматического ремонта!"
-"[[/style]]"
+"[style[color:ffb045]]Позоло[[/style]][style[color:ffbd64]]ченная[[/style]][style[color:ffd780]] регенеративная[[/style]][style[color:ffc369]] обшивка:[[/style]]\n"
+"[style[color:ffd780]]Удачи в пробивании этой брони! Обладает 25% сопротивлением корпуса и систем, а также функциями автоматического ремонта![[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1892
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[5]/tooltip"
 msgstr ""
-"[style[color:ffb045]]Позоло[[/style]][style[color:ffbd64]]ченная[[/style]]"
-"[style[color:ffd780]] божественная[[/style]][style[color:ffc369]] броня:"
-"[[/style]]\n"
-"[style[color:ffd780]]Удачи в пробивании этой брони! Обладает 25% "
-"сопротивлением корпуса и систем, а также функциями автоматического ремонта!"
-"[[/style]]"
+"[style[color:ffb045]]Позоло[[/style]][style[color:ffbd64]]ченная[[/style]][style[color:ffd780]] божественная[[/style]][style[color:ffc369]] броня:[[/style]]\n"
+"[style[color:ffd780]]Удачи в пробивании этой брони! Обладает 25% сопротивлением корпуса и систем, а также функциями автоматического ремонта![[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1897
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[6]/tooltip"
 msgstr ""
-"[style[color:ffb045]]Позоло[[/style]][style[color:ffbd64]]ченные[[/style]]"
-"[style[color:ffd780]] Мед[[/style]][style[color:ffc369]]боты:[[/style]]\n"
-"[style[color:ffc369]]Эти медботы позволяют моему экипажу не только "
-"лечитьссся вне Медотсссека, но и получать дополнительное здоровье, урон и "
-"ссскоросссть...[[/style]]"
+"[style[color:ffb045]]Позоло[[/style]][style[color:ffbd64]]ченные[[/style]][style[color:ffd780]] Мед[[/style]][style[color:ffc369]]боты:[[/style]]\n"
+"[style[color:ffc369]]Эти медботы позволяют моему экипажу не только лечитьссся вне Медотсссека, но и получать дополнительное здоровье, урон и ссскоросссть...[[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1902
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[7]/tooltip"
 msgstr ""
-"[style[color:ffb045]]Позоло[[/style]][style[color:ffbd64]]ченные[[/style]]"
-"[style[color:ffd780]] Мед-[[/style]][style[color:ffc369]]боты:[[/style]]\n"
-"[style[color:ffc369]]Необъяссснимый гель, который не только "
-"восссстанавливает повреждения, но и сссиссстемы...[[/style]]"
+"[style[color:ffb045]]Позоло[[/style]][style[color:ffbd64]]ченные[[/style]][style[color:ffd780]] Мед-[[/style]][style[color:ffc369]]боты:[[/style]]\n"
+"[style[color:ffc369]]Необъяссснимый гель, который не только восссстанавливает повреждения, но и сссиссстемы...[[/style]]"
+
+#: src-en/data/hyperspace.xml.append:1946
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[1]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1964
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[2]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1982
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[3]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2000
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[4]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2018
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[5]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2036
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[6]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2054
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[7]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2072
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[8]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2090
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[9]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2127
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[1]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2147
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[2]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2167
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[3]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2207
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[7]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2221
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[8]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2239
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[9]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2257
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[10]/customTitle"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2296
 msgid ""
