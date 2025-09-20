@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-09-21 20:19+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/datatext_blueprintsxmlappend/fr/>\n"
 "Language: fr\n"
@@ -15,139 +15,229 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:1
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MILITIA_unlock\"]"
-msgstr ""
+msgstr "Obtenir le Croiseur multiversel Augmenté pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:2
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MINISTRY_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel de la Milice pour "
+"débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:3
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_THEOCRACY_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel du Ministère pour "
+"débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:4
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_ANGEL_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel de la Théocratie pour "
+"débloquer ce vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel de la Milice."
 
 #: src-en/data/text_blueprints.xml.append:7
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_FEDAUTO_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le Faucheur multiversel Angélique pour débloquer "
+"ce vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel Zoltan."
 
 #: src-en/data/text_blueprints.xml.append:10
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_ALTREBEL_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec l'Auto-croiseur multiversel de la fédération "
+"pour débloquer ce vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel e la Théocratie."
 
 #: src-en/data/text_blueprints.xml.append:13
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_DUSK_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel des Rebelles alternatifs "
+"pour débloquer ce vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel Angélique."
 
 #: src-en/data/text_blueprints.xml.append:16
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_AUTO_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel Crépusculeur pour "
+"débloquer ce vaisseau.\n"
+"\n"
+"Ou gagner avec l'Auto-croiseur multiversel de la Fédération."
 
 #: src-en/data/text_blueprints.xml.append:19
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_SPOOK_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec l'Auto-croiseur multiversel de la Rébellion pour "
+"débloquer ce vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel des Rebelles alternatifs."
 
 #: src-en/data/text_blueprints.xml.append:22
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_LEECH_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel des Chasseurs d'Effroi "
+"pour débloquer ce vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel Crépusculeur."
 
 #: src-en/data/text_blueprints.xml.append:25
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_HEKTAR_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel des Républicains pour "
+"débloquer ce vaisseau.\n"
+"\n"
+"Ou gagner avec l'auto-croiseur multiversel Rebelle."
 
 #: src-en/data/text_blueprints.xml.append:28
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_FREEMANTIS_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel Hektar(tm) pour "
+"débloquer ce vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel des Chasseurs d'Effroi."
 
 #: src-en/data/text_blueprints.xml.append:31
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_ENFORCER_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel des Mantis libres pour "
+"débloquer ce vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel des Républicains."
 
 #: src-en/data/text_blueprints.xml.append:34
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_SMUGGLER_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel des Exécuteurs "
+"alternatifs pour débloquer ce vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel Hektar."
 
 #: src-en/data/text_blueprints.xml.append:37
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_HIVE_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel des Contrebandiers pour "
+"débloquer ce vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel des Mantis libres."
 
 #: src-en/data/text_blueprints.xml.append:40
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_COALITION_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel de la ruche pour "
+"débloquer ce vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel des Exécuteurs alternatifs."
 
 #: src-en/data/text_blueprints.xml.append:43
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_LANIUS_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel de la Coalition pour "
+"débloquer ce vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel des Contrebandiers."
 
 #: src-en/data/text_blueprints.xml.append:46
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_LOSTSUN_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel des Lanius pour "
+"débloquer ce vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel des Mantis."
 
 #: src-en/data/text_blueprints.xml.append:49
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_BISHOP_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel des Lost Sun pour "
+"débloquer ce vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel de la Coalition."
 
 #: src-en/data/text_blueprints.xml.append:52
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MFK_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel Evêques pour débloquer "
+"ce vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel des Lanius."
 
 #: src-en/data/text_blueprints.xml.append:55
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_PALADIN_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel MFK pour débloquer ce "
+"vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel des Lost Sun."
 
 #: src-en/data/text_blueprints.xml.append:58
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_CULTIVATOR_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel dee Paladins pour "
+"débloquer ce vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel Evêques."
 
 #: src-en/data/text_blueprints.xml.append:61
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_SALT_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel des Cultivateurs pour "
+"débloquer ce vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel MFK."
 
 #: src-en/data/text_blueprints.xml.append:64
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_KADAHELLIAN_unlock\"]"
 msgstr ""
+"Atteindre le secteur 5 avec le croiseur multiversel Sodium pour débloquer ce "
+"vaisseau.\n"
+"\n"
+"Ou gagner avec le croiseur multiversel des Paladins."
 
 #: src-en/data/text_blueprints.xml.append:67
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_FLAGSHIP_unlock\"]"
-msgstr ""
+msgstr "Remporter la victoire avec tous les nouveaux croiseurs Multiversels."
 
 #: src-en/data/text_blueprints.xml.append:68
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_PURE_unlock\"]"
-msgstr ""
+msgstr "Battre CURA avec l'auto-croiseur Multiversel."
 
 #: src-en/data/text_blueprints.xml.append:69
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_VITAE_unlock\"]"
 msgstr ""
+"Détruire le palais de la ruche avec le croiseur Multiversel des Mantis "
+"libres."
 
 #: src-en/data/text_blueprints.xml.append:70
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MORTIS_unlock\"]"
-msgstr ""
+msgstr "Sauver Freddy avec le croiseur Multiversel de la ruche Mantis."
