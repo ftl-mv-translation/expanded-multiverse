@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
+"PO-Revision-Date: 2025-09-21 20:19+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/datatext_eventsxmlappend/fr/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 #: src-en/data/text_events.xml.append:1
 msgid "data/text_events.xml.append$//text[@name=\"emv_atlas_mvpmc_generic\"]"
 msgstr ""
-"Nom : Secteur contrôlé par le EMPMV\n"
+"Nom : Secteur contrôlé par l'EMPMV\n"
 "Type : Neutre\n"
 "Unique : Faux\n"
 "Faction dominante : Les Entrepreneurs Militaires Privés Multiversels (EMPMV)"
