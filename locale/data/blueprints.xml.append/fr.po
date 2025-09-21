@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-09-21 20:19+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/datablueprintsxmlappend/fr/>\n"
 "Language: fr\n"
@@ -20,12 +20,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/title"
-msgstr ""
+msgstr "Mercenaire Vaurien"
 
 #: src-en/data/blueprints.xml.append:9
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/short"
-msgstr ""
+msgstr "Mercenaire"
 
 #: src-en/data/blueprints.xml.append:12
 msgid ""
@@ -55,12 +55,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/title"
-msgstr ""
+msgstr "Commandant Vaurien"
 
 #: src-en/data/blueprints.xml.append:23
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/short"
-msgstr ""
+msgstr "Commandant"
 
 #: src-en/data/blueprints.xml.append:26
 msgid ""
@@ -93,11 +93,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:37
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/title"
-msgstr ""
+msgstr "Amiral Vaurien"
 
 #: src-en/data/blueprints.xml.append:38
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/short"
-msgstr ""
+msgstr "Amiral Vaurien"
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
@@ -189,7 +189,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:73
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/title"
-msgstr ""
+msgstr "Infirmier Vaurien"
 
 #: src-en/data/blueprints.xml.append:74
 msgid ""
@@ -264,12 +264,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:137
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/title"
-msgstr ""
+msgstr "Chasseur de primes Mantis"
 
 #: src-en/data/blueprints.xml.append:138
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/short"
-msgstr ""
+msgstr "Chasseur de primes"
 
 #: src-en/data/blueprints.xml.append:142
 msgid ""
@@ -324,12 +324,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:166
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/class"
-msgstr ""
+msgstr "Auto-Croiseur Multiversel"
 
 #: src-en/data/blueprints.xml.append:167
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/name"
-msgstr ""
+msgstr "Tourbillon"
 
 #: src-en/data/blueprints.xml.append:168
 msgid ""
@@ -474,7 +474,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1043
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/class"
-msgstr ""
+msgstr "Vaisseau amiral alternatif Multiversel"
 
 #: src-en/data/blueprints.xml.append:1044
 msgid ""
@@ -489,7 +489,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1116
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/class"
-msgstr ""
+msgstr "Croiseur Rebelle alternatif Multiversel"
 
 #: src-en/data/blueprints.xml.append:1117
 msgid ""
@@ -549,7 +549,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1510
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/class"
-msgstr ""
+msgstr "Croiseur Exécuteur alternatif Multiversel"
 
 #: src-en/data/blueprints.xml.append:1511
 msgid ""
