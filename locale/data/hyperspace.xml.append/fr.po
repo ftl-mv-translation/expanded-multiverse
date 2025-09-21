@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-09-21 20:19+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/datahyperspace-xml-append/fr/>\n"
 "Language: fr\n"
@@ -23,6 +23,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_mercenary\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 5 s]\n"
+"\t\t\t\tInflige un affaiblissement de saignement à la cible actuelle."
 
 #: src-en/data/hyperspace.xml.append:67
 msgid ""
@@ -35,6 +37,9 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_medic\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 30 s]\n"
+"\t\t\t\tStimule tous les membres d'équipage à proximité, leur rendant 15 "
+"points de vie et leur conférant une résistance temporaire aux dégâts."
 
 #: src-en/data/hyperspace.xml.append:136
 msgid ""
@@ -47,18 +52,25 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_engineer\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 25 s]\n"
+"\t\t\t\tGénère un drone assistant temporaire qui peut réparer, mais pas "
+"combattre ni saboter. Dure 25 secondes."
 
 #: src-en/data/hyperspace.xml.append:190
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_commander\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "CRI DE GUERRE"
 
 #: src-en/data/hyperspace.xml.append:191
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_commander\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 25 s]\n"
+"\t\t\t\tTous les humains alliés présents dans la même pièce bénéficient d'un "
+"bonus, toutes les autres races subissent un malus, quelle que soit leur "
+"allégeance."
 
 #: src-en/data/hyperspace.xml.append:305
 msgid ""
@@ -71,6 +83,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_vance\"]/powerEffect/tooltip"
 msgstr ""
+"Devient brièvement incontrôlable mais guérit très rapidement. Ne peut pas "
+"être ciblé"
 
 #: src-en/data/hyperspace.xml.append:399
 msgid ""
@@ -83,6 +97,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_emv_mortis\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 20 s  DURÉE : 10s]\n"
+"\t\t\t\tAugmente la vitesse de déplacement de 3,5x et les dégâts infligés à "
+"l'équipage de 5x, et empêche toute réparation pendant la durée. Annule "
+"également la régénération ennemie pendant ce temps."
 
 #: src-en/data/hyperspace.xml.append:457
 msgid ""
@@ -95,6 +113,9 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_emv_vitae\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 20 s  DURÉE : 10s]\n"
+"\t\t\t\tLibère des phéromones médicinales qui soignent les alliés à raison "
+"de 7,5 PV/s"
 
 #: src-en/data/hyperspace.xml.append:563
 msgid "data/hyperspace.xml.append$//slug_ranger[@name=\"Bob\"]/@name"
@@ -114,11 +135,11 @@ msgstr "Leah"
 
 #: src-en/data/hyperspace.xml.append:1073
 msgid "data/hyperspace.xml.append$//unique_emv_mortis[@name=\"Mortis\"]/@name"
-msgstr ""
+msgstr "Mortis"
 
 #: src-en/data/hyperspace.xml.append:1095
 msgid "data/hyperspace.xml.append$//unique_emv_vitae[@name=\"Vitae\"]/@name"
-msgstr ""
+msgstr "Vitae"
 
 #: src-en/data/hyperspace.xml.append:1430
 msgid ""
@@ -142,145 +163,187 @@ msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Sylvan\"]/@name"
 msgstr "Sylvain"
 
 #: src-en/data/hyperspace.xml.append:1872
+#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[1]/tooltip"
 msgstr ""
+"[style[color:ffb045]]Gil[[/style]][style[color:ffbd64]]ded[[/style]]"
+"[style[color:ffd780]] thr[[/style]][style[color:ffc369]]eat:[[/style]]\n"
+"[style[color:ffb045]]Show [[/style]][style[color:ffbd64]]us[[/style]]"
+"[style[color:ffd780]] your[[/style]][style[color:ffc369]] might![[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1877
+#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[2]/tooltip"
 msgstr ""
+"[style[color:ffb045]]Gil[[/style]][style[color:ffbd64]]ded[[/style]]"
+"[style[color:ffd780]] shi[[/style]][style[color:ffc369]]elds:[[/style]]\n"
+"[style[color:ffbd64]]La puissance des Anciens permet à nos boucliers de "
+"surpasser tous les autres, leur conférant 10 points de vie tout en leur "
+"permettant de se recharger s'ils sont laissés tranquilles...[[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1882
+#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[3]/tooltip"
 msgstr ""
+"[style[color:ffb045]]Gil[[/style]][style[color:ffbd64]]ded[[/style]]"
+"[style[color:ffd780]] weap[[/style]][style[color:ffc369]]ons:[[/style]]\n"
+"[style[color:ffd780]]Une puissance mythique pure circule dans nos armes, "
+"réduisant les temps de recharge![[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1887
+#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[4]/tooltip"
 msgstr ""
+"[style[color:ffb045]]Gil[[/style]][style[color:ffbd64]]ded[[/style]]"
+"[style[color:ffd780]] Regenerative[[/style]][style[color:ffc369]] Plating:"
+"[[/style]]\n"
+"[style[color:ffd780]]Bonne chance pour percer cette armure ! Elle bénéficie "
+"d'une résistance de 25 % à la coque et aux systèmes, ainsi que de fonctions "
+"de réparation automatique![[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1892
+#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[5]/tooltip"
 msgstr ""
+"[style[color:ffb045]]Gil[[/style]][style[color:ffbd64]]ded[[/style]]"
+"[style[color:ffd780]] Divine[[/style]][style[color:ffc369]] Armor:[[/style]]"
+"\n"
+"[style[color:ffd780]]Bonne chance pour percer cette armure ! Elle bénéficie "
+"d'une résistance de 25 % à la coque et aux systèmes, ainsi que de fonctions "
+"de réparation automatique![[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1897
+#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[6]/tooltip"
 msgstr ""
+"[style[color:ffb045]]Gil[[/style]][style[color:ffbd64]]ded[[/style]]"
+"[style[color:ffd780]] Med-[[/style]][style[color:ffc369]] bots:[[/style]]\n"
+"[style[color:ffc369]]Ccces médibots permettent à mon équipage non "
+"ssseulement d'être sssoigné en dehors de l'infirmerie, mais aussssi de "
+"gagner des points de vie, des dégâts et de la vitesssse sssupplé"
+"mentaires...[[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1902
+#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[7]/tooltip"
 msgstr ""
+"[style[color:ffb045]]Gil[[/style]][style[color:ffbd64]]ded[[/style]]"
+"[style[color:ffd780]] Med-[[/style]][style[color:ffc369]] bots:[[/style]]\n"
+"[style[color:ffc369]]Gel indessscriptible qui répare non ssseulement les "
+"brèches, mais aussssi les sssystèmes...[[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1946
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[1]/customTitle"
-msgstr ""
+msgstr "LASERS"
 
 #: src-en/data/hyperspace.xml.append:1964
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[2]/customTitle"
-msgstr ""
+msgstr "RAYONS"
 
 #: src-en/data/hyperspace.xml.append:1982
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[3]/customTitle"
-msgstr ""
+msgstr "IONS"
 
 #: src-en/data/hyperspace.xml.append:2000
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[4]/customTitle"
-msgstr ""
+msgstr "CANONS À ORDURES"
 
 #: src-en/data/hyperspace.xml.append:2018
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[5]/customTitle"
-msgstr ""
+msgstr "DRONES"
 
 #: src-en/data/hyperspace.xml.append:2036
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[6]/customTitle"
-msgstr ""
+msgstr "SYSTÈMES ESSENTIELS"
 
 #: src-en/data/hyperspace.xml.append:2054
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[7]/customTitle"
-msgstr ""
+msgstr "SYSTÈMES AUXILIAIRES"
 
 #: src-en/data/hyperspace.xml.append:2072
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[8]/customTitle"
-msgstr ""
+msgstr "BUTIN"
 
 #: src-en/data/hyperspace.xml.append:2090
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[9]/customTitle"
-msgstr ""
+msgstr "BUTIN"
 
 #: src-en/data/hyperspace.xml.append:2127
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[1]/customTitle"
-msgstr ""
+msgstr "ARMES DU JOUR [33 % DE RÉDUCTION]"
 
 #: src-en/data/hyperspace.xml.append:2147
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[2]/customTitle"
-msgstr ""
+msgstr "DRONES DU JOUR [33 % DE RÉDUCTION]"
 
 #: src-en/data/hyperspace.xml.append:2167
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[3]/customTitle"
-msgstr ""
+msgstr "AUGMENTATIONS DU JOUR [33 % DE RÉDUCTION]"
 
 #: src-en/data/hyperspace.xml.append:2207
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[7]/customTitle"
-msgstr ""
+msgstr "ÉQUIPAGE [SÉLECTIONNÉ]"
 
 #: src-en/data/hyperspace.xml.append:2221
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[8]/customTitle"
-msgstr ""
+msgstr "SYSTÈMES ESSENTIELS"
 
 #: src-en/data/hyperspace.xml.append:2239
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[9]/customTitle"
-msgstr ""
+msgstr "SYSTÈMES AUXILIAIRES"
 
 #: src-en/data/hyperspace.xml.append:2257
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[10]/customTitle"
-msgstr ""
+msgstr "ARMES [SÉLECTIONNÉES]"
 
 #: src-en/data/hyperspace.xml.append:2296
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[8]/mod-"
 "append:page/section/@text"
-msgstr ""
+msgstr "Bande-son EMV"
