@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-09-23 10:19+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_sector_emv_droppointxml/fr/>\n"
 "Language: fr\n"
@@ -135,7 +135,7 @@ msgstr "Faire quelque chose à bord du vaisseau."
 #: src-en/data/events_sector_emv_droppoint.xml:149
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "Ne rien faire.."
 
 #: src-en/data/events_sector_emv_droppoint.xml:157
 msgid ""
@@ -155,7 +155,7 @@ msgstr "Faire quelque chose à bord du vaisseau."
 #: src-en/data/events_sector_emv_droppoint.xml:165
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Ne rien faire.."
 
 #: src-en/data/events_sector_emv_droppoint.xml:188
 msgid ""
@@ -385,7 +385,7 @@ msgstr "Faire quelque chose à bord du vaisseau."
 #: src-en/data/events_sector_emv_droppoint.xml:375
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Ne rien faire.."
 
 #: src-en/data/events_sector_emv_droppoint.xml:381
 msgid ""
@@ -465,7 +465,7 @@ msgstr "Faire quelque chose à bord du vaisseau."
 #: src-en/data/events_sector_emv_droppoint.xml:443
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Ne rien faire.."
 
 #: src-en/data/events_sector_emv_droppoint.xml:458
 msgid ""
@@ -560,7 +560,7 @@ msgstr "Faire quelque chose à bord du vaisseau."
 #: src-en/data/events_sector_emv_droppoint.xml:525
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Ne rien faire.."
 
 #: src-en/data/events_sector_emv_droppoint.xml:533
 msgid ""
@@ -580,7 +580,7 @@ msgstr "Faire quelque chose à bord du vaisseau."
 #: src-en/data/events_sector_emv_droppoint.xml:541
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Ne rien faire.."
 
 #: src-en/data/events_sector_emv_droppoint.xml:558
 msgid ""
@@ -630,7 +630,7 @@ msgstr "Faire quelque chose à bord du vaisseau."
 #: src-en/data/events_sector_emv_droppoint.xml:605
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_CONVOY\"]/choice[2]/text"
-msgstr ""
+msgstr "Ne rien faire.."
 
 #: src-en/data/events_sector_emv_droppoint.xml:611
 msgid ""
@@ -645,7 +645,7 @@ msgstr "Faire quelque chose à bord du vaisseau."
 #: src-en/data/events_sector_emv_droppoint.xml:617
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_ENVY\"]/choice[2]/text"
-msgstr ""
+msgstr "Ne rien faire.."
 
 #: src-en/data/events_sector_emv_droppoint.xml:625
 msgid ""
@@ -755,7 +755,7 @@ msgstr "Faire quelque chose à bord du vaisseau."
 #: src-en/data/events_sector_emv_droppoint.xml:712
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Ne rien faire.."
 
 #: src-en/data/events_sector_emv_droppoint.xml:725
 msgid ""
@@ -1016,6 +1016,13 @@ msgstr ""
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"EMV_LIST_CREW_ROGUE\"]/event/text"
 msgstr ""
+"Dès que vous présentez votre équipage de Vaurien, le personnage mystérieux "
+"se met au garde-à-vous et vous offre toute l'aide possible. "
+"\"Sans drapeau ni code, nous servons la vieille gloire !\" Vous êtes ramené "
+"précipitamment à bord du vaisseau, où vous découvrez des ingénieurs en train "
+"de le modifier et d’y appliquer les meilleures améliorations, ainsi qu’un "
+"membre d’équipage fidèle et puissant désireux de rejoindre votre mission ! "
+"Vous faites vos adieux, puis reprenez votre route."
 
 #: src-en/data/events_sector_emv_droppoint.xml:923
 msgid ""
