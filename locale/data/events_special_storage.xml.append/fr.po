@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-09-23 10:19+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_special_storagexmlappend/fr/>\n"
 "Language: fr\n"
@@ -41,12 +41,14 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_MEDBAY_NANO\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Cette amélioration n'est pas disponible. Phéromones florales remplit déjà "
+"cette fonction."
 
 #: src-en/data/events_special_storage.xml.append:113
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Fréquences avancées) Scanner la zone pour détecter des piratages."
 
 #: src-en/data/events_special_storage.xml.append:119
 msgid ""
@@ -65,31 +67,31 @@ msgstr "Oui."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "Choisir votre objectif ou tenter votre chance..."
 
 #: src-en/data/events_special_storage.xml.append:126
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Argeonn."
 
 #: src-en/data/events_special_storage.xml.append:130
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Syndicat."
 
 #: src-en/data/events_special_storage.xml.append:134
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
 " and @lvl=\"0\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Tiikaka."
 
 #: src-en/data/events_special_storage.xml.append:138
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
 " and @lvl=\"0\"]/event/choice[4]/text"
-msgstr ""
+msgstr "Tenter votre chance..."
 
 #: src-en/data/events_special_storage.xml.append:142
 msgid ""
@@ -106,31 +108,39 @@ msgstr "Pas grave, faire autre chose."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN\"]/text"
 msgstr ""
+"Vous avez trouvé un contrebandier opérant dans ce secteur, vous notez son "
+"emplacement..."
 
 #: src-en/data/events_special_storage.xml.append:166
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE\"]/text"
 msgstr ""
+"Vous avez trouvé un mercenaire opérant dans ce secteur, vous notez son "
+"emplacement..."
 
 #: src-en/data/events_special_storage.xml.append:174
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA\"]/text"
 msgstr ""
+"Vous avez trouvé un esclavagiste opérant dans ce secteur, vous notez son "
+"emplacement..."
 
 #: src-en/data/events_special_storage.xml.append:182
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOMIZER\"]/text"
 msgstr ""
+"Vous décidez de vous concentrer sur un cas de piraterie choisi au hasard et "
+"de le marquer sur votre carte."
 
 #: src-en/data/events_special_storage.xml.append:188
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/beaconType/@text"
-msgstr ""
+msgstr "CONTREBANDIER"
 
 #: src-en/data/events_special_storage.xml.append:190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Emplacement d'un contrebandier."
 
 #: src-en/data/events_special_storage.xml.append:191
 msgid ""
@@ -140,7 +150,7 @@ msgstr "Emplacement déjà exploré. Il n'y reste rien d'intéressant."
 #: src-en/data/events_special_storage.xml.append:193
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/text"
-msgstr ""
+msgstr "Vous êtes arrivé à l'endroit où se trouve le contrebandier."
 
 #: src-en/data/events_special_storage.xml.append:195
 msgid ""
@@ -150,12 +160,12 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:202
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE_QUEST\"]/beaconType/@text"
-msgstr ""
+msgstr "MERCENAIRE"
 
 #: src-en/data/events_special_storage.xml.append:204
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Emplacement d'un mercenaire."
 
 #: src-en/data/events_special_storage.xml.append:205
 msgid ""
@@ -165,7 +175,7 @@ msgstr "Emplacement déjà exploré. Il n'y reste rien d'intéressant."
 #: src-en/data/events_special_storage.xml.append:207
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE_QUEST\"]/text"
-msgstr ""
+msgstr "Vous êtes arrivé à l'endroit où se trouve le mercenaire."
 
 #: src-en/data/events_special_storage.xml.append:209
 msgid ""
@@ -175,12 +185,12 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:216
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/beaconType/@text"
-msgstr ""
+msgstr "ESCLAVAGAGISTE"
 
 #: src-en/data/events_special_storage.xml.append:218
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Emplacement d'un esclavagiste."
 
 #: src-en/data/events_special_storage.xml.append:219
 msgid ""
@@ -190,7 +200,7 @@ msgstr "Emplacement déjà exploré. Il n'y reste rien d'intéressant."
 #: src-en/data/events_special_storage.xml.append:221
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/text"
-msgstr ""
+msgstr "Vous êtes arrivé à l'endroit où se trouve l'esclavagiste."
 
 #: src-en/data/events_special_storage.xml.append:223
 msgid ""
@@ -200,12 +210,12 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:230
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOM_QUEST\"]/beaconType/@text"
-msgstr ""
+msgstr "PIRATAGE"
 
 #: src-en/data/events_special_storage.xml.append:232
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOM_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Emplacement d'un piratage."
 
 #: src-en/data/events_special_storage.xml.append:233
 msgid ""
@@ -215,7 +225,7 @@ msgstr "Emplacement déjà exploré. Il n'y reste rien d'intéressant."
 #: src-en/data/events_special_storage.xml.append:235
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOM_QUEST\"]/text"
-msgstr ""
+msgstr "Vous êtes arrivé à l'endroit où se trouve le piratage."
 
 #: src-en/data/events_special_storage.xml.append:237
 msgid ""
@@ -226,70 +236,70 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Réputation EMPMV [--5]"
 
 #: src-en/data/events_special_storage.xml.append:338
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Réputation EMPMV [-5]"
 
 #: src-en/data/events_special_storage.xml.append:342
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Réputation EMPMV [-4]"
 
 #: src-en/data/events_special_storage.xml.append:346
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Réputation EMPMV [-3]"
 
 #: src-en/data/events_special_storage.xml.append:350
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "Réputation EMPMV [-2]"
 
 #: src-en/data/events_special_storage.xml.append:354
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "Réputation EMPMV [-1]"
 
 #: src-en/data/events_special_storage.xml.append:358
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "Réputation EMPMV [1]"
 
 #: src-en/data/events_special_storage.xml.append:362
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "Réputation EMPMV [2]"
 
 #: src-en/data/events_special_storage.xml.append:366
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "Réputation EMPMV [3]"
 
 #: src-en/data/events_special_storage.xml.append:370
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[10]/text"
-msgstr ""
+msgstr "Réputation EMPMV [4]"
 
 #: src-en/data/events_special_storage.xml.append:374
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[11]/text"
-msgstr ""
+msgstr "Réputation EMPMV [5]"
 
 #: src-en/data/events_special_storage.xml.append:378
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[12]/text"
-msgstr ""
+msgstr "Réputation EMPMV [5++]"
