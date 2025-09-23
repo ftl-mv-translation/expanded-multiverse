@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-23 10:19+0000\n"
+"PO-Revision-Date: 2025-09-24 17:20+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_sector_emv_droppointxml/fr/>\n"
@@ -16,6 +16,13 @@ msgstr ""
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/text"
 msgstr ""
+"Vous suivez la balise de détresse, mais à peine sorti de l’hyperespace, vous "
+"frôlez la coque du vaisseau qui l’émettait. Vous reprenez vos repères et "
+"établissez le contact avec le vaisseau.\n"
+"\n"
+"\"Hello euhhh, pourriez-vous nous aider ? Nous avons sous-estimé la quantité "
+"de carburant nécessaire pour ce voyage et… eh bien… nous n’avons plus de "
+"carburant, alors… un petit geste de charité ?\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:35
 msgid ""
@@ -26,26 +33,49 @@ msgstr "Leur donner du carburant."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[1]/event/text"
 msgstr ""
+"Vous offrez au Renégat quelques cellules de carburant et lui souhaitez bonne "
+"chance pour son voyage. Avant de partir, il vous contacte.\n"
+"\n"
+"\"Hé, merci pour le coup de main. Je me suis dit que ça pourrait vous être "
+"utile pour la suite, vous en avez plus besoin que moi. Bonne chance, "
+"capitaine.\"\n"
+"Le Renégat propose d’installer sur votre vaisseau une arme qu’il possédait, "
+"en guise de retour pour votre aide."
 
 #: src-en/data/events_sector_emv_droppoint.xml:48
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[2]/text"
 msgstr ""
+"Leur dire que vous non plus n’avez pas beaucoup de carburant, mais que vous "
+"leur donnez tout de même une cellule."
 
 #: src-en/data/events_sector_emv_droppoint.xml:50
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[2]/event/text"
 msgstr ""
+"Vous expliquez au Renégat que vous êtes vous-même à court de carburant et "
+"que vous pouvez à peine atteindre la balise la plus proche, mais que vous "
+"lui donnez malgré tout une cellule de carburant et lui souhaitez bonne "
+"chance.\n"
+"                \n"
+"\"Bon... je ne vais pas faire le mendiant, c’est toujours mieux que rien. Au "
+"moins, vous n’êtes pas comme ces salauds qui ont plein de carburant mais le "
+"cachent. Tenez, prenez ça, je ne prends jamais sans donner en retour.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:60
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[3]/text"
-msgstr ""
+msgstr "Couper les communications et ouvrir le feu."
 
 #: src-en/data/events_sector_emv_droppoint.xml:62
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[3]/event/text"
 msgstr ""
+"Après avoir entendu la demande, vous coupez les communications, mais le "
+"vaisseau vous rappelle alors qu’il accélère vers vous.\n"
+"\n"
+"\"AH, MAINTENANT VOUS PRÉFÉREZ UNE SIMPLE CELLULE DE CARBURANT À UNE VIE !? "
+"JE VAIS VOUS MONTRER COMBIEN LA VIE EST PRÉCIEUSE EN VOUS TUANT !\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:67
 msgid ""
@@ -55,12 +85,14 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_droppoint.xml:77
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[4]/text"
-msgstr ""
+msgstr "S'excuser abondamment, puis prendre la fuite."
 
 #: src-en/data/events_sector_emv_droppoint.xml:79
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[4]/event/text"
 msgstr ""
+"Vous laissez le renégat échoué profondément perplexe alors que vous vous "
+"excusez avant de partir."
 
 #: src-en/data/events_sector_emv_droppoint.xml:81
 msgid ""
@@ -70,32 +102,71 @@ msgstr "Faire quelque chose à bord du vaisseau."
 #: src-en/data/events_sector_emv_droppoint.xml:85
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[4]/event/choice[2]/text"
-msgstr ""
+msgstr "S'éloigner de cette situation gênante aussi vite que possible."
 
 #: src-en/data/events_sector_emv_droppoint.xml:93
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/text"
 msgstr ""
+"Du coin de l’œil, vous apercevez deux vaisseaux au loin, armes chargées. C’"
+"est inhabituel, car il est strictement interdit aux Renégats du EMPMV de "
+"pointer leurs armes les uns contre les autres ici. Cependant, en y regardant "
+"de plus près, l’un d’eux est un Renégat, tandis que l’autre est un vaisseau "
+"de l’Union."
 
 #: src-en/data/events_sector_emv_droppoint.xml:95
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/text"
-msgstr ""
+msgstr "Se connecter à la fréquence."
 
 #: src-en/data/events_sector_emv_droppoint.xml:97
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/text"
 msgstr ""
+"Vous ajustez votre radio pour capter la fréquence et comprendre ce qui se "
+"passe.\n"
+"               \n"
+"\"Ok… comment avez-vous fait pour arriver ici ? Il est absolument impossible "
+"que vous soyez venu seul, qui vous a laissé entrer ?\"\n"
+"\n"
+"\"Ce ne sont pas vos affaires. Je vis dans ce secteur, mon domicile est "
+"littéralement ici !\"\n"
+"\n"
+"\"Qu- qu- pourquoi… Ok, écoutez-moi. Je vais faire simple : si vous me "
+"laissez vous rediriger ailleurs, sans résistance, je pourrai faire comme si "
+"rien de tout cela n’était arrivé.\"\n"
+"\n"
+"\"Nuh uh.\"\n"
+"\n"
+"\"Quoi ? Que voulez-vous dire par “nuh uh” ?\"\n"
+"\n"
+"\"Je ne viens pas avec vous.\"\n"
+"\n"
+"\"Oh, pour l’amour de tout ce en quoi les gens croient… attendez, depuis "
+"combien de temps êtes-vous là… en fait, pouvez-vous éliminer cet intrus non "
+"autorisé ? Je vous en rendrai la peine, juste, facilitez-moi la vie.\"\n"
+"\n"
+"\"Attendez, non, non, non, ça ne va pas, vous n’allez pas l’écouter, si ? Je "
+"suis juste un civil, vous ne pouvez pas me tuer !\"\n"
+"\n"
+"\"Euh, si ils peuvent ? Et puis, d’après ce que je sais, les civils ne "
+"vivent pas ici, non ?\"\n"
+"\n"
+"\"S’il vous plaît, vous ne pouvez pas me tuer juste parce que je dis la "
+"vérité !\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:119
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Attaquer le vaisseau de l'Union."
 
 #: src-en/data/events_sector_emv_droppoint.xml:122
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Vous décidez de faire respecter les règles et d’expulser le personnel non "
+"autorisé de cet espace. \"Non ! Vous ne pouvez pas me faire ça !\" Préparez-"
+"vous à vous battre !"
 
 #: src-en/data/events_sector_emv_droppoint.xml:124
 msgid ""
@@ -105,12 +176,15 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_droppoint.xml:130
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Attaquer le Renégat."
 
 #: src-en/data/events_sector_emv_droppoint.xml:133
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Alors que vous chargez vos armes, le Renégat vous contacte, incrédule. \"EH "
+"BIEN, COMME SI MA JOURNÉE NE POUVAIT PAS ÊTRE PIRE ! NOUS AVONS UN ACTIVISTE "
+"QUI PROTÈGE LES CIVILS ! PRÉPAREZ LES POSTES DE COMBAT !\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:135
 msgid ""
@@ -120,12 +194,16 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_droppoint.xml:141
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Les laisser s'en occuper eux-mêmes."
 
 #: src-en/data/events_sector_emv_droppoint.xml:143
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"\"Quoi ? OH, MAINTENANT, SOUDAINEMENT, VOUS AVEZ DE LA MORALLITÉ ?! Pff, "
+"pourquoi tout le monde ressent le besoin de devenir tendre avec moi...\" \n"
+"Vous coupez les communications et vous préparez à sauter en hyperespace "
+"avant que la situation ne s’envenime davantage à cause de votre présence."
 
 #: src-en/data/events_sector_emv_droppoint.xml:145
 msgid ""
@@ -140,12 +218,16 @@ msgstr "Ne rien faire.."
 #: src-en/data/events_sector_emv_droppoint.xml:157
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[2]/text"
-msgstr ""
+msgstr "Les laisser s’affronter entre eux."
 
 #: src-en/data/events_sector_emv_droppoint.xml:159
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[2]/event/text"
 msgstr ""
+"Quoi qu’il se passe entre ces deux-là, cela ne vous concerne pas. Vous "
+"partez avant que la situation ne dégénère et, pour une raison quelconque, "
+"ils décident que vous en faites partie. Vous préparez les moteurs pour un "
+"saut."
 
 #: src-en/data/events_sector_emv_droppoint.xml:161
 msgid ""
@@ -161,6 +243,8 @@ msgstr "Ne rien faire.."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DESTROYED_UNION_UNAUTHORIZED\"]/text"
 msgstr ""
+"Le vaisseau civil a été vaincu. Vous doutez que cela embellisse votre "
+"dossier, mais en revanche, il y a beaucoup de ferraille à récupérer."
 
 #: src-en/data/events_sector_emv_droppoint.xml:191
 msgid ""
@@ -171,6 +255,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DESTROYED_UNION_UNAUTHORIZED\"]/choice/event/text"
 msgstr ""
+"Le vaisseau Renégat vous contacte à nouveau. \"Il était temps que quelqu’un "
+"décide de me libérer de ce gamin. Grâce à vous, je peux retourner à mon "
+"service sans être dérangé. Tenez, prenez ceci en cadeau pour avoir aidé un "
+"Renégat dans le besoin.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:196
 msgid ""
@@ -181,6 +269,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEADCREW_UNION_UNAUTHORIZED\"]/text"
 msgstr ""
+"Le vaisseau civil a été vaincu. Vous doutez que cela embellisse votre "
+"dossier, mais en revanche, il y a beaucoup de ferraille à récupérer."
 
 #: src-en/data/events_sector_emv_droppoint.xml:207
 msgid ""
@@ -191,6 +281,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEADCREW_UNION_UNAUTHORIZED\"]/choice/event/text"
 msgstr ""
+"Le vaisseau Renégat vous contacte à nouveau. \"Il était temps que quelqu’un "
+"décide de me libérer de ce gamin. Grâce à vous, je peux retourner à mon "
+"service sans être dérangé. Tenez, prenez ceci en cadeau pour avoir aidé un "
+"Renégat dans le besoin.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:212
 msgid ""
@@ -201,6 +295,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_GUARD_UNAUTHORIZED\"]/text"
 msgstr ""
+"Quelles que soient les conséquences à venir, vous éliminez le vaisseau "
+"Renégat afin de protéger le vaisseau de l’Union."
 
 #: src-en/data/events_sector_emv_droppoint.xml:223
 msgid ""
@@ -211,6 +307,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_GUARD_UNAUTHORIZED\"]/choice/event/text"
 msgstr ""
+"Alors que vous récupérez la ferraille du vaisseau, celui de l’Union vous "
+"contacte. \"Je… je ne sais pas quoi dire, mais merci. Je ne voulais pas que "
+"cela se termine dans le sang, mais il ne voulait rien lâcher. Je ne pense "
+"pas que ça se terminera bien pour vous, mais prenez ceci. Bonne chance.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:228
 msgid ""
@@ -220,12 +320,12 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_droppoint.xml:237
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/beaconType/@text"
-msgstr ""
+msgstr "[style[color:ffffff]]INTRUS[[/style]]"
 
 #: src-en/data/events_sector_emv_droppoint.xml:239
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Emplacement d’un intrus."
 
 #: src-en/data/events_sector_emv_droppoint.xml:240
 msgid ""
@@ -236,6 +336,8 @@ msgstr "Emplacement déjà exploré. Il n'y reste rien d'intéressant."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/text"
 msgstr ""
+"Selon les transmissions, un intrus se dirige vers ici… Et comme prévu, le "
+"voilà qui arrive !"
 
 #: src-en/data/events_sector_emv_droppoint.xml:244
 msgid ""
@@ -246,6 +348,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_RETIREMENT\"]/text"
 msgstr ""
+"Un Renégat vous bloque sur votre chemin et vous demande une seule chose. "
+"\"Salut, champion. Prenez ça, je n’aurai plus besoin de mon vaisseau. Je "
+"vais vivre dans mon vieux chez-moi jusqu’à ma mort et redevenir poussière. À "
+"plus !\" Pour une raison quelconque, le Renégat vous laisse son vaisseau à "
+"recycler, et vous n’allez pas dire non à du matériel gratuit."
 
 #: src-en/data/events_sector_emv_droppoint.xml:253
 msgid ""
@@ -261,6 +368,17 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_BADASSITUDE\"]/text"
 msgstr ""
+"Votre radio se règle automatiquement sur un signal télévisé parlant d’une "
+"sorte de coffre-fort ancien qui se cacherait dans l’univers, à la recherche "
+"de chasseurs de trésors pour l’ouvrir. Alors que vous examinez l’offre, la "
+"diffusion change soudainement pour montrer un homme musclé, avec une grosse "
+"moustache et des lunettes de soleil, qui qualifie le tout d’ennuyeux. "
+"\"JE SUIS TORQUE, ET J’AI UNE QUESTION, ET UNE SEULE. EXPLOSIONS ???\" Au "
+"moment où il prononce ces mots, le signal passe à un logo d’entreprise avec "
+"des effets d’explosion mal montés. Vous apercevez un débat animé entre deux "
+"personnes à l’écran, ce qui vous incite à couper la transmission. Pour une "
+"raison quelconque, vous remarquez également qu’une arme à missiles flotte "
+"seule dans l’espace."
 
 #: src-en/data/events_sector_emv_droppoint.xml:265
 msgid ""
@@ -271,6 +389,14 @@ msgstr "Continuer."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_CONSPIRACY\"]/text"
 msgstr ""
+"Dès que vous entrez dans le système, votre radio est immédiatement submergée "
+"par un flot incompréhensible de paroles évoquant un "
+"\"état profond de limaces\" et des \"dieux anciens\" existant au-delà de "
+"notre compréhension. L’individu bavarde également sur "
+"\"quelque chose de doré\" qui ne met à l’épreuve que les plus puissants. "
+"Vous n’écoutez pas vraiment, car il est instantanément vaporisé par un "
+"vaisseau Renégat, ce qui coupe la diffusion. Quelques morceaux de ferraille "
+"dérivent néanmoins jusqu’à votre vaisseau à la suite de l’explosion."
 
 #: src-en/data/events_sector_emv_droppoint.xml:273
 msgid ""
@@ -281,16 +407,28 @@ msgstr "Continuer."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/text"
 msgstr ""
+"Par le biais de la radio de votre vaisseau, vous captez une fréquence "
+"Rebelle diffusant de la propagande pour attirer l’attention des Renégats. "
+"Ils parlent également de vous, offrant de la ferraille à quiconque signale "
+"votre position. Vous vous inquiétez que cela ne fournisse à la flotte un "
+"moyen précis de localiser votre position."
 
 #: src-en/data/events_sector_emv_droppoint.xml:281
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[1]/text"
 msgstr ""
+"Activer votre radio et proposer des récompenses encore plus importantes."
 
 #: src-en/data/events_sector_emv_droppoint.xml:283
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[1]/event/text"
 msgstr ""
+"Vous rendez le canal de votre vaisseau public pour que tout le monde puisse "
+"l’écouter, diffusant de lourdes récompenses pour quiconque intercepterait la "
+"flotte en se faisant passer pour vous. À la grande consternation de la "
+"diffusion rebelle, un Renégat saisit votre offre et récupère votre ferraille "
+"très rapidement pour foncer directement contre la flotte. Cela devrait vous "
+"donner un bon avantage contre les Rebelles."
 
 #: src-en/data/events_sector_emv_droppoint.xml:289
 msgid ""
@@ -300,47 +438,69 @@ msgstr "Continuer."
 #: src-en/data/events_sector_emv_droppoint.xml:295
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[2]/text"
-msgstr ""
+msgstr "Essayer d'intimider les rebelles."
 
 #: src-en/data/events_sector_emv_droppoint.xml:299
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[3]/text"
-msgstr ""
+msgstr "Partir aussi vite que possible."
 
 #: src-en/data/events_sector_emv_droppoint.xml:301
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[3]/event/text"
 msgstr ""
+"Même si votre position est compromise, vous vous dépêchez de finir ce que "
+"vous faisiez et quittez les lieux aussi vite que possible pour éviter d’être "
+"déchiqueté par les Batteries Anti-Vaisseaux de la flotte."
 
 #: src-en/data/events_sector_emv_droppoint.xml:305
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "(Piratage) Pirater la fréquence."
 
 #: src-en/data/events_sector_emv_droppoint.xml:307
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[@req=\"hacking\"]/event/text"
 msgstr ""
+"Vous piratez à distance la fréquence des Rebelles et commencez à diffuser "
+"votre émission… pour le moins inappropriées, afin que tout le monde puisse "
+"les entendre. Les Rebelles s’affolent pour corriger ce \"contretemps\" "
+"lorsqu’ils sont approchés par des officiels du EMPMV et sommés de quitter le "
+"système. Vous en profitez également pour transmettre de fausses informations "
+"à la flotte."
 
 #: src-en/data/events_sector_emv_droppoint.xml:320
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA_GOOD\"]/text"
 msgstr ""
+"Vous vous approchez des Rebelles diffusant leur propagande, armes chargées "
+"et pointées sur eux. Leur diffusion s’arrête immédiatement et ils s’excusent "
+"pour le dérangement tout en rangeant leur matériel pour partir. Vous en "
+"profitez également pour extorquer un peu de ferraille en compensation du "
+"désagrément."
 
 #: src-en/data/events_sector_emv_droppoint.xml:326
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA_BAD\"]/text"
 msgstr ""
+"Alors que vous vous approchez des Rebelles, armes chargées, vous n’êtes pas "
+"vraiment ravi de voir un combattant d’élite venir à votre rencontre ! Vous "
+"êtes immédiatement contacté par le capitaine rebelle. "
+"\"Alors comme ça, c’est vous qui venez m’affronter ?!\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:329
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA_BAD\"]/choice/text"
-msgstr ""
+msgstr "Je ne peux pas vous détruire sans m’approcher !"
 
 #: src-en/data/events_sector_emv_droppoint.xml:344
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_REBEL_ELITE_PROPAGANDA\"]/text"
 msgstr ""
+"Malgré l’attaque surprise de l’un des élites de la Rébellion, il n’est "
+"toujours pas de taille face à votre habileté. Vous vous rapprochez pour "
+"récupérer la ferraille de son vaisseau avant d’affronter la station de "
+"diffusion des Rebelles."
 
 #: src-en/data/events_sector_emv_droppoint.xml:347
 msgid ""
@@ -351,31 +511,46 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_REBEL_ELITE_PROPAGANDA\"]/choice/event/text"
 msgstr ""
+"\"D’accord, d’accord, vous avez fait votre p-point ! Plus de f-flotte, on "
+"est contents maintenant ? Faites juste ce que vous voulez tant que ça ne "
+"nous tue pas et prenez ce dont vous avez besoin ! On s’en va !\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:358
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/text"
 msgstr ""
+"Un type qui ressemble à un \"shérif\" vous contacte et demande votre aide à "
+"votre arrivée dans le système. \"Howdy ho, Renégat. Mon nom est Sheriff "
+"Wringer. Je cherche un hors-la-loi dans ce secteur, ça vous dirait de "
+"devenir adjoint de la loi ?\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:360
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[1]/text"
-msgstr ""
+msgstr "Bien sûr, pourquoi pas ?"
 
 #: src-en/data/events_sector_emv_droppoint.xml:362
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[1]/event/text"
 msgstr ""
+"\"Bien joué, partenaire. Il y a cette canaille ici qui a fait des… "
+"mouvements plutôt audacieux. Il y a deux jours à peine, il a abattu quatre "
+"de mes hommes, qu’ils reposent en paix. Ramenez-moi ce type, mort ou vif.\" "
+"Le shérif vous communique la dernière position connue du hors-la-loi, et "
+"vous partez à sa recherche."
 
 #: src-en/data/events_sector_emv_droppoint.xml:367
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[2]/text"
-msgstr ""
+msgstr "Pas vraiment, je suis trop occupé."
 
 #: src-en/data/events_sector_emv_droppoint.xml:369
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[2]/event/text"
 msgstr ""
+"\"Hmpf, pas faux. Les gamins d’aujourd’hui ont oublié l’honneur et la loi…\" "
+"Vous vous éloignez du shérif, désormais déçu, et vous vous préparez à "
+"reprendre la route."
 
 #: src-en/data/events_sector_emv_droppoint.xml:371
 msgid ""
@@ -390,12 +565,16 @@ msgstr "Ne rien faire.."
 #: src-en/data/events_sector_emv_droppoint.xml:381
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[3]/text"
-msgstr ""
+msgstr "Attaquer le shérif."
 
 #: src-en/data/events_sector_emv_droppoint.xml:384
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[3]/event/text"
 msgstr ""
+"Le shérif est surpris lorsque vous chargez vos armes et les pointez vers son "
+"vaisseau. Il vous contacte aussitôt. \"C’est l’heure de midi…\" Vous vous "
+"demandez comment il peut encore suivre l’heure, étant donné à quel point le "
+"terme \"midi\" est dénué de sens dans une situation pareille."
 
 #: src-en/data/events_sector_emv_droppoint.xml:386
 msgid ""
@@ -406,6 +585,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_SHERIFF_DESTROYED\"]/text"
 msgstr ""
+"Vous avez vaincu le shérif Wringer. Vous récupérez précipitamment la "
+"ferraille de son vaisseau avant que l’un de ses adjoints n’arrive pour "
+"venger votre orgueil. Malgré l’ivresse du triomphe, vous doutez que qui que "
+"ce soit vous offre un refuge sûr."
 
 #: src-en/data/events_sector_emv_droppoint.xml:402
 msgid ""
@@ -416,6 +599,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_SHERIFF_CREWKILL\"]/text"
 msgstr ""
+"Vous avez vaincu le shérif Wringer. Vous récupérez précipitamment la "
+"ferraille de son vaisseau avant que l’un de ses adjoints n’arrive pour "
+"venger votre orgueil. Malgré l’ivresse du triomphe, vous doutez que qui que "
+"ce soit vous offre un refuge sûr."
 
 #: src-en/data/events_sector_emv_droppoint.xml:411
 msgid ""
@@ -426,21 +613,30 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"Un shérif vous a informé de la présence d'une cible de grande valeur ici."
 
 #: src-en/data/events_sector_emv_droppoint.xml:422
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/text"
 msgstr ""
+"Vous retrouvez l’un des criminels les plus recherchés, tel que mentionné par "
+"le shérif. À votre grande surprise, ce n’est pas un simple pirate à peine "
+"sorti de l’école, mais un vétéran chevronné, aux commandes d’un vaisseau "
+"unique en son genre. C’est véritablement un noble duel entre le bien et le "
+"mal qui s’annonce."
 
 #: src-en/data/events_sector_emv_droppoint.xml:424
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[1]/text"
-msgstr ""
+msgstr "Il est midi, ordure."
 
 #: src-en/data/events_sector_emv_droppoint.xml:426
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[1]/event/text"
 msgstr ""
+"\"Hein, quoi ? Midi ? De quoi parlez vous ? Oh merde ! Les gars, on a des "
+"ennuis ici !\" Pris par surprise par votre soudaine apparition, le pirate se "
+"prépare à attaquer !"
 
 #: src-en/data/events_sector_emv_droppoint.xml:429
 msgid ""
@@ -450,12 +646,14 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_droppoint.xml:435
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[2]/text"
-msgstr ""
+msgstr "Fuir à toute vitesse."
 
 #: src-en/data/events_sector_emv_droppoint.xml:437
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[2]/event/text"
 msgstr ""
+"Vous décidez que l’honneur et les manières n’ont pas leur place quand votre "
+"mission est en jeu, vous laissez ce travail à quelqu’un d’autre."
 
 #: src-en/data/events_sector_emv_droppoint.xml:439
 msgid ""
@@ -471,11 +669,26 @@ msgstr "Ne rien faire.."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_PIRATE_CREWKILL\"]/text"
 msgstr ""
+"Vous parvenez à vider le vaisseau pirate de son équipage et à coincer le "
+"capitaine dans sa cabine. \"Bon, c’est la fin du chemin pour moi, alors. C’"
+"était amusant tant que ça a duré, mais je suppose que mon heure est venue.\" "
+"Vous contactez le shérif par radio pour l’informer que le capitaine pirate "
+"est entre vos mains. \"Eh bien, eh bien, quelle agréable surprise. Amenez-le "
+"à la colonie la plus proche, j'y fonce et j’y serai pour préparer sa "
+"pendaison pour midi. Bien joué, gamin.\" Vous vous demandez comment le "
+"shérif parvient à garder l’heure dans l’espace, mais cela n’a plus d’"
+"importance. On vous transmet les coordonnées de la colonie la plus proche "
+"pour remettre le pirate."
 
 #: src-en/data/events_sector_emv_droppoint.xml:464
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_PIRATE_DESTROY\"]/text"
 msgstr ""
+"Vous regardez le vaisseau du pirate criminel partir en flammes, son chapeau "
+"calciné projeté dans l’espace. Vous contactez le shérif par radio pour l’"
+"informer de votre mission accomplie. \"Beau travail, partenaire. Ça fait "
+"plaisir de voir que la jeune génération a encore de l’honneur de nos jours. "
+"A la prochaine, cowboy.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:467
 msgid ""
@@ -485,12 +698,19 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_droppoint.xml:476
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_FINALE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Le shérif vous offre une récompense ici."
 
 #: src-en/data/events_sector_emv_droppoint.xml:478
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_FINALE\"]/text"
 msgstr ""
+"Vous arrivez enfin à la colonie, en espérant que ce soit 'midi' selon les "
+"critères du shérif. Il vous appelle pendant que vous regardez les adjoints "
+"du shérif emmener le capitaine pirate. \"Bien joué, cow-boy. Et pile sous la "
+"lumière aveuglante de midi. D’ailleurs, les familles des hommes tués par ce "
+"salaud tiennent à vous remercier, à leur manière, de l’avoir livré à la "
+"justice. Direction l’armurerie la plus proche et prenez ce qui vous fait "
+"plaisir. A la prochaine, cowboy.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:480
 msgid ""
@@ -501,6 +721,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_FINALE\"]/choice/event/text"
 msgstr ""
+"Vous êtes précipitamment conduit dans une armurerie appartenant à la colonie "
+"et recevez les clés pour prendre tout ce que vous souhaitez pour votre "
+"voyage. Vous choisissez ce qui vous convient et vous assurez que la ville ne "
+"reste pas totalement sans défense. Vous faites vos adieux en regardant le "
+"capitaine pirate achevé par un peloton d’exécution au loin."
 
 #: src-en/data/events_sector_emv_droppoint.xml:486
 msgid ""
@@ -511,36 +736,53 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/text"
 msgstr ""
+"Du coin de l’œil, vous apercevez une douzaine de flotte de vaisseaux "
+"Renégats transportant des cargos vers une planète déserte. Vous vous dirigez "
+"vers la station d’où ils proviennent et vous renseignez sur leur cargaison. "
+"\"Oh, la planète ? C’est juste une grosse décharge abandonnée pour tout "
+"vaisseau Renégat de passage. On la garde pour éviter que des fouineurs de "
+"déchets viennent semer le trouble là-bas.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:496
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/text"
 msgstr ""
+"Vous demandez s’il est possible de récupérer une partie des déchets sur la "
+"planète."
 
 #: src-en/data/events_sector_emv_droppoint.xml:498
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/text"
 msgstr ""
+"Le propriétaire de la station Renégat en discute avec ses collègues avant de "
+"se tourner de nouveau vers vous. \"Très bien, vous pouvez y aller, à "
+"condition de nous payer une bonne pile de ferraille. Tout ce qui se passera "
+"là-bas sera de votre responsabilité, on ne va pas vous tenir la main.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:500
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Offrir de la ferraille."
 
 #: src-en/data/events_sector_emv_droppoint.xml:502
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Vous offrez la ferraille et vous êtes rappelé aux risques de cette opération "
+"de récupération. A votre descente, votre vaisseau est assailli par une "
+"puanteur nauséabonde et vous apercevez des particules rouillées flotter dans "
+"l’air. Vous ne pouvez fouiller que pendant un certain temps avant que cela "
+"ne devienne une véritable menace pour vous et votre équipage."
 
 #: src-en/data/events_sector_emv_droppoint.xml:507
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Rechercher n'importe quoi."
 
 #: src-en/data/events_sector_emv_droppoint.xml:511
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[1]/event/choice[@req=\"SCRAP_COLLECTOR\"]/text"
-msgstr ""
+msgstr "(Collecteur de ferraille) Tenter de récupérer quelques objets."
 
 #: src-en/data/events_sector_emv_droppoint.xml:517
 msgid ""
@@ -551,6 +793,9 @@ msgstr "Refuser et partir."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Vous refusez poliment en raison de l’absence d’assurance pour cette "
+"opération de récupération, sans parler du prix. Vous quittez la station et "
+"vous préparez à poursuivre votre route."
 
 #: src-en/data/events_sector_emv_droppoint.xml:521
 msgid ""
@@ -565,12 +810,15 @@ msgstr "Ne rien faire.."
 #: src-en/data/events_sector_emv_droppoint.xml:533
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[2]/text"
-msgstr ""
+msgstr "Partir sans poser d'autres questions."
 
 #: src-en/data/events_sector_emv_droppoint.xml:535
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[2]/event/text"
 msgstr ""
+"Vous n’avez aucun intérêt pour une prestigieuse décharge géante. La station "
+"vous fait ses adieux, et vous remarquez qu’il vous reste encore du temps "
+"pour faire quelque chose avant de reprendre la route."
 
 #: src-en/data/events_sector_emv_droppoint.xml:537
 msgid ""
@@ -586,41 +834,68 @@ msgstr "Ne rien faire.."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_SCRAP\"]/text"
 msgstr ""
+"Vous sortez un énorme tas de ferraille de la coque d’un vaisseau détruit. "
+"Pour une raison quelconque, la ferraille est couverte de poussière "
+"lumineuse, mais vous n’y prêtez pas attention en la ramenant à bord de votre "
+"vaisseau."
 
 #: src-en/data/events_sector_emv_droppoint.xml:563
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_SUPPLIES\"]/text"
 msgstr ""
+"Vous déterrez des caisses de fournitures. Vous trouvez quelques restes dans "
+"ces caisses, mais c'est tout de même une belle trouvaille."
 
 #: src-en/data/events_sector_emv_droppoint.xml:568
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_WEAPON\"]/text"
 msgstr ""
+"Alors que vous cherchez quelque chose de précieux, votre équipage vous "
+"signale une caisse d’armes jamais ouverte ! Vous la ramenez à bord du "
+"vaisseau et découvrez ce fabuleux butin."
 
 #: src-en/data/events_sector_emv_droppoint.xml:574
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_DRONE\"]/text"
 msgstr ""
+"Un membre de l’équipage parvient à trouver des plans pour un modèle de drone "
+"à l’intérieur d’une caisse. Ils les ramènent à bord du vaisseau, prêts à "
+"être utilisés."
 
 #: src-en/data/events_sector_emv_droppoint.xml:580
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_AUGMENT\"]/text"
 msgstr ""
+"À l’intérieur de la coque d’un vaisseau détruit, vous trouvez une "
+"augmentation qui appartenait à ce vaisseau. Vous la récupérez pour l’"
+"installer sur le vôtre."
 
 #: src-en/data/events_sector_emv_droppoint.xml:586
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_MAPINFO\"]/text"
 msgstr ""
+"Vous ne trouvez malheureusement rien de précieux. Cependant, un membre de l’"
+"équipage ramène un disque contenant des coordonnées et des relevés "
+"cartographiques. Ce n’est pas grand-chose, mais suffisant pour vous orienter."
 
 #: src-en/data/events_sector_emv_droppoint.xml:592
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_ARM\"]/text"
 msgstr ""
+"Vous décidez que cela ne vaut pas la peine de risquer la vie de votre "
+"équipage et choisissez de ne pas continuer l’exploration, préférant utiliser "
+"le bras de récupération pour ramener de la ferraille à bord. Vous parvenez "
+"ainsi à rassembler un butin correct."
 
 #: src-en/data/events_sector_emv_droppoint.xml:599
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_CONVOY\"]/text"
 msgstr ""
+"Dès que vous sautez dans le système, vous détectez un autre propulseur "
+"multiversel proche de votre position ! Vous craignez qu’il s’agisse d’un "
+"chasseur quelconque, mais il s’avère que c’est un important convoi de "
+"vaisseaux appartenant à vos collègues Renégats. Vous relâchez un peu la "
+"pression avant de retourner à votre poste."
 
 #: src-en/data/events_sector_emv_droppoint.xml:601
 msgid ""
@@ -636,6 +911,13 @@ msgstr "Ne rien faire.."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_ENVY\"]/text"
 msgstr ""
+"Du coin de l’œil, vous surprenez beaucoup de bavardages provenant de "
+"quelques vaisseaux. \"Ouiiii les gars ! On va devenir tellement riches ! "
+"TELLEMENT RICHES ! Ce coffre nous maintiendra à flot pour toujours ! Ne "
+"perdons pas de temps, allons-y !!!\" Vous leur enviez leur temps libre et "
+"commencez à vous préparer à les suivre, avant de réaliser que le 'coffre' qu’"
+"ils recherchent se trouve presque certainement quelque part dans la flotte "
+"rebelle. Vous vous préparez donc à bouger ailleurs."
 
 #: src-en/data/events_sector_emv_droppoint.xml:613
 msgid ""
@@ -651,6 +933,14 @@ msgstr "Ne rien faire.."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/text"
 msgstr ""
+"Un vaisseau en piteux état vous intercepte et vous contacte à plusieurs "
+"reprises. \"S’il vous plaît, aidez-nous, je vous en supplie ! Nous sommes "
+"poursuivis par un fou furieux qui nous traque et nous déchiquette ! Nous "
+"vous donnerons n’importe quoi, juste protégez-nous de ce psycho...\" Avant "
+"que le capitaine ne termine sa phrase, vous êtes contacté par le "
+"poursuivant. \"Eh bien, on dirait que ma chasse est plutôt mouvementée. "
+"Voilà ce que je te propose : tu lâches ce petit lapin, et je pourrais te "
+"filer un petit quelque chose. Qu’est-ce que t’en dis, camarade chasseur ?\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:627
 msgid ""
@@ -661,16 +951,26 @@ msgstr "Accepter leur pot-de-vin."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[1]/event/text"
 msgstr ""
+"Vous décidez de couper les communications avec la proie et de vous diriger "
+"vers le vaisseau Renégat. Ils vous remettent une partie des fournitures "
+"avant de vous souhaiter bonne chance. Du coin de l’œil, vous observez le "
+"vaisseau poursuivi se faire déchiqueter par le Renégat. Aussi impressionnant "
+"que cela soit, vous ne souhaitez pas rester plus longtemps dans les parages."
 
 #: src-en/data/events_sector_emv_droppoint.xml:634
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[2]/text"
-msgstr ""
+msgstr "Protéger le vaisseau."
 
 #: src-en/data/events_sector_emv_droppoint.xml:636
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[2]/event/text"
 msgstr ""
+"Vous adoptez une posture défensive et chargez vos armes. Le Renégat ne prend "
+"pas cela à la légère et ne parvient qu’à peine à dissimuler son agacement "
+"derrière un sourire. \"Eh bien, on ne peut pas dire non à l’occasion d’"
+"éliminer encore un peu de vermine de l’espace !\" Vous vous préparez au "
+"combat !"
 
 #: src-en/data/events_sector_emv_droppoint.xml:639
 msgid ""
@@ -680,17 +980,28 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_droppoint.xml:645
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "(Armes améliorées) Et si on disait non ?"
 
 #: src-en/data/events_sector_emv_droppoint.xml:647
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[@req=\"weapons\"]/event/text"
 msgstr ""
+"Vous montrez au Renégat que vous ne plaisantez pas quand il s’agit de "
+"préserver des vies. Il prend note de votre armement et recule lentement. "
+"\"Bon, euh… ça devait être le vent. Rangez tout les gars ! On se casse !\" "
+"Ils quittent le système, vous laissant suffisamment de temps pour vérifier "
+"une nouvelle fois l'état de la proie.\n"
+"\n"
+"\"Je ne pourrai jamais assez vous remercier pour votre aide. Vous avez sauvé "
+"tant de vies à bord et nous vous serons éternellement reconnaissants. Prenez "
+"ceci et prenez soin de vous.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:662
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_DESTROY\"]/text"
 msgstr ""
+"Le vaisseau Renégat a finalement été vaincu. Vous récupérez la ferraille du "
+"vaisseau avant de vérifier une nouvelle fois l'état de la proie."
 
 #: src-en/data/events_sector_emv_droppoint.xml:665
 msgid ""
@@ -701,11 +1012,16 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_DESTROY\"]/choice/event/text"
 msgstr ""
+"Le vaisseau en lambeaux vous contacte. \"Je ne pourrai jamais assez vous "
+"remercier pour votre aide. Vous avez sauvé tant de vies à bord et nous vous "
+"en serons éternellement reconnaissants. Prenez ceci et prenez soin de vous.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:674
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_CREWKILL\"]/text"
 msgstr ""
+"Le vaisseau Renégat a finalement été vaincu. Vous récupérez la ferraille du "
+"vaisseau avant de vérifier une nouvelle fois l'état de la proie."
 
 #: src-en/data/events_sector_emv_droppoint.xml:677
 msgid ""
@@ -716,11 +1032,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_CREWKILL\"]/choice/event/text"
 msgstr ""
+"Le vaisseau en lambeaux vous contacte. \"Je ne pourrai jamais assez vous "
+"remercier pour votre aide. Vous avez sauvé tant de vies à bord et nous vous "
+"en serons éternellement reconnaissants. Prenez ceci et prenez soin de vous.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:691
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/text"
 msgstr ""
+"Vous remarquez qu’un intrus multiversel tient un magasin en otage. Le "
+"propriétaire vous contacte, suppliant votre aide. \"S’il vous plaît, sortez-"
+"nous de là ! Ce fou hurle des bêtises rebelles depuis qu’on lui a refusé le "
+"service, vous devez le mettre hors d’état de nuire et mettre fin à son "
+"misérable calvaire !\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:693
 msgid ""
@@ -731,6 +1055,9 @@ msgstr "Secourir le magasin."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[1]/event/text"
 msgstr ""
+"Vous vous approchez pour protéger le magasin du misérable capitaine Rebelle "
+"à qui l’on a refusé le service. \"Vouuuus sbires Renégats allez- hic être "
+"écra-écrasé !! sous la puissance de- hic - la Rébelliooooonnnn !\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:698
 msgid ""
@@ -740,12 +1067,15 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_droppoint.xml:704
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[2]/text"
-msgstr ""
+msgstr "Les laisser se débrouiller."
 
 #: src-en/data/events_sector_emv_droppoint.xml:706
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[2]/event/text"
 msgstr ""
+"Vous décidez que quoi qu’il se passe, cela ne vous concerne pas et ignorez "
+"le propriétaire du magasin, qui peine à interpréter les codes de conduite "
+"des Renégats. Vous vous préparez à poursuivre votre route."
 
 #: src-en/data/events_sector_emv_droppoint.xml:708
 msgid ""
@@ -761,6 +1091,11 @@ msgstr "Ne rien faire.."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_DESTROYED\"]/text"
 msgstr ""
+"Alors que vous pénétrez dans le magasin pour récupérer la ferraille du "
+"vaisseau, votre esprit divague en essayant de vous souvenir d’une citation "
+"sur des enterrements, des boîtes de conserve, de la colle et l’enfer. Vous "
+"oubliez cette pensée jusqu’à ce que vous trouviez quelque chose dans le "
+"magasin."
 
 #: src-en/data/events_sector_emv_droppoint.xml:728
 msgid ""
@@ -771,6 +1106,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_DESTROYED\"]/choice/event/text"
 msgstr ""
+"Le propriétaire du magasin vous invite à entrer et à choisir parmi une "
+"sélection spécialement préparée. \"Merci pour votre aide. D’habitude, on "
+"doit vous extorquer des frais d’entrée, mais bon sang, vous nous avez sauvés "
+"et ça vaut mieux que quelques morceaux de ferraille en plus ! Le magasin est "
+"tout à vous, mon ami.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:733
 msgid ""
@@ -786,6 +1126,11 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_CREWKILL\"]/text"
 msgstr ""
+"Alors que vous pénétrez dans le magasin pour récupérer la ferraille du "
+"vaisseau, votre esprit divague en essayant de vous souvenir d’une citation "
+"sur des enterrements, des boîtes de conserve, de la colle et l’enfer. Vous "
+"oubliez cette pensée jusqu’à ce que vous trouviez quelque chose dans le "
+"magasin."
 
 #: src-en/data/events_sector_emv_droppoint.xml:748
 msgid ""
@@ -796,6 +1141,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_CREWKILL\"]/choice/event/text"
 msgstr ""
+"Le propriétaire du magasin vous invite à entrer et à choisir parmi une "
+"sélection spécialement préparée. \"Merci pour votre aide. D’habitude, on "
+"doit vous extorquer des frais d’entrée, mais bon sang, vous nous avez sauvés "
+"et ça vaut mieux que quelques morceaux de ferraille en plus ! Le magasin est "
+"tout à vous, mon ami.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:753
 msgid ""
@@ -811,26 +1161,39 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/text"
 msgstr ""
+"Dès que vous arrivez à la balise, vous esquivez de justesse un immense "
+"conteneur flottant dans l’espace. Une fois vos repères retrouvés, vous vous "
+"rendez compte que vous êtes au milieu de l’épave d’un cargo. Vous ne pensez "
+"pas que l’auteur de ce désastre ait laissé quelque chose de précieux, mais "
+"vous faites de votre mieux pour récupérer quelques morceaux de ferraille "
+"détachés."
 
 #: src-en/data/events_sector_emv_droppoint.xml:769
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
-msgstr ""
+msgstr "(Lanius) Demander à votre Lanius de récupérer davantage de ferraille."
 
 #: src-en/data/events_sector_emv_droppoint.xml:771
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/text"
 msgstr ""
+"Vous ordonnez à votre équipage Lanius de pénétrer dans l’épave pour "
+"récupérer davantage de ferraille. Il ne leur faut pas longtemps pour "
+"rassembler un tas modeste que vous pourrez utiliser."
 
 #: src-en/data/events_sector_emv_droppoint.xml:776
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[@req=\"SCRAP_COLLECTOR\"]/text"
-msgstr ""
+msgstr "(Collecteur de ferraille) Tenter de récupérer encore plus de ferraille."
 
 #: src-en/data/events_sector_emv_droppoint.xml:778
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[@req=\"SCRAP_COLLECTOR\"]/event/text"
 msgstr ""
+"Vous utilisez le bras de récupération de votre vaisseau pour extraire un peu "
+"plus de ferraille des parties les plus résistantes de l’épave. L’outil fait "
+"des merveilles et vous récupérez davantage de ferraille avant de vous en "
+"tenir là."
 
 #: src-en/data/events_sector_emv_droppoint.xml:783
 msgid ""
@@ -846,36 +1209,48 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_GRADUATION\"]/text"
 msgstr ""
+"Vous remarquez une sorte de célébration au loin. En vous approchant, on vous "
+"informe qu’il s’agit d’une fête de remise de diplômes Renégats et que tout "
+"le monde peut y assister. Vous restez un moment et discutez avec le nouveau "
+"Renégat de son fonctionnement et de la vie au sein des Renégats. Il apprécie "
+"vos conseils et vous offre une arme issue de son stock en guise de "
+"remerciement."
 
 #: src-en/data/events_sector_emv_droppoint.xml:798
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/text"
 msgstr ""
+"Dès que vous entrez dans le système, les capteurs de votre vaisseau "
+"détectent de faibles signaux inhabituels provenant d’un endroit à proximité. "
+"Cependant, vous ne parvenez pas à les repérer à l’œil nu, et ils n’"
+"apparaissent pas non plus sur le radar."
 
 #: src-en/data/events_sector_emv_droppoint.xml:800
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[1]/text"
-msgstr ""
+msgstr "Tenter de localiser l’origine de ces signaux."
 
 #: src-en/data/events_sector_emv_droppoint.xml:804
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "(Capteurs améliorés) Overclocker vos capteurs."
 
 #: src-en/data/events_sector_emv_droppoint.xml:808
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[@req=\"ADV_SCANNERS\"]/text"
-msgstr ""
+msgstr "(Scanners à longue portée) Overclocker vos capteurs."
 
 #: src-en/data/events_sector_emv_droppoint.xml:812
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[4]/text"
-msgstr ""
+msgstr "Laisser tel quel."
 
 #: src-en/data/events_sector_emv_droppoint.xml:814
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[4]/event/text"
 msgstr ""
+"Vous n’avez aucun intérêt pour une chasse au trésor impliquant des signaux "
+"inconnus. Vous laissez le mystère entier tel quel et poursuivez votre route."
 
 #: src-en/data/events_sector_emv_droppoint.xml:816
 msgid ""
@@ -891,6 +1266,9 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_BAD\"]/text"
 msgstr ""
+"Vous faites de votre mieux pour localiser le signal, mais peu importe vos "
+"efforts, vos capteurs ne sont pas assez puissants pour le détecter, et il "
+"disparaît de la carte."
 
 #: src-en/data/events_sector_emv_droppoint.xml:837
 msgid ""
@@ -906,11 +1284,15 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_GOOD\"]/text"
 msgstr ""
+"Vous maximisez la portée de détection de vos capteurs pour tenter de "
+"localiser l’origine du signal. Heureusement, ils sont suffisamment puissants "
+"pour identifier avec précision l’emplacement du village à proximité qui a "
+"émis le signal."
 
 #: src-en/data/events_sector_emv_droppoint.xml:849
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_GOOD\"]/choice[1]/text"
-msgstr ""
+msgstr "S'approcher du village."
 
 #: src-en/data/events_sector_emv_droppoint.xml:853
 msgid ""
@@ -921,6 +1303,9 @@ msgstr "Partir."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_GOOD\"]/choice[2]/event/text"
 msgstr ""
+"Si vous devez retenir une chose, c’est que des colonies cachées comme celle-"
+"ci attirent n’importe quel vaisseau imprudent pour mieux le piéger. Vous "
+"partez donc le plus rapidement possible."
 
 #: src-en/data/events_sector_emv_droppoint.xml:857
 msgid ""
@@ -936,26 +1321,39 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/text"
 msgstr ""
+"En vous amarrant prudemment, vous ne pouvez vous empêcher de remarquer que "
+"la colonie était un ancien repaire Rebelle. Palette orange délavée, Aigles "
+"MFK brûlés, casques Ace éparpillés sur le sol. L’atmosphère tendue envahit "
+"votre esprit d’inquiétudes, et l’apparition soudaine d’une lueur bleue "
+"émanant des ténèbres n’améliore en rien la situation."
 
 #: src-en/data/events_sector_emv_droppoint.xml:871
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/text"
-msgstr ""
+msgstr "Se présenter."
 
 #: src-en/data/events_sector_emv_droppoint.xml:873
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/text"
 msgstr ""
+"Vous annoncez votre présence aux habitants de la colonie. Peu à peu, les "
+"lumières scintillantes se multiplient, vous surpassant en nombre, vous et "
+"votre équipage. \"Alors… un autre rebelle inconscient, comme c’est "
+"intrigant. Peut-être ne sommes-nous pas aussi cachés que nous le pensions. "
+"Préparez-vous à mourir et à rejoindre vos pourris compagnons !\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:875
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Attendez ! Je ne fais pas partie de la Rébellion !"
 
 #: src-en/data/events_sector_emv_droppoint.xml:877
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/text"
 msgstr ""
+"Dès que ces mots sont prononcés, les silhouettes mystérieuses s’arrêtent et "
+"s’avancent vers la lumière pour se révéler. \"Vous n’êtes pas… un Rebelle ? "
+"Alors, que faites-vous ici ? Comment nous avez-vous trouvés ?\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:879
 msgid ""
@@ -966,51 +1364,77 @@ msgstr "Nous sommes en route pour le Nœud 17."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"\"Le Nœud 17… le fléau de… laissons cela pour une autre histoire. Pourquoi "
+"voulez-vous vous y rendre, alors ?\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:883
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Pour sauver la Fédération."
 
 #: src-en/data/events_sector_emv_droppoint.xml:885
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"\"Hein, très bien. Partez.\" Vous prenez note des dizaines de blasters armés "
+"pointés sur vous et votre équipage dès que vous avez énoncé vos intentions, "
+"ce qui vous incite à faire demi-tour et à ne jamais vous poser sur cette "
+"colonie."
 
 #: src-en/data/events_sector_emv_droppoint.xml:890
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Pour récupérer de la ferraille."
 
 #: src-en/data/events_sector_emv_droppoint.xml:892
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"\"Eh bien, au moins vous travaillez pour vous ici. Peut-être que voir tomber "
+"les Rebelles cette fois sera un vrai spectacle. Prenez ceci et bonne chance."
+"\" Vous remarquez que quelques ingénieurs se dirigent vers votre vaisseau et "
+"améliorent ses systèmes d’armes ! Vous faites vos adieux à la colonie tandis "
+"qu’ils vous souhaitent bonne chance."
 
 #: src-en/data/events_sector_emv_droppoint.xml:897
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Pour rechercher du divertissements."
 
 #: src-en/data/events_sector_emv_droppoint.xml:899
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"\"Un chercheur de sensations fortes ? Eh bien… pas vraiment surprenant, mais "
+"ça ne me pose aucun problème. Mieux vaut y aller vite, alors.\" La colonie "
+"vous souhaite bonne chance pour votre voyage et envoie certains de leurs "
+"ingénieurs améliorer vos moteurs afin que vous atteigniez rapidement votre "
+"objectif. Vous leur faites vos adieux et reprenez la route."
 
 #: src-en/data/events_sector_emv_droppoint.xml:904
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"human_mfk\"]/text"
 msgstr ""
+"(MFK Ace) La Rébellion est faible et traverse ses heures les plus sombres. "
+"Nous achevons le travail."
 
 #: src-en/data/events_sector_emv_droppoint.xml:906
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"human_mfk\"]/event/text"
 msgstr ""
+"Votre Ace fait son apparition et se confronte à l’un des habitants, "
+"expliquant que les Rebelles ne sont rien d’autre que des fous furieux, trop "
+"avides de pouvoir et dans une spirale qui les mènera bientôt à s’effondrer "
+"plus violemment qu’un coup de tonnerre. Le chef de la colonie s’approche de "
+"vous et vous serre la main avant d’envoyer l’un de ses hommes vous "
+"accompagner. \"L’ennemi de mon ennemi est mon ami. L’un de mes élites sera "
+"avec vous pour ce voyage. Montrez-lui de quel bois vous vous chauffez, gamin."
+"\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:912
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"EMV_LIST_CREW_ROGUE\"]/text"
-msgstr ""
+msgstr "(Équipage Vaurien) Nous sollicitons votre aide, frère."
 
 #: src-en/data/events_sector_emv_droppoint.xml:914
 msgid ""
@@ -1028,21 +1452,33 @@ msgstr ""
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[2]/text"
 msgstr ""
+"Nous sommes plus ou moins comme vous, sans pavillon et sans allégeance !"
 
 #: src-en/data/events_sector_emv_droppoint.xml:925
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"\"Un autre compagnon, je vois. Eh bien, le mieux que nous puissions faire "
+"est de vous donner une bonne quantité de fournitures et de vous souhaiter "
+"bonne chance. Ne le dites à personne.\" Le groupe mystérieux vous remet un "
+"lot de fournitures et vous souhaite bonne chance, en insistant sur le fait "
+"de ne le révéler à personne. Vous quittez la colonie, intrigué par ces "
+"inconnus."
 
 #: src-en/data/events_sector_emv_droppoint.xml:930
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Pourquoi est-ce important pour vous ?"
 
 #: src-en/data/events_sector_emv_droppoint.xml:932
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[3]/event/text"
 msgstr ""
+"\"Eh bien, ça répond à ma question. Nous avons un intrus ! Ouvrez le feu !\" "
+"Dès que la silhouette donne l’ordre, une douzaine de lasers s’abattent sur "
+"vous et votre équipage ! Heureusement, vous regagnez votre vaisseau indemne, "
+"mais vous remarquez également des signatures de téléportation sur votre "
+"navire !"
 
 #: src-en/data/events_sector_emv_droppoint.xml:949
 msgid ""
@@ -1063,6 +1499,10 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"FINISH_BEACON_FLEET_MVPMC\"]/text"
 msgstr ""
+"Vous avez trouvé la balise de sortie, mais les Rebelles sont déjà arrivés, "
+"et un Élite a été dépêché pour vous traquer ! Les forces EMPMV ripostent, "
+"mais vous devez malgré tout sauter le plus rapidement possible vers le "
+"secteur suivant."
 
 #: src-en/data/events_sector_emv_droppoint.xml:973
 msgid ""
