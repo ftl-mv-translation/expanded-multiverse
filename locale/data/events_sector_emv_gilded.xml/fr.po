@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-09-26 10:20+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_sector_emv_gildedxml/fr/>\n"
 "Language: fr\n"
@@ -16,6 +16,13 @@ msgstr ""
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/text"
 msgstr ""
+"Vous êtes enfin arrivé au Nœud 17, la capitale de la Fédération. Vous avez "
+"entendu les histoires de ce conflit dans l'Univers 0, la réalité où la "
+"technologie multiverselle a été découverte. Désormais, vous êtes sur le "
+"point d'y prendre part. Vos actions ici sauveront ou condamneront cette "
+"réalité... ou du moins, c'est ce que vous croyez... C'est étrangement calme, "
+"pour une zone de guerre active... tout ce que vous voyez au loin, ce sont "
+"des lueurs dorées."
 
 #: src-en/data/events_sector_emv_gilded.xml:10
 msgid ""
@@ -26,6 +33,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/text"
 msgstr ""
+"Normalement, il y aurait un garde pour contrôler votre entrée... mais il ne "
+"semble y avoir personne pour vous empêcher de vous approcher du Commandement "
+"de la Fédération."
 
 #: src-en/data/events_sector_emv_gilded.xml:14
 msgid ""
@@ -36,6 +46,16 @@ msgstr "Contacter l'état-major fédéré."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/text"
 msgstr ""
+"Vous vous redressez et tentez d'avoir l'air reposé tandis que vous attendez "
+"une réponse... qui ne vient jamais. Vous les contacter à plusieurs reprises, "
+"espérant entendre la voix de l'Amiral Tully. Aucune réponse. Finalement, un "
+"message automatique retentit. \n"
+"\n"
+"\"Excusez-nous, nous procédons actuellement à une évacuation complète, "
+"conformément aux ordres de l'Amiral Tully de cette réalité. Si vous entendez "
+"ce message, c'est que vous n'êtes pas censé être ici... Mais vous êtes tout "
+"de même le bienvenu. Venez à bord si vous avez besoin de ravitaillement ou "
+"de directives de la part de l'Amiral Tully.\""
 
 #: src-en/data/events_sector_emv_gilded.xml:20
 msgid ""
@@ -46,56 +66,120 @@ msgstr "Monter à bord de la station."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Vous faites quelque chose que vous n'auriez jamais cru possible... vous "
+"montez à bord de la station de commandement de la Fédération, le point de "
+"passage du Nœud 18. Seuls les officiers fédéraux de haut rang sont "
+"normalement autorisés à y pénétrer. Vous errez dans les couloirs, la station "
+"est aussi déserte que le reste. Vous fouillez chaque bureau, vos membres "
+"d'équipage confirment qu'il n'y a personne aux endroits où vous auriez "
+"attendu trouver un officier supérieur. Vous vous regroupez finalement dans "
+"un salon... quand soudain, une voix retentit :\n"
+"\n"
+"\"Bonjour, vous êtes perdus ?\"\n"
+"\n"
+"Vous et tout votre équipage vous retournez d'un seul mouvement vers celui "
+"qui vient de parler. C'est... Tully. L'amiral de la flotte de la Fédération."
+"\n"
+"\n"
+"\"L'ordre d'évacuation a été donné il y a un moment déjà, je suis surpris "
+"que vous n'ayez pas encore sauté ailleurs.\" dit Tully en s'affalant dans un "
+"fauteuil, observant l'espace par la baie vitrée."
 
 #: src-en/data/events_sector_emv_gilded.xml:30
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Ordre d'évacuation... ? Pourquoi n'êtes‑vous pas à la tour de commandement ?"
 
 #: src-en/data/events_sector_emv_gilded.xml:32
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"Pourquoi le serais-je ? Tout le secteur est apparemment impossible à "
+"atteindre par saut, d'après ce que j'ai entendu. Les seules personnes qui "
+"viennent ici sont celles qui, en théorie, auraient déjà dû partir.\"\n"
+"\n"
+"Vous expliquez que vous avez pourtant réussi à sauter dans le secteur sans "
+"problème.\n"
+"\n"
+"\"...Vraiment ? Vous êtes la seule personne dont j'entends dire ça. Tous les "
+"autres sont déjà partis. Ces Lumières Dorées ont été très claires dans leurs "
+"ordres : quiconque tient à sa vie devait quitter le secteur ou se mettre à "
+"l'abri autant que possible... \n"
+"Nous avons obéi aux avertissements dès que le Vaisseau Amiral Rebelle a été "
+"réduit en une fine brume...\""
 
 #: src-en/data/events_sector_emv_gilded.xml:40
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Lui demander pourquoi il est allongé sur une chaise longue."
 
 #: src-en/data/events_sector_emv_gilded.xml:42
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"En regardant ces Lumières Dorées... elles sont... étrangement magnifiques, "
+"tout bien considéré. Je suppose que ce sont des sortes de Renégats bizarres. "
+"Je n'en avais jamais entendu parler auparavant, ni comment nous avons pu "
+"entrer en contact avec eux.\"\n"
+"\n"
+"Tully se saisit d'une bouteille de champagne."
 
 #: src-en/data/events_sector_emv_gilded.xml:46
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "C'est pour quoi ça ?"
 
 #: src-en/data/events_sector_emv_gilded.xml:48
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"J'avais prévu de célébrer la défaite de la Rébellion avec ceci. Il faut "
+"bien l'admettre… ce ne sont pas exactement les circonstances dans lesquelles "
+"j'espérais faire la fête... Je suppose que vous voudrez aussi quelques "
+"verres.\"\n"
+"\n"
+"Tully lève un communicateur, demandant d'apporter plus de verres."
 
 #: src-en/data/events_sector_emv_gilded.xml:52
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Il y a d'autres personnes sur cette station ?"
 
 #: src-en/data/events_sector_emv_gilded.xml:54
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Tully vous regarde à nouveau.\n"
+"\n"
+"\"Oui, quelques-uns. Ils n'étaient pas très chauds à l'idée de me laisser "
+"ici tout seul, alors il y a un petit personnel de travailleurs de la "
+"Fédération sur cette station pour la maintenir en fonctionnement. Je suis "
+"presque certain que les autres sont partis. Maintenant, qu'est-ce que vous "
+"faites à juste rester là ? Prenez un siège. Vous avez l'air épuisé.\""
 
 #: src-en/data/events_sector_emv_gilded.xml:58
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "S'assoir."
 
 #: src-en/data/events_sector_emv_gilded.xml:60
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"La chaise est... plus confortable que tout ce sur quoi vous vous êtes jamais "
+"assis dans votre vie... vous aviez oublié de tels conforts. Vous essayez de "
+"ne pas vous laisser emporter par le moment tandis que les Lumières Dorées "
+"brillent. Vous entendez des pas autour de vous, le reste de l'équipage "
+"semble également s'asseoir.\n"
+"\n"
+"\"Alors… que faites‑vous tous ici, exactement ?\"\n"
+"\n"
+"Vous commencez à raconter les récits de la Balise Dorée et tout ce qui vous "
+"a mené jusqu'ici. Pourtant, vous êtes quand même venus...\n"
+"\n"
+"\"...Je vois... Vous... vous dirigez vers ces lumières... et ces lumières "
+"sont vraiment des mythes qui se tiennent devant nous... ?\""
 
 #: src-en/data/events_sector_emv_gilded.xml:68
 msgid ""
@@ -106,6 +190,15 @@ msgstr "Oui."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"...Ah... je... ne pensais pas que quelqu'un serait assez fou pour essayer "
+"de les visiter... Vous et votre équipage êtes vraiment courageux. Si j'en "
+"avais sous la main, je vous remettrais des médailles d'honneur ici, tout de "
+"suite... En fait.\"\n"
+"\n"
+"Tully parle dans le communicateur, demandant si des récompenses ou médailles "
+"sont disponibles pour le moment.\n"
+"\n"
+"\"Parfait...\""
 
 #: src-en/data/events_sector_emv_gilded.xml:76
 msgid ""
@@ -116,6 +209,35 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"C'est silencieux... Tout le secteur semble abandonné, personne n'est là. "
+"Personne, sauf les gens sur cette station, les Lumières Dorées... et vous "
+"avec votre équipage. Tout le monde semble tendu, fixant les lumières au loin."
+"\n"
+"\n"
+"Tully prend la parole.\n"
+"\n"
+"\"...Savez‑vous à quoi vous attendre ? Ce qu'elles sont ?\"\n"
+"\n"
+"Vous souhaiteriez pouvoir leur donner des détails précis, mais rien ne vous "
+"vient à l'esprit... Vous ne pouvez que raconter des histoires et les mythes "
+"que vous avez entendus à leur sujet. Vous continuez de parler jusqu'à ce que "
+"Tully vous interrompe.\n"
+"\n"
+"\"Je vois... D'après ce que vous dites, les chances de victoire semblent "
+"très faibles...\"\n"
+"\n"
+"Vous entendez des pas : un Mantis Libre s'approche, portant des verres sur "
+"un plateau ainsi qu'une petite boîte.\n"
+"\n"
+"\"Ah, parfait, tu veux bien me donner un coup de main ?\"\n"
+"\n"
+"Le Mantis Libre pose les verres sur la table et court avec enthousiasme vers "
+"Tully, qui tient alors la bouteille.\n"
+"\n"
+"Pop !\n"
+"\n"
+"Le Mantis Libre utilise sa griffe comme décapsuleur... Vous ririez si la "
+"situation n'était pas aussi grave, mais c'est quand même amusant."
 
 #: src-en/data/events_sector_emv_gilded.xml:98
 msgid ""
@@ -126,26 +248,56 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Le Mantis Libre s'éclipse en courant. Tully commence à servir les boissons.\n"
+"\n"
+"Vous demandez pourquoi un Mantis Libre se trouve ici.\n"
+"\n"
+"\"Qui, d'après vous, serait assez courageusement stupide pour rester ici ?\""
+"\n"
+"\n"
+"\"Je suppose qu'il ne vous faudra pas longtemps avant de repartir. Je "
+"n'aimerais pas faire attendre ce que je ne peux qu'assumer être des "
+"Divinités...\""
 
 #: src-en/data/events_sector_emv_gilded.xml:108
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "On dirait bien..."
 
 #: src-en/data/events_sector_emv_gilded.xml:110
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Tully termine de servir les verres et se lève, ouvrant la boîte.\n"
+"\n"
+"\"Écoutez, étant donné que ce furent vos actions qui ont vaincu les Rebelles "
+"dans cette réalité et le courage dont vous avez fait preuve en venant ici, "
+"je suis honoré de vous remettre à tous les plus hautes distinctions que je "
+"puisse décerner avec les moyens dont je dispose actuellement...\"\n"
+"\n"
+"Tully remet à chacun de vous une médaille et un verre.\n"
+"\n"
+"\"Buvez. Il semble que ce soit votre dernière occasion pour un moment... Je "
+"veillerai à ce que vos noms soient connus !\""
 
 #: src-en/data/events_sector_emv_gilded.xml:118
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Porter un toast."
 
 #: src-en/data/events_sector_emv_gilded.xml:120
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"Vous portez un toast, à cette mission entière... et à tout ce qui a été "
+"accompli en chemin. Tout vous a conduit jusqu'ici, et vous allez y faire "
+"face avec le sourire.\n"
+"\n"
+"Tully vous accompagne jusqu'à votre croiseur, tandis que votre équipage "
+"prend ses postes et que le vaisseau est réapprovisionné.\n"
+"\n"
+"\"...Bonne chance, Renégat. Si vous survivez... venez me rendre visite un "
+"jour, d'accord ? Je vous encouragerai depuis ici.\""
 
 #: src-en/data/events_sector_emv_gilded.xml:129
 msgid ""
@@ -161,6 +313,38 @@ msgstr "Montrer le colis à Tully."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"TULLY_PRESENT\"]/event/text"
 msgstr ""
+"Vous glissez la boîte sur la table pendant que Tully verse les verres...\n"
+"\n"
+"\"...Ah...\"\n"
+"\n"
+"Tully vous regarde.\n"
+"\n"
+"\"Vous êtes ce renégat...\"\n"
+"\n"
+"Tully vous salue.\n"
+"\n"
+"\"Vous savez, cette boîte ne contient rien... et pourtant, elle porte tant "
+"de signification...\"\n"
+"\n"
+"Tully éclate de rire.\n"
+"\n"
+"\"Hah... hahah... Eh bien, je suppose que nous allons tous les deux "
+"découvrir ce que sont vraiment ces lumières...\"\n"
+"\n"
+"Tully finit de verser les verres. Vous portez un toast en regardant les "
+"étoiles.\n"
+"\n"
+"\"Je suppose que c'est peut-être le dernier verre que nous prendrons tous "
+"les deux... Je serai bientôt avec vous sur votre vaisseau, je devrai donner "
+"des instructions au personnel ici au cas où il m'arriverait quelque chose... "
+"\n"
+"La Fédération ira bien, même si ma mort risque de l'ébranler un peu... Mais "
+"puisque les Rebelles ont déjà perdu cette réalité, tout ira bien...\"\n"
+"\n"
+"Vous retournez vers votre croiseur, Tully vous suivant peu après avec un "
+"surplus de provisions.\n"
+"\n"
+"\"...Allons-y, Capitaine, vers le Destin.\""
 
 #: src-en/data/events_sector_emv_gilded.xml:165
 msgid ""
@@ -174,7 +358,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_sector_emv_gilded.xml:201
 msgid "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_EMPTY\"]/text"
-msgstr ""
+msgstr "Il n'y a rien ici, juste le silence et les Lumières Dorées..."
 
 #: src-en/data/events_sector_emv_gilded.xml:203
 msgid ""
@@ -190,31 +374,55 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[1]"
 msgstr ""
+"Alors que vous réfléchissez à ce que vous pourriez faire, vous réalisez "
+"qu'un message vous parvient... il dit :\n"
+"\n"
+"    \"[style[color:ffb045]]Dépêchez-vous.[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:216
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[2]"
 msgstr ""
+"Alors que vous réfléchissez à ce que vous pourriez faire, vous réalisez "
+"qu'un message vous parvient... il dit :\n"
+"\n"
+"    \"[style[color:ffb045]]Continuez.[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:219
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[3]"
 msgstr ""
+"Alors que vous réfléchissez à ce que vous pourriez faire, vous réalisez "
+"qu'un message vous parvient... il dit :\n"
+"\n"
+"    \"[style[color:ffb045]]Approchez.[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:222
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[4]"
 msgstr ""
+"Alors que vous réfléchissez à ce que vous pourriez faire, vous réalisez "
+"qu'un message vous parvient... il dit :\n"
+"\n"
+"    \"[style[color:ffb045]]Nous attendons...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:225
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[5]"
 msgstr ""
+"Alors que vous réfléchissez à ce que vous pourriez faire, vous réalisez "
+"qu'un message vous parvient... il dit :\n"
+"\n"
+"    \"[style[color:ffb045]]N'essayez pas de vous enfuir.[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:228
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[6]"
 msgstr ""
+"Alors que vous réfléchissez à ce que vous pourriez faire, vous réalisez "
+"qu'un message vous parvient... il dit :\n"
+"\n"
+"    \"[style[color:ffb045]]Nous observons.[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:240
 msgid ""
@@ -225,31 +433,62 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[1]"
 msgstr ""
+"Alors que vous revenez à la station, espérant trouver salut et un moyen de "
+"quitter ce secteur, avant même de pouvoir demander l'autorisation, vous "
+"recevez un message...\n"
+"\n"
+"   \"[style[color:ffbd64]]Aucune échappatoire.[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:249
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[2]"
 msgstr ""
+"Alors que vous revenez à la station, espérant trouver salut et un moyen de "
+"quitter ce secteur, avant même de pouvoir demander l'autorisation, vous "
+"recevez un message...\n"
+"\n"
+"   \"[style[color:ffbd64]]Retourner en arrière.[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:252
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[3]"
 msgstr ""
+"Alors que vous revenez à la station, espérant trouver salut et un moyen de "
+"quitter ce secteur, avant même de pouvoir demander l'autorisation, vous "
+"recevez un message...\n"
+"\n"
+"   \"[style[color:ffbd64]]Nous n'avons pas encore terminé.[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:255
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[4]"
 msgstr ""
+"Alors que vous revenez à la station, espérant trouver salut et un moyen de "
+"quitter ce secteur, avant même de pouvoir demander l'autorisation, vous "
+"recevez un message...\n"
+"\n"
+"   \"[style[color:ffbd64]]Voyons ces lumières blanches devenir dorées...[[/"
+"style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:258
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[5]"
 msgstr ""
+"Alors que vous revenez à la station, espérant trouver salut et un moyen de "
+"quitter ce secteur, avant même de pouvoir demander l'autorisation, vous "
+"recevez un message...\n"
+"\n"
+"   \"[style[color:ffbd64]]Vous ne devez pas avoir peur....[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:261
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[6]"
 msgstr ""
+"Alors que vous revenez à la station, espérant trouver salut et un moyen de "
+"quitter ce secteur, avant même de pouvoir demander l'autorisation, vous "
+"recevez un message...\n"
+"\n"
+"   \"[style[color:ffbd64]]Célébrons l'arrivée d'une aube dorée...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:273
 msgid ""
@@ -260,16 +499,27 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/text"
 msgstr ""
+"Alors que vous effectuez le saut, vous remarquez que la balise n'est "
+"finalement pas vide ! Une silhouette familière est là ! Une autre personne ! "
+"C'est..."
 
 #: src-en/data/events_sector_emv_gilded.xml:282
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/text"
-msgstr ""
+msgstr "Sylvain !?"
 
 #: src-en/data/events_sector_emv_gilded.xml:285
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/event/text"
 msgstr ""
+"\"Le ssseul et unique, étranger...\"\n"
+"\n"
+"Le vaisseau de Sylvain apparaît enfin dans votre champ de vision, un "
+"soulagement de voir une silhouette aussi familière...\n"
+"\n"
+"\"Passssons aux zzaffaires, hein étranger ? Je crains que ma propozzition de "
+"resssources soit... très faible pour le moment, je doute que vous acccceptez "
+"1 ferraille pour 15 missssiles !\""
 
 #: src-en/data/events_sector_emv_gilded.xml:292
 msgid ""
@@ -280,41 +530,80 @@ msgstr "Voir ce qu'il propose."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"\"J'ai bien peur de ne pas zzavoir beaucoup de ssstock ressstant ! Ccc'est "
+"tout ccce que je peux offrir...\""
 
 #: src-en/data/events_sector_emv_gilded.xml:299
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Vous ne pouvez pas vous résoudre à attaquer votre seul ami ici..."
 
 #: src-en/data/events_sector_emv_gilded.xml:307
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[1]"
 msgstr ""
+"Vous êtes revenu à l'endroit où se trouvait Sylvain, espérant voir son "
+"vaisseau ou le moindre signe de lui là où vous l'avez vu auparavant.... Mais "
+"vous recevez un appel...\n"
+"\n"
+"    \"[style[color:ffc369]]Pas cccette fois, étranger...  Mais mes "
+"marchandizzes sssont pour toi malgré tout...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:310
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[2]"
 msgstr ""
+"Vous êtes revenu à l'endroit où se trouvait Sylvain, espérant voir son "
+"vaisseau ou le moindre signe de lui là où vous l'avez vu auparavant.... Mais "
+"vous recevez un appel...\n"
+"\n"
+"    \"[style[color:ffc369]]Étranger, étranger... Ai-je été témoin de "
+"l'évolutttion et êtes‑vous sssimplement revenu vers moi avec votre nouvelle "
+"queue entre les jambes ? Ou est-ccce que je me trompe ?[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:313
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[3]"
 msgstr ""
+"Vous êtes revenu à l'endroit où se trouvait Sylvain, espérant voir son "
+"vaisseau ou le moindre signe de lui là où vous l'avez vu auparavant.... Mais "
+"vous recevez un appel...\n"
+"\n"
+"    \"[style[color:ffc369]]Étranger, combien de fois faut‑il que je vous "
+"zzapprenne à ne pas vous enfuir ?[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:316
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[4]"
 msgstr ""
+"Vous êtes revenu à l'endroit où se trouvait Sylvain, espérant voir son "
+"vaisseau ou le moindre signe de lui là où vous l'avez vu auparavant.... Mais "
+"vous recevez un appel...\n"
+"\n"
+"    \"[style[color:ffc369]]Étranger, j'apprécccie la fidélité que vous "
+"portez à votre Sssylvain… je vais laisssser passsser cccela.[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:319
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[5]"
 msgstr ""
+"Vous êtes revenu à l'endroit où se trouvait Sylvain, espérant voir son "
+"vaisseau ou le moindre signe de lui là où vous l'avez vu auparavant.... Mais "
+"vous recevez un appel...\n"
+"\n"
+"    \"[style[color:ffc369]]Étranger, jusssqu'où pensssez-vous continuer à "
+"vous préparer pour ccceccci ?[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:322
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[6]"
 msgstr ""
+"Vous êtes revenu à l'endroit où se trouvait Sylvain, espérant voir son "
+"vaisseau ou le moindre signe de lui là où vous l'avez vu auparavant.... Mais "
+"vous recevez un appel...\n"
+"\n"
+"    \"[style[color:ffc369]]Étranger, j'espère que vous comprenez à quoi vous "
+"vous exposez...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:334
 msgid ""
@@ -325,31 +614,60 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[1]"
 msgstr ""
+"Alors que vous revenez à la station, espérant trouver salut et un moyen de "
+"quitter ce secteur, avant même de pouvoir demander l'autorisation, vous "
+"recevez un message...\n"
+"\n"
+"   \"[style[color:ffd780]]Que diriez-vous si nous vous jugions à la place ?"
+"[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:344
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[2]"
 msgstr ""
+"Alors que vous réfléchissez à ce que vous pourriez faire, vous réalisez "
+"qu'on vous envoie un message... Il dit...\n"
+"\n"
+"    \"[style[color:ffd780]]Montrez-nous le feu de votre détermination !"
+"[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:347
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[3]"
 msgstr ""
+"Alors que vous réfléchissez à ce que vous pourriez faire, vous réalisez "
+"qu'on vous envoie un message... Il dit...\n"
+"\n"
+"    \"[style[color:ffd780]]Pourquoi devrions-nous finir dans un murmure ?!"
+"[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:350
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[4]"
 msgstr ""
+"Alors que vous réfléchissez à ce que vous pourriez faire, vous réalisez "
+"qu'on vous envoie un message... Il dit...\n"
+"\n"
+"    \"[style[color:ffd780]]Montrez-nous vos désirs ardents ![[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:353
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[5]"
 msgstr ""
+"Alors que vous réfléchissez à ce que vous pourriez faire, vous réalisez "
+"qu'on vous envoie un message... Il dit...\n"
+"\n"
+"    \"[style[color:ffd780]]Montrez-nous votre passion ![[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:356
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[6]"
 msgstr ""
+"Alors que vous réfléchissez à ce que vous pourriez faire, vous réalisez "
+"qu'on vous envoie un message... Il dit...\n"
+"\n"
+"    "
+"\"[style[color:ffd780]]Je vous promets que ça ne fera pas mal...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:368
 msgid ""
@@ -359,17 +677,17 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_gilded.xml:376
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/beaconType/@text"
-msgstr ""
+msgstr "LA FIN."
 
 #: src-en/data/events_sector_emv_gilded.xml:378
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Les Lumières Dorées..."
 
 #: src-en/data/events_sector_emv_gilded.xml:381
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/text"
-msgstr ""
+msgstr "Vous avez enfin atteint le zénith de votre voyage. La fin est là."
 
 #: src-en/data/events_sector_emv_gilded.xml:383
 msgid ""
@@ -379,12 +697,12 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_gilded.xml:385
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/choice/event/text"
-msgstr ""
+msgstr "\"[style[color:ffc561]]MEURT, POUFFIASSE ![[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:393
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LOSTSUN_START\"]/text"
-msgstr ""
+msgstr "Le prochain vaisseau se matérialise dans l'air juste devant vous..."
 
 #: src-en/data/events_sector_emv_gilded.xml:395
 msgid ""
@@ -394,12 +712,12 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_gilded.xml:397
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LOSTSUN_START\"]/choice/event/text"
-msgstr ""
+msgstr "\"[style[color:ffd780]]Préparez-vous à en découdre ![[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:405
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_START\"]/text"
-msgstr ""
+msgstr "Le prochain vaisseau se matérialise dans l'air juste devant vous..."
 
 #: src-en/data/events_sector_emv_gilded.xml:407
 msgid ""
@@ -410,11 +728,15 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_START\"]/choice/event/text"
 msgstr ""
+"\"[style[color:ffc369]]Étranger... Vous zzêtes à mi-chemin, continuez.[[/"
+"style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:416
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_AFTERMATH\"]/text"
 msgstr ""
+"\"[style[color:ffc369]]Étranger... Bien joué, vraiment bien joué… Vous avez "
+"rempli nos exigences avec brio… Mais pouvez-vous les dépasser ?[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:418
 msgid ""
@@ -425,21 +747,27 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_AFTERMATH\"]/choice/event/text"
 msgstr ""
+"\"[style[color:ffc369]]Étranger... Sssouvenez-vous, tout cccela n'est "
+"dézzormais qu'un duel honorable... Il n'y a aucune honte à sssavoir quand on "
+"est battu...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:427
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/text"
 msgstr ""
+"\"[style[color:ffc369]]Alors, étranger... Qu'est-ccce que ccce sssera ?"
+"[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:429
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[1]/text"
-msgstr ""
+msgstr "Continuons le combat !"
 
 #: src-en/data/events_sector_emv_gilded.xml:431
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[1]/event/text"
 msgstr ""
+"\"[style[color:ffc369]]Vous zzêtes vraiment l'un des nôtres...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:433
 msgid ""
@@ -449,12 +777,14 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_gilded.xml:439
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[2]/text"
-msgstr ""
+msgstr "Non, je sais quand je suis battu."
 
 #: src-en/data/events_sector_emv_gilded.xml:441
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[2]/event/text"
 msgstr ""
+"\"[style[color:ffc369]]Bien sssûr... Dans ccce cas... Retrouvez-nous à la "
+"sssurface...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:443
 msgid ""
@@ -464,17 +794,20 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_gilded.xml:449
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[3]/text"
-msgstr ""
+msgstr "Laisse-moi réfléchir..."
 
 #: src-en/data/events_sector_emv_gilded.xml:451
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[3]/event/text"
 msgstr ""
+"\"[style[color:ffc369]]Étranger... Prenez votre temps. Il n'y a pas de "
+"précccipitatttion... enfin, à part le fait qu'il y en a quand même...[[/"
+"style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:458
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_FINALE\"]/text"
-msgstr ""
+msgstr "Le prochain vaisseau se matérialise dans l'air juste devant vous..."
 
 #: src-en/data/events_sector_emv_gilded.xml:460
 msgid ""
@@ -485,11 +818,16 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_FINALE\"]/choice/event/text"
 msgstr ""
+"\"[style[color:ffb045]]La f[[/style]][style[color:ffbd64]]in[[/style]]"
+"[style[color:ffd780]] est la n[[/style]][style[color:ffc369]]uit...[[/style]]"
+"\""
 
 #: src-en/data/events_sector_emv_gilded.xml:469
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/text"
 msgstr ""
+"Vous commencez à descendre vers la base... en voyant les Lumières Dorées "
+"descendre à vos côtés..."
 
 #: src-en/data/events_sector_emv_gilded.xml:471
 msgid ""
@@ -500,6 +838,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/text"
 msgstr ""
+"Vous sortez du vaisseau, tremblant à cause des événements qui se sont "
+"déroulés... Le marchand doré s'approche de vous."
 
 #: src-en/data/events_sector_emv_gilded.xml:475
 msgid ""
@@ -510,26 +850,41 @@ msgstr "...?"
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/text"
 msgstr ""
+"\"[style[color:ffc369]]Bien joué, étranger... Vous zzavez montré une "
+"compétenccce sssuffizzante pour entrer dans nos rangs... Bien que... la "
+"prochaine fois, essssayez peut-être d'aller plus loin, hm ?[[/style]]\"\n"
+"Vous n'avez aucune idée de ce qu'il entend par là… au moment où vous tentez "
+"de lui poser la question, il vous fait simplement un clin d'œil...\n"
+"\"[style[color:ffc369]]Maintenant, en tant que l'un des chefs de la Flotte "
+"Dorée, je sssouhaiterais vous dézzigner officcciellement comme l'un des "
+"nôtres…[[/style]]\"\n"
+"Il tend sa main."
 
 #: src-en/data/events_sector_emv_gilded.xml:482
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/text"
 msgstr ""
+"[style[color:ffb045]]Con[[/style]][style[color:ffbd64]]tin[[/style]]"
+"[style[color:ffd780]]uer.[[/style]][style[color:ffc369]]..[[/style]]"
 
 #: src-en/data/events_sector_emv_gilded.xml:484
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"[style[color:ffb045]]Bien[[/style]][style[color:ffbd64]]ven[[/style]]"
+"[style[color:ffd780]]ue à[[/style]][style[color:ffc369]]bord ![[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:485
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/event/win/@text"
 msgstr ""
+"[style[color:ffb045]]Allez [[/style]][style[color:ffbd64]]plus [[/style]]"
+"[style[color:ffd780]]lo[[/style]][style[color:ffc369]]in...[[/style]]"
 
 #: src-en/data/events_sector_emv_gilded.xml:497
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_FINAL_REBEL\"]/destroyed/text"
-msgstr ""
+msgstr "Dieu merci, elle est partie."
 
 #: src-en/data/events_sector_emv_gilded.xml:500
 msgid ""
@@ -539,7 +894,7 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_gilded.xml:505
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_FINAL_REBEL\"]/deadCrew/text"
-msgstr ""
+msgstr "Dieu merci, elle est partie."
 
 #: src-en/data/events_sector_emv_gilded.xml:508
 msgid ""
@@ -549,7 +904,7 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_gilded.xml:516
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_LOSTSUN\"]/destroyed/text"
-msgstr ""
+msgstr "Vous transpirez tandis que le vaisseau est annihilé sous vos yeux."
 
 #: src-en/data/events_sector_emv_gilded.xml:519
 msgid ""
@@ -559,7 +914,7 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_gilded.xml:524
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_LOSTSUN\"]/deadCrew/text"
-msgstr ""
+msgstr "Vous transpirez tandis que le vaisseau est annihilé sous vos yeux."
 
 #: src-en/data/events_sector_emv_gilded.xml:527
 msgid ""
@@ -569,7 +924,7 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_gilded.xml:535
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_MERCHANT\"]/destroyed/text"
-msgstr ""
+msgstr "Vous transpirez tandis que le vaisseau est annihilé sous vos yeux."
 
 #: src-en/data/events_sector_emv_gilded.xml:538
 msgid ""
@@ -579,7 +934,7 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_gilded.xml:543
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_MERCHANT\"]/deadCrew/text"
-msgstr ""
+msgstr "Vous transpirez tandis que le vaisseau est annihilé sous vos yeux."
 
 #: src-en/data/events_sector_emv_gilded.xml:546
 msgid ""
@@ -589,7 +944,7 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_gilded.xml:554
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_FINAL\"]/destroyed/text"
-msgstr ""
+msgstr "Vous avez réussi, vous avez gagné."
 
 #: src-en/data/events_sector_emv_gilded.xml:557
 msgid ""
@@ -599,7 +954,7 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_emv_gilded.xml:562
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_FINAL\"]/deadCrew/text"
-msgstr ""
+msgstr "Vous avez réussi, vous avez gagné."
 
 #: src-en/data/events_sector_emv_gilded.xml:565
 msgid ""
