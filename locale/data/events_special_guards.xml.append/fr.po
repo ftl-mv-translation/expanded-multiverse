@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-21 20:19+0000\n"
+"PO-Revision-Date: 2025-09-26 10:20+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_special_guardsxmlappend/fr/>\n"
@@ -176,7 +176,7 @@ msgstr "Un magasin."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[5]/event/text"
 msgstr ""
-"Vous êtes autorisé à acheter de l’équipement, mais vous disposez aussi d’un "
+"Vous êtes autorisé à acheter de l'équipement, mais vous disposez aussi d'un "
 "peu de temps pour faire autre chose à bord du vaisseau."
 
 #: src-en/data/events_special_guards.xml.append:119
@@ -335,7 +335,7 @@ msgstr "Un magasin."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[5]/event/text"
 msgstr ""
-"Vous êtes autorisé à acheter de l’équipement, mais vous disposez aussi d’un "
+"Vous êtes autorisé à acheter de l'équipement, mais vous disposez aussi d'un "
 "peu de temps pour faire autre chose à bord du vaisseau."
 
 #: src-en/data/events_special_guards.xml.append:235
