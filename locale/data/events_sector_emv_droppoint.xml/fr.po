@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-26 10:20+0000\n"
+"PO-Revision-Date: 2025-10-07 00:41+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_sector_emv_droppointxml/fr/>\n"
@@ -452,7 +452,7 @@ msgid ""
 msgstr ""
 "Même si votre position est compromise, vous vous dépêchez de finir ce que "
 "vous faisiez et quittez les lieux aussi vite que possible pour éviter d'être "
-"déchiqueté par les Batteries Anti-Vaisseaux de la flotte."
+"déchiqueté par les Batteries Anti-Vaisseaux (ASB) de la flotte."
 
 #: src-en/data/events_sector_emv_droppoint.xml:305
 msgid ""
