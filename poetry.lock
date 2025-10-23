@@ -463,8 +463,8 @@ requests = "^2.31.0"
 [package.source]
 type = "git"
 url = "https://github.com/ftl-mv-translation/mvloc.git"
-reference = "feature/gemini"
-resolved_reference = "f80e142373c54686f4bffdf9af28fcfb7c1cfcd4"
+reference = "HEAD"
+resolved_reference = "af1536f442823de20e5055d42cba6f2b32eb757a"
 
 [[package]]
 name = "polib"
@@ -970,4 +970,4 @@ dev = ["black (>=19.3b0) ; python_version >= \"3.6\"", "pytest (>=4.6.2)"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.11,<3.12"
-content-hash = "3f59a2cd3cea0394f001a3079b41d8dbf670bb80d879ac3aa5bfcb0c3c168869"
+content-hash = "3252a00a0a261a8eea637671c40ce0c1c4a5b828118a93905e77e65dcad842bc"
