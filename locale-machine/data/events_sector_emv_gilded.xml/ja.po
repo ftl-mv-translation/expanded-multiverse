@@ -1,0 +1,788 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_emv_gilded.xml:2
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/text"
+msgstr ""
+"ついに連邦首都、ノード17に到着した。マルチバース技術が発見された現実、ユニバース0でのこの紛争の話を聞いたことがあるだろう。今、あなたはその一部になろうとしている。ここでのあなたの行動は、この現実を救うか、あるいは破滅させるか…そう思うだろうが…活発な戦闘地域にしては、非常に静かだ…見えるのは、遠くにある金色の光だけだ。"
+
+#: src-en/data/events_sector_emv_gilded.xml:10
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:12
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/text"
+msgstr "通常なら入口を管理する警備員がいるはずだが…連邦司令部に近づくのを止める者は誰もいないようだ。"
+
+#: src-en/data/events_sector_emv_gilded.xml:14
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:16
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/text"
+msgstr ""
+"姿勢を正し、返事を待ちながら休んでいるように見せようとする…しかし、返事は来ない。タリー提督の声が聞こえることを期待して繰り返し通信するが、応答はない。やがて自動メッセージが鳴り響く。\n"
+"\n"
+"「申し訳ありません。現在、この現実のタリー提督の命令により、全面避難を実施中です。これを聞いているあなたは、ここにいるべきではありません…しかし、それでも歓迎します。タリー提督による物資や指導が必要な場合は、ご乗船ください。」"
+
+#: src-en/data/events_sector_emv_gilded.xml:20
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:22
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+"あなたは自分が決してできないと思っていたことをする…連邦司令ステーション、ノード18のウェイポイントに乗り込むのだ。正式にこの場所に乗り込めるのは、高位の連邦士官だけだ。歩き回ると、ステーションは他の場所と同様に閑散としている。すべてのオフィスを覗き、クルーは司令官がいると予想されるどの場所からも何も報告しない。あなたと残りのクルーがラウンジの近くで再集結すると、声が聞こえる…\n"
+"\n"
+"「もしもし、皆さん、迷子ですか？」\n"
+"\n"
+"あなたとクルー全員が、その言葉を言った人物を一斉に見る。それは…それは…連邦艦隊の提督、タリーだった。\n"
+"\n"
+"「避難命令はしばらく前に出ました。まだジャンプしていないとは驚きですね。」タリーは椅子にもたれかかり、宇宙を眺めながら言う。"
+
+#: src-en/data/events_sector_emv_gilded.xml:30
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "避難命令…？なぜ司令塔にいないのですか？"
+
+#: src-en/data/events_sector_emv_gilded.xml:32
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"「なぜ私がそこにいる必要があるのですか？セクター全体にジャンプするのは不可能だと聞いています。ここを訪れるのは、とっくに立ち去っているべき人々だけです。」\n"
+"\n"
+"あなたはセクターに問題なくジャンプできたと説明する。\n"
+"\n"
+"「…本当ですか？そう言ったのはあなただけです。他の皆はもう去りました。あの金色の光は、命令で非常に明確にしました。命が惜しい者はセクターを去るか、できるだけ遠く\n"
+"、安全な場所に避難するようにと警告したのです。我々は、反乱軍旗艦が霧のように消滅した直後に、その警告に従いました。」"
+
+#: src-en/data/events_sector_emv_gilded.xml:40
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "なぜラウンジチェアにいるのか尋ねる。"
+
+#: src-en/data/events_sector_emv_gilded.xml:42
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"「金色の光を眺めています。色々考えると…奇妙に美しいですね。奇妙な反逆者の一団だと思いますが、私自身は彼らのことを聞いたことも、どうやって連絡を取ったのかも知りません。」\n"
+"\n"
+"タリーはシャンパンボトルに手を伸ばす。"
+
+#: src-en/data/events_sector_emv_gilded.xml:46
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "それは何のためですか？"
+
+#: src-en/data/events_sector_emv_gilded.xml:48
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"「これで反乱軍の敗北を祝うつもりでした。認めますが…こんな状況で祝うとは予想していませんでした…あなた方もグラスが欲しいでしょう。」\n"
+"\n"
+"タリーはコミュニケーターを取り上げ、もっとグラスを頼む。"
+
+#: src-en/data/events_sector_emv_gilded.xml:52
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "このステーションには他に誰かいるのですか？"
+
+#: src-en/data/events_sector_emv_gilded.xml:54
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"タリーはあなたを見上げる。\n"
+"\n"
+"「ええ、数人います。私を一人でここに残すのを嫌がったので、このステーションを稼働させ続けるために、少数の連邦職員がいます。残りはもう去ったと思いますがね。さて、そこで突っ立って何をしているのですか？座ってください。疲れているように見えますよ。」"
+
+#: src-en/data/events_sector_emv_gilded.xml:58
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "席に着く…"
+
+#: src-en/data/events_sector_emv_gilded.xml:60
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"椅子は…人生で座ったどの椅子よりも快適に感じる…そんな快適さを忘れていた…金色の光が輝く中、その瞬間に我を忘れないようにする。周りを歩く音が聞こえ、残りのクルーも席に着いているようだ…\n"
+"\n"
+"「それで…皆さんはここで何をしているのですか？」\n"
+"\n"
+"あなたは金色のビーコンの物語と、ここに至るまでのすべてを語り始める。それでもあなたはここに来た…\n"
+"\n"
+"「…なるほど…あなたは…あの光に向かっているのですね…そして、その光が、我々の目の前で文字通りの神話だというわけですか？」"
+
+#: src-en/data/events_sector_emv_gilded.xml:68
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:70
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"「…ああ…まさか、彼らを訪ねようとするほど狂っている人がいるとは思いませんでした…あなたとあなたのクルーは本当に勇敢です。もし手元にあれば、今ここで名誉勲章を授与したいところです…実は。」\n"
+"\n"
+"タリーはコミュニケーターに向かって話し、現在手元に賞やメダルがあるか尋ねる。\n"
+"\n"
+"「素晴らしい…」"
+
+#: src-en/data/events_sector_emv_gilded.xml:76
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:78
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"静寂…セクター全体が放棄されたように見える。誰もいない、このステーションの人々と金色の光を除いては…そして、あなたとあなたのクルー…誰もが緊張して、遠くの光を見つめている。\n"
+"\n"
+"タリーが口を開く。\n"
+"\n"
+"「…何を期待していますか？彼らが何者か知っていますか？」\n"
+"\n"
+"具体的なことを言えればと思うが、何も思い浮かばない…あなたは彼らについて聞いた物語や神話を語るだけだ。タリーがあなたの話を遮るまで、あなたはとりとめもなく話し続ける。\n"
+"\n"
+"「なるほど…話を聞く限り、勝利の可能性は非常に低いようですね…」\n"
+"\n"
+"足音が聞こえ、フリーマンティスがトレイにグラスと小さな箱を乗せて歩いてくる。\n"
+"\n"
+"「ああ、素晴らしい、手を貸してくれますか？」\n"
+"\n"
+"フリーマンティスはテーブルにグラスを置き、興奮してタリーの元へ走り寄る。タリーはボトルを持ち上げる。\n"
+"\n"
+"ポン！\n"
+"\n"
+"フリーマンティスは爪を栓抜きのように使う…状況がこれほど深刻でなければ笑っていただろうが、それでも面白い。"
+
+#: src-en/data/events_sector_emv_gilded.xml:98
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:100
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"フリーマンティスは走り去る。タリーが飲み物を注ぎ始める。\n"
+"\n"
+"なぜここにフリーマンティスがいるのか尋ねる。\n"
+"\n"
+"「まだここにいるほど勇敢で愚かな者が他にいると思いますか？」\n"
+"\n"
+"「あなたが出発するまで、そう長くはないでしょう。私が神々としか思えない存在を待たせるわけにはいきませんからね。」"
+
+#: src-en/data/events_sector_emv_gilded.xml:108
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
+msgstr "そのようですね…"
+
+#: src-en/data/events_sector_emv_gilded.xml:110
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+"タリーは皆にグラスを注ぎ終え、立ち上がって箱を開ける。\n"
+"\n"
+"「聞いてください。この現実で反乱軍を打ち破ったのはあなたの行動であり、ここに来たことで示した勇気を考えると、現在与えられている資源で授与できる最高の栄誉を皆さんに与えることを光栄に思います。」\n"
+"\n"
+"タリーは一人ひとりにメダルとグラスを手渡す。\n"
+"\n"
+"「飲み干してください。しばらくはこれが最後の機会になるでしょう…皆さんの名前が知られるようにします。」"
+
+#: src-en/data/events_sector_emv_gilded.xml:118
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
+msgstr "乾杯する。"
+
+#: src-en/data/events_sector_emv_gilded.xml:120
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
+msgstr ""
+"あなたはこの任務全体に…そして道中で成し遂げたすべてに…乾杯する。すべてがこのためにあったのだ、そしてあなたは笑顔でそれに立ち向かう。\n"
+"\n"
+"タリーはあなたのクルーザーまで一緒に戻り、クルーが配置につき、船が補給される。\n"
+"\n"
+"「…幸運を、反逆者。もし生きていたら…いつか私を訪ねてきてください、いいですね？応援しています。」"
+
+#: src-en/data/events_sector_emv_gilded.xml:129
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:137
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"TULLY_PRESENT\"]/text"
+msgstr "タリーに包みを見せる。"
+
+#: src-en/data/events_sector_emv_gilded.xml:139
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"TULLY_PRESENT\"]/event/text"
+msgstr ""
+"タリーが飲み物を注ぐ間、あなたは箱をテーブルに滑らせる…\n"
+"\n"
+"「…ああ…」\n"
+"\n"
+"タリーはあなたを見上げる。\n"
+"\n"
+"「あなたが、あの反逆者ですね…」\n"
+"\n"
+"タリーはあなたに敬礼する。\n"
+"\n"
+"「ご存知の通り、あの箱には何も入っていません…しかし、それは大きな意味を持っています…」\n"
+"\n"
+"タリーは笑い始める。\n"
+"\n"
+"「はっ…ははは…まあ、我々二人でこの光が何なのかを突き止めることになりそうですね…」\n"
+"\n"
+"タリーが飲み物を注ぎ終え、あなたは星を見上げながら乾杯する。\n"
+"\n"
+"「おそらく、これが我々二人が飲む最後の酒になるでしょう…すぐにあなたの船に行きます。私が死んだ場合にどうするか、ここのスタッフに命令を出さなければなりません…連邦は大丈夫でしょう、私の死に\n"
+"揺さぶられるかもしれませんが…反乱軍がすでにこの現実を失ったことを考えれば、大丈夫でしょう…」\n"
+"\n"
+"あなたはクルーザーに戻り、タリーがすぐに大量の物資を持って後を追う。\n"
+"\n"
+"「…行きましょう、キャプテン。運命へ。」"
+
+#: src-en/data/events_sector_emv_gilded.xml:165
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"TULLY_PRESENT\"]/event/crewMember"
+msgstr "タリー"
+
+#: src-en/data/events_sector_emv_gilded.xml:170
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"TULLY_PRESENT\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:201
+msgid "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_EMPTY\"]/text"
+msgstr "ここには何もない、静寂と金色の光だけ…"
+
+#: src-en/data/events_sector_emv_gilded.xml:203
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_EMPTY\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:207
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_EMPTY\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:213
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[1]"
+msgstr ""
+"何かをしようかと考えていると、メッセージを受信していることに気づく…そこにはこう書かれていた…\n"
+"\n"
+"    「[style[color:ffb045]]急げ。[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:216
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[2]"
+msgstr ""
+"何かをしようかと考えていると、メッセージを受信していることに気づく…そこにはこう書かれていた…\n"
+"\n"
+"    「[style[color:ffb045]]続けよ。[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:219
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[3]"
+msgstr ""
+"何かをしようかと考えていると、メッセージを受信していることに気づく…そこにはこう書かれていた…\n"
+"\n"
+"    「[style[color:ffb045]]接近せよ。[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:222
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[4]"
+msgstr ""
+"何かをしようかと考えていると、メッセージを受信していることに気づく…そこにはこう書かれていた…\n"
+"\n"
+"    「[style[color:ffb045]]我々は待っている…[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:225
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[5]"
+msgstr ""
+"何かをしようかと考えていると、メッセージを受信していることに気づく…そこにはこう書かれていた…\n"
+"\n"
+"    「[style[color:ffb045]]今さら逃げるな。[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:228
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[6]"
+msgstr ""
+"何かをしようかと考えていると、メッセージを受信していることに気づく…そこにはこう書かれていた…\n"
+"\n"
+"    「[style[color:ffb045]]我々は見ている。[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:240
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_REVISIT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:246
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[1]"
+msgstr ""
+"救いを求めて、このセクターから脱出する方法を願いながらステーションに戻ると、許可を求める通信をする前に、通信が入る…\n"
+"\n"
+"    「[style[color:ffbd64]]逃げ場はない。[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:249
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[2]"
+msgstr ""
+"救いを求めて、このセクターから脱出する方法を願いながらステーションに戻ると、許可を求める通信をする前に、通信が入る…\n"
+"\n"
+"    「[style[color:ffbd64]]戻れ。[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:252
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[3]"
+msgstr ""
+"救いを求めて、このセクターから脱出する方法を願いながらステーションに戻ると、許可を求める通信をする前に、通信が入る…\n"
+"\n"
+"    「[style[color:ffbd64]]まだ終わっていない。[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:255
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[4]"
+msgstr ""
+"救いを求めて、このセクターから脱出する方法を願いながらステーションに戻ると、許可を求める通信をする前に、通信が入る…\n"
+"\n"
+"    「[style[color:ffbd64]]この白い光が金色に変わるのを見届けよう…[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:258
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[5]"
+msgstr ""
+"救いを求めて、このセクターから脱出する方法を願いながらステーションに戻ると、許可を求める通信をする前に、通信が入る…\n"
+"\n"
+"    「[style[color:ffbd64]]恐れることはない…[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:261
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[6]"
+msgstr ""
+"救いを求めて、このセクターから脱出する方法を願いながらステーションに戻ると、許可を求める通信をする前に、通信が入る…\n"
+"\n"
+"    「[style[color:ffbd64]]金色の夜明けを迎えよう…[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:273
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_TULLY_REVISIT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:280
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/text"
+msgstr "ジャンプインすると、ビーコンが空ではないことに気づく！見慣れたシルエットがここに！別の人物だ！それは…"
+
+#: src-en/data/events_sector_emv_gilded.xml:282
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/text"
+msgstr "シルヴァン！？"
+
+#: src-en/data/events_sector_emv_gilded.xml:285
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/event/text"
+msgstr ""
+"「唯一無二の存在さ、見知らぬ人よ…」\n"
+"\n"
+"シルヴァンの船がはっきりと視界に入る。見慣れた光景に安堵する…\n"
+"\n"
+"「さっそく商売を始めようじゃないか、見知らぬ人よ。残念ながら、今のところ私の資源の需要は…非常に低い。ミサイル15発とスクラップ1つでは、君も取引しないだろう！」"
+
+#: src-en/data/events_sector_emv_gilded.xml:292
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:294
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/event/choice[1]/event/text"
+msgstr "「残念ながら、在庫はあまり残っていない！これが私にできる精一杯だ…」"
+
+#: src-en/data/events_sector_emv_gilded.xml:299
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/event/choice[2]/text"
+msgstr "ここにいる唯一の友人を攻撃する気にはなれない…"
+
+#: src-en/data/events_sector_emv_gilded.xml:307
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[1]"
+msgstr ""
+"シルヴァンがいた場所に戻ってきた。以前彼を見た場所で、彼の船や何らかの痕跡が見られることを願う…ただ通信が入る…\n"
+"\n"
+"    「[style[color:ffc369]]今回は違うぞ、見知らぬ人よ…しかし、私の品物はいつでも君のものだ…[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:310
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[2]"
+msgstr ""
+"シルヴァンがいた場所に戻ってきた。以前彼を見た場所で、彼の船や何らかの痕跡が見られることを願う…ただ通信が入る…\n"
+"\n"
+"    「[style[color:ffc369]]見知らぬ人よ、見知らぬ人よ。私は進化を目撃したというのに、君は新しく生えた尻尾を股に挟んで私の元へ逃げ帰ってきたのか？それとも私の見間違いか？[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:313
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[3]"
+msgstr ""
+"シルヴァンがいた場所に戻ってきた。以前彼を見た場所で、彼の船や何らかの痕跡が見られることを願う…ただ通信が入る…\n"
+"\n"
+"    「[style[color:ffc369]]見知らぬ人よ、何度逃げるなと教えればいいんだ？[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:316
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[4]"
+msgstr ""
+"シルヴァンがいた場所に戻ってきた。以前彼を見た場所で、彼の船や何らかの痕跡が見られることを願う…ただ通信が入る…\n"
+"\n"
+"    「[style[color:ffc369]]見知らぬ人よ、君のシルヴァンへのご愛顧に感謝する…今回は見逃してやろう…[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:319
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[5]"
+msgstr ""
+"シルヴァンがいた場所に戻ってきた。以前彼を見た場所で、彼の船や何らかの痕跡が見られることを願う…ただ通信が入る…\n"
+"\n"
+"    「[style[color:ffc369]]見知らぬ人よ、これ以上どれだけ準備するつもりだ？[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:322
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[6]"
+msgstr ""
+"シルヴァンがいた場所に戻ってきた。以前彼を見た場所で、彼の船や何らかの痕跡が見られることを願う…ただ通信が入る…\n"
+"\n"
+"    「[style[color:ffc369]]見知らぬ人よ、何と対峙しているか理解しているといいが…[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:334
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SYLVAN_REVISIT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:341
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[1]"
+msgstr ""
+"救いを求めて、このセクターから脱出する方法を願いながらステーションに戻ると、許可を求める通信をする前に、通信が入る…\n"
+"\n"
+"    「[style[color:ffd780]]代わりに我々がお前を裁こうか？[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:344
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[2]"
+msgstr ""
+"何かをしようかと考えていると、メッセージを受信していることに気づく…そこにはこう書かれていた…\n"
+"\n"
+"    「[style[color:ffd780]]お前の決意の炎を見せろ！[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:347
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[3]"
+msgstr ""
+"何かをしようかと考えていると、メッセージを受信していることに気づく…そこにはこう書かれていた…\n"
+"\n"
+"    「[style[color:ffd780]]なぜ我々は泣き言で終わらねばならんのだ！？[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:350
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[4]"
+msgstr ""
+"何かをしようかと考えていると、メッセージを受信していることに気づく…そこにはこう書かれていた…\n"
+"\n"
+"    「[style[color:ffd780]]お前の燃えるような欲望を見せてみろ！[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:353
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[5]"
+msgstr ""
+"何かをしようかと考えていると、メッセージを受信していることに気づく…そこにはこう書かれていた…\n"
+"\n"
+"    「[style[color:ffd780]]お前の情熱を見せろ！[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:356
+msgid ""
+"data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[6]"
+msgstr ""
+"何かをしようかと考えていると、メッセージを受信していることに気づく…そこにはこう書かれていた…\n"
+"\n"
+"    「[style[color:ffd780]]痛くはしないと約束する…[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:368
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_JUDGES_REVISIT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:376
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/beaconType/@text"
+msgstr "終わり。"
+
+#: src-en/data/events_sector_emv_gilded.xml:378
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/beaconType/unvisitedTooltip"
+msgstr "金色の光…"
+
+#: src-en/data/events_sector_emv_gilded.xml:381
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/text"
+msgstr "ついに旅の頂点に達した。終わりが来たのだ。"
+
+#: src-en/data/events_sector_emv_gilded.xml:383
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:385
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/choice/event/text"
+msgstr "「[style[color:ffc561]]死ね、クソが！[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:393
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LOSTSUN_START\"]/text"
+msgstr "次の船があなたの目の前に現れる…"
+
+#: src-en/data/events_sector_emv_gilded.xml:395
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LOSTSUN_START\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:397
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LOSTSUN_START\"]/choice/event/text"
+msgstr "「[style[color:ffd780]]かかってこい！[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:405
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_START\"]/text"
+msgstr "次の船があなたの目の前に現れる…"
+
+#: src-en/data/events_sector_emv_gilded.xml:407
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_START\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:409
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_START\"]/choice/event/text"
+msgstr "「[style[color:ffc369]]見知らぬ人よ…半分だ、続けろ。[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:416
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_AFTERMATH\"]/text"
+msgstr ""
+"「[style[color:ffc369]]見知らぬ人よ…見事だ、実に見事だ…我々の要求を見事に満たした…だが、それを超えることはできるか？[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:418
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_AFTERMATH\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:420
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_AFTERMATH\"]/choice/event/text"
+msgstr ""
+"「[style[color:ffc369]]見知らぬ人よ…覚えておけ、これは今や名誉ある決闘だ…負けを認めることに恥はない…[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:427
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/text"
+msgstr "「[style[color:ffc369]]さて、見知らぬ人よ…どうする？[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:429
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[1]/text"
+msgstr "戦いを続けよう！"
+
+#: src-en/data/events_sector_emv_gilded.xml:431
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[1]/event/text"
+msgstr "「[style[color:ffc369]]お前は真に我々の一員だ…[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:433
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:439
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[2]/text"
+msgstr "いや、負けは認める。"
+
+#: src-en/data/events_sector_emv_gilded.xml:441
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[2]/event/text"
+msgstr "「[style[color:ffc369]]もちろんだ…その場合は…地上で会おう…[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:443
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:449
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[3]/text"
+msgstr "考えさせてくれ…"
+
+#: src-en/data/events_sector_emv_gilded.xml:451
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[3]/event/text"
+msgstr ""
+"「[style[color:ffc369]]見知らぬ人よ…時間はたっぷりある。急ぐことはない…まあ、実際は急がなきゃならんのだがな…[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:458
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_FINALE\"]/text"
+msgstr "次の船があなたの目の前に現れる…"
+
+#: src-en/data/events_sector_emv_gilded.xml:460
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_FINALE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:462
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_FINALE\"]/choice/event/text"
+msgstr ""
+"「[style[color:ffb045]]終[[/style]][style[color:ffbd64]]わ[[/style]][style[color:ffd780]]り[[/style]][style[color:ffc369]]は近い…[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:469
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/text"
+msgstr "基地へと降下を始める…金色の光があなたと共に降下してくるのが見える…"
+
+#: src-en/data/events_sector_emv_gilded.xml:471
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:473
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/text"
+msgstr "船から降りると、起こった出来事に震える…金色の商人があなたに近づいてくる。"
+
+#: src-en/data/events_sector_emv_gilded.xml:475
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/text"
+msgstr "…？"
+
+#: src-en/data/events_sector_emv_gilded.xml:477
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/text"
+msgstr ""
+"「[style[color:ffc369]]よくやった、見知らぬ人よ…我々の仲間入りをするに足るだけの力を見せた…だが、次はもっと先へ行ってみてはどうかな？[[/style]]」\n"
+"彼が何を言っているのかさっぱりわからない…質問しようと話しかけた瞬間、彼はただウインクするだけだ…\n"
+"「[style[color:ffc369]]さて、金色の艦隊の長の一人として、お前を正式に我々の同胞と認定したい…[[/style]]」\n"
+"彼は手を差し出す。"
+
+#: src-en/data/events_sector_emv_gilded.xml:482
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/text"
+msgstr ""
+"[style[color:ffb045]]続[[/style]][style[color:ffbd64]]け[[/style]][style[color:ffd780]]よ。[[/style]][style[color:ffc369]]…[[/style]]"
+
+#: src-en/data/events_sector_emv_gilded.xml:484
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+"「[style[color:ffb045]]よ[[/style]][style[color:ffbd64]]う[[/style]][style[color:ffd780]]こ[[/style]][style[color:ffc369]]そ！[[/style]]」"
+
+#: src-en/data/events_sector_emv_gilded.xml:485
+msgid ""
+"data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/event/win/@text"
+msgstr ""
+"[style[color:ffb045]]さ[[/style]][style[color:ffbd64]]ら[[/style]][style[color:ffd780]]に[[/style]][style[color:ffc369]]先へ…[[/style]]"
+
+#: src-en/data/events_sector_emv_gilded.xml:497
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_FINAL_REBEL\"]/destroyed/text"
+msgstr "彼女がいなくなってくれて助かった。"
+
+#: src-en/data/events_sector_emv_gilded.xml:500
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_FINAL_REBEL\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:505
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_FINAL_REBEL\"]/deadCrew/text"
+msgstr "彼女がいなくなってくれて助かった。"
+
+#: src-en/data/events_sector_emv_gilded.xml:508
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_FINAL_REBEL\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:516
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_LOSTSUN\"]/destroyed/text"
+msgstr "目の前で船が消滅するのを見て、汗をかく。"
+
+#: src-en/data/events_sector_emv_gilded.xml:519
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_LOSTSUN\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:524
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_LOSTSUN\"]/deadCrew/text"
+msgstr "目の前で船が消滅するのを見て、汗をかく。"
+
+#: src-en/data/events_sector_emv_gilded.xml:527
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_LOSTSUN\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:535
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_MERCHANT\"]/destroyed/text"
+msgstr "目の前で船が消滅するのを見て、汗をかく。"
+
+#: src-en/data/events_sector_emv_gilded.xml:538
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_MERCHANT\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:543
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_MERCHANT\"]/deadCrew/text"
+msgstr "目の前で船が消滅するのを見て、汗をかく。"
+
+#: src-en/data/events_sector_emv_gilded.xml:546
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_MERCHANT\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:554
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_FINAL\"]/destroyed/text"
+msgstr "やった、勝ったのだ。"
+
+#: src-en/data/events_sector_emv_gilded.xml:557
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_FINAL\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_gilded.xml:562
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_FINAL\"]/deadCrew/text"
+msgstr "やった、勝ったのだ。"
+
+#: src-en/data/events_sector_emv_gilded.xml:565
+msgid ""
+"data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_FINAL\"]/deadCrew/choice/text"
+msgstr ""

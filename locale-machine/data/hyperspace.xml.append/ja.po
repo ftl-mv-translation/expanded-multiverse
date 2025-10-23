@@ -1,0 +1,304 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/hyperspace.xml.append:19
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_human_mercenary\"]/powerEffect/buttonText"
+msgstr "スラッシュ"
+
+#: src-en/data/hyperspace.xml.append:20
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_human_mercenary\"]/powerEffect/tooltip"
+msgstr ""
+"[クールダウン:5秒]\n"
+"\t\t\t\t現在のターゲットに出血デバフを与える。"
+
+#: src-en/data/hyperspace.xml.append:67
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_human_medic\"]/powerEffect/buttonText"
+msgstr "ヒール"
+
+#: src-en/data/hyperspace.xml.append:68
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_human_medic\"]/powerEffect/tooltip"
+msgstr ""
+"[クールダウン:30秒]\n"
+"\t\t\t\t近くのクルー全員に刺激を与え、15ヘルス回復させ、一時的なダメージ耐性を付与する。"
+
+#: src-en/data/hyperspace.xml.append:136
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_human_engineer\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:137
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_human_engineer\"]/powerEffect/tooltip"
+msgstr ""
+"[クールダウン:25秒]\n"
+"\t\t\t\t修理はできるが戦闘や妨害はできない一時的なドローンアシスタントを生成する。25秒間持続。"
+
+#: src-en/data/hyperspace.xml.append:190
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_human_commander\"]/powerEffect/buttonText"
+msgstr "ウォークライ"
+
+#: src-en/data/hyperspace.xml.append:191
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_human_commander\"]/powerEffect/tooltip"
+msgstr ""
+"[クールダウン:25秒]\n"
+"\t\t\t\t同室の味方ヒューマン全員が強化され、他の全ての種族は所属に関わらず弱体化する。"
+
+#: src-en/data/hyperspace.xml.append:305
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_vance\"]/powerEffect/buttonText"
+msgstr "クローク"
+
+#: src-en/data/hyperspace.xml.append:306
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"emv_mv_vance\"]/powerEffect/tooltip"
+msgstr "一時的に操作不能になるが、非常に速く回復する。ターゲットにされない"
+
+#: src-en/data/hyperspace.xml.append:399
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"unique_emv_mortis\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:400
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"unique_emv_mortis\"]/powerEffect/tooltip"
+msgstr ""
+"[クールダウン:20秒 持続時間:10秒]\n"
+"\t\t\t\t移動速度を3.5倍、クルーダメージを5倍に増加させ、持続時間中は修理できなくなり、敵の回復を妨害する。"
+
+#: src-en/data/hyperspace.xml.append:457
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"unique_emv_vitae\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:458
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"unique_emv_vitae\"]/powerEffect/tooltip"
+msgstr ""
+"[クールダウン:20秒 持続時間:10秒]\n"
+"\t\t\t味方クルーを毎秒7.5HP回復させる医療フェロモンを放出する"
+
+#: src-en/data/hyperspace.xml.append:563
+msgid "data/hyperspace.xml.append$//slug_ranger[@name=\"Bob\"]/@name"
+msgstr "ボブ"
+
+#: src-en/data/hyperspace.xml.append:884
+msgid "data/hyperspace.xml.append$//unique_obyn[@name=\"Obyn\"]/@name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1010
+msgid "data/hyperspace.xml.append$//emv_mv_vance[@name=\"Vance\"]/@name"
+msgstr "ヴァンス"
+
+#: src-en/data/hyperspace.xml.append:1011
+msgid "data/hyperspace.xml.append$//emv_mv_leah[@name=\"Leah\"]/@name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1073
+msgid "data/hyperspace.xml.append$//unique_emv_mortis[@name=\"Mortis\"]/@name"
+msgstr "モーティス"
+
+#: src-en/data/hyperspace.xml.append:1095
+msgid "data/hyperspace.xml.append$//unique_emv_vitae[@name=\"Vitae\"]/@name"
+msgstr "ヴィータエ"
+
+#: src-en/data/hyperspace.xml.append:1430
+msgid ""
+"data/hyperspace.xml.append$//statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
+msgstr "スラッシュ"
+
+#: src-en/data/hyperspace.xml.append:1431
+msgid ""
+"data/hyperspace.xml.append$//statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
+msgstr ""
+"[クールダウン:20秒]\n"
+"\t\t\t\t\t\t同室の敵クルー全員に15ダメージを与える。"
+
+#: src-en/data/hyperspace.xml.append:1773
+msgid "data/hyperspace.xml.append$//unique_leah_mfk[@name=\"Leah\"]/@name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1836
+msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Sylvan\"]/@name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1872
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
+"append:shipIcon[1]/tooltip"
+msgstr ""
+"[style[color:ffb045]]金[[/style]][style[color:ffbd64]]色[[/style]][style[color:ffd780]]の脅[[/style]][style[color:ffc369]]威：[[/style]]\n"
+"[style[color:ffb045]]我々[[/style]][style[color:ffbd64]]に[[/style]][style[color:ffd780]]お前[[/style]][style[color:ffc369]]の力を見せろ！[[/style]]"
+
+#: src-en/data/hyperspace.xml.append:1877
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
+"append:shipIcon[2]/tooltip"
+msgstr ""
+"[style[color:ffb045]]金[[/style]][style[color:ffbd64]]色[[/style]][style[color:ffd780]]のシ[[/style]][style[color:ffc369]]ールド：[[/style]]\n"
+"[style[color:ffbd64]]古の力により我々のシールドは他を凌駕し、10のヒットポイントを与えられ、放置されれば再充電される…[[/style]]"
+
+#: src-en/data/hyperspace.xml.append:1882
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
+"append:shipIcon[3]/tooltip"
+msgstr ""
+"[style[color:ffb045]]金[[/style]][style[color:ffbd64]]色[[/style]][style[color:ffd780]]の兵[[/style]][style[color:ffc369]]器：[[/style]]\n"
+"[style[color:ffd780]]純粋な神話の力が我々の兵器に流れ込み、チャージ時間を短縮する！[[/style]]"
+
+#: src-en/data/hyperspace.xml.append:1887
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
+"append:shipIcon[4]/tooltip"
+msgstr ""
+"[style[color:ffb045]]金[[/style]][style[color:ffbd64]]色[[/style]][style[color:ffd780]]の再生[[/style]][style[color:ffc369]]装甲：[[/style]]\n"
+"[style[color:ffd780]]この装甲を貫くのは至難の業だ！船体およびシステムへの25%の耐性と自動修理機能を備えている！[[/style]]"
+
+#: src-en/data/hyperspace.xml.append:1892
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
+"append:shipIcon[5]/tooltip"
+msgstr ""
+"[style[color:ffb045]]金[[/style]][style[color:ffbd64]]色[[/style]][style[color:ffd780]]の神性[[/style]][style[color:ffc369]]装甲：[[/style]]\n"
+"[style[color:ffd780]]この装甲を貫くのは至難の業だ！船体およびシステムへの25%の耐性と自動修理機能を備えている！[[/style]]"
+
+#: src-en/data/hyperspace.xml.append:1897
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
+"append:shipIcon[6]/tooltip"
+msgstr ""
+"[style[color:ffb045]]金[[/style]][style[color:ffbd64]]色[[/style]][style[color:ffd780]]のメド[[/style]][style[color:ffc369]]ボット：[[/style]]\n"
+"[style[color:ffc369]]このメドボットは、クルーを医療室の外で回復させるだけでなく、追加のヘルス、ダメージ、速度を与える…[[/style]]"
+
+#: src-en/data/hyperspace.xml.append:1902
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
+"append:shipIcon[7]/tooltip"
+msgstr ""
+"[style[color:ffb045]]金[[/style]][style[color:ffbd64]]色[[/style]][style[color:ffd780]]のメド[[/style]][style[color:ffc369]]ボット：[[/style]]\n"
+"[style[color:ffc369]]船体亀裂だけでなくシステムも修理する、言葉では言い表せないゲル…[[/style]]"
+
+#: src-en/data/hyperspace.xml.append:1946
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[1]/customTitle"
+msgstr "レーザー"
+
+#: src-en/data/hyperspace.xml.append:1964
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[2]/customTitle"
+msgstr "ビーム"
+
+#: src-en/data/hyperspace.xml.append:1982
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[3]/customTitle"
+msgstr "イオン"
+
+#: src-en/data/hyperspace.xml.append:2000
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[4]/customTitle"
+msgstr "ジャンクガン"
+
+#: src-en/data/hyperspace.xml.append:2018
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[5]/customTitle"
+msgstr "ドローン"
+
+#: src-en/data/hyperspace.xml.append:2036
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[6]/customTitle"
+msgstr "必須システム"
+
+#: src-en/data/hyperspace.xml.append:2054
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[7]/customTitle"
+msgstr "補助システム"
+
+#: src-en/data/hyperspace.xml.append:2072
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[8]/customTitle"
+msgstr "戦利品"
+
+#: src-en/data/hyperspace.xml.append:2090
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[1]/category[9]/customTitle"
+msgstr "戦利品"
+
+#: src-en/data/hyperspace.xml.append:2127
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[1]/customTitle"
+msgstr "本日の兵器 [33% OFF]"
+
+#: src-en/data/hyperspace.xml.append:2147
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[2]/customTitle"
+msgstr "本日のドローン [33% OFF]"
+
+#: src-en/data/hyperspace.xml.append:2167
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[3]/customTitle"
+msgstr "本日の増強 [33% OFF]"
+
+#: src-en/data/hyperspace.xml.append:2207
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[7]/customTitle"
+msgstr "乗組員 [厳選]"
+
+#: src-en/data/hyperspace.xml.append:2221
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[8]/customTitle"
+msgstr "必須システム"
+
+#: src-en/data/hyperspace.xml.append:2239
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[9]/customTitle"
+msgstr "補助システム"
+
+#: src-en/data/hyperspace.xml.append:2257
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
+"append:customStore[2]/category[10]/customTitle"
+msgstr "兵器 [厳選]"
+
+#: src-en/data/hyperspace.xml.append:2296
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/mod:findLike[8]/mod-"
+"append:page/section/@text"
+msgstr "EMVサウンドトラック"

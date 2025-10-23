@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_morality.xml.append:2
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_UPDATE_EMV_RENEGADES_GENERAL\"]/text"
+msgstr ""
+"[悪評増加 - 反逆者]\n"
+"\tここでのあなたの行動は、正当化できるかどうかにかかわらず、MVPMCやその職員の目には良く映らないだろう。このような行動を続けると、MVPMCとその顧客から否定的な反応が見られ始めるかもしれない。"
+
+#: src-en/data/events_special_morality.xml.append:7
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_UPDATE_EMV_RENEGADES_DOUBLE\"]/text"
+msgstr ""
+"[悪評増加X2 - 反逆者]\n"
+"\tここでのあなたの行動は、正当化できるかどうかにかかわらず、MVPMCやその職員の目には良く映らないだろう。このような行動を続けると、MVPMCとその顧客から否定的な反応が見られ始めるかもしれない。\n"
+"\tあなたの特にひどい行動により、悪評が2倍に増加した。"
+
+#: src-en/data/events_special_morality.xml.append:13
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_UPDATE_EMV_RENEGADES_FIGHT\"]/text"
+msgstr ""
+"[悪評増加 - 反逆者]\n"
+"\tここでのあなたの行動は、正当化できるかどうかにかかわらず、MVPMCやその職員の目には良く映らないだろう。このような行動を続けると、MVPMCとその顧客から否定的な反応が見られ始めるかもしれない。"
+
+#: src-en/data/events_special_morality.xml.append:17
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_UPDATE_EMV_RENEGADES_FIGHT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:23
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_UPDATE_EMV_RENEGADES_DOUBLE_FIGHT\"]/text"
+msgstr ""
+"[悪評増加X2 - 反逆者]\n"
+"\tここでのあなたの行動は、正当化できるかどうかにかかわらず、MVPMCやその職員の目には良く映らないだろう。このような行動を続けると、MVPMCとその顧客から否定的な反応が見られ始めるかもしれない。\n"
+"\tあなたの特にひどい行動により、悪評が2倍に増加した。"
+
+#: src-en/data/events_special_morality.xml.append:28
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_UPDATE_EMV_RENEGADES_DOUBLE_FIGHT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:34
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_REMOVE_EMV_RENEGADES_GENERAL\"]/text"
+msgstr ""
+"[悪評減少 - 反逆者]\n"
+"\tあなたはここでMVPMCの目にかなう善行を行った。過去の他の行動で悪評を得ていた場合、それらが許される可能性が高くなる。"
+
+#: src-en/data/events_special_morality.xml.append:40
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_REMOVE_EMV_RENEGADES_FIGHT\"]/text"
+msgstr ""
+"[悪評減少 - 反逆者]\n"
+"\tあなたはここでMVPMCの目にかなう善行を行った。過去の他の行動で悪評を得ていた場合、それらが許される可能性が高くなる。"
+
+#: src-en/data/events_special_morality.xml.append:44
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_REMOVE_EMV_RENEGADES_FIGHT\"]/choice/text"
+msgstr ""

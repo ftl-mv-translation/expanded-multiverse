@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_misc.xml.append:1
+msgid "data/text_misc.xml.append$//text[@name=\"emv_credits_gilded_tier1\"]"
+msgstr ""
+"雲を抜けて上昇すると、不完全な感覚に襲われる…もっと先へ行けたはずだ。もっと[style[color:ffb045]]多[[/style]][style[color:ffbd64]]く[[/style]][style[color:ffd780]]の[[/style]][style[color:ffc369]]こと…[[/style]]ができたはずだ。"

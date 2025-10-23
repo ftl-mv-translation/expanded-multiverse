@@ -1,0 +1,1294 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:4
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/desc"
+msgstr ""
+"エリートヒューマンのクルー。オールド・グローリーに仕えるべく訓練された、熟練にして命知らずのローグクルー。\n"
+"\t\n"
+"\t継承ヒューマンステータス：軽度の窒息耐性"
+
+#: src-en/data/blueprints.xml.append:8
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/title"
+msgstr "ローグ傭兵"
+
+#: src-en/data/blueprints.xml.append:9
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/short"
+msgstr "傭兵"
+
+#: src-en/data/blueprints.xml.append:12
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[1]"
+msgstr "アクティブアビリティ：素早いナイフの一閃で、出血デバフを与える。"
+
+#: src-en/data/blueprints.xml.append:13
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[2]"
+msgstr "クルー戦闘で1.1倍のダメージを与える。"
+
+#: src-en/data/blueprints.xml.append:14
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[3]"
+msgstr "クルー戦闘で0.9倍、火災で0.6倍のダメージを受ける。"
+
+#: src-en/data/blueprints.xml.append:15
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[4]"
+msgstr "スキルの習熟が非常に速い。"
+
+#: src-en/data/blueprints.xml.append:20
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/desc"
+msgstr "スーパーエリートヒューマンのクルー。エースとしての訓練を受けており、獲物の士気すら打ち砕き、格好の的に変える。"
+
+#: src-en/data/blueprints.xml.append:22
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/title"
+msgstr "ローグコマンダー"
+
+#: src-en/data/blueprints.xml.append:23
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/short"
+msgstr "コマンダー"
+
+#: src-en/data/blueprints.xml.append:26
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[1]"
+msgstr "アクティブアビリティ：轟く鬨の声を上げ、味方のヒューマンクルーを強化すると同時に、ヒューマン以外の全クルーの士気を打ち砕く。"
+
+#: src-en/data/blueprints.xml.append:27
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[2]"
+msgstr "クルー戦闘で1.8倍のダメージを与える。"
+
+#: src-en/data/blueprints.xml.append:28
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[3]"
+msgstr "2倍の速さでシステムを妨害する。"
+
+#: src-en/data/blueprints.xml.append:29
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[4]"
+msgstr "クルー戦闘、火災、窒息で0.7倍のダメージを受ける。"
+
+#: src-en/data/blueprints.xml.append:30
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[5]"
+msgstr "レベル2のスキルを習得済み。"
+
+#: src-en/data/blueprints.xml.append:35
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/desc"
+msgstr "マルチバース・ローグ艦隊のヴァンス提督。犯罪者のようなものだ。"
+
+#: src-en/data/blueprints.xml.append:37
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/title"
+msgstr "ローグ提督"
+
+#: src-en/data/blueprints.xml.append:38
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/short"
+msgstr "ローグ提督"
+
+#: src-en/data/blueprints.xml.append:41
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[1]"
+msgstr "最大ヘルスが150に増加。"
+
+#: src-en/data/blueprints.xml.append:42
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[2]"
+msgstr "0.6倍の速さで移動する。"
+
+#: src-en/data/blueprints.xml.append:43
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[3]"
+msgstr "クルー戦闘で2倍のダメージを与え、2.2倍の速さで妨害する。"
+
+#: src-en/data/blueprints.xml.append:44
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[4]"
+msgstr "ハザードから受けるダメージが半分になる。"
+
+#: src-en/data/blueprints.xml.append:45
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[5]"
+msgstr "15秒間ダメージを受けないと、自己治療を行い毎秒3.2HP回復する。"
+
+#: src-en/data/blueprints.xml.append:46
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[6]"
+msgstr "レベル2のスキルを習得済み。"
+
+#: src-en/data/blueprints.xml.append:47
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[7]"
+msgstr "マインドコントロールに耐性がある。"
+
+#: src-en/data/blueprints.xml.append:48
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[8]"
+msgstr "HPが30になるとクロークし、一時的に操作不能になるが、急速に回復する。ターゲットにされない。"
+
+#: src-en/data/blueprints.xml.append:49
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[9]"
+msgstr "純粋な異種族嫌悪により、同室の味方ヒューマンが強化され、与ダメージ1.25倍、ヘルス1.1倍、修理速度1.2倍になる。"
+
+#: src-en/data/blueprints.xml.append:54
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/desc"
+msgstr "悪名高きビームマスター。どうやらマルチバース・ローグ艦隊の右腕的存在のようだ。"
+
+#: src-en/data/blueprints.xml.append:56
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/title"
+msgstr "ビームマスター"
+
+#: src-en/data/blueprints.xml.append:57
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/short"
+msgstr "ビームマスター"
+
+#: src-en/data/blueprints.xml.append:60
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[1]"
+msgstr "クルー戦闘で1.4倍のダメージを与える。"
+
+#: src-en/data/blueprints.xml.append:61
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[2]"
+msgstr "1.5倍の速さでシステムを妨害する。"
+
+#: src-en/data/blueprints.xml.append:62
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[3]"
+msgstr "クルー戦闘、火災、窒息で0.7倍のダメージを受ける。"
+
+#: src-en/data/blueprints.xml.append:63
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[4]"
+msgstr "レベル1のスキルを習得済み。"
+
+#: src-en/data/blueprints.xml.append:64
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[5]"
+msgstr "どの船にもテレポートできる。"
+
+#: src-en/data/blueprints.xml.append:69
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/desc"
+msgstr ""
+"エリート衛生兵クルー。マルチバースの犯罪者の味方だが、戦闘的ではなく、異星人の治療にも熱心ではない。\n"
+"\n"
+"\t継承ヒューマンステータス：軽度の危険ダメージ耐性、非戦闘スキルの習熟が速い"
+
+#: src-en/data/blueprints.xml.append:73
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/title"
+msgstr "ローグメディック"
+
+#: src-en/data/blueprints.xml.append:74
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:77
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[1]"
+msgstr "アクティブアビリティ：近くの味方全員を15HP回復し、一時的に被ダメージを半減させる。"
+
+#: src-en/data/blueprints.xml.append:78
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[2]"
+msgstr "15秒間ダメージを受けないと、毎秒3.2HP回復する。"
+
+#: src-en/data/blueprints.xml.append:79
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[3]"
+msgstr "全てのヒューマンクルーが毎秒2HP回復する。"
+
+#: src-en/data/blueprints.xml.append:80
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[4]"
+msgstr "クルー戦闘での与ダメージが半分になり、戦闘スキルの習熟が遅い。"
+
+#: src-en/data/blueprints.xml.append:96
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/desc"
+msgstr ""
+"エリートエンジニアクルー。腕力を戦闘に、ドローンを修理に転用した熟練のエンジニア。\n"
+"\n"
+"\t継承ヒューマンステータス：軽度の窒息耐性、スキルの習熟が速い"
+
+#: src-en/data/blueprints.xml.append:100
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/title"
+msgstr "ローグエンジニア"
+
+#: src-en/data/blueprints.xml.append:101
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/short"
+msgstr "エンジニア"
+
+#: src-en/data/blueprints.xml.append:104
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[1]"
+msgstr "アクティブアビリティ：25秒間持続するリペア・ドローンを召喚する。"
+
+#: src-en/data/blueprints.xml.append:105
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[2]"
+msgstr "修理速度0.25倍。"
+
+#: src-en/data/blueprints.xml.append:106
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[3]"
+msgstr "戦闘ダメージ1.5倍。"
+
+#: src-en/data/blueprints.xml.append:107
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[4]"
+msgstr "火災から受けるダメージが0.6倍になる。"
+
+#: src-en/data/blueprints.xml.append:108
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[5]"
+msgstr "修理の習熟がさらに速い。"
+
+#: src-en/data/blueprints.xml.append:134
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/desc"
+msgstr ""
+"元ビショップで女王の近衛兵の一員であり、現在は最高のマンティス賞金稼ぎ。ヴィクトリア朝時代の服装を深く愛好している。\n"
+"\n"
+"\t継承ビショップステータス：移動速度1.65倍、修理速度0.07倍。"
+
+#: src-en/data/blueprints.xml.append:137
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/title"
+msgstr "マンティス・バウンティマスター"
+
+#: src-en/data/blueprints.xml.append:138
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/short"
+msgstr "バウンティマスター"
+
+#: src-en/data/blueprints.xml.append:142
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[1]"
+msgstr "アクティブアビリティ：フェロモン爆弾を展開し、自身の戦闘ダメージを大幅に増加させ、敵の回復を妨害する。"
+
+#: src-en/data/blueprints.xml.append:143
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[2]"
+msgstr "戦闘ダメージ2.5倍。クルー戦闘で受けるダメージが0.6倍になる。"
+
+#: src-en/data/blueprints.xml.append:144
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[3]"
+msgstr "ヘルスが125に増加。"
+
+#: src-en/data/blueprints.xml.append:145
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[4]"
+msgstr "窒息に免疫があり、火災から受けるダメージが半分になる。"
+
+#: src-en/data/blueprints.xml.append:150
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/desc"
+msgstr ""
+"医療行為に秀でた、珍しく博識な元マンティスウォーロード。しかし、容赦なくあなたを打ちのめすだろう。健康と医学を中心としたヒューマン文化の熱心な愛好家。\n"
+"\n"
+"\t継承ウォーロードステータス：クルー戦闘での被ダメージ0.8倍、修理速度0.5倍。"
+
+#: src-en/data/blueprints.xml.append:153
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/title"
+msgstr "マンティス・ドクター"
+
+#: src-en/data/blueprints.xml.append:154
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/short"
+msgstr "ドクター"
+
+#: src-en/data/blueprints.xml.append:158
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[1]"
+msgstr "アクティブアビリティ：医療フェロモンを放出し、味方クルーを毎秒7.5HP回復する。"
+
+#: src-en/data/blueprints.xml.append:159
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[2]"
+msgstr "戦闘ダメージが1.4倍に増加。"
+
+#: src-en/data/blueprints.xml.append:160
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[3]"
+msgstr "ヘルスが110に増加。"
+
+#: src-en/data/blueprints.xml.append:166
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/class"
+msgstr "MVオートクルーザー"
+
+#: src-en/data/blueprints.xml.append:167
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/name"
+msgstr "ワールウィンド"
+
+#: src-en/data/blueprints.xml.append:168
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/desc"
+msgstr "反乱軍によるマルチバース航行の先駆けの一つ。この再プログラムされた自動化船は、ほぼ完成された凶悪な戦争機械である。"
+
+#: src-en/data/blueprints.xml.append:245
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/class"
+msgstr "MV連合クルーザー"
+
+#: src-en/data/blueprints.xml.append:246
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/name"
+msgstr "ビルグス・ラトロ"
+
+#: src-en/data/blueprints.xml.append:247
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/desc"
+msgstr ""
+"ハイヴ、神権国、窃盗政治国、そしてイヤージェン共和国の悪名高き指導者たちによって連合の結成が合意された。彼らの目的は単純明快。現実を超えてでも、敵を打ち破ることだ。"
+
+#: src-en/data/blueprints.xml.append:324
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/class"
+msgstr "MVカダヘリアンクルーザー"
+
+#: src-en/data/blueprints.xml.append:325
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/name"
+msgstr "バイオエタノール"
+
+#: src-en/data/blueprints.xml.append:326
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/desc"
+msgstr ""
+"ついに意見の相違を乗り越えたフローラルとヴァンプウィードは、意外な同盟者と共にこの船でドライブに出かけることにした。かつての理想を捨てることで利益が得られるとは、彼らも予想していなかった。"
+
+#: src-en/data/blueprints.xml.append:485
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/class"
+msgstr "MV連邦オートクルーザー"
+
+#: src-en/data/blueprints.xml.append:486
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/name"
+msgstr "ルノホート"
+
+#: src-en/data/blueprints.xml.append:487
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/desc"
+msgstr ""
+"武装の整ったマルチバース船の不足を補うための連邦による最後の試み。元々は研究用に作られたが、そのピンポイントセンサーの精度と相まって、急遽戦闘用に改装された。"
+
+#: src-en/data/blueprints.xml.append:565
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/class"
+msgstr "MVエンジェリック・デスブリンガー"
+
+#: src-en/data/blueprints.xml.append:566
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/name"
+msgstr "ラファエル"
+
+#: src-en/data/blueprints.xml.append:567
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/desc"
+msgstr ""
+"ヴェールはマルチバース航行の急増を耳にすると、現実を超えて事業を拡大するのに時間を無駄にしなかった。このキラーシップは、彼の試みに最適な候補だった。"
+
+#: src-en/data/blueprints.xml.append:643
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/class"
+msgstr "MVフリーマンティス・クルーザー"
+
+#: src-en/data/blueprints.xml.append:644
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/name"
+msgstr "スターダスト"
+
+#: src-en/data/blueprints.xml.append:645
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/desc"
+msgstr ""
+"どういうわけか、フリーマンティスがどのようなフェロモン中毒に陥っていようとも、彼らがマルチバース用の船を手に入れるのを止めることはできなかった。この船はフリーマンティスの原始的な力、そしてハイヴとゾルタンへの憎悪の好例である。"
+
+#: src-en/data/blueprints.xml.append:722
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/class"
+msgstr "MV民兵クルーザー"
+
+#: src-en/data/blueprints.xml.append:723
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/name"
+msgstr "マーシャル"
+
+#: src-en/data/blueprints.xml.append:724
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/desc"
+msgstr "民兵の信頼できるマルチバース防衛者の一人。この巨大な軍艦は、いかなる現実のユニオンセクターをも望まざる侵入者から守るのに適している。"
+
+#: src-en/data/blueprints.xml.append:806
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/class"
+msgstr "MVゾルタンクルーザー"
+
+#: src-en/data/blueprints.xml.append:807
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/name"
+msgstr "ゼロポイント"
+
+#: src-en/data/blueprints.xml.append:808
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/desc"
+msgstr "ルゥメイ大臣の命令に従い、ゾルタン省はマルチバースへとその範囲を広げ、その驚異と脅威を解き明かすことを決定した。"
+
+#: src-en/data/blueprints.xml.append:884
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/class"
+msgstr "MVリパブリカンクルーザー"
+
+#: src-en/data/blueprints.xml.append:885
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/name"
+msgstr "ティラノブデラ"
+
+#: src-en/data/blueprints.xml.append:886
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/desc"
+msgstr ""
+"連邦回収チームは、MV航行目的に装備されたリパブリカンクルーザーの未使用の設計図をいくつか解明することに成功した。このクルーザーは、失われたイヤージェン共和国の栄光に恥じないものだ。"
+
+#: src-en/data/blueprints.xml.append:963
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/class"
+msgstr "MVロストサン・クルーザー"
+
+#: src-en/data/blueprints.xml.append:964
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/name"
+msgstr "ソジャーナー"
+
+#: src-en/data/blueprints.xml.append:965
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/desc"
+msgstr ""
+"神権国による数え切れないほどの追跡の試みのため、ロストサン・コマンドスは、現実を超えた自分たち自身の戦いで、残酷な同胞と衝突する以外に選択肢はなかった。"
+
+#: src-en/data/blueprints.xml.append:1043
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/class"
+msgstr "代替MVフラッグシップ"
+
+#: src-en/data/blueprints.xml.append:1044
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/name"
+msgstr "ラプトゥーラ・レアリタティス"
+
+#: src-en/data/blueprints.xml.append:1045
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/desc"
+msgstr ""
+"過去に囚われ、それにしがみついたこの船のヴァンスは、自身の敗北の一つへのオマージュとして、そして敵が直面するであろう力として、この船を特別に建造した。"
+
+#: src-en/data/blueprints.xml.append:1116
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/class"
+msgstr "代替MV反乱軍クルーザー"
+
+#: src-en/data/blueprints.xml.append:1117
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/name"
+msgstr "コロンブス"
+
+#: src-en/data/blueprints.xml.append:1118
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/desc"
+msgstr ""
+"マルチバース航行に耐えるように設計された、知られている中で最も古いモデルの反乱軍船。この船は新しいモデルよりは弱いが、そのガトリング砲は依然として強力な一撃を放つ。"
+
+#: src-en/data/blueprints.xml.append:1196
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/class"
+msgstr "MV神権国クルーザー"
+
+#: src-en/data/blueprints.xml.append:1197
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/name"
+msgstr "コバルト・インクイジター"
+
+#: src-en/data/blueprints.xml.append:1198
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/desc"
+msgstr ""
+"回収チームは、このクルーザーの本来の目的は現実を超えてアウトキャストを追い詰めることだったと示唆している。その血塗られた過去にもかかわらず、それは依然として強力で耐久性のある船だ。"
+
+#: src-en/data/blueprints.xml.append:1274
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/class"
+msgstr "MVヘクター・クルーザー(tm)"
+
+#: src-en/data/blueprints.xml.append:1275
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/name"
+msgstr "延長保証"
+
+#: src-en/data/blueprints.xml.append:1276
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/desc"
+msgstr ""
+"ビリー・ヘクターが事業拡大のアイデアを考えていたとき、彼は自分の現実をはるかに超えることなど考えてもいなかった。謎めいた兄の足跡を追い、彼は従業員を残業(tm)地獄に突き落とすことを決めた。"
+
+#: src-en/data/blueprints.xml.append:1354
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/class"
+msgstr "MVビショップ・クルーザー"
+
+#: src-en/data/blueprints.xml.append:1355
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/name"
+msgstr "ザ・ウェットストーン"
+
+#: src-en/data/blueprints.xml.append:1356
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/desc"
+msgstr ""
+"レイコンプリーナクラ女王を守るという本来の任務にもかかわらず、このビショップのタスクフォースは、ハイヴの支配を強化するために、女王自身から特別に命令された。"
+
+#: src-en/data/blueprints.xml.append:1510
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/class"
+msgstr "代替MVエンフォーサー・クルーザー"
+
+#: src-en/data/blueprints.xml.append:1511
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/name"
+msgstr "ブルータス"
+
+#: src-en/data/blueprints.xml.append:1512
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/desc"
+msgstr ""
+"元々は反乱軍のMV艦隊の一つに所属していた。このクルーザーはその艦隊を脱走し、MVエンフォーサー部隊に加わったが、この軍艦のパイロットは標準仕様のMVエンフォーサー・クルーザーと交換することを拒否した。"
+
+#: src-en/data/blueprints.xml.append:1589
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/class"
+msgstr "MVパラディン・クルーザー"
+
+#: src-en/data/blueprints.xml.append:1590
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/name"
+msgstr "ヴァリャーグ"
+
+#: src-en/data/blueprints.xml.append:1591
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/desc"
+msgstr ""
+"この船に乗っているパラディンクルーは、ヌマVの襲撃から離反し脱出した。彼らは神権国にとって無法者だが、この巨大な戦艦があれば、今や失うものは何もない。"
+
+#: src-en/data/blueprints.xml.append:1667
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/class"
+msgstr "MVスプークチェイサー・クルーザー"
+
+#: src-en/data/blueprints.xml.append:1668
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/name"
+msgstr "バートン"
+
+#: src-en/data/blueprints.xml.append:1669
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/desc"
+msgstr "この凶悪な船の設計者は、数え切れないほどの不運な反逆者の旅行者の命を奪い、大物を仕留めるまで止まらないだろう。"
+
+#: src-en/data/blueprints.xml.append:1744
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/class"
+msgstr "MVラニアス・クルーザー"
+
+#: src-en/data/blueprints.xml.append:1745
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/name"
+msgstr "Cr-24-G6-P4"
+
+#: src-en/data/blueprints.xml.append:1746
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/desc"
+msgstr "ラニアスがどのようにしてMV技術を手に入れたかは不明だが、回収チームは、彼らが数人の不運な旅行者を食べたのではないかと推測している。"
+
+#: src-en/data/blueprints.xml.append:1824
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/class"
+msgstr "MVイノベーション・クルーザー"
+
+#: src-en/data/blueprints.xml.append:1825
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/name"
+msgstr "P.U.R.E."
+
+#: src-en/data/blueprints.xml.append:1826
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/desc"
+msgstr ""
+"どういうわけか、反乱軍製のC.I.C.A. "
+"A.Iは、この秘密のMVクラスクルーザーに自身を移行させることを決定し、まだ理解されていない隠された動機を誇示している。"
+
+#: src-en/data/blueprints.xml.append:1901
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/class"
+msgstr "MVダスクブリンガー・クルーザー"
+
+#: src-en/data/blueprints.xml.append:1902
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/name"
+msgstr "ファズボール"
+
+#: src-en/data/blueprints.xml.append:1903
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/desc"
+msgstr ""
+"どういうわけか、ダスクブリンガーたちは貴重な技術を持ち出し、反逆者として働くことにした。彼らの大義は揺らいだのか？誰にもわからないが、わかっているのは彼らの船が冗談ではないということだけだ！"
+
+#: src-en/data/blueprints.xml.append:1979
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/class"
+msgstr "MVハイヴ・クルーザー"
+
+#: src-en/data/blueprints.xml.append:1980
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/name"
+msgstr "コモドエンシス"
+
+#: src-en/data/blueprints.xml.append:1981
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/desc"
+msgstr ""
+"ハイヴの影響力を拡大し、フリーマンティスのコロニーを探し出して破壊するというレイコンプリーナクラ女王の計画の一環として、彼女は最高のマンティス船の一つに、現実を超えてでもその任務を遂行できるよう装備を施すよう命じた。"
+
+#: src-en/data/blueprints.xml.append:2058
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/class"
+msgstr "MVソディウム・クルーザー"
+
+#: src-en/data/blueprints.xml.append:2059
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/name"
+msgstr "ザ・スーレーン"
+
+#: src-en/data/blueprints.xml.append:2060
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/desc"
+msgstr ""
+"スラグ族全体を無料で嫌がらせするのに飽きた伝説のソルトマンは、スラグへの嫌がらせやその他の汚い仕事で報酬を得るためにMVPMCの仲間入りをすることに決めた。"
+
+#: src-en/data/blueprints.xml.append:2211
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/class"
+msgstr "MVプロトタイプ・クルーザー"
+
+#: src-en/data/blueprints.xml.append:2212
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/name"
+msgstr "ヴェイン"
+
+#: src-en/data/blueprints.xml.append:2213
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/desc"
+msgstr ""
+"この船の性質にもかかわらず、それには矛盾した感情が伴う。どの海賊もそれから隠れることはできず、どの民間人も容易にそれを撃退することはできない。"
+
+#: src-en/data/blueprints.xml.append:2289
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/class"
+msgstr "MVカルティベーター・クルーザー"
+
+#: src-en/data/blueprints.xml.append:2290
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/name"
+msgstr "CRISPR"
+
+#: src-en/data/blueprints.xml.append:2291
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/desc"
+msgstr ""
+"連合首相アイヴァーは、オロバチェ・ヴァンプウィードにより強力な後ろ盾を与えることを期待して、彼のエリート・カルティベーターたちに現実世界を偵察するよう命じた。"
+
+#: src-en/data/blueprints.xml.append:2369
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/class"
+msgstr "MV MFKクルーザー・エース"
+
+#: src-en/data/blueprints.xml.append:2370
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/name"
+msgstr "ソルダ・エトランジェ"
+
+#: src-en/data/blueprints.xml.append:2371
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/desc"
+msgstr ""
+"マルチバース航行における多くの成功した試みの結果。このエースクルーザーは、クルーが敵船を近接戦闘で引き裂く間、自己操縦するのに非常に適している。"
+
+#: src-en/data/blueprints.xml.append:2450
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/class"
+msgstr "モーティスのクルーザー"
+
+#: src-en/data/blueprints.xml.append:2451
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/name"
+msgstr "アレスケンテーム・ローザ"
+
+#: src-en/data/blueprints.xml.append:2452
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/desc"
+msgstr "外見は敵を容易に引き裂く獣だが、内面にはコーヒーと特別な誰かを愛する非常に熱狂的な殺人鬼がいる。"
+
+#: src-en/data/blueprints.xml.append:2523
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/class"
+msgstr "ヴィータエのクルーザー"
+
+#: src-en/data/blueprints.xml.append:2524
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/name"
+msgstr "ローザ・ウィリディス"
+
+#: src-en/data/blueprints.xml.append:2525
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/desc"
+msgstr ""
+"このクルーザーの魅力的な色合いは、明晰さと平和の雰囲気を与えている。それは主に、多かれ少なかれ、愛によって、あるいはそのドクターの爪によって、あなたを殺すであろう携帯クリニック兼スパだからだ。"
+
+#: src-en/data/blueprints.xml.append:2596
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_MORTIS_PHEROMONES\"]/title"
+msgstr "枯れたフェロモン"
+
+#: src-en/data/blueprints.xml.append:2597
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_MORTIS_PHEROMONES\"]/desc"
+msgstr ""
+"モーティスが個人的に調合したフェロモンの混合物。様々な猛毒と致死量のカフェインが混ぜられ、空気を死のカフェのような匂いで満たす。\n"
+"\t\n"
+"\t生命維持装置のパワーレベル1ごとに、敵はヘルスが10%、移動速度が5%減少するデバフを受ける。\n"
+"\n"
+"\t完全にパワーアップしたレベル4の生命維持システムは、敵があなたの船に乗っている間にダメージを受け、敵船でダメージを受けると腐敗のような効果を得る原因となる。\n"
+"\t味方のマンティスクルーは、生命維持装置のパワー1ごとに1.1倍のダメージ倍率を与えられる。"
+
+#: src-en/data/blueprints.xml.append:2609
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_VITAE_PHEROMONES\"]/title"
+msgstr "開花するフェロモン"
+
+#: src-en/data/blueprints.xml.append:2610
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_VITAE_PHEROMONES\"]/desc"
+msgstr ""
+"ヴィータエが特別に調合した医療フェロモンの混合物。最も怒り狂ったエクイノイドでさえも鎮静させ、リラックスした眠りへと誘うことができる芳香性のハーブと治療薬で満たされている。\n"
+"\t\n"
+"\t医療室と生命維持システムの両方のパワーレベルに応じて、味方クルーに船を越えた回復を提供する。\n"
+"\t生命維持装置のパワーレベル1ごとに、味方クルーはヘルス、修理速度、移動速度に1.1倍の倍率を得る。"
+
+#: src-en/data/blueprints.xml.append:2620
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PERMISSION\"]/title"
+msgstr "EMV許可"
+
+#: src-en/data/blueprints.xml.append:2621
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PERMISSION\"]/desc"
+msgstr "MVフラッグシップを動作させるためのもので、これは表示されるべきではありません"
+
+#: src-en/data/blueprints.xml.append:2628
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AI_SCANNER\"]/title"
+msgstr "先進ナビゲーター"
+
+#: src-en/data/blueprints.xml.append:2629
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AI_SCANNER\"]/desc"
+msgstr "周囲のビーコンの詳細を明らかにし、オートシップが以前に訪れたどのビーコンへもジャンプできるようにする。"
+
+#: src-en/data/blueprints.xml.append:2636
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PREPERATION\"]/title"
+msgstr "先進航行AI"
+
+#: src-en/data/blueprints.xml.append:2637
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PREPERATION\"]/desc"
+msgstr ""
+"周囲のビーコンの詳細を明らかにし、オートシップが以前に訪れたどのビーコンへもジャンプできるようにする。船に基本的なオートシップ機能を与える。"
+
+#: src-en/data/blueprints.xml.append:2644
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AUTOMATION\"]/title"
+msgstr "先進反乱AI"
+
+#: src-en/data/blueprints.xml.append:2645
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AUTOMATION\"]/desc"
+msgstr ""
+"先進反乱AIが船を完全に制御した！周囲のビーコンの詳細を明らかにし、オートシップが以前に訪れたどのビーコンへもジャンプできるようにする。船に完全なオートシップ機能を与え、酸素生成を無効にする。"
+
+#: src-en/data/blueprints.xml.append:2652
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_RETRO_SHIELDING\"]/title"
+msgstr "先進シールドユニット"
+
+#: src-en/data/blueprints.xml.append:2653
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_RETRO_SHIELDING\"]/desc"
+msgstr "MVレトロフラッグシップで使用される、スタック可能なエネルギーシールドを提供する。"
+
+#: src-en/data/blueprints.xml.append:2661
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/title"
+msgstr "金色のシールド"
+
+#: src-en/data/blueprints.xml.append:2662
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/desc"
+msgstr "想像を絶するほど純粋なエーテルで駆動する先進シールド。長期間ダメージを受けなければゆっくりと回復する。"
+
+#: src-en/data/blueprints.xml.append:2670
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/title"
+msgstr "金色の兵器"
+
+#: src-en/data/blueprints.xml.append:2671
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/desc"
+msgstr "想像を絶するほど純粋なエーテルで駆動する先進兵器システム。兵器の発射速度を向上させる。"
+
+#: src-en/data/blueprints.xml.append:2678
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/title"
+msgstr "金色の再生装甲"
+
+#: src-en/data/blueprints.xml.append:2679
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/desc"
+msgstr "この装甲を貫くのは至難の業だ！船体およびシステムへの25%の耐性と自動修理機能を備えている！"
+
+#: src-en/data/blueprints.xml.append:2686
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/title"
+msgstr "金色の神性装甲"
+
+#: src-en/data/blueprints.xml.append:2687
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/desc"
+msgstr "この装甲を貫くのは至難の業だ！船体およびシステムへの25%の耐性と自動修理機能を備えている！"
+
+#: src-en/data/blueprints.xml.append:2694
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/title"
+msgstr "金色のゲル"
+
+#: src-en/data/blueprints.xml.append:2695
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/desc"
+msgstr "船体亀裂だけでなくシステムも修理する能力を持つ、言葉では言い表せないゲル。"
+
+#: src-en/data/blueprints.xml.append:2702
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/title"
+msgstr "金色のメドボット"
+
+#: src-en/data/blueprints.xml.append:2703
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/desc"
+msgstr "医療室のパワーに応じてクルーを回復するだけでなく強化もする強力なナノボット！"
+
+#: src-en/data/blueprints.xml.append:2710
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PURE_INTELLECT\"]/title"
+msgstr "先進認識"
+
+#: src-en/data/blueprints.xml.append:2711
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PURE_INTELLECT\"]/desc"
+msgstr "AI技術の頂点。先進ナビゲーター、解放グリッド、ドライブハッカーの能力を組み合わせる。"
+
+#: src-en/data/blueprints.xml.append:2722
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_PARASITE\"]/title"
+msgstr "[L] 寄生的枯渇"
+
+#: src-en/data/blueprints.xml.append:2723
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_PARASITE\"]/desc"
+msgstr ""
+"リーチは最大ヘルスが60少なく、デフォルトでのダメージが4分の1になるが、同室のリーチ以外の敵クルー全員から毎秒3HPを奪う。\n"
+"\t\n"
+"\t[L] - 外部ラボアップグレードとして、この増強は通常効果を提供しますが、増強スロットを1つ消費します。実際のラボアップグレードに変換することはできませんが、プライマリスロットは消費しません。自己スタックはしません。"
+
+#: src-en/data/blueprints.xml.append:2732
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_HIVESLASH\"]/title"
+msgstr "[L] クロースラッシュ"
+
+#: src-en/data/blueprints.xml.append:2733
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_HIVESLASH\"]/desc"
+msgstr ""
+"通常のマンティスは、同室の敵クルー全員に15ダメージを与えるスラッシュ能力を得る。ジャンプごとに2回しかスラッシュできない。\n"
+"\t\n"
+"\t[L] - 外部ラボアップグレードとして、この増強は通常効果を提供しますが、増強スロットを1つ消費します。実際のラボアップグレードに変換することはできませんが、プライマリスロットは消費しません。自己スタックはしません。"
+
+#: src-en/data/blueprints.xml.append:2742
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_CARETAKER_HAZARD\"]/title"
+msgstr "[L] 鎮静胞子"
+
+#: src-en/data/blueprints.xml.append:2743
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_CARETAKER_HAZARD\"]/desc"
+msgstr ""
+"ケアテイカーは近くの味方と自身に火災およびスタン免疫を提供するが、酸素を生成しなくなる。\n"
+"\t\n"
+"\t[L] - 外部ラボアップグレードとして、この増強は通常効果を提供しますが、増強スロットを1つ消費します。実際のラボアップグレードに変換することはできませんが、プライマリスロットは消費しません。自己スタックはしません。"
+
+#: src-en/data/blueprints.xml.append:2752
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_ADV_FREQUENCIES\"]/title"
+msgstr "先進周波数"
+
+#: src-en/data/blueprints.xml.append:2753
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_ADV_FREQUENCIES\"]/desc"
+msgstr "様々な海賊行為のイベントを検出できる。また、ハイジャックされた周波数と同じ機能も果たす。"
+
+#: src-en/data/blueprints.xml.append:2761
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/title"
+msgstr "重貫通レーザー砲"
+
+#: src-en/data/blueprints.xml.append:2762
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/short"
+msgstr "重貫通"
+
+#: src-en/data/blueprints.xml.append:2764
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/desc"
+msgstr "[基本クールダウン: 18] シールド層を1枚貫通する強力な重レーザーの弾幕を発射する。"
+
+#: src-en/data/blueprints.xml.append:2765
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/tooltip"
+msgstr "重レーザー弾幕、2ダメージ、1ショット。シールド層を1枚貫通。"
+
+#: src-en/data/blueprints.xml.append:2801
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/title"
+msgstr "粒子ミサイル砲"
+
+#: src-en/data/blueprints.xml.append:2802
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/short"
+msgstr "粒子M"
+
+#: src-en/data/blueprints.xml.append:2803
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/desc"
+msgstr "[基本クールダウン: 30] 船のシステムを壊滅させ、部屋をロックダウンする粒子ミサイルの弾幕を発射する。"
+
+#: src-en/data/blueprints.xml.append:2804
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/tooltip"
+msgstr "粒子ミサイル弾幕、1システムダメージ、命中時にロックダウンを付与。"
+
+#: src-en/data/blueprints.xml.append:2842
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/title"
+msgstr "先進フォーシャール砲"
+
+#: src-en/data/blueprints.xml.append:2843
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/short"
+msgstr "「フォーシャール」"
+
+#: src-en/data/blueprints.xml.append:2844
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/desc"
+msgstr "[基本クールダウン: 30] 敵システムを引き裂く壊滅的な対生物ビームを発射する。全ての通常シールドを貫通する。"
+
+#: src-en/data/blueprints.xml.append:2845
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/tooltip"
+msgstr "フォーシャール砲、非常に長いビーム、シールド貫通。"
+
+#: src-en/data/blueprints.xml.append:2873
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/title"
+msgstr "重エネルギー砲"
+
+#: src-en/data/blueprints.xml.append:2874
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/short"
+msgstr "重エネルギー"
+
+#: src-en/data/blueprints.xml.append:2877
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/desc"
+msgstr ""
+"[基本クールダウン: 15] 集中エネルギー弾の弾幕を発射し、船体とシステムにダメージを与える。システムのない部屋では船体ダメージが2倍になる。"
+
+#: src-en/data/blueprints.xml.append:2878
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/tooltip"
+msgstr "重エネルギー弾の弾幕を発射する。シールドやシステムに命中し、無効化できる。システムのない部屋では船体ダメージが2倍。"
+
+#: src-en/data/blueprints.xml.append:2918
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/title"
+msgstr "試作型ガトリング砲"
+
+#: src-en/data/blueprints.xml.append:2919
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2920
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/desc"
+msgstr ""
+"[基本クールダウン: 15/13.4/11.8/10.2/8.6/7/5.4] "
+"弾幕ごとにクールダウンが短縮され、敵のシールドを絶え間なく攻撃し続ける、見事に設計されたレーザー砲。"
+
+#: src-en/data/blueprints.xml.append:2921
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/tooltip"
+msgstr "砲撃：比較的速くチャージするレーザーのバーストで、中程度の状態異常発生確率を持つ。"
+
+#: src-en/data/blueprints.xml.append:2959
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/title"
+msgstr "ヴィンディケーター・レーザー"
+
+#: src-en/data/blueprints.xml.append:2960
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/short"
+msgstr "ヴィンディケーター"
+
+#: src-en/data/blueprints.xml.append:2962
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/desc"
+msgstr "これに当たれば、お前はもう死んでいる。"
+
+#: src-en/data/blueprints.xml.append:3001
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/title"
+msgstr "金色の「月槍」ビーム"
+
+#: src-en/data/blueprints.xml.append:3002
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/short"
+msgstr "金・「月槍」"
+
+#: src-en/data/blueprints.xml.append:3003
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/desc"
+msgstr "この先進ビームは、よく知られたカマヤリとスヤリビームの試作アップグレード版だった。"
+
+#: src-en/data/blueprints.xml.append:3032
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/title"
+msgstr "金色のイオンブラスト"
+
+#: src-en/data/blueprints.xml.append:3033
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/short"
+msgstr "金・事前イオン"
+
+#: src-en/data/blueprints.xml.append:3036
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/desc"
+msgstr ""
+"このイオン兵器はパワーを消費せず、即座にチャージし、敵のシールドを非常に効果的に無力化できる強力なイオンビームを発射する。ただし、戦闘ごとに一度しか撃てない。"
+
+#: src-en/data/blueprints.xml.append:3089
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/title"
+msgstr "金色の先制「トーチ」"
+
+#: src-en/data/blueprints.xml.append:3090
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/short"
+msgstr "金・事前「トーチ」"
+
+#: src-en/data/blueprints.xml.append:3091
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/desc"
+msgstr "全てのシールドを貫通し、ゆっくり動くビームで敵船を炎上させる、急速チャージの先制兵器。戦闘ごとに一度しか発射できない。"
+
+#: src-en/data/blueprints.xml.append:3118
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/title"
+msgstr "金色の「ヴージ」ビーム"
+
+#: src-en/data/blueprints.xml.append:3119
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/short"
+msgstr "金・「ヴージ」"
+
+#: src-en/data/blueprints.xml.append:3121
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/desc"
+msgstr "グレイヴが最強かもしれないと口にした愚か者への直接の返答として作られた、これまで考案された中で最も強力なビーム。"
+
+#: src-en/data/blueprints.xml.append:3143
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/title"
+msgstr "貫通重レーザー"
+
+#: src-en/data/blueprints.xml.append:3144
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/short"
+msgstr "重貫通"
+
+#: src-en/data/blueprints.xml.append:3146
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/desc"
+msgstr "[砲撃、重貫通砲、2ダメージ、必中、チャージごとに3発、命中時ロックダウン]"
+
+#: src-en/data/blueprints.xml.append:3184
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/title"
+msgstr "粒子ミサイル"
+
+#: src-en/data/blueprints.xml.append:3185
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/short"
+msgstr "粒子M"
+
+#: src-en/data/blueprints.xml.append:3186
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/desc"
+msgstr "[砲撃、粒子ミサイル砲、1システムダメージ、必中、チャージごとに3発、命中時ロックダウン]"
+
+#: src-en/data/blueprints.xml.append:3224
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/title"
+msgstr "「フォーシャール」ビーム"
+
+#: src-en/data/blueprints.xml.append:3225
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/short"
+msgstr "「フォーシャール」"
+
+#: src-en/data/blueprints.xml.append:3226
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/desc"
+msgstr "この恐ろしい放射線ビームは、クルーに加えて船内のシステムもズタズタにすることができる。"
+
+#: src-en/data/blueprints.xml.append:3255
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/title"
+msgstr "重エネルギー"
+
+#: src-en/data/blueprints.xml.append:3256
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/short"
+msgstr "重エネルギー"
+
+#: src-en/data/blueprints.xml.append:3259
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/desc"
+msgstr "エネルギー兵器は、船体ダメージを与えながらシステムを無効化できる。これはシステムのない部屋で追加の船体ダメージを与える。"
+
+#: src-en/data/blueprints.xml.append:3300
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/title"
+msgstr "ファイアスターター"
+
+#: src-en/data/blueprints.xml.append:3301
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/short"
+msgstr "ファイアスターター"
+
+#: src-en/data/blueprints.xml.append:3303
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/desc"
+msgstr "各発射物が火災を引き起こし、敵のシステムと船体にダメージを与えるが、クルーには無害な改造レーザー兵器。"
+
+#: src-en/data/blueprints.xml.append:3341
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/title"
+msgstr "「ハデス」ミサイル"
+
+#: src-en/data/blueprints.xml.append:3342
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/short"
+msgstr "「ハデス」"
+
+#: src-en/data/blueprints.xml.append:3343
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3382
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/title"
+msgstr "発火フラックガン"
+
+#: src-en/data/blueprints.xml.append:3383
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/short"
+msgstr "ファイアフラック"
+
+#: src-en/data/blueprints.xml.append:3385
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/desc"
+msgstr "火災を発生させる確率が高い4つの燃える発射物を発射する。"
+
+#: src-en/data/blueprints.xml.append:3430
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/title"
+msgstr "「チンクエディア」ピンポイント"
+
+#: src-en/data/blueprints.xml.append:3431
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/short"
+msgstr "「チンクエディア」"
+
+#: src-en/data/blueprints.xml.append:3432
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/desc"
+msgstr "このピンポイント兵器は中程度のダメージしか与えないが、シールドがダウンした敵に対しては、その発射速度が急速に上昇し、壊滅的なものとなる。"
+
+#: src-en/data/blueprints.xml.append:3460
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3461
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3463
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/desc"
+msgstr ""
+"ヘクター・インダストリーズ(TM)製。これはモジュラーレーザーのベースです。属性モジュール1つとステータスモジュール1つをサポートします。\n"
+"\t互換性のないモジュールはありません。\n"
+"\t----現在インストールされているモジュール----\n"
+"\t属性 - ファイアスターター\n"
+"\tステータス - ロックダウン"
+
+#: src-en/data/blueprints.xml.append:3504
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/title"
+msgstr "アップリフテッド・バーストレーザーII"
+
+#: src-en/data/blueprints.xml.append:3505
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/short"
+msgstr "アップリフテッドII"
+
+#: src-en/data/blueprints.xml.append:3507
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/desc"
+msgstr "ピュンピュンピュン、見知らぬ人よ。"

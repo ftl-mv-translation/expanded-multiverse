@@ -1,0 +1,1164 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_emv_droppoint.xml:31
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/text"
+msgstr ""
+"救難信号を追跡すると、光速航行から離脱した際に、信号を発信している船の船体をかすめた。体勢を立て直し、その船と連絡を取る。\n"
+"\n"
+"「もしもし、えーっと、助けてくれませんか？この旅に必要な燃料を見くびってしまって…燃料が全くないんです。少しばかりの施しをいただけませんか？」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:35
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[1]/text"
+msgstr "燃料をいくらか渡す。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:37
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[1]/event/text"
+msgstr ""
+"反逆者に燃料セルをいくつか提供し、旅の幸運を祈る。出発する前に、彼らが通信してきた。\n"
+"\n"
+"「やあ、助かったよ。これ、君が持って行った方が役に立つだろうと思ってね。私より君の方が必要だろう。幸運を、キャプテン。」\n"
+"反逆者は助けのお返しとして、彼らが持っていた兵器をあなたの船に取り付けることを申し出る。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:48
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[2]/text"
+msgstr "自分も燃料が少ないと言い、燃料セルを1つだけ渡す。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:50
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[2]/event/text"
+msgstr ""
+"反逆者に、自分も燃料が切れかかっており、最寄りのビーコンまでかろうじてたどり着ける状態だと説明するが、それでも燃料セルを1つ渡し、幸運を祈る。\n"
+"                \n"
+"「まあ…乞食のような真似はしないが、ないよりはましだ。少なくとも、燃料をたくさん持っているくせに隠すような奴らとは違う。ほら、これを持っていけ。ただで何かをもらうのは性に合わないんでね。」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:60
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[3]/text"
+msgstr "通信を切り、発砲する。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:62
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[3]/event/text"
+msgstr ""
+"その要求を聞き、通信を切ると、船がこちらに向かって加速してくるのが見え、再び通信が入る。\n"
+"\n"
+"「なんだと、たった一つの燃料セルを命より大事にするってのか！？命の尊さを教えてやる、お前を殺してな！」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:67
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:77
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[4]/text"
+msgstr "ひたすら謝罪し、逃げる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:79
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[4]/event/text"
+msgstr "謝罪して立ち去ると、立ち往生した反逆者はひどく混乱したまま取り残された。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:81
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[4]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:85
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[4]/event/choice[2]/text"
+msgstr "この気まずい状況からできるだけ早く離れる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:93
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/text"
+msgstr ""
+"視界の隅に、武装した2隻の船が遠くに見える。ここではMVPMCの反逆者が互いに武器を抜くことは固く禁じられているため、これは異常な事態だ。しかし、よく見ると、一方は反逆者、もう一方はユニオンの船であることがわかる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:95
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/text"
+msgstr "周波数に割り込む。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:97
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/text"
+msgstr ""
+"何が起こっているのか確認するため、無線をその周波数に合わせる。\n"
+"                \n"
+"「さて、一体どうやってここに来たんだ？自力で来たはずがない。誰が入れたんだ？」\n"
+"\n"
+"「あなたには関係ない。私はこのセクターに住んでいる。私の家はここなんだ！」\n"
+"\n"
+"「な、な、なんで…わかった、聞け。簡単に言う。抵抗せずに別の場所に誘導させてくれれば、このことは何もなかったことにしてやる。」\n"
+"\n"
+"「いやだ。」\n"
+"\n"
+"「なんだと？『いやだ』ってどういう意味だ？」\n"
+"\n"
+"「あなたとは行かない。」\n"
+"\n"
+"「ああ、もう、一体全体…待て、いつからそこにいたんだ…いや、それより、この無許可の奴を殺してくれないか？損はさせない。頼むから私の仕事を楽にしてくれ。」\n"
+"\n"
+"「待って、だめだめだめだめ、彼の言うこと聞くんじゃないだろうな？私はただの民間人だ、殺すなんてできないはずだ！」\n"
+"\n"
+"「いや、できるだろ？それに、私が知る限り、民間人はここに住んでいないはずだが？」\n"
+"\n"
+"「お願いだ、真実を言っただけで私を殺さないでくれ！」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:119
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[1]/text"
+msgstr "ユニオンの船を攻撃する。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:122
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[1]/event/text"
+msgstr "規則を守り、この宙域から無許可の人物を排除することにする。「やめろ！そんなこと許されるもんか！」戦闘準備！"
+
+#: src-en/data/events_sector_emv_droppoint.xml:124
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:130
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[2]/text"
+msgstr "反逆者を攻撃する。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:133
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"武器を構えると、反逆者が信じられないといった様子で通信してきた。「なんてこった、これ以上最悪な日はないぜ！民間人を守る活動家様のお出ましか！戦闘準備だ！」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:135
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:141
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[3]/text"
+msgstr "彼ら自身に解決させる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:143
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[3]/event/text"
+msgstr ""
+"「なんだと？急に道徳心でも芽生えたのか？まったく、なんでみんな私に甘くなる必要があるんだ…」あなたは通信を切り、あなたの存在で事態がさらに悪化する前にジャンプの準備をする。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:145
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:149
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[3]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:157
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[2]/text"
+msgstr "彼らに任せる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:159
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[2]/event/text"
+msgstr ""
+"この二人に何が起こっていようと、あなたには関係ない。事態が悪化し、何らかの理由であなたが巻き込まれる前に立ち去る。エンジンのジャンプ準備を整える。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:161
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:165
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:188
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DESTROYED_UNION_UNAUTHORIZED\"]/text"
+msgstr "民間船は破壊された。これがあなたの記録に良く映るとは思えないが、一方で多くのスクラップが手に入った。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:191
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DESTROYED_UNION_UNAUTHORIZED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:193
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DESTROYED_UNION_UNAUTHORIZED\"]/choice/event/text"
+msgstr ""
+"反逆者の船が再び通信してきた。「やっと誰かがこのガキから私を解放してくれたか。おかげで邪魔されずにシフトに戻れる。困っている反逆者を助けてくれたお礼に、これを受け取ってくれ。」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:196
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DESTROYED_UNION_UNAUTHORIZED\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:204
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEADCREW_UNION_UNAUTHORIZED\"]/text"
+msgstr "民間船は破壊された。これがあなたの記録に良く映るとは思えないが、一方で多くのスクラップが手に入った。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:207
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEADCREW_UNION_UNAUTHORIZED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:209
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEADCREW_UNION_UNAUTHORIZED\"]/choice/event/text"
+msgstr ""
+"反逆者の船が再び通信してきた。「やっと誰かがこのガキから私を解放してくれたか。おかげで邪魔されずにシフトに戻れる。困っている反逆者を助けてくれたお礼に、これを受け取ってくれ。」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:212
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEADCREW_UNION_UNAUTHORIZED\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:220
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_GUARD_UNAUTHORIZED\"]/text"
+msgstr "これから起こるであろう結果がどうであれ、ユニオンの船を守るために反逆者の船を排除する。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:223
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_GUARD_UNAUTHORIZED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:225
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_GUARD_UNAUTHORIZED\"]/choice/event/text"
+msgstr ""
+"船を解体していると、ユニオンの船から通信が入る。「な、何を言えばいいかわからないけど、ありがとう。流血沙汰で終わりたくはなかったけど、彼が聞き入れなくて。あなたにとって良い結果にはならないと思うけど、これを受け取って。幸運を。」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:228
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_GUARD_UNAUTHORIZED\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:237
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/beaconType/@text"
+msgstr "[style[color:ffffff]]侵入者[[/style]]"
+
+#: src-en/data/events_sector_emv_droppoint.xml:239
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/beaconType/unvisitedTooltip"
+msgstr "侵入者の位置。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:240
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:242
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/text"
+msgstr "放送によれば、こちらに向かっている侵入者がいるようだ…そして、まさにそのタイミングで、彼らがやって来た！"
+
+#: src-en/data/events_sector_emv_droppoint.xml:244
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:250
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_RETIREMENT\"]/text"
+msgstr ""
+"反逆者があなたの行く手を阻み、一つ頼み事をしてくる。「よう、腕利き。これを持っていけ、もう船は必要ないんだ。死んで塵になるまで故郷で暮らすつもりだ、じゃあな。」どういうわけか、反逆者は彼の船を解体するようにと渡してくる。無料のものを断る理由はない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:253
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_RETIREMENT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:257
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_RETIREMENT\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:262
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_BADASSITUDE\"]/text"
+msgstr ""
+"あなたの無線が、宇宙に潜む古代の金庫を開けるヴォルトハンターを探しているというテレビ信号に自動的にチューニングされる。その申し出に目を向けていると、放送は突然、大きな口ひげとサングラスをかけた筋肉質な男に切り替わり、それを退屈だと言う。「俺はトルクだ、質問は一つ、一つだけだ。爆発か？？？？」男がそう言うと、信号は下手な爆発エフェクトが加えられた会社のロゴにちらつく。画面上で二人が口論しているのが見え、あなたはそれを切る。なぜかランダムなミサイル兵器が宇宙に浮いていることにも気づく。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:265
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_BADASSITUDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:270
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_CONSPIRACY\"]/text"
+msgstr ""
+"システムにジャンプするとすぐに、あなたの無線は「スラグのディープステート」や我々の知識を超えた「古代の神々」について話す誰かの理解不能な戯言で爆音を立てる。彼はまた、最強の者だけを試す「金色の何か」についてもべらべらと喋る。放送を止めるために反逆者の船に即座に蒸発させられるので、あまり聞いていない。その結果、いくつかのスクラップ片があなたの船に飛んでくる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:273
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_CONSPIRACY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:279
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/text"
+msgstr ""
+"船の無線を通じて、反逆者の注意を引くためのプロパガンダを放送している反乱軍の周波数を検出する。彼らはあなたのことについても話しており、あなたの位置を報告した者にはスクラップを提供すると言っている。これにより艦隊があなたの位置を正確に把握する可能性があると心配する。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:281
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[1]/text"
+msgstr "無線を起動し、さらに大きな報酬を提示する。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:283
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[1]/event/text"
+msgstr ""
+"誰でも聞けるように船のチャンネルを公開し、あなたになりすまして艦隊を妨害する者には多額の報酬を放送する。反乱軍の放送の狼狽をよそに、一人の反逆者があなたの申し出を受け入れ、あなたのスクラップを素早く受け取って艦隊に真っ向から立ち向かう。これにより、反乱軍に対して有利な状況を作り出せるはずだ。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:289
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:295
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[2]/text"
+msgstr "反乱軍を威嚇する。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:299
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[3]/text"
+msgstr "できるだけ速く立ち去る。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:301
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[3]/event/text"
+msgstr "あなたの位置がばれても、手持ちのもので急いで、艦隊の接近するASBに引き裂かれるのを避けるために、できるだけ早くそこから脱出する。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:305
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[@req=\"hacking\"]/text"
+msgstr "(ハッキング) 周波数をハイジャックする。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:307
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[@req=\"hacking\"]/event/text"
+msgstr ""
+"反乱軍の周波数を遠隔でハイジャックし、誰でも聞けるように…あまり適切でない放送を流し始める。反乱軍はMVPMCの役員に近づかれ、システムから去るように言われると、彼らの「失態」を修正しようと躍起になる。ついでに、艦隊に偽のデータを送信する。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:320
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA_GOOD\"]/text"
+msgstr ""
+"プロパガンダを放送している反乱軍に、武器を構えて近づく。彼らの放送は即座に停止し、立ち去る準備をしながら不便を詫びる。迷惑料として、彼らからいくらかのスクラップを強奪する。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:326
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA_BAD\"]/text"
+msgstr ""
+"武器を構えて反乱軍に近づくと、代わりにエリート戦闘機があなたを迎えに来るのを見て、あまり嬉しくない。すぐに反乱軍の船長から通信が入る。「ほう…向かってくるのか？」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:329
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA_BAD\"]/choice/text"
+msgstr "近づかなきゃ、てめーをブチのめせないんでな！"
+
+#: src-en/data/events_sector_emv_droppoint.xml:344
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_REBEL_ELITE_PROPAGANDA\"]/text"
+msgstr ""
+"反乱軍のエリートの一人からの奇襲攻撃にもかかわらず、彼らはあなたの腕前には及ばなかった。反乱軍の放送局に立ち向かう前に、彼らの船を解体しに向かう。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:347
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_REBEL_ELITE_PROPAGANDA\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:349
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_REBEL_ELITE_PROPAGANDA\"]/choice/event/text"
+msgstr ""
+"わ、わかった、君の言いたいことはわかった！もう艦隊のことは言わない、それでいいか？我々を殺さない限り、好きなようにして、必要なものを取っていけ！我々は立ち去る！"
+
+#: src-en/data/events_sector_emv_droppoint.xml:358
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/text"
+msgstr ""
+"システムに入ると、「保安官」のような男があなたに通信し、助けを求めてくる。「よう、反逆者。俺はリンガー保安官だ。このセクターの辺りで無法者を探しているんだが、法の代理人になってくれないか？」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:360
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[1]/text"
+msgstr "いいだろう。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:362
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[1]/event/text"
+msgstr ""
+"「上出来だ、相棒。この辺りで悪党が…乱暴な真似をしている。つい2日前、俺の部下を4人殺したんだ、安らかに眠れ。奴を生かすも殺すも、俺の元へ連れ戻してくれ。」保安官は無法者の最後の目撃情報を教え、あなたは彼らを追跡しに向かう。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:367
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[2]/text"
+msgstr "いや、忙しいんだ。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:369
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[2]/event/text"
+msgstr "「フン、まあいいだろう。最近の若者は名誉も法も忘れてしまった…」あなたはがっかりした保安官から距離を置き、先へ進む準備をする。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:371
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:375
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:381
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[3]/text"
+msgstr "保安官を攻撃する。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:384
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[3]/event/text"
+msgstr ""
+"あなたが武器を構え、彼らの船に向けると保安官は驚く。すぐに保安官から通信が入る。「正午だ…」この状況で「正午」がいかに無意味かを考えると、彼らがどうやって時間を把握しているのか混乱する。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:386
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:399
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_SHERIFF_DESTROYED\"]/text"
+msgstr ""
+"リンガー保安官を打ち破った。彼の部下があなたの傲慢さへの復讐に到着する前に、急いで彼の船を解体する。スリルはあったが、誰かが安全な避難場所を提供してくれるとは思えない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:402
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_SHERIFF_DESTROYED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:408
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_SHERIFF_CREWKILL\"]/text"
+msgstr ""
+"リンガー保安官を打ち破った。彼の部下があなたの傲慢さへの復讐に到着する前に、急いで彼の船を解体する。スリルはあったが、誰かが安全な避難場所を提供してくれるとは思えない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:411
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_SHERIFF_CREWKILL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:419
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/beaconType/unvisitedTooltip"
+msgstr "保安官がここに高額賞金首がいると知らせてくれた。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:422
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/text"
+msgstr ""
+"保安官に言われた通り、最重要指名手配犯の一人を追跡する。驚いたことに、彼らは学校出たての海賊ではなく、ユニークな船を操る熟練者だった。これはまさに善と悪の崇高な決闘だ。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:424
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[1]/text"
+msgstr "正午だ、クズ野郎。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:426
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[1]/event/text"
+msgstr "「は、え？正午？何を言っているんだ…しまった！野郎ども、厄介ごとだ！」海賊はあなたの突然の出現に不意を突かれ、攻撃に移る！"
+
+#: src-en/data/events_sector_emv_droppoint.xml:429
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:435
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[2]/text"
+msgstr "とっととずらかる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:437
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[2]/event/text"
+msgstr "任務に危険が伴う場合、名誉や礼儀は都合が悪いと判断し、仕事は他の誰かに任せる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:439
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:443
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:458
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_PIRATE_CREWKILL\"]/text"
+msgstr ""
+"海賊船のクルーを掃討し、船長を船室に追い詰める。「まあ、俺もこれまでか。楽しかったが、そろそろ潮時らしいな。」保安官に無線を送り、海賊船長を拘束したことを伝える。「ほうほう、それは嬉しい知らせだ。最寄りのコロニーに連れてこい、俺が先回りして正午までに絞首刑の準備をしておく。よくやった、若いの。」宇宙で保安官がどうやって時間を把握しているのか混乱するが、海賊を引き渡すための最寄りのコロニーの座標を与えられた今、それは問題ではない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:464
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_PIRATE_DESTROY\"]/text"
+msgstr ""
+"海賊の船が炎上し、船長の焦げた帽子が宇宙に飛ばされるのを見届ける。保安官に無線を送り、仕事を終えたことを通知する。「よくやった、相棒。若い世代がまだ名誉を重んじていると知って嬉しいよ。またな、カウボーイ。」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:467
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_PIRATE_DESTROY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:476
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_FINALE\"]/beaconType/unvisitedTooltip"
+msgstr "保安官がここに報酬を用意している。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:478
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_FINALE\"]/text"
+msgstr ""
+"ついにコロニーに到着し、保安官の基準で正午であることを願う。保安官の部下が海賊船長を連行するのを見ていると、彼が通信してくる。「よくやった、カウボーイ。そしてまさに輝く正午の光の中だ。なあ、このクズに殺された男たちの家族が、正義をもたらしてくれたことに自分たちのやり方で感謝したいそうだ。最寄りの武器庫に向かって、好きなものを持っていけ。またな、カウボーイ。」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:480
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_FINALE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:482
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_FINALE\"]/choice/event/text"
+msgstr ""
+"急いでコロニーの武器庫に案内され、旅に必要なものを何でも持っていくようにと鍵を渡される。自分に合うものをいくつか取り、町が完全に無防備にならないようにする。遠くで海賊船長が銃殺隊に撃たれるのを見ながら、別れを告げる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:486
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_FINALE\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:494
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/text"
+msgstr ""
+"視界の隅に、十数隻の艦隊規模の反逆者の船が、無人の惑星に向かって貨物を運んでいるのが見える。彼らが来たステーションに向かい、何を運んでいるのか尋ねる。「ああ、あの惑星か？あれは通りすがりの反逆者の船のための大きな放棄されたゴミ捨て場さ。あそこでゴミ漁りが迷惑をかけないように見張っているんだ。」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:496
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/text"
+msgstr "そこの廃棄物を回収できるか尋ねる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:498
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/text"
+msgstr ""
+"反逆者のステーションの所有者は、仲間の反逆者と話し合った後、あなたの方を向く。「いいだろう、行ってもいい。ただし、山ほどのスクラップを払ってもらう。あそこで何が起きてもお前の責任だ、子守はしないぞ。」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:500
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[1]/text"
+msgstr "スクラップを提供する。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:502
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"スクラップを提供し、この回収作業のリスクについて念を押される。降下していくと、船は腐敗臭にまみれ、錆びた粒子が空中を舞っているのが見える。これがあなたとクルーにとって真の脅威となる前に、しばらくしか探索できない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:507
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "何かを探す。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:511
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[1]/event/choice[@req=\"SCRAP_COLLECTOR\"]/text"
+msgstr "(スクラップアーム) いくつか物を引き上げる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:517
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[2]/text"
+msgstr "断って去る。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:519
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[2]/event/text"
+msgstr "この回収作業には保険がなく、値段も高いため、丁重に断る。ステーションを離れ、先へ進む準備をする。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:521
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:525
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:533
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[2]/text"
+msgstr "これ以上尋ねずに去る。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:535
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[2]/event/text"
+msgstr ""
+"美化された巨大なジャンクヤードに興味はない。ステーションはあなたに別れを告げ、先へ進む準備をしながら、まだ何かをする時間があることに気づく。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:537
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:541
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:558
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_SCRAP\"]/text"
+msgstr "破壊された船の船体から大量のスクラップを引き出す。なぜかスクラップには光る塵が散らばっているが、気にせずに船に運び込む。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:563
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_SUPPLIES\"]/text"
+msgstr "物資の箱を発掘する。箱の中には残り物が少し入っているだけだが、それでも素晴らしい発見だ。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:568
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_WEAPON\"]/text"
+msgstr "価値のあるものを探していると、クルーが未開封の武器クレートを知らせてくれる！船に運び込み、この素晴らしい発見を明らかにする。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:574
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_DRONE\"]/text"
+msgstr "クルーの一人が箱の中からドローンの設計図を見つける。すぐに使えるように船に持ち帰る。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:580
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_AUGMENT\"]/text"
+msgstr "破壊された船の残骸の中に、その船に属していた増強を見つける。それを船から取り外し、自分の船で使うことにする。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:586
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_MAPINFO\"]/text"
+msgstr ""
+"残念ながら価値のあるものは見つからない。しかし、クルーの一人が座標と地図データが満載のドライブを持ってくる。多くはないが、航行の助けにはなる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:592
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_ARM\"]/text"
+msgstr "クルーの命を危険にさらす価値はないと判断し、スクラップアームを使ってスクラップを船に引き上げることにする。それでかなりの量を手に入れる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:599
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_CONVOY\"]/text"
+msgstr ""
+"システムにジャンプするとすぐに、あなたの位置の近くで別のマルチバースドライブの反応を検出する！何らかのハンターではないかと心配するが、それは仲間の反逆者に属する大規模な船団のようだ。少し安心してから持ち場に戻る。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:601
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_CONVOY\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:605
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_CONVOY\"]/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:611
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_ENVY\"]/text"
+msgstr ""
+"視界の隅で、数隻の船から大きな話し声が聞こえる。「やったぜ、野郎ども！大金持ちになるぞ！大金持ちだ！あの金庫があれば永遠に安泰だ！時間を無駄にするな、行こうぜ！！」彼らの自由な時間を羨み、彼らを追う準備を始めるが、彼らが追っている「金庫」がほぼ間違いなく反乱軍艦隊のどこかにあることに気づく。代わりに、あなたは移動の準備を整える。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:613
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_ENVY\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:617
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_ENVY\"]/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:625
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/text"
+msgstr ""
+"ボロボロの船があなたを妨害し、繰り返し通信してくる。「お願いです、助けてください！私たちを追い回し、引き裂いている狂った変質者に追われています！何でもしますから、あのサイコから守ってください…」船長が言い終わる前に、追跡者から通信が入る。「まあ、俺の狩りは波乱万丈のようだな。こうしよう、あの小さなウサギを手放せば、ちょっとしたものをやるかもしれないぜ。どうだ、同業者？」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:627
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[1]/text"
+msgstr "賄賂を受け入れる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:629
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[1]/event/text"
+msgstr ""
+"獲物との通信を切り、反逆者の船に向かうことにする。彼らは幸運を祈る前に、いくつかの物資を交換してくれる。視界の隅で、追われていた船が反逆者に引き裂かれるのが見える。それは印象的だったが、これ以上長居はしたくない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:634
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[2]/text"
+msgstr "船を守る。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:636
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[2]/event/text"
+msgstr ""
+"防御態勢に入り、武器を構える。反逆者はそれを軽視せず、笑顔で苛立ちをかろうじて隠している。「まあ、宇宙から害虫をさらに駆除することに否やはないな！」戦闘準備！"
+
+#: src-en/data/events_sector_emv_droppoint.xml:639
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:645
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[@req=\"weapons\"]/text"
+msgstr "(兵器アップグレード) 断る。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:647
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[@req=\"weapons\"]/event/text"
+msgstr ""
+"命を守ることに関して本気であること反逆者に見せつける。彼らはあなたの兵装に気づき、ゆっくりと後退する。「よし、えーっと、気のせいだったな。荷物をまとめろ、野郎ども！撤収だ！」彼らはシステムを去り、あなたに追われていた者たちを再び確認する時間を与える。\n"
+"\n"
+"「あなたの助けには感謝してもしきれません。船内の多くの命を救っていただき、私たちはあなたの支援に永遠に感謝します。これをどうぞ、お気をつけて。」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:662
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_DESTROY\"]/text"
+msgstr "反逆者の船はついに打ち破られた。追われていた者たちを再び確認する前に、船を解体する。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:665
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_DESTROY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:667
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_DESTROY\"]/choice/event/text"
+msgstr ""
+"ボロボロになった船が通信してくる。「あなたの助けには感謝してもしきれません。船内の多くの命を救っていただき、私たちはあなたの支援に永遠に感謝します。これをどうぞ、お気をつけて。」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:674
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_CREWKILL\"]/text"
+msgstr "反逆者の船はついに打ち破られた。追われていた者たちを再び確認する前に、船を解体する。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:677
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_CREWKILL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:679
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_CREWKILL\"]/choice/event/text"
+msgstr ""
+"ボロボロになった船が通信してくる。「あなたの助けには感謝してもしきれません。船内の多くの命を救っていただき、私たちはあなたの支援に永遠に感謝します。これをどうぞ、お気をつけて。」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:691
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/text"
+msgstr ""
+"MV侵入者が店を人質に取っていることに気づく。店のオーナーから助けを求める通信が入る。「ここから助けてください！この狂人は、私たちがサービスを拒否して以来、酔っぱらって反乱軍の決まり文句を叫び続けているんです。彼の哀れな惨めさから解放してやらなければなりません！」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:693
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:695
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[1]/event/text"
+msgstr ""
+"サービスを拒否された哀れな反乱軍の船長から店を守るために行動する。「お前ら反逆者の手下どもは…ひっく、反乱軍の…ひっく…力の下で、打ち砕かれるのだぁぁぁぁぁ！」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:698
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:704
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[2]/text"
+msgstr "彼らを放っておく。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:706
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[2]/event/text"
+msgstr ""
+"何が起こっていようと自分には関係ないと判断し、反逆者の行動規範をたどたどしく読み上げている店のオーナーのことは無視する。先へ進む準備をする。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:708
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:712
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:725
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_DESTROYED\"]/text"
+msgstr ""
+"店に向かい、船を解体していると、埋葬とスープ缶、接着剤と地獄についての引用を思い出そうと心がさまよう。店で何かを手に入れるまで、そのことは忘れている。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:728
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_DESTROYED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:730
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_DESTROYED\"]/choice/event/text"
+msgstr ""
+"店のオーナーが、特別に厳選されたリストから選べる店にあなたを案内する。「助けてくれてありがとう。普段は入場料をせびるんだが、まあいい、君は我々を救ってくれたんだ、少々のスクラップよりよっぽどいい！店は君のものだ、友よ。」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:733
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_DESTROYED\"]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:737
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_DESTROYED\"]/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:745
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_CREWKILL\"]/text"
+msgstr ""
+"店に向かい、船を解体していると、埋葬とスープ缶、接着剤と地獄についての引用を思い出そうと心がさまよう。店で何かを手に入れるまで、そのことは忘れている。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:748
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_CREWKILL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:750
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_CREWKILL\"]/choice/event/text"
+msgstr ""
+"店のオーナーが、特別に厳選されたリストから選べる店にあなたを案内する。「助けてくれてありがとう。普段は入場料をせびるんだが、まあいい、君は我々を救ってくれたんだ、少々のスクラップよりよっぽどいい！店は君のものだ、友よ。」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:753
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_CREWKILL\"]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:757
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_CREWKILL\"]/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:765
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/text"
+msgstr ""
+"ビーコンにジャンプするとすぐに、宇宙に浮かぶ巨大なコンテナをかろうじて避ける。体勢を立て直すと、貨物船の残骸の中にいることに気づく。これを引き起こした者が価値のあるものを残したとは思えないが、緩んだスクラップをいくつか引き抜こうと最善を尽くす。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:769
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
+msgstr "(ラニアス) ラニアスにもっとスクラップを抽出させる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:771
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/text"
+msgstr "ラニアスクルーに残骸に入り、もっとスクラップを手に入れるように命じる。彼らがあなたが使える程度の山を手に入れるのに時間はかからない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:776
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[@req=\"SCRAP_COLLECTOR\"]/text"
+msgstr "(スクラップアーム) もっとスクラップを手に入れる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:778
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[@req=\"SCRAP_COLLECTOR\"]/event/text"
+msgstr ""
+"船のスクラップアームを使って、船の固い部分からもう少しスクラップを手に入れる。アームはその力を発揮し、残骸からより多くのスクラップを手に入れ、それでよしとする。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:783
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:787
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:793
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_GRADUATION\"]/text"
+msgstr ""
+"遠くで何らかの祝賀会が開かれているのに気づく。よく見ると、それは反逆者の卒業パーティーで、誰でも参加できるとのこと。少し滞在し、新しい反逆者と物事の仕組みや反逆者の生活について話す。彼らはあなたのアドバイスに感謝し、感謝の印として在庫から武器を一つくれる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:798
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/text"
+msgstr "システムに入るとすぐに、船のセンサーが近くから微弱な異常信号を検出する。しかし、肉眼では見つけることができず、レーダーにも表示されない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:800
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[1]/text"
+msgstr "信号の発生源を探す。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:804
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[@req=\"sensors\"]/text"
+msgstr "(センサーアップグレード) センサーをオーバークロックする。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:808
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[@req=\"ADV_SCANNERS\"]/text"
+msgstr "(長距離スキャナー) センサーをオーバークロックする。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:812
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[4]/text"
+msgstr "そのままにしておく。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:814
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[4]/event/text"
+msgstr "未知の信号を追う無駄な追跡に興味はない。謎は謎のままにして、先へ進む。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:816
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[4]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:820
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[4]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:835
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_BAD\"]/text"
+msgstr "信号を見つけようと最善を尽くすが、どれだけ頑張ってもセンサーの性能が足りず、地図から消えてしまう。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:837
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_BAD\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:841
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_BAD\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:847
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_GOOD\"]/text"
+msgstr "センサーの探知範囲を最大にして信号源を探す。幸運にも、センサーは信号を発信していた近くの集落の場所を正確に特定するのに十分な性能だった。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:849
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_GOOD\"]/choice[1]/text"
+msgstr "集落に接近する。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:853
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_GOOD\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:855
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_GOOD\"]/choice[2]/event/text"
+msgstr ""
+"一つ注意すべきことがあるとすれば、このような隠された集落は、無防備な船が停泊して殺されるのを待っているようなものだということだ。できるだけ早く立ち去る。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:857
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_GOOD\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:861
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_GOOD\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:869
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/text"
+msgstr ""
+"慎重に停泊すると、その集落がかつての反乱軍の隠れ家であったことに気づかずにはいられない。色あせたオレンジの色彩、焼けたMFKイーグル、地面に散らばるエースのヘルメット。緊張感が心を不安で満たし、暗闇から突然現れた青い輝きは、事態を少しも良くしない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:871
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/text"
+msgstr "身元を明かす。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:873
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/text"
+msgstr ""
+"集落の住民に自分の存在を知らせる。一つ、また一つと、光るライトがますます増え、あなたとクルーの数を上回る。「ほう…また無防備な反乱軍か、面白い。我々は思ったほど隠れていなかったのかもしれないな。死ぬ準備をして、腐った同胞の後を追え！」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:875
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/text"
+msgstr "待て！私は反乱軍じゃない！"
+
+#: src-en/data/events_sector_emv_droppoint.xml:877
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/text"
+msgstr ""
+"その言葉が呟かれるとすぐに、謎の人物たちはその場で止まり、光の中に出て姿を現す。「反乱軍じゃない…だと？では、お前は何者だ？どうやって我々を見つけた？」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:879
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/text"
+msgstr "ノード17に向かっている。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:881
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/text"
+msgstr "「ノード17…災いの元…それはまた別の日の話にしよう。では、なぜそこへ行きたいんだ？」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:883
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[1]/text"
+msgstr "連邦を救うためだ。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:885
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"「ふん、わかった。去れ。」意図を述べるとすぐに、数十の武装したブラスターがあなたとクルーに向けられていることに気づき、引き返して二度とこの集落に降り立たないように促される。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:890
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[2]/text"
+msgstr "スクラップを手に入れるためだ。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:892
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"「なるほど、少なくとも自分のために働いているわけか。今回反乱軍が倒れるのを見るのは、なかなかの娯楽になるかもしれん。これを持っていけ、幸運を祈る。」数人のエンジニアがあなたの船に向かい、兵器システムをアップグレードしていることに気づく！彼らが幸運を祈る中、集落に別れを告げる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:897
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[3]/text"
+msgstr "楽しみを求めている。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:899
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[3]/event/text"
+msgstr ""
+"「スリルを求める者か？それは…驚くことではないが、私にとって問題ではない。では、早くそこへ行くがいい。集落は君の旅の幸運を祈り、エンジニアたちに君の目標に早くたどり着けるようエンジンをアップグレードするよう命じる。彼らに別れを告げて、出発する。」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:904
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"human_mfk\"]/text"
+msgstr "(MFKエース) 反乱軍は弱体化し、最も暗い時期にある。我々が仕事を終わらせる。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:906
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"human_mfk\"]/event/text"
+msgstr ""
+"あなたのエースが現れ、入植者の一人と対峙し、反乱軍は権力に欲張りすぎた狂気の集団に過ぎず、螺旋状に悪化しており、まもなく雷よりも激しく崩壊するだろうと説明する。集落のリーダーがあなたに近づき、部下の一人をあなたと共に行かせる前に握手をする。「敵の敵は友だ。私のエリートの一人がこの旅に同行する。奴らに地獄を見せてやれ、若いの。」"
+
+#: src-en/data/events_sector_emv_droppoint.xml:912
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"EMV_LIST_CREW_ROGUE\"]/text"
+msgstr "(ローグクルー) 兄弟よ、助けを求む。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:914
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"EMV_LIST_CREW_ROGUE\"]/event/text"
+msgstr ""
+"ローグクルーを提示するとすぐに、謎の人物は敬礼の姿勢を取り、できる限りの助けを申し出る。「旗にも規範にも縛られず、我々はオールド・グローリーに仕える！」船に急いで戻ると、エンジニアたちが船を改造し、最高のアップグレードを施しているのが見える。さらに、忠実で強力なクルーがあなたの任務に参加したいと申し出ている！別れを告げて、先へ進む。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:923
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[2]/text"
+msgstr "我々も多かれ少なかれ君たちと同じ、旗も忠誠心もない！"
+
+#: src-en/data/events_sector_emv_droppoint.xml:925
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+"「また同類か。まあ、我々にできる最善は、いくらかの物資を渡し、幸運を祈ることだ。このことは誰にも言うな。」謎の集団は物資の隠し場所を渡し、幸運を祈った後、このことを誰にも言わないようにと念を押す。あなたが見た見知らぬ人々について考えながら、集落を去る。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:930
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[3]/text"
+msgstr "それが君に何の関係がある？"
+
+#: src-en/data/events_sector_emv_droppoint.xml:932
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[3]/event/text"
+msgstr ""
+"「なるほど、それで私の質問の答えが出た。侵入者だ！撃て！」その人物が命令を叫ぶとすぐに、十数本のレーザーがあなたとクルーに降り注ぐ！幸いにも、あなたは無事に船に戻るが、船にテレポートの痕跡があることにも気づく！"
+
+#: src-en/data/events_sector_emv_droppoint.xml:949
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"FINISH_BEACON_MVPMC\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:953
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"FINISH_BEACON_MVPMC\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:957
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"FINISH_BEACON_MVPMC\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:966
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"FINISH_BEACON_FLEET_MVPMC\"]/text"
+msgstr ""
+"出口ビーコンを見つけたが、反乱軍はすでに到着しており、エリートがあなたを追跡するために派遣されている！MVPMC部隊は反撃しているが、それでも次のセクターにできるだけ早くジャンプしなければならない。"
+
+#: src-en/data/events_sector_emv_droppoint.xml:973
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"FINISH_BEACON_FLEET_MVPMC\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:977
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"FINISH_BEACON_FLEET_MVPMC\"]/choice[@req=\"engines\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_emv_droppoint.xml:981
+msgid ""
+"data/events_sector_emv_droppoint.xml$//event[@name=\"FINISH_BEACON_FLEET_MVPMC\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
+msgstr ""

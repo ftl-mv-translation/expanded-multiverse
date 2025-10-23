@@ -1,0 +1,76 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/sector_data.xml.append:3
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_GILDED_FINALE\"]/nameList/name"
+msgstr "最後の抵抗。"
+
+#: src-en/data/sector_data.xml.append:66
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[1]"
+msgstr "反逆者のコロニー"
+
+#: src-en/data/sector_data.xml.append:67
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[2]"
+msgstr "反逆者の宙域"
+
+#: src-en/data/sector_data.xml.append:68
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[3]"
+msgstr "反逆者の集落"
+
+#: src-en/data/sector_data.xml.append:69
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[4]"
+msgstr "反逆者のフロンティア"
+
+#: src-en/data/sector_data.xml.append:70
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[5]"
+msgstr "反逆者の領土"
+
+#: src-en/data/sector_data.xml.append:71
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[6]"
+msgstr "反逆者の領域"
+
+#: src-en/data/sector_data.xml.append:72
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[7]"
+msgstr "反逆者のリムワールド"
+
+#: src-en/data/sector_data.xml.append:73
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[8]"
+msgstr "反逆者のリージョン"
+
+#: src-en/data/sector_data.xml.append:74
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[9]"
+msgstr "反逆者の管区"
+
+#: src-en/data/sector_data.xml.append:75
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[10]"
+msgstr "反逆者の地区"
+
+#: src-en/data/sector_data.xml.append:76
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[11]"
+msgstr "反逆者の縄張り"
+
+#: src-en/data/sector_data.xml.append:77
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[12]"
+msgstr "反逆者の区画"
+
+#: src-en/data/sector_data.xml.append:78
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[13]"
+msgstr "反逆者の辺境"

@@ -1,0 +1,18 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_events.xml.append:1
+msgid "data/text_events.xml.append$//text[@name=\"emv_atlas_mvpmc_generic\"]"
+msgstr ""
+"名前：MVPMC支配セクター\n"
+"タイプ：中立\n"
+"ユニーク：偽\n"
+"支配勢力：マルチバース民間軍事請負業者\n"
+"反乱軍の脅威レベル：中（中立艦隊）\n"
+"\n"
+"MVPMCの支配と権威下にある多くのセクターの一つ。たとえあなたの忠誠が連邦にあっても、ここであなたを雇った人々への恩を忘れてはならない。MVPMCは侵入者や競争相手に容赦しないので、ここでは慎重に行動し、彼らがあなたの友人であることに感謝するべきだ…今のところは。\n"
+"セクターに近づくと、チェックポイントから自動アナウンスが流れる。「全MVPMC反逆者に告ぐ。このセクターに向かう多数の侵入者を検出した。地図におおよその位置をマークした。コード53-G-アルファに基づき、好きな方法で彼らを排除し、彼らが持つ報酬をすべて手に入れることが許可されている。健闘を祈る！」"

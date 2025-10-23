@@ -1,0 +1,36 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/mod-appendix/metadata.xml:2
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
+msgstr "拡張マルチバース"
+
+#: src-en/mod-appendix/metadata.xml:4
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/author"
+msgstr "ノーテルとウィロー"
+
+#: src-en/mod-appendix/metadata.xml:6
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
+msgstr ""
+"反逆者の概念を拡張することに焦点を当てたアドオン。\n"
+"\n"
+"追加要素：\n"
+"\n"
+"バニラ・マルチバースで導入された新機能の一部を簡単なゲームプレイで提供する、チュートリアル風の船を追加。\n"
+"\n"
+"旅行者が修理や物資の補給、クエストの受注ができる、擬似的な休憩地点となる新しいセクター。\n"
+"\n"
+"MVの領域内に収まる範囲の、突飛すぎず退屈すぎない、追加のファン創作の伝承。\n"
+"\n"
+"クレジット：\n"
+"\n"
+"ノーテル - リード開発者、船デザイナー\n"
+"インセインボコ - 兵器アート\n"
+"ウィロー L.M - クリエイティブディレクション、船レイアウト作成\n"
+"リザード - 音楽ディレクション\n"
+"アルダー - プログラミング、クリエイティブアシスタンス\n"
+"ダーキーズ、ハーモニー、エビル・ペッパープレイズ、リーランド、ミスバイナリリリー、カセル7、シリーサンドヴィッチ、ヴァシャン - プレイテスト、品質管理"
