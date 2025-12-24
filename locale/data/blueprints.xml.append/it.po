@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-12-25 10:15+0000\n"
+"Last-Translator: Nicola Morelli <nicomore1702@gmail.com>\n"
 "Language-Team: Italian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/datablueprintsxmlappend/it/>\n"
 "Language: it\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
@@ -91,16 +91,18 @@ msgstr "Sabota sistemi a velocità 2x."
 #: src-en/data/blueprints.xml.append:29
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[4]"
-msgstr ""
+msgstr "Subisce danno 0,7x in combattimento, da fuoco e da soffocamento."
 
 #: src-en/data/blueprints.xml.append:30
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[5]"
-msgstr ""
+msgstr "Addestrato con abilità al lv2."
 
 #: src-en/data/blueprints.xml.append:35
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/desc"
 msgstr ""
+"L'Ammiraglio Vance della Flotta Reietta multiversale. Una specie di "
+"criminale."
 
 #: src-en/data/blueprints.xml.append:37
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/title"
