@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-26 10:20+0000\n"
+"PO-Revision-Date: 2026-01-04 18:44+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/datablueprintsxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
@@ -410,7 +410,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:245
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/class"
-msgstr "Croiseur multiversel de la Coalition"
+msgstr "Croiseur MV de la Coalition"
 
 #: src-en/data/blueprints.xml.append:246
 msgid ""
@@ -429,7 +429,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:324
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/class"
-msgstr "Croiseur multiversel Kadahellien"
+msgstr "Croiseur MV Kadahellien"
 
 #: src-en/data/blueprints.xml.append:325
 msgid ""
@@ -448,7 +448,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:485
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/class"
-msgstr "Auto-croiseur Multiversel de la Fédération"
+msgstr "Auto-croiseur MV de la Fédération"
 
 #: src-en/data/blueprints.xml.append:486
 msgid ""
@@ -485,7 +485,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:643
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/class"
-msgstr "Croiseur multiversel des Mantis libres"
+msgstr "Croiseur MV des Mantis libres"
 
 #: src-en/data/blueprints.xml.append:644
 msgid ""
@@ -505,7 +505,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:722
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/class"
-msgstr "Croiseur multiversel de la Milice"
+msgstr "Croiseur MV de la Milice"
 
 #: src-en/data/blueprints.xml.append:723
 msgid ""
@@ -524,7 +524,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:806
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/class"
-msgstr "Croiseur multiversel Zoltan"
+msgstr "Croiseur MV Zoltan"
 
 #: src-en/data/blueprints.xml.append:807
 msgid ""
@@ -542,7 +542,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:884
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/class"
-msgstr "Croiseur multiversel Républicain"
+msgstr "Croiseur MV Républicain"
 
 #: src-en/data/blueprints.xml.append:885
 msgid ""
@@ -561,7 +561,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:963
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/class"
-msgstr "Croiseur multiversel des Lost Sun"
+msgstr "Croiseur MV des Lost Sun"
 
 #: src-en/data/blueprints.xml.append:964
 msgid ""
@@ -597,7 +597,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1116
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/class"
-msgstr "Croiseur Rebelle alternatif Multiversel"
+msgstr "Croiseur Rebelle alt-MV"
 
 #: src-en/data/blueprints.xml.append:1117
 msgid ""
@@ -615,7 +615,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1196
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/class"
-msgstr "Croiseur multiversel de la Théocratie"
+msgstr "Croiseur MV de la Théocratie"
 
 #: src-en/data/blueprints.xml.append:1197
 msgid ""
@@ -633,7 +633,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1274
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/class"
-msgstr "Croiseur multiversel Hektar(tm)"
+msgstr "Croiseur MV Hektar(tm)"
 
 #: src-en/data/blueprints.xml.append:1275
 msgid ""
@@ -652,7 +652,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1354
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/class"
-msgstr "Croiseur multiversel des Evêques"
+msgstr "Croiseur MV des Evêques"
 
 #: src-en/data/blueprints.xml.append:1355
 msgid ""
@@ -670,7 +670,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1510
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/class"
-msgstr "Croiseur Exécuteur alternatif Multiversel"
+msgstr "Croiseur Exécuteur alt-MV"
 
 #: src-en/data/blueprints.xml.append:1511
 msgid ""
@@ -689,7 +689,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1589
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/class"
-msgstr "Croiseur multiversel des Paladins"
+msgstr "Croiseur MV des Paladins"
 
 #: src-en/data/blueprints.xml.append:1590
 msgid ""
@@ -707,7 +707,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1667
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/class"
-msgstr "Croiseur multiversel des Chasseurs d'Effroi"
+msgstr "Croiseur MV des Chasseurs d'Effroi"
 
 #: src-en/data/blueprints.xml.append:1668
 msgid ""
@@ -725,7 +725,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1744
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/class"
-msgstr "Croiseur multiversel Lanius"
+msgstr "Croiseur MV Lanius"
 
 #: src-en/data/blueprints.xml.append:1745
 msgid ""
@@ -743,7 +743,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1824
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/class"
-msgstr "Croiseur multiversel de l'Innovation"
+msgstr "Croiseur MV de l'Innovation"
 
 #: src-en/data/blueprints.xml.append:1825
 msgid ""
@@ -761,7 +761,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1901
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/class"
-msgstr "Croiseur multiversel Crépusculeur"
+msgstr "Croiseur MV Crépusculeur"
 
 #: src-en/data/blueprints.xml.append:1902
 msgid ""
@@ -780,7 +780,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1979
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/class"
-msgstr "Croiseur multiversel de la Ruche"
+msgstr "Croiseur MV de la Ruche"
 
 #: src-en/data/blueprints.xml.append:1980
 msgid ""
@@ -799,7 +799,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2058
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/class"
-msgstr "Croiseur multiversel Sodium"
+msgstr "Croiseur MV Sodium"
 
 #: src-en/data/blueprints.xml.append:2059
 msgid ""
@@ -817,7 +817,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2211
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/class"
-msgstr "Croiseur multiversel Prototype"
+msgstr "Croiseur MV Prototype"
 
 #: src-en/data/blueprints.xml.append:2212
 msgid ""
@@ -834,7 +834,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2289
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/class"
-msgstr "Croiseur multiversel des Cultivateurs"
+msgstr "Croiseur MV des Cultivateurs"
 
 #: src-en/data/blueprints.xml.append:2290
 msgid ""
@@ -852,7 +852,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2369
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/class"
-msgstr "Croiseur multiversel MFK ACE"
+msgstr "Croiseur MV MFK ACE"
 
 #: src-en/data/blueprints.xml.append:2370
 msgid ""
