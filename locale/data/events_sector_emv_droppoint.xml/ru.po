@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-02-15 15:44+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "expanded-multiverse/dataevents_sector_emv_droppointxml/ru/>\n"
 "Language: ru\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_emv_droppoint.xml:31
 msgid ""
@@ -140,7 +140,7 @@ msgstr ""
 "\"Стой, нет, нет, нет, нет, так не пойдет, ты же не будешь его слушать? Я "
 "просто гражданский, ты не можешь просто убить меня!\"\n"
 "\n"
-"\"Эм, могут? И типа, насколько я помню, гражданские здесь не живут?\"\n"
+"\"Эм, могу? И типа, насколько я помню, гражданские здесь не живут?\"\n"
 "\n"
 "\"Пожалуйста, вы не можете убить меня за то, что я говорю правду!\""
 
