@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-15 15:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/expanded-multiverse/datatext_blueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,144 +10,207 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/text_blueprints.xml.append:1
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MILITIA_unlock\"]"
-msgstr ""
+msgstr "获取多元强铁星舰以解锁本船。"
 
 #: src-en/data/text_blueprints.xml.append:2
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MINISTRY_unlock\"]"
-msgstr ""
+msgstr "驾驶多元盟卫星舰抵达第五星区以解锁本船。"
 
 #: src-en/data/text_blueprints.xml.append:3
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_THEOCRACY_unlock\"]"
-msgstr ""
+msgstr "驾驶多元牧师团星舰抵达第五星区以解锁本船。"
 
 #: src-en/data/text_blueprints.xml.append:4
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_ANGEL_unlock\"]"
 msgstr ""
+"驾驶多元神权国星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元盟卫星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:7
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_FEDAUTO_unlock\"]"
 msgstr ""
+"驾驶多元告死星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元超能星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:10
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_ALTREBEL_unlock\"]"
 msgstr ""
+"驾驶多元联邦自动星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元神权国星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:13
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_DUSK_unlock\"]"
 msgstr ""
+"驾驶多元异种叛军星舰抵达第五星区以解锁本船。\n"
+"\n"
+"或使用多元告死星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:16
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_AUTO_unlock\"]"
 msgstr ""
+"驾驶多元暮临星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元联邦自动星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:19
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_SPOOK_unlock\"]"
 msgstr ""
+"驾驶多元叛军自动星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元异种叛军星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:22
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_LEECH_unlock\"]"
 msgstr ""
+"驾驶多元寻鬼敢死队星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元暮临星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:25
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_HEKTAR_unlock\"]"
 msgstr ""
+"驾驶多元共和国星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元叛军自动星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:28
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_FREEMANTIS_unlock\"]"
 msgstr ""
+"驾驶多元赫克塔星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元寻鬼敢死队星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:31
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_ENFORCER_unlock\"]"
 msgstr ""
+"驾驶多元自由螳螂星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元共和国星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:34
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_SMUGGLER_unlock\"]"
 msgstr ""
+"驾驶改-叛军多元星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元赫克塔星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:37
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_HIVE_unlock\"]"
 msgstr ""
+"驾驶多元走私星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元自由螳螂星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:40
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_COALITION_unlock\"]"
 msgstr ""
+"驾驶多元母巢星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用改-叛军多元星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:43
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_LANIUS_unlock\"]"
 msgstr ""
+"驾驶多元星联星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元走私星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:46
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_LOSTSUN_unlock\"]"
 msgstr ""
+"驾驶多元食铁星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元母巢星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:49
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_BISHOP_unlock\"]"
 msgstr ""
+"驾驶多元迷失烈阳星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元星联星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:52
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MFK_unlock\"]"
 msgstr ""
+"驾驶多元主教星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元食铁星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:55
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_PALADIN_unlock\"]"
 msgstr ""
+"驾驶多元MFK星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元迷失烈阳星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:58
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_CULTIVATOR_unlock\"]"
 msgstr ""
+"驾驶多元圣骑士星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元主教星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:61
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_SALT_unlock\"]"
 msgstr ""
+"驾驶多元种植者星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元MFK星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:64
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_KADAHELLIAN_unlock\"]"
 msgstr ""
+"驾驶多元纳星舰抵达第五星区以解锁本船\n"
+"\n"
+"或使用多元圣骑士星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:67
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_FLAGSHIP_unlock\"]"
-msgstr ""
+msgstr "使用所有新增的多元星舰取得胜利。"
 
 #: src-en/data/text_blueprints.xml.append:68
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_PURE_unlock\"]"
-msgstr ""
+msgstr "以多元叛军自动星舰击败 CURA。"
 
 #: src-en/data/text_blueprints.xml.append:69
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_VITAE_unlock\"]"
-msgstr ""
+msgstr "以多元自由螳螂星舰摧毁母巢。"
 
 #: src-en/data/text_blueprints.xml.append:70
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MORTIS_unlock\"]"
-msgstr ""
+msgstr "以多元母巢螳螂星舰营救弗雷迪。"
