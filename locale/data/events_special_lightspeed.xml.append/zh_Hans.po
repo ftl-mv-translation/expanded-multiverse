@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-15 15:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/expanded-multiverse/dataevents_special_lightspeedxmlappend/zh_Hans/>"
 "\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_lightspeed.xml.append:5
 #, fuzzy
@@ -23,12 +23,20 @@ msgstr "继续。"
 msgid ""
 "data/events_special_lightspeed.xml.append$/dummyroot/mod:findName[1]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "是否前往最终一战？"
 
 #: src-en/data/events_special_lightspeed.xml.append:18
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"EMV_GILDED_WARP\"]/text"
 msgstr ""
+"名称： [style[color:ffb045]]撤离之都[/style]\n"
+"\t类型： [style[color:ffbd64]]已中和。[/style]\n"
+"\t唯一性： [style[color:ffc369]]当然然然……[/style]\n"
+"\t主导派系： [style[color:ffd780]]鎏金众。[/style]\n"
+"\t叛军威胁等级： [style[color:ffb045]]不复存在。[/style]\n"
+"\n"
+"\t[style[color:ffb045]]为[/style][style[color:ffbd64]]我[/style]"
+"[style[color:ffd780]]们[/style][style[color:ffc369]]准准备……[/style]"
 
 #: src-en/data/events_special_lightspeed.xml.append:26
 msgid ""
@@ -60,19 +68,19 @@ msgstr "调整航径。"
 msgid ""
 "data/events_special_lightspeed.xml.append$/dummyroot/mod:findName[2]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "前往多元宇宙补给点。"
 
 #: src-en/data/events_special_lightspeed.xml.append:64
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "前往多元宇宙补给点。"
 
 #: src-en/data/events_special_lightspeed.xml.append:71
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "前往 MVPMC 补给站。"
 
 #: src-en/data/events_special_lightspeed.xml.append:79
 msgid ""
