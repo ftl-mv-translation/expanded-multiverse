@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-15 15:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/expanded-multiverse/dataevents_sector_emv_droppointxml/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,12 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_emv_droppoint.xml:31
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/text"
 msgstr ""
+"你追踪着求救信标，却在退出光速的瞬间险些擦碰到那艘正在发出信号的舰船外壳，稳"
+"住方位后，你与该舰建立了通讯。\n"
+"\n"
+"“呃……你好，能帮个忙吗？我们低估了这趟行程需要的燃料量，结果……现在一点燃料都没"
+"有了，能行行好帮一把吗？”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:35
 msgid ""
@@ -26,29 +31,42 @@ msgstr "给他们一些燃料。"
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[1]/event/text"
 msgstr ""
+"你递给那名变元者几组燃料，并祝他旅途顺利。正要离开时，对方突然呼叫了你。\n"
+"\n"
+"“嘿，多谢帮忙。我想这个你路上用得上——你比我更需要它。祝你好运，舰长。”\n"
+"那名变元者为表谢意，提议将他们船上的一门武器加装到你的舰船上。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:48
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[2]/text"
-msgstr ""
+msgstr "你坦言自己燃料也所剩不多，但还是递过去一组。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:50
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[2]/event/text"
 msgstr ""
+"你向那名变元者解释，自己的燃料也所剩无几，勉强才能撑到最近的信标，但还是递过"
+"去一组，并祝他好运。\n"
+"\n"
+"“好吧……我也不想表现得像个乞丐，总比什么都没有强。至少你不像那些混蛋，明明燃料"
+"多得是，却藏着掖着。拿着这个，我不白拿别人的东西。”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:60
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[3]/text"
-msgstr ""
+msgstr "关闭通讯，开火。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:62
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[3]/event/text"
 msgstr ""
+"听到对方的请求后，你切断了通讯。然而，就在那艘船加速向你冲来时，通讯再次响起"
+"：\n"
+"\n"
+"“哦！！！现在你觉得区区一组燃料比一条命还重要？！那我就杀了你，让你知道生命有"
+"多宝贵！”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:67
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[3]/event/choice/text"
 msgstr "继续。"
@@ -56,12 +74,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:77
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[4]/text"
-msgstr ""
+msgstr "连连道歉，转身逃跑。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:79
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[4]/event/text"
-msgstr ""
+msgstr "你连声道歉后转身离开，留下那名被困的变元者一脸茫然地愣在原地。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:81
 msgid ""
@@ -71,35 +89,61 @@ msgstr "星舰管理。"
 #: src-en/data/events_sector_emv_droppoint.xml:85
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[4]/event/choice[2]/text"
-msgstr ""
+msgstr "尽快逃离这尴尬的处境。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:93
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/text"
 msgstr ""
+"余光之中，你瞥见远处有两艘舰船已亮出武器。这很不寻常——因为 MVPMC 严禁变元者在"
+"此地互相拔剑相向。然而，待你定睛细看，才发现其中一艘是变元者，另一艘则是同盟"
+"的舰船。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:95
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/text"
-msgstr ""
+msgstr "接入通讯频段。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:97
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/text"
 msgstr ""
+"你调转无线电频率，想听听那边到底发生了什么。\n"
+"\n"
+"“好吧，你到底是怎么到这儿来的？你绝对不可能自己闯进来——谁放你进来的？”\n"
+"\n"
+"“这不关你的事。我就住在这个星区，我家就在这儿！”\n"
+"\n"
+"“什——怎——为——……好吧，听我说。我就直说了：如果你乖乖让我把你送到别的地方去，我"
+"可以当什么都没发生过。”\n"
+"\n"
+"“不要。”\n"
+"\n"
+"“什么？‘不要’是什么意思？”\n"
+"\n"
+"“我不跟你走。”\n"
+"\n"
+"“天哪，不管人们信什么都好——等等，你站在那儿多久了——算了，你能把这未经授权的家"
+"伙干掉吗？我不会亏待你的，求你了，让我省省心吧。”\n"
+"\n"
+"“等等，不不不不，这不行，你不会听他的对吧？我只是个平民，你不能就这么杀了我！"
+"”\n"
+"\n"
+"“呃，他们当然可以？而且，我记得平民可不该住在这儿吧？”\n"
+"\n"
+"“求你了，你不能因为我说真话就杀我！”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:119
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "攻击同盟舰船。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:122
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你决定维护规则，清除这片空间里的非法闯入者。“不！你不能这样对我！”准备战斗！"
 
 #: src-en/data/events_sector_emv_droppoint.xml:124
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -107,15 +151,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:130
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "攻击变元者。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:133
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "当你亮出武器时，那名变元者难以置信地呼叫了你：“好啊，反正我今天已经够倒霉了！"
+"居然还有‘正义人士’跑来保护平民！进入战斗岗位！”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:135
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -123,12 +167,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:141
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "让他们自行处理。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:143
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "“什么？哦，现在你突然有道德感了？天哪，怎么每个人都非要对我心软——”你关闭通讯"
+"，趁局势还未因你的出现而进一步激化，准备跃迁离开。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:145
 msgid ""
@@ -138,17 +183,18 @@ msgstr "星舰管理。"
 #: src-en/data/events_sector_emv_droppoint.xml:149
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "跳过.."
 
 #: src-en/data/events_sector_emv_droppoint.xml:157
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[2]/text"
-msgstr ""
+msgstr "让他们自己解决吧。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:159
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[2]/event/text"
-msgstr ""
+msgstr "那两人之间的事与你无关。趁局势还未恶化、更未莫名其妙把你卷进去之前，你准备离"
+"开。你启动了跃迁引擎。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:161
 msgid ""
@@ -158,15 +204,15 @@ msgstr "星舰管理。"
 #: src-en/data/events_sector_emv_droppoint.xml:165
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "跳过.."
 
 #: src-en/data/events_sector_emv_droppoint.xml:188
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DESTROYED_UNION_UNAUTHORIZED\"]/text"
-msgstr ""
+msgstr "那艘民用舰船已被击溃。你心知这恐怕不会给你的履历增添光彩——不过，另一方面，倒"
+"是能捞到不少废料…"
 
 #: src-en/data/events_sector_emv_droppoint.xml:191
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DESTROYED_UNION_UNAUTHORIZED\"]/choice/text"
 msgstr "继续。"
@@ -175,9 +221,11 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DESTROYED_UNION_UNAUTHORIZED\"]/choice/event/text"
 msgstr ""
+"那艘变元者舰船再次呼叫了你。“总算有人把我从这个‘小朋友’手里解救出来了。托你的"
+"福，我终于可以回去值班，没人打扰了。拿着这个，就当是感谢你出手相助——帮了变元"
+"者一把的谢礼。”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:196
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DESTROYED_UNION_UNAUTHORIZED\"]/choice/event/choice/text"
 msgstr "继续。"
@@ -185,10 +233,10 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:204
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEADCREW_UNION_UNAUTHORIZED\"]/text"
-msgstr ""
+msgstr "那艘民用舰船已被击溃。你心知这恐怕不会给你的履历增添光彩——不过，另一方面，倒"
+"是能捞到不少废料…"
 
 #: src-en/data/events_sector_emv_droppoint.xml:207
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEADCREW_UNION_UNAUTHORIZED\"]/choice/text"
 msgstr "继续。"
@@ -197,9 +245,11 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEADCREW_UNION_UNAUTHORIZED\"]/choice/event/text"
 msgstr ""
+"那艘变元者舰船再次呼叫了你。“总算有人把我从这个‘小朋友’手里解救出来了。托你的"
+"福，我终于可以回去值班，没人打扰了。拿着这个，就当是感谢你出手相助——帮了变元"
+"者一把的谢礼。”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:212
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEADCREW_UNION_UNAUTHORIZED\"]/choice/event/choice/text"
 msgstr "继续。"
@@ -207,10 +257,9 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:220
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_GUARD_UNAUTHORIZED\"]/text"
-msgstr ""
+msgstr "无论后果如何，你为了保护同盟舰船，还是击毁了那艘变元者舰船。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:223
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_GUARD_UNAUTHORIZED\"]/choice/text"
 msgstr "继续。"
@@ -219,9 +268,11 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_GUARD_UNAUTHORIZED\"]/choice/event/text"
 msgstr ""
+"你在拆解那艘舰船时，收到了同盟舰船的通讯。“我……我不知道该说什么，但……谢谢你。"
+"我也不想让这事以流血收场，可他不肯罢休。虽然我觉得这对你来说不会有什么好结果"
+"，但……收下这个吧。祝你好运。”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:228
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_GUARD_UNAUTHORIZED\"]/choice/event/choice/text"
 msgstr "继续。"
@@ -229,15 +280,14 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:237
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/beaconType/@text"
-msgstr ""
+msgstr "[style[color:ffffff]]擅闯者[[/style]]"
 
 #: src-en/data/events_sector_emv_droppoint.xml:239
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "擅闯者位置。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:240
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -245,10 +295,9 @@ msgstr "已探索的信标，没什么值得注意。"
 #: src-en/data/events_sector_emv_droppoint.xml:242
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/text"
-msgstr ""
+msgstr "根据广播，有一名擅闯者正朝这里逼近……说时迟那时快，他们来了！"
 
 #: src-en/data/events_sector_emv_droppoint.xml:244
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/choice/text"
 msgstr "继续。"
@@ -257,6 +306,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_RETIREMENT\"]/text"
 msgstr ""
+"一名变元者拦住了你的去路，向你提出一个请求。“嘿，大人物。拿着这个，我的船用不"
+"着了。我要回老家，直到死了化成灰。后会有期。”不知为何，这名变元者把他的船送给"
+"你拆解。免费的东西，你当然不会拒绝。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:253
 msgid ""
@@ -272,6 +324,12 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_BADASSITUDE\"]/text"
 msgstr ""
+"你的无线电自动调频到一个电视信号，正播报着关于宇宙深处某座远古秘藏的传闻，正"
+"在招募秘藏猎人前去开启。正当你细看这份邀约时，画面突然切换到一个留着大胡子、"
+"戴着墨镜的肌肉男，直呼无聊。“我是托克，我只有一个问题，也只有一个问题——爆炸呢"
+"？？？？”话音未落，信号又闪烁到某个公司标志上，画面上还拙劣地P上了爆炸特效。"
+"你可以看见屏幕上有两个人正在来回争吵，于是你切断了信号。与此同时，你发现不知"
+"为何，太空中竟漂浮着一枚随机导弹武器。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:265
 msgid ""
@@ -282,6 +340,10 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_CONSPIRACY\"]/text"
 msgstr ""
+"你刚跃入星系，无线电就被一阵难以辨识的胡言乱语瞬间淹没——有人在念叨着什么“蛞蝓"
+"深层政府”和“超越认知的远古神灵”。他还絮叨着什么“鎏金之物”，说那东西只会考验最"
+"强大的人。你没听进去多少，因为一艘变元者舰船瞬间将他蒸发，中断了广播。不过，"
+"爆炸产生的些许废料倒是飘向了你的舰船。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:273
 msgid ""
@@ -291,17 +353,21 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:279
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/text"
-msgstr ""
+msgstr "通过舰船无线电，你监听到叛军正在广播宣传，试图吸引变元者的注意。他们竟然还提"
+"到了你，悬赏废料征集你的位置情报。你担心这会让舰队精确定位到你。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:281
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[1]/text"
-msgstr ""
+msgstr "打开无线电，开出更高的赏金。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:283
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[1]/event/text"
 msgstr ""
+"你将舰船通讯频道设为公开广播，悬赏重酬拦截那支冒充你的舰队。令叛军广播大大火"
+"的是，一名变元者接下了你的悬赏，迅速卷走废料，径直迎头冲向那支舰队。这下你应"
+"该能占据上风了。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:289
 msgid ""
@@ -311,50 +377,57 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:295
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[2]/text"
-msgstr ""
+msgstr "试图威慑叛军。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:299
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[3]/text"
-msgstr ""
+msgstr "尽快离开。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:301
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[3]/event/text"
-msgstr ""
+msgstr "哪怕位置已经暴露，你也带着手头的一切全速撤离，只为赶在舰队来袭的 ASB 将你撕碎"
+"之前逃离此地。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:305
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "（黑客）劫持通讯频段。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:307
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[@req=\"hacking\"]/event/text"
 msgstr ""
+"你远程劫持了叛军的通讯频段，开始播放一些……不太合适的广播内容，让所有人都听了"
+"去。叛军手忙脚乱地试图修复这一“失误”，而就在这时，MVPMC 的官员找上门来，命令"
+"他们离开星系。趁此机会，你还向舰队传输了虚假数据。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:320
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA_GOOD\"]/text"
 msgstr ""
+"你亮出武器，逼近正在广播宣传的叛军。他们的广播戛然而止，一边收拾行装准备撤离"
+"，一边为带来的不便道歉。你还趁机敲诈了一笔废料，作为他们惹麻烦的赔偿。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:326
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA_BAD\"]/text"
-msgstr ""
+msgstr "当你亮出武器逼近叛军时，却不太高兴地发现，对方竟有一名精英战斗舰正在迎面而来"
+"！叛军舰长随即呼叫了你：“所以，你是要向我靠近吗？！”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:329
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA_BAD\"]/choice/text"
-msgstr ""
+msgstr "不靠近些，我可没法摧毁你！"
 
 #: src-en/data/events_sector_emv_droppoint.xml:344
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_REBEL_ELITE_PROPAGANDA\"]/text"
-msgstr ""
+msgstr "尽管遭遇反抗军精英的突袭，他们仍不敌你的神勇。你上前拆解他们的舰船，随后直面"
+"叛军的广播站。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:347
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_REBEL_ELITE_PROPAGANDA\"]/choice/text"
 msgstr "继续。"
@@ -362,32 +435,38 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:349
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_REBEL_ELITE_PROPAGANDA\"]/choice/event/text"
-msgstr ""
+msgstr "好好好，算你狠！舰队不追了，我们在这儿开派对行了吧？只要不杀我们，你想干嘛干"
+"嘛，要什么拿什么！我们这就走！"
 
 #: src-en/data/events_sector_emv_droppoint.xml:358
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/text"
-msgstr ""
+msgstr "一名“警长”模样的人在你进入星系时呼叫了你，请求你的帮助。“你好啊，变元者。我叫"
+"林格警长，正在这片星区追捕这名流亡者。愿意当一回执法副手吗？"
 
 #: src-en/data/events_sector_emv_droppoint.xml:360
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[1]/text"
-msgstr ""
+msgstr "当然，何乐而不为？"
 
 #: src-en/data/events_sector_emv_droppoint.xml:362
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[1]/event/text"
 msgstr ""
+"“干得好，伙计。这儿有个无赖，一直在耍……花招。就在两天前，他撂倒了我四个弟兄——"
+"愿他们安息。把他带回来，死的活的都行。”警长把那名流亡者的最后已知位置给了你，"
+"你便动身前去追猎。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:367
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[2]/text"
-msgstr ""
+msgstr "其实没有，我太忙了。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:369
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“哼，那倒也是。现在的年轻人啊，早把荣誉和法律忘光了……”你与此刻一脸失望的警长"
+"拉开距离，准备继续前行。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:371
 msgid ""
@@ -397,20 +476,21 @@ msgstr "星舰管理。"
 #: src-en/data/events_sector_emv_droppoint.xml:375
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "跳过.."
 
 #: src-en/data/events_sector_emv_droppoint.xml:381
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[3]/text"
-msgstr ""
+msgstr "攻击警长。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:384
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[3]/event/text"
 msgstr ""
+"你亮出武器、瞄准警长舰船时，对方显然吃了一惊。警长随即呼入通讯：“现在是正午……"
+"”你有些困惑，不明白他们是如何计算时间的——毕竟在这种情境下，“正午”毫无意义。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:386
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[3]/event/choice/text"
 msgstr "继续。"
@@ -418,10 +498,10 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:399
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_SHERIFF_DESTROYED\"]/text"
-msgstr ""
+msgstr "你已击败林格警长。趁他的副手们还没赶来为他的狂妄复仇，你匆忙拆解了他的舰船。"
+"尽管此刻热血上涌，但你心知肚明——恐怕再无人会给你容身之所了。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:402
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_SHERIFF_DESTROYED\"]/choice/text"
 msgstr "继续。"
@@ -429,10 +509,10 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:408
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_SHERIFF_CREWKILL\"]/text"
-msgstr ""
+msgstr "你已击败林格警长。趁他的副手们还没赶来为他的狂妄复仇，你匆忙拆解了他的舰船。"
+"尽管此刻热血上涌，但你心知肚明——恐怕再无人会给你容身之所了。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:411
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_SHERIFF_CREWKILL\"]/choice/text"
 msgstr "继续。"
@@ -440,25 +520,28 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:419
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "一名警长告知你，此处有一名高价值目标。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:422
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/text"
 msgstr ""
+"你根据警长的指引，追踪到了一名头号通缉犯。令你惊讶的是，对方并非初出茅庐的普"
+"通海盗，而是一名经验丰富的老手，驾驶着一艘独一无二的舰船。这当真是一场正义与"
+"邪恶的崇高对决。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:424
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[1]/text"
-msgstr ""
+msgstr "正午已至，人渣。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:426
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“哈？啥？正午？你在说什——哦见鬼！兄弟们，麻烦找上门了！”海盗被你的突然出现打"
+"了个措手不及，随即展开攻击！"
 
 #: src-en/data/events_sector_emv_droppoint.xml:429
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -466,12 +549,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:435
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[2]/text"
-msgstr ""
+msgstr "赶紧溜之大吉。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:437
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你觉得荣誉和礼节在这趟充满风险的任务面前不值一提，于是把这活儿留给别人去干了"
+"。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:439
 msgid ""
@@ -481,20 +565,26 @@ msgstr "星舰管理。"
 #: src-en/data/events_sector_emv_droppoint.xml:443
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "什么都不做……"
 
 #: src-en/data/events_sector_emv_droppoint.xml:458
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_PIRATE_CREWKILL\"]/text"
 msgstr ""
+"你清空了海盗船上的船员，将海盗船长逼进了他的舱室。“好吧，我的路就到头了。快活"
+"了一场，不过也该结束了。”你呼叫警长，告知海盗船长已被你控制。“哎呀呀，这可真"
+"是个惊喜。把他带到最近的殖民地，我们正午在那儿碰头，准备绞刑。干得好，小子。”"
+"你有点困惑，警长在太空里是怎么算时间的——不过现在不重要了，因为你已收到最近殖"
+"民地的坐标，可以去移交海盗了。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:464
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_PIRATE_DESTROY\"]/text"
 msgstr ""
+"你目睹那艘海盗船燃起熊熊烈焰，船长的焦黑帽子被抛入太空。你呼叫警长，汇报任务"
+"完成。“干得好，伙计。很高兴看到这代年轻人还懂得荣誉。后会有期，牛仔。”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:467
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_PIRATE_DESTROY\"]/choice/text"
 msgstr "继续。"
@@ -502,15 +592,18 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:476
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_FINALE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "警长在此处为你准备了赏金。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:478
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_FINALE\"]/text"
 msgstr ""
+"你终于抵达殖民地，但愿现在符合警长所说的“正午”标准。看着警长的副手们押走海盗"
+"船长时，他呼叫了你。“干得好，牛仔。而且正好赶在正午的刺眼阳光下。对了，那些被"
+"这渣滓杀害的死者家属，想用他们的方式感谢你将恶徒绳之以法。去最近的军械库吧，"
+"喜欢什么随便拿。后会有期，牛仔。”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:480
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_FINALE\"]/choice/text"
 msgstr "继续。"
@@ -519,9 +612,11 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_FINALE\"]/choice/event/text"
 msgstr ""
+"你被匆匆带入殖民地的一处军械库，有人把钥匙交给你，让你随意挑选旅途所需之物。"
+"你挑了些趁手的，也确保小镇不至于完全失去防卫。你挥手告别，远远看着海盗船长被"
+"行刑队击毙。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:486
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_FINALE\"]/choice/event/choice/text"
 msgstr "继续。"
@@ -530,36 +625,44 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/text"
 msgstr ""
+"余光中，你瞥见十几艘舰队规模的变元者舰船正拖运着货物，朝一颗荒芜的行星驶去。"
+"你前往它们出发的空间站，打听那些货物究竟是什么。“哦，那颗行星？就是个废弃的大"
+"型垃圾填埋场，供过往的变元者舰船使用。我们守着这儿，是怕有什么吃垃圾的家伙跑"
+"过去惹麻烦。”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:496
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/text"
-msgstr ""
+msgstr "询问能否去下面回收些废弃物资。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:498
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "那名变元者站点负责人与同伴商量后，转向你说道：“行，你可以去，不过得付我们一大"
+"笔废料。下面出了什么事你自己负责，我们可不管。”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:500
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "拿出一些废料。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:502
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你递上废料，对方再次提醒你这次回收行动的风险。随着你向行星降落，舰船被一股腐"
+"臭的气息浸透，锈蚀的颗粒在空中飞舞。你只能搜寻片刻，否则这将对你和船员构成真"
+"正的威胁。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:507
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "四处搜寻，看看有什么能用的。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:511
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[1]/event/choice[@req=\"SCRAP_COLLECTOR\"]/text"
-msgstr ""
+msgstr "（废料收集臂）试着捞点东西上来。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:517
 msgid ""
@@ -569,7 +672,8 @@ msgstr "拒绝并离开。"
 #: src-en/data/events_sector_emv_droppoint.xml:519
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你礼貌地拒绝了——这次回收行动既没保险，价格也不划算。你离开空间站，准备继续前"
+"行。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:521
 msgid ""
@@ -579,17 +683,18 @@ msgstr "星舰管理。"
 #: src-en/data/events_sector_emv_droppoint.xml:525
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "什么都不做……"
 
 #: src-en/data/events_sector_emv_droppoint.xml:533
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[2]/text"
-msgstr ""
+msgstr "不再多问，径直离开。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:535
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你对这个冠冕堂皇的巨型垃圾场毫无兴趣。空间站与你道别，你发现动身前还有些时间"
+"可以做点别的。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:537
 msgid ""
@@ -599,47 +704,56 @@ msgstr "星舰管理。"
 #: src-en/data/events_sector_emv_droppoint.xml:541
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "什么都不做……"
 
 #: src-en/data/events_sector_emv_droppoint.xml:558
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_SCRAP\"]/text"
-msgstr ""
+msgstr "你从一艘损毁舰船的船体里拖出一大堆废料。不知为何，废料上洒满了发光的尘埃，但"
+"你没太在意，直接把它拖回了舰上。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:563
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_SUPPLIES\"]/text"
-msgstr ""
+msgstr "你挖出了几箱补给。箱子里只剩些残羹冷炙，但总归是个不错的收获。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:568
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_WEAPON\"]/text"
-msgstr ""
+msgstr "正当你四处搜寻有价值之物时，船员通知你发现了一个从未开启的武器箱！你把它搬上"
+"舰船，打开了这个惊人的宝藏。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:574
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_DRONE\"]/text"
-msgstr ""
+msgstr "一名船员在箱子里找到了无人机的设计图纸。他们将图纸带回舰上，随时可以投入使用"
+"。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:580
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_AUGMENT\"]/text"
-msgstr ""
+msgstr "在一艘损毁舰船的残骸里，你找到了该舰原有的一个增强部件。你把它拆下来，装到了"
+"自己的舰船上。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:586
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_MAPINFO\"]/text"
-msgstr ""
+msgstr "可惜你没找到什么有价值的东西，不过；一名船员带回了一个存满坐标和星图数据的推"
+"进器。虽不算多，但用来导航已经足够了。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:592
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_ARM\"]/text"
-msgstr ""
+msgstr "你决定不值得拿船员的性命冒险，改用废料臂把废料拖回舰上。这么一来，倒也收获颇"
+"丰。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:599
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_CONVOY\"]/text"
 msgstr ""
+"你刚跃入星系，就探测到附近有另一个多元宇宙推进器信号！你担心是什么猎手，但仔"
+"细一看，原来是一支大型护航舰船 ，隶属于你的变元者同僚。你稍稍松了口气，回到岗"
+"位上。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:601
 msgid ""
@@ -649,12 +763,16 @@ msgstr "星舰管理。"
 #: src-en/data/events_sector_emv_droppoint.xml:605
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_CONVOY\"]/choice[2]/text"
-msgstr ""
+msgstr "什么都不做……"
 
 #: src-en/data/events_sector_emv_droppoint.xml:611
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_ENVY\"]/text"
 msgstr ""
+"余光中，你听到几艘舰船传来热闹的交谈声。“太棒了兄弟们！咱们要发大财了！发大财"
+"！那个金库能让咱们一辈子衣食无忧！别浪费时间了，快走！！”你羡慕他们的闲暇时光"
+"，正准备跟上去，却注意到他们口中的“金库”几乎肯定在叛军舰队的某个地方。于是你"
+"转而整装待发。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:613
 msgid ""
@@ -664,12 +782,16 @@ msgstr "星舰管理。"
 #: src-en/data/events_sector_emv_droppoint.xml:617
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_ENVY\"]/choice[2]/text"
-msgstr ""
+msgstr "什么都不做……"
 
 #: src-en/data/events_sector_emv_droppoint.xml:625
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/text"
 msgstr ""
+"一艘破损的舰船拦截了你，反复呼叫着。“求您帮帮我们！我们正被一个疯子追杀，他一"
+"路跟着我们，把我们打得七零八落！您要什么我们都给，只要您保护我们远离那个——”船"
+"长话未说完，追击者便呼入通讯。“哟，看来我的狩猎还挺热闹的。这么着吧，你把那只"
+"小兔子放了，我或许能给你点好处。怎么样，同行的猎人？”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:627
 msgid ""
@@ -680,19 +802,22 @@ msgstr "接受贿赂。"
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[1]/event/text"
 msgstr ""
+"你决定切断与猎物的通讯，向那艘变元者舰船驶去。他们给了你一些补给，然后祝你一"
+"路顺风。余光中，你看见那艘被追猎的舰船正被变元者撕成碎片。那场面固然震撼，但"
+"你不想再多逗留了。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:634
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[2]/text"
-msgstr ""
+msgstr "保护那艘船。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:636
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你摆出防御姿态，亮出武器。那名变元者对此毫不买账，几乎掩饰不住恼怒，强挤出一"
+"丝笑意。“好吧，看来又得清理几只太空害虫了！”准备战斗！"
 
 #: src-en/data/events_sector_emv_droppoint.xml:639
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -700,20 +825,25 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:645
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "（高级武器）想都别想？"
 
 #: src-en/data/events_sector_emv_droppoint.xml:647
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[@req=\"weapons\"]/event/text"
 msgstr ""
+"你向那名变元者表明，在保护生命这件事上，你绝不是在开玩笑。对方注意到你的武器"
+"装备，缓缓后退。“行行行，大概是风太大了。兄弟们，收工！我们撤！”他们离开了星"
+"系，给你留出足够的时间再去查看那艘被追猎的舰船。\n"
+"\n"
+"“我无法用言语表达对您帮助的感激。您拯救了船上这么多生命，我们永远铭记您的恩情"
+"。请收下这个，保重。”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:662
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_DESTROY\"]/text"
-msgstr ""
+msgstr "那艘变元者舰船终于被击败了。你拆解了舰船，然后再次查看那艘被追猎的舰船。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:665
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_DESTROY\"]/choice/text"
 msgstr "继续。"
@@ -721,15 +851,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:667
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_DESTROY\"]/choice/event/text"
-msgstr ""
+msgstr "那艘破损的舰船呼叫了你。“我无法用言语表达对您帮助的感激。您拯救了船上这么多生"
+"命，我们永远铭记您的恩情。请收下这个，保重。”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:674
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_CREWKILL\"]/text"
-msgstr ""
+msgstr "那艘变元者舰船终于被击败了。你拆解了舰船，然后再次查看那艘被追猎的舰船。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:677
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_CREWKILL\"]/choice/text"
 msgstr "继续。"
@@ -737,12 +867,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:679
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_CREWKILL\"]/choice/event/text"
-msgstr ""
+msgstr "那艘破损的舰船呼叫了你。“我无法用言语表达对您帮助的感激。您拯救了船上这么多生"
+"命，我们永远铭记您的恩情。请收下这个，保重。”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:691
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/text"
 msgstr ""
+"你发现一名多元闯入者正在挟持一家商店。店主向你呼救：“求您救救我们！这个疯子自"
+"从我们拒绝为他服务，就一直醉醺醺地喊着叛军口号，您得让他结束这可悲的痛苦！”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:693
 msgid ""
@@ -752,10 +885,10 @@ msgstr "援救商店。"
 #: src-en/data/events_sector_emv_droppoint.xml:695
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你上前保护商店，对抗那名因被拒绝服务而恼羞成怒的叛军舰长。“你你你……这些变元者"
+"走狗——嗝——必将被——嗝——被叛军的铁蹄碾碎！”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:698
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -763,12 +896,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_droppoint.xml:704
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[2]/text"
-msgstr ""
+msgstr "让他们自己解决吧。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:706
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你觉得眼前发生的事与你无关，于是无视了那个手忙脚乱翻着变元者行为守则的店主。"
+"你准备继续前行。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:708
 msgid ""
@@ -778,15 +912,15 @@ msgstr "星舰管理。"
 #: src-en/data/events_sector_emv_droppoint.xml:712
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "什么都不做……"
 
 #: src-en/data/events_sector_emv_droppoint.xml:725
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_DESTROYED\"]/text"
-msgstr ""
+msgstr "当你走进商店，开始拆解那艘船时，你的思绪飘忽不定，试图回忆起一句关于葬礼、罐"
+"头汤、胶水和地狱的名言。直到你在商店里买了东西，你才想起这件事。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:728
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_DESTROYED\"]/choice/text"
 msgstr "继续。"
@@ -795,6 +929,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_DESTROYED\"]/choice/event/text"
 msgstr ""
+"店主把你迎进店里，让你从一份精心挑选清单中挑选。“谢谢你刚才出手相助。平时我们"
+"还得敲诈一笔入场费，不过管它呢，你救了我们，这比那几块废料强多了！整间店都归"
+"你了，我的朋友。”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:733
 msgid ""
@@ -809,10 +946,10 @@ msgstr "跳过。"
 #: src-en/data/events_sector_emv_droppoint.xml:745
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_CREWKILL\"]/text"
-msgstr ""
+msgstr "当你走进商店，开始拆解那艘船时，你的思绪飘忽不定，试图回忆起一句关于葬礼、罐"
+"头汤、胶水和地狱的名言。直到你在商店里买了东西，你才想起这件事。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:748
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_CREWKILL\"]/choice/text"
 msgstr "继续。"
@@ -821,6 +958,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_CREWKILL\"]/choice/event/text"
 msgstr ""
+"店主把你迎进店里，让你从一份精心挑选清单中挑选。“谢谢你刚才出手相助。平时我们"
+"还得敲诈一笔入场费，不过管它呢，你救了我们，这比那几块废料强多了！整间店都归"
+"你了，我的朋友。”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:753
 msgid ""
@@ -836,26 +976,31 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/text"
 msgstr ""
+"你刚跃入信标，险些撞上一个漂浮在太空中的巨型货柜。稳住方位后，你才发现自己正"
+"置身于一艘货船的残骸之中。你觉得肇事者应该不会留下什么值钱的东西，但还是尽力"
+"捞了些散落的废料。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:769
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
-msgstr ""
+msgstr "（食铁族）派你的食铁族船员提取更多废料。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:771
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/text"
-msgstr ""
+msgstr "你命令食铁族船员进入残骸，再弄些废料出来。没过多久，他们就给你捞回了一小堆可"
+"供使用的废料。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:776
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[@req=\"SCRAP_COLLECTOR\"]/text"
-msgstr ""
+msgstr "（废料收集臂）试着再捞些废料。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:778
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[@req=\"SCRAP_COLLECTOR\"]/event/text"
-msgstr ""
+msgstr "你用舰上的废料臂从舰船较坚固的部位又弄了些废料。废料收集臂发挥奇效，你从残骸"
+"中又捞了一笔，随后就此离去。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:783
 msgid ""
@@ -871,36 +1016,40 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_GRADUATION\"]/text"
 msgstr ""
+"你注意到远处正在举行某种庆祝活动。走近一看，才知是变元者的毕业派对，任何人都"
+"可以参加。你逗留片刻，和新晋变元者聊了聊这里的规矩和变元者的生活。他们对你的"
+"建议表示感谢，并从库存中拿出一件武器赠予你作为谢礼。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:798
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/text"
-msgstr ""
+msgstr "你刚进入星系，舰船传感器就探测到附近某处传来微弱的异常信号。然而，你用肉眼找"
+"不到任何踪迹，雷达上也毫无显示。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:800
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[1]/text"
-msgstr ""
+msgstr "尝试寻找信号来源。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:804
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "(高级传感器)超频你的传感器。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:808
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[@req=\"ADV_SCANNERS\"]/text"
-msgstr ""
+msgstr "（长距扫描仪）超频你的传感器。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:812
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[4]/text"
-msgstr ""
+msgstr "保持现状。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:814
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[4]/event/text"
-msgstr ""
+msgstr "你对这种莫名其妙的信号毫无兴趣。就让它们继续保持神秘吧，你准备启程。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:816
 msgid ""
@@ -915,7 +1064,8 @@ msgstr "跳过。"
 #: src-en/data/events_sector_emv_droppoint.xml:835
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_BAD\"]/text"
-msgstr ""
+msgstr "你尽力寻找信号，但无论怎么尝试，传感器的强度都不足以定位它，最终信号从星图上"
+"消失了。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:837
 msgid ""
@@ -930,12 +1080,13 @@ msgstr "跳过。"
 #: src-en/data/events_sector_emv_droppoint.xml:847
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_GOOD\"]/text"
-msgstr ""
+msgstr "你将传感器的探测范围开到最大，试图找到信号来源。幸运的是，传感器的强度足以精"
+"确定位到附近发出信号的那处定居点。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:849
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_GOOD\"]/choice[1]/text"
-msgstr ""
+msgstr "靠近定居点。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:853
 msgid ""
@@ -945,7 +1096,8 @@ msgstr "离开。"
 #: src-en/data/events_sector_emv_droppoint.xml:855
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_GOOD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "有件事你该记住——像这样隐藏的定居点，往往就是等着毫无防备的舰船靠港送命的陷阱"
+"。你赶紧离开了。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:857
 msgid ""
@@ -961,26 +1113,33 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/text"
 msgstr ""
+"你小心翼翼地停靠，却不由得注意到，这里曾是叛军的藏身处。褪色的橙色调、烧焦的 "
+"MFK 鹰徽、散落一地的王牌飞行员头盔。紧张感让你的脑海浸满忧虑，而黑暗中突然闪"
+"现的幽蓝光芒，更让气氛雪上加霜。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:871
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/text"
-msgstr ""
+msgstr "表明你的身份。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:873
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/text"
 msgstr ""
+"你向定居点的居民宣告了你的到来。一个接一个，幽蓝的光芒越来越多，数量远超你与"
+"你的船员。“所以……又一个毫无防备的叛军，真是有趣。看来我们并没有自己想象中那么"
+"隐蔽。准备去死，追随你那些腐烂的同胞吧！”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:875
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/text"
-msgstr ""
+msgstr "等等！我不是叛军的人！"
 
 #: src-en/data/events_sector_emv_droppoint.xml:877
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "话音刚落，那些神秘的身影停下了脚步，走到光亮处，显露出真容。“你不是……叛军？那"
+"你是什么人？你是怎么找到我们的？”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:879
 msgid ""
@@ -990,77 +1149,97 @@ msgstr "我们正在前往节点17的途中。"
 #: src-en/data/events_sector_emv_droppoint.xml:881
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "“节点17……那是……算了，这事改天再说吧。那你为什么要去那儿？”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:883
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "为了拯救联邦。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:885
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "“呵，行吧。你走吧。”你话音刚落，便注意到数十把爆能枪已瞄准你和你的船员，这让"
+"你赶紧返回舰上，再也不敢踏足这处定居点。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:890
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "为了搞点废料。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:892
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"“那好吧，至少你这是在为自己干活。或许这次亲眼看着叛军覆灭，倒也不失为一场好戏"
+"。拿着这个，祝你好运。”你注意到几名工程师走向你的舰船，升级了武器系统！你与定"
+"居点道别，他们祝你一路顺风。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:897
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "找点乐子。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:899
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"“寻刺激的？这……倒也不意外，不过对我来说无所谓。那你最好快点赶路吧。”定居点祝"
+"你旅途好运，还派了几名工程师升级了你的引擎，好让你更快抵达目标。你与他们道别"
+"，继续前行。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:904
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"human_mfk\"]/text"
-msgstr ""
+msgstr "（MFK王牌）叛军已经虚弱不堪，正处于最黑暗的时刻。我们将完成这项任务。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:906
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"human_mfk\"]/event/text"
 msgstr ""
+"你的王牌登场了，他面对一名定居者，解释道：叛军不过是一群贪婪成性的疯子，权力"
+"让他们昏了头，正走向深渊，很快就会灰飞烟灭。定居点的首领走上前，与你握手，随"
+"后派了一名手下跟随你。“敌人的敌人就是朋友。我的一名精英会陪你走这一趟。给他们"
+"点颜色看看，小子。”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:912
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"EMV_LIST_CREW_ROGUE\"]/text"
-msgstr ""
+msgstr "（浪人船员）兄弟，我们向你求援。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:914
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"EMV_LIST_CREW_ROGUE\"]/event/text"
 msgstr ""
+"你刚亮出你的浪人船员，那个神秘身影便立正敬礼，表示愿倾力相助。“不效命于任何旗"
+"帜与信条，我们只服务于往昔荣光！”你匆匆返回舰上，只见工程师们正在改装你的舰船"
+"，加装最好的升级部件，还有一名忠诚而强大的船员希望加入你的舰队！你道别后，继"
+"续前行。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:923
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "我们跟你差不多，无旗无派！"
 
 #: src-en/data/events_sector_emv_droppoint.xml:925
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"“原来是自己人。那好吧，我们只能给你些补给，祝你好运。别告诉任何人。”那群神秘"
+"人递给你一箱补给，祝你一路顺风，并再三叮嘱不要泄密。你离开定居点，心中仍对所"
+"见的那群陌生人充满疑惑。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:930
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "“这跟你有什么关系？”"
 
 #: src-en/data/events_sector_emv_droppoint.xml:932
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[3]/event/text"
 msgstr ""
+"“行，这下我明白了。有入侵者！开火！”那身影一声令下，数十道激光如暴雨般向你与"
+"你的船员倾泻！所幸你全身而退，逃回舰上，但同时也注意到舰上出现了传送信号！"
 
 #: src-en/data/events_sector_emv_droppoint.xml:949
 msgid ""
@@ -1080,10 +1259,10 @@ msgstr "跳过。"
 #: src-en/data/events_sector_emv_droppoint.xml:966
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"FINISH_BEACON_FLEET_MVPMC\"]/text"
-msgstr ""
+msgstr "你已找到出口信标，但叛军已先行抵达，并派遣了一名王牌飞行员前来追踪你！MVPMC "
+"的部队正在反击，但你仍须尽快跃迁至下一星区。"
 
 #: src-en/data/events_sector_emv_droppoint.xml:973
-#, fuzzy
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"FINISH_BEACON_FLEET_MVPMC\"]/choice[1]/text"
 msgstr "继续。"
