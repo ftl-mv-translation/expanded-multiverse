@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-15 15:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/expanded-multiverse/dataautoblueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,34 +10,34 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/autoBlueprints.xml.append:258
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EMV_MV_DUSKGUARD\"]/class"
-msgstr ""
+msgstr "多元宇宙变元者守卫舰"
 
 #: src-en/data/autoBlueprints.xml.append:285
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EMV_MV_ENGIGUARD\"]/class"
-msgstr ""
+msgstr "多元宇宙变元者守卫舰"
 
 #: src-en/data/autoBlueprints.xml.append:312
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EMV_GILDED_BEAM_MASTER\"]/class"
-msgstr ""
+msgstr "鎏金主宰"
 
 #: src-en/data/autoBlueprints.xml.append:349
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EMV_GILDED_SUN\"]/class"
-msgstr ""
+msgstr "陨落之阳"
 
 #: src-en/data/autoBlueprints.xml.append:388
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EMV_GILDED_TRUEFLAGSHIP\"]/class"
-msgstr ""
+msgstr "'镀金之魂'"
 
 #: src-en/data/autoBlueprints.xml.append:431
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EMV_GILDED_MERCHANT\"]/class"
-msgstr ""
+msgstr "鎏金游商"
