@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-15 15:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/expanded-multiverse/dataevents_special_storagexmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_storage.xml.append:72
 msgid ""
@@ -34,13 +34,13 @@ msgstr "无法配置该特质，因为你拥有对应版本的外置特质。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_MEDBAY_NANO\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "该升级不可用。螳螂信息素已具备相同功能。"
 
 #: src-en/data/events_special_storage.xml.append:113
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（先进劫持器） 探测附近海盗信号。"
 
 #: src-en/data/events_special_storage.xml.append:119
 msgid ""
@@ -60,31 +60,31 @@ msgstr "是。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "选择你的专注方向，或者……试试你的运气。"
 
 #: src-en/data/events_special_storage.xml.append:126
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "阿尔吉恩集团。"
 
 #: src-en/data/events_special_storage.xml.append:130
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "佣兵团。"
 
 #: src-en/data/events_special_storage.xml.append:134
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
 " and @lvl=\"0\"]/event/choice[3]/text"
-msgstr ""
+msgstr "提卡卡。"
 
 #: src-en/data/events_special_storage.xml.append:138
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ADV_FREQUENCIES\"]/choice[@req=\"loc_laststand\""
 " and @lvl=\"0\"]/event/choice[4]/text"
-msgstr ""
+msgstr "试试你的运气……"
 
 #: src-en/data/events_special_storage.xml.append:142
 msgid ""
@@ -100,32 +100,32 @@ msgstr "算了，做点别的。"
 #: src-en/data/events_special_storage.xml.append:158
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN\"]/text"
-msgstr ""
+msgstr "你发现一名走私者正在此星区进行交易，便标记了他们的位置…"
 
 #: src-en/data/events_special_storage.xml.append:166
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE\"]/text"
-msgstr ""
+msgstr "你发现一名佣兵正在此星区进行交易，便标记了他们的位置…"
 
 #: src-en/data/events_special_storage.xml.append:174
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA\"]/text"
-msgstr ""
+msgstr "你发现一名奴隶贩子正在此星区进行交易，便标记了他们的位置…"
 
 #: src-en/data/events_special_storage.xml.append:182
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOMIZER\"]/text"
-msgstr ""
+msgstr "你决定随机锁定一处海盗活动，将其标记在星图上。"
 
 #: src-en/data/events_special_storage.xml.append:188
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/beaconType/@text"
-msgstr ""
+msgstr "走私船"
 
 #: src-en/data/events_special_storage.xml.append:190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "走私者位置。"
 
 #: src-en/data/events_special_storage.xml.append:191
 #, fuzzy
@@ -136,7 +136,7 @@ msgstr "已探索的信标，没什么值得注意。"
 #: src-en/data/events_special_storage.xml.append:193
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_ARGEONN_QUEST\"]/text"
-msgstr ""
+msgstr "你已抵达走私者所在位置。"
 
 #: src-en/data/events_special_storage.xml.append:195
 #, fuzzy
@@ -147,12 +147,12 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:202
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE_QUEST\"]/beaconType/@text"
-msgstr ""
+msgstr "佣兵"
 
 #: src-en/data/events_special_storage.xml.append:204
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "佣兵位置。"
 
 #: src-en/data/events_special_storage.xml.append:205
 #, fuzzy
@@ -163,7 +163,7 @@ msgstr "已探索的信标，没什么值得注意。"
 #: src-en/data/events_special_storage.xml.append:207
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_SYNDICATE_QUEST\"]/text"
-msgstr ""
+msgstr "你已抵达佣兵所在位置。"
 
 #: src-en/data/events_special_storage.xml.append:209
 #, fuzzy
@@ -174,12 +174,12 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:216
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/beaconType/@text"
-msgstr ""
+msgstr "奴隶贩子"
 
 #: src-en/data/events_special_storage.xml.append:218
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "佣兵位置。"
 
 #: src-en/data/events_special_storage.xml.append:219
 #, fuzzy
@@ -190,7 +190,7 @@ msgstr "已探索的信标，没什么值得注意。"
 #: src-en/data/events_special_storage.xml.append:221
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_TIIKAKA_QUEST\"]/text"
-msgstr ""
+msgstr "你已抵达奴隶贩子所在位置。"
 
 #: src-en/data/events_special_storage.xml.append:223
 #, fuzzy
@@ -201,12 +201,12 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:230
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOM_QUEST\"]/beaconType/@text"
-msgstr ""
+msgstr "海盗"
 
 #: src-en/data/events_special_storage.xml.append:232
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOM_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "海盗位置。"
 
 #: src-en/data/events_special_storage.xml.append:233
 #, fuzzy
@@ -217,7 +217,7 @@ msgstr "已探索的信标，没什么值得注意。"
 #: src-en/data/events_special_storage.xml.append:235
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_EMV_RANDOM_QUEST\"]/text"
-msgstr ""
+msgstr "你已抵达海盗所在位置。"
 
 #: src-en/data/events_special_storage.xml.append:237
 #, fuzzy
@@ -229,70 +229,70 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "MVPMC 恶名值 [--5]"
 
 #: src-en/data/events_special_storage.xml.append:338
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "MVPMC 恶名值 [-5]"
 
 #: src-en/data/events_special_storage.xml.append:342
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "MVPMC 恶名值 [-4]"
 
 #: src-en/data/events_special_storage.xml.append:346
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "MVPMC 恶名值 [-3]"
 
 #: src-en/data/events_special_storage.xml.append:350
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "MVPMC 恶名值 [-2]"
 
 #: src-en/data/events_special_storage.xml.append:354
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "MVPMC恶名值[-1]"
 
 #: src-en/data/events_special_storage.xml.append:358
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "MVPMC恶名值[1]"
 
 #: src-en/data/events_special_storage.xml.append:362
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "MVPMC 恶名值 [2]"
 
 #: src-en/data/events_special_storage.xml.append:366
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "MVPMC恶名值[3]"
 
 #: src-en/data/events_special_storage.xml.append:370
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[10]/text"
-msgstr ""
+msgstr "MVPMC恶名值[4]"
 
 #: src-en/data/events_special_storage.xml.append:374
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[11]/text"
-msgstr ""
+msgstr "MVPMC恶名值[5]"
 
 #: src-en/data/events_special_storage.xml.append:378
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[12]/text"
-msgstr ""
+msgstr "MVPMC恶名值[5++]"
