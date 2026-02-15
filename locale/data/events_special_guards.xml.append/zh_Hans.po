@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-15 15:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/expanded-multiverse/dataevents_special_guardsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,22 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_guards.xml.append:2
 msgid ""
 "data/events_special_guards.xml.append$//textList[@name=\"TEXT_EMV_DROPPOINT_GUARD\"]/text[1]"
-msgstr ""
+msgstr "你一穿过关口，便迅速环顾四周。无数舰船往来穿梭，戒备森严，重兵布防。你暗自庆"
+"幸自己持有合法身份证明，否则绝无可能踏足此地。"
 
 #: src-en/data/events_special_guards.xml.append:3
 msgid ""
 "data/events_special_guards.xml.append$//textList[@name=\"TEXT_EMV_DROPPOINT_GUARD\"]/text[2]"
 msgstr ""
+"跃迁进MVPMC控制区总是让人神经紧绷——即便你早已不是第一次这么做。你瞥见身后绵延"
+"不绝的舰船队列，它们正等待着出入登记。你暗自希望，这般严密的安检能稍稍拖住后"
+"方舰队的脚步。"
 
 #: src-en/data/events_special_guards.xml.append:4
 msgid ""
 "data/events_special_guards.xml.append$//textList[@name=\"TEXT_EMV_DROPPOINT_GUARD\"]/text[3]"
 msgstr ""
+"退出超光速引擎，你环顾四周，凝视着MVPMC布下的那道巨型防御墙。它与你所见过的任"
+"何防御工事都截然不同——那是多元宇宙无数种族防御技术的集大成者，横亘于浩瀚空间"
+"之中。你暗自庆幸，自己并未被那些巨炮标记为可攻击目标。"
 
 #: src-en/data/events_special_guards.xml.append:17
 #, fuzzy
@@ -37,12 +44,15 @@ msgstr "继续。"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/text"
 msgstr ""
+"退出光速的瞬间，一名超能族守卫呼入通讯：“向你致敬，变元者同僚。根据第17-B-Alp"
+"ha号条款，你需提交舰船以供检查，并提供身份证明记录、受雇日期及任务报告以备审"
+"核。”"
 
 #: src-en/data/events_special_guards.xml.append:36
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/choice[@req=\"emv_rep_renegades\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "同意接受检查。"
 
 #: src-en/data/events_special_guards.xml.append:40
 #, fuzzy
@@ -60,6 +70,8 @@ msgstr "攻击守卫。"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/choice[3]/event/text"
 msgstr ""
+"“警报！这里是打击者6-6，12号入口发生黑色代码事件！重复，12号入口黑色代码，请"
+"求立即支援！”守卫舰将武器对准了你，毫无疑问已通知了附近的增援部队。准备战斗！"
 
 #: src-en/data/events_special_guards.xml.append:49
 #, fuzzy
@@ -70,7 +82,8 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:57
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_CRIMINAL\"]/text"
-msgstr ""
+msgstr "此处似乎有些不对劲。通常情况下，MVPMC 对你这样的舰船根本不屑一顾。但此刻，你"
+"却监听到守卫舰上传来可疑的通讯声。"
 
 #: src-en/data/events_special_guards.xml.append:59
 #, fuzzy
@@ -94,11 +107,15 @@ msgstr "继续。"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/text"
 msgstr ""
+"超能族检查官登上了你的舰船，开始进行详细检查。尽管流程繁琐，但由于你提前准备"
+"好了所需信息，检查很快便结束了。“很好，你现在可以在这片安全的星区自由活动了。"
+"根据第09-Z-Delta号条款，你也可享用本入境点的各项服务——前提是所有交易对参与各"
+"方均有益处，且不存在任何敌对行为。”"
 
 #: src-en/data/events_special_guards.xml.append:74
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[1]/text"
-msgstr ""
+msgstr "维修。 [3$]"
 
 #: src-en/data/events_special_guards.xml.append:76
 msgid ""
@@ -138,12 +155,12 @@ msgstr "一架补给无人机被派去为你的星舰进行补给。"
 #: src-en/data/events_special_guards.xml.append:114
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[5]/text"
-msgstr ""
+msgstr "一间商店。"
 
 #: src-en/data/events_special_guards.xml.append:116
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[5]/event/text"
-msgstr ""
+msgstr "你已获准购买装备，不过在上船之前，你还有些时间可以做点别的事情…"
 
 #: src-en/data/events_special_guards.xml.append:119
 msgid ""
@@ -158,12 +175,12 @@ msgstr "跳过。"
 #: src-en/data/events_special_guards.xml.append:132
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/text"
-msgstr ""
+msgstr "(MVPMC 声望) 一间商店。"
 
 #: src-en/data/events_special_guards.xml.append:134
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/text"
-msgstr ""
+msgstr "“啊，是我搞错了，您是优质客户！请进，免费。”"
 
 #: src-en/data/events_special_guards.xml.append:137
 msgid ""
@@ -178,12 +195,12 @@ msgstr "跳过。"
 #: src-en/data/events_special_guards.xml.append:147
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[7]/text"
-msgstr ""
+msgstr "路过。"
 
 #: src-en/data/events_special_guards.xml.append:149
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[7]/event/text"
-msgstr ""
+msgstr "你实在不想把废料花在这种地方。不过，时间确实还有富余…"
 
 #: src-en/data/events_special_guards.xml.append:151
 msgid ""
@@ -199,12 +216,15 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/text"
 msgstr ""
+"退出光速的瞬间，一名半械守卫呼入通讯：“身份识别 = 变元者。验证证明：必需。验"
+"证失败 ≠ 可选。”看样子，这名半械守卫正在命令你允许他们登舰，对你的身份进行快"
+"速检查。"
 
 #: src-en/data/events_special_guards.xml.append:167
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/choice[@req=\"emv_rep_renegades\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "同意接受检查。"
 
 #: src-en/data/events_special_guards.xml.append:171
 #, fuzzy
@@ -221,7 +241,8 @@ msgstr "攻击守卫。"
 #: src-en/data/events_special_guards.xml.append:177
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/choice[3]/event/text"
-msgstr ""
+msgstr "“错误589。舰船状态：敌对。代码=黑色。启动防御协议。”守卫将武器对准了你，毫无"
+"疑问已通知了附近的增援部队。准备战斗！"
 
 #: src-en/data/events_special_guards.xml.append:180
 #, fuzzy
@@ -233,11 +254,15 @@ msgstr "继续。"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/text"
 msgstr ""
+"那名半械检查官登上了你的舰船，开始进行检查。没过多久，他们便完成了对你的全面"
+"登记和身份验证，准许你入内。“身份验证：成功。变元者 = 已获许可。货币服务：可"
+"用。要求：有效货币形式。”看样子，你现在可以在本星区入境点的商店进行采购。在继"
+"续旅程前补充一下补给，或许是个不错的主意。"
 
 #: src-en/data/events_special_guards.xml.append:190
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[1]/text"
-msgstr ""
+msgstr "维修。 [3$]"
 
 #: src-en/data/events_special_guards.xml.append:192
 msgid ""
@@ -277,12 +302,12 @@ msgstr "一架补给无人机被派去为你的星舰进行补给。"
 #: src-en/data/events_special_guards.xml.append:230
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[5]/text"
-msgstr ""
+msgstr "一间商店。"
 
 #: src-en/data/events_special_guards.xml.append:232
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[5]/event/text"
-msgstr ""
+msgstr "你已获准购买装备，不过在上船之前，你还有些时间可以做点别的事情.."
 
 #: src-en/data/events_special_guards.xml.append:235
 msgid ""
@@ -297,12 +322,12 @@ msgstr "跳过。"
 #: src-en/data/events_special_guards.xml.append:248
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/text"
-msgstr ""
+msgstr "(MVPMC 声望) 一间商店。"
 
 #: src-en/data/events_special_guards.xml.append:250
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/text"
-msgstr ""
+msgstr "“啊，是我搞错了，您是优质客户！请进，免费。”"
 
 #: src-en/data/events_special_guards.xml.append:253
 msgid ""
@@ -317,12 +342,12 @@ msgstr "跳过。"
 #: src-en/data/events_special_guards.xml.append:263
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[7]/text"
-msgstr ""
+msgstr "路过。"
 
 #: src-en/data/events_special_guards.xml.append:265
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[7]/event/text"
-msgstr ""
+msgstr "你实在不想把废料花在这种地方。不过，时间确实还有富余…"
 
 #: src-en/data/events_special_guards.xml.append:267
 msgid ""
@@ -337,7 +362,8 @@ msgstr "跳过。"
 #: src-en/data/events_special_guards.xml.append:286
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ZOLTAN_DESTROY\"]/text"
-msgstr ""
+msgstr "你已击败变元者守卫。他们货舱里原本装着什么，无疑已被摧毁，但你至少能从舰船残"
+"骸中回收一些补给。"
 
 #: src-en/data/events_special_guards.xml.append:289
 #, fuzzy
@@ -348,7 +374,8 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:294
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ZOLTAN_DEADCREW\"]/text"
-msgstr ""
+msgstr "你已击败变元者守卫。舰上已无船员阻拦，你可以检查他们的货舱。你找到一件武器带"
+"回舰上，随后开始拆解船体。"
 
 #: src-en/data/events_special_guards.xml.append:298
 #, fuzzy
@@ -359,7 +386,8 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:310
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ENGI_DESTROY\"]/text"
-msgstr ""
+msgstr "你已击败变元者守卫。他们货舱里原本装着什么，无疑已被摧毁，但你至少能从舰船残"
+"骸中回收一些补给。"
 
 #: src-en/data/events_special_guards.xml.append:313
 #, fuzzy
@@ -370,7 +398,8 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:318
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ENGI_DEADCREW\"]/text"
-msgstr ""
+msgstr "你已击败变元者守卫。舰上已无船员阻拦，你可以检查他们的货舱。你找到一件武器带"
+"回舰上，随后开始拆解船体。"
 
 #: src-en/data/events_special_guards.xml.append:322
 #, fuzzy
@@ -381,7 +410,8 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:332
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"GUARD_EMV_RENEGADE_FOLLOWUP\"]/text"
-msgstr ""
+msgstr "你刚拆解完那艘守卫舰，又有一名擅闯者从你的舰船旁飞过。你记下这个，说不定日后"
+"可以追猎…"
 
 #: src-en/data/events_special_guards.xml.append:335
 msgid ""
