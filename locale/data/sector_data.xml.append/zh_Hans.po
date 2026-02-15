@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-15 15:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/expanded-multiverse/datasector_dataxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,74 +10,74 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/sector_data.xml.append:3
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_GILDED_FINALE\"]/nameList/name"
-msgstr ""
+msgstr "最终一战。"
 
 #: src-en/data/sector_data.xml.append:66
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[1]"
-msgstr ""
+msgstr "变元者殖民地"
 
 #: src-en/data/sector_data.xml.append:67
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[2]"
-msgstr ""
+msgstr "变元者星域"
 
 #: src-en/data/sector_data.xml.append:68
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[3]"
-msgstr ""
+msgstr "变元者定居点"
 
 #: src-en/data/sector_data.xml.append:69
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[4]"
-msgstr ""
+msgstr "变元者前沿"
 
 #: src-en/data/sector_data.xml.append:70
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[5]"
-msgstr ""
+msgstr "变元者星域"
 
 #: src-en/data/sector_data.xml.append:71
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[6]"
-msgstr ""
+msgstr "变元者疆域"
 
 #: src-en/data/sector_data.xml.append:72
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[7]"
-msgstr ""
+msgstr "变元者边疆星域"
 
 #: src-en/data/sector_data.xml.append:73
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[8]"
-msgstr ""
+msgstr "变元者区域"
 
 #: src-en/data/sector_data.xml.append:74
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[9]"
-msgstr ""
+msgstr "变元者管辖区"
 
 #: src-en/data/sector_data.xml.append:75
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[10]"
-msgstr ""
+msgstr "变元者区域"
 
 #: src-en/data/sector_data.xml.append:76
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[11]"
-msgstr ""
+msgstr "变元者地盘"
 
 #: src-en/data/sector_data.xml.append:77
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[12]"
-msgstr ""
+msgstr "变元者营地"
 
 #: src-en/data/sector_data.xml.append:78
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[13]"
-msgstr ""
+msgstr "变元者边陲"
