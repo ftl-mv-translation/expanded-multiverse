@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-15 15:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/expanded-multiverse/datahyperspace-xml-append/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/hyperspace.xml.append:19
 msgid ""
@@ -23,6 +23,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_mercenary\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒]\n"
+"\t\t\t\t对当前目标施加流血效果。"
 
 #: src-en/data/hyperspace.xml.append:67
 msgid ""
@@ -35,6 +37,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_medic\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：30秒]\n"
+"\t\t\t\t为附近所有船员注射兴奋剂，恢复15点生命值并赋予临时伤害抗性。"
 
 #: src-en/data/hyperspace.xml.append:136
 msgid ""
@@ -47,18 +51,23 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_engineer\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：25秒]\n"
+"\t\t\t\t生成一个临时无人机助手，可进行修复，但无法战斗或破坏。持续25秒。"
 
 #: src-en/data/hyperspace.xml.append:190
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_commander\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "战吼"
 
 #: src-en/data/hyperspace.xml.append:191
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_commander\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：25秒]\n"
+"\t\t\t\t同一房间内的所有友方人类获得增益效果，所有其他种族（无论阵营）获得减"
+"益效果。"
 
 #: src-en/data/hyperspace.xml.append:305
 msgid ""
@@ -70,7 +79,7 @@ msgstr "隐形"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_vance\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "短暂陷入失控状态，但生命值快速恢复。无法被指定为目标"
 
 #: src-en/data/hyperspace.xml.append:399
 msgid ""
@@ -83,6 +92,9 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_emv_mortis\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：20秒 持续时间：10秒]\n"
+"\t\t\t\t移动速度提升至 3.5 倍，船员伤害提升至 5 倍，持续期间无法进行修复，并"
+"禁止敌方恢复生命。"
 
 #: src-en/data/hyperspace.xml.append:457
 msgid ""
@@ -95,6 +107,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_emv_vitae\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：20秒 持续时间：10秒]\n"
+"\t\t\t释放医疗信息素，每秒为友方船员恢复 7.5 点生命值"
 
 #: src-en/data/hyperspace.xml.append:563
 msgid "data/hyperspace.xml.append$//slug_ranger[@name=\"Bob\"]/@name"
@@ -114,11 +128,11 @@ msgstr "莉娅"
 
 #: src-en/data/hyperspace.xml.append:1073
 msgid "data/hyperspace.xml.append$//unique_emv_mortis[@name=\"Mortis\"]/@name"
-msgstr ""
+msgstr "莫提斯"
 
 #: src-en/data/hyperspace.xml.append:1095
 msgid "data/hyperspace.xml.append$//unique_emv_vitae[@name=\"Vitae\"]/@name"
-msgstr ""
+msgstr "维塔"
 
 #: src-en/data/hyperspace.xml.append:1430
 msgid ""
@@ -146,141 +160,168 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[1]/tooltip"
 msgstr ""
+"[style[color:ffb045]]鎏[[/style]][style[color:ffbd64]]金[[/style]]"
+"[style[color:ffd780]]威[[/style]][style[color:ffc369]]胁：[[/style]]\n"
+"[style[color:ffb045]]向[[/style]][style[color:ffbd64]]我[[/style]]"
+"[style[color:ffd780]]们[[/style]][style[color:ffc369]]展现实力吧！[[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1877
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[2]/tooltip"
 msgstr ""
+"[style[color:ffb045]]鎏[[/style]][style[color:ffbd64]]金[[/style]]"
+"[style[color:ffd780]]护[[/style]][style[color:ffc369]]盾：[[/style]]\n"
+"[style[color:ffbd64]]远古之力使我们的护盾超越一切，拥有10点生命值，且若未受攻"
+"击即可自行充能……[[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1882
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[3]/tooltip"
 msgstr ""
+"[style[color:ffb045]]鎏[[/style]][style[color:ffbd64]]金[[/style]]"
+"[style[color:ffd780]]武[[/style]][style[color:ffc369]]器：[[/style]]\n"
+"[style[color:ffd780]]纯粹的神话之力流淌于我们的武器之中，缩短充能时间！"
+"[[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1887
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[4]/tooltip"
 msgstr ""
+"[style[color:ffb045]]鎏[[/style]][style[color:ffbd64]]金[[/style]]"
+"[style[color:ffd780]]再[[/style]][style[color:ffc369]]生装甲：[[/style]]\n"
+"[style[color:ffd780]]祝你好运能打穿这层装甲！拥有 25% 船体与系统抗性，并具备"
+"自动修复功能！[[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1892
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[5]/tooltip"
 msgstr ""
+"[style[color:ffb045]]鎏[[/style]][style[color:ffbd64]]金[[/style]]"
+"[style[color:ffd780]]神[[/style]][style[color:ffc369]]铠：[[/style]]\n"
+"[style[color:ffd780]]祝你好运能打穿这层装甲！拥有 25% 船体与系统抗性，并具备"
+"自动修复功能！[[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1897
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[6]/tooltip"
 msgstr ""
+"[style[color:ffb045]]鎏[[/style]][style[color:ffbd64]]金[[/style]]"
+"[style[color:ffd780]]医[[/style]][style[color:ffc369]]疗机器人：[[/style]]\n"
+"[style[color:ffc369]]这些医疗机器人不仅能让我的船员在医疗舱外接受治疗，还能提"
+"升生命值、伤害和速度……[[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1902
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[7]/tooltip"
 msgstr ""
+"[style[color:ffb045]]鎏[[/style]][style[color:ffbd64]]金[[/style]]"
+"[style[color:ffd780]]医[[/style]][style[color:ffc369]]疗机器人：[[/style]]\n"
+"[style[color:ffc369]]难以言喻的凝胶，不仅能修复破舱，还能修复系统……[[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1946
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[1]/customTitle"
-msgstr ""
+msgstr "激光"
 
 #: src-en/data/hyperspace.xml.append:1964
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[2]/customTitle"
-msgstr ""
+msgstr "光束"
 
 #: src-en/data/hyperspace.xml.append:1982
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[3]/customTitle"
-msgstr ""
+msgstr "离子武器"
 
 #: src-en/data/hyperspace.xml.append:2000
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[4]/customTitle"
-msgstr ""
+msgstr "老旧武器"
 
 #: src-en/data/hyperspace.xml.append:2018
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[5]/customTitle"
-msgstr ""
+msgstr "无人机"
 
 #: src-en/data/hyperspace.xml.append:2036
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[6]/customTitle"
-msgstr ""
+msgstr "核心系统"
 
 #: src-en/data/hyperspace.xml.append:2054
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[7]/customTitle"
-msgstr ""
+msgstr "辅助系统"
 
 #: src-en/data/hyperspace.xml.append:2072
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[8]/customTitle"
-msgstr ""
+msgstr "战利品"
 
 #: src-en/data/hyperspace.xml.append:2090
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[9]/customTitle"
-msgstr ""
+msgstr "战利品"
 
 #: src-en/data/hyperspace.xml.append:2127
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[1]/customTitle"
-msgstr ""
+msgstr "今日武器 [33%]"
 
 #: src-en/data/hyperspace.xml.append:2147
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[2]/customTitle"
-msgstr ""
+msgstr "今日无人机 [33%]"
 
 #: src-en/data/hyperspace.xml.append:2167
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[3]/customTitle"
-msgstr ""
+msgstr "今日增强部件 [33%]"
 
 #: src-en/data/hyperspace.xml.append:2207
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[7]/customTitle"
-msgstr ""
+msgstr "水手 [精选]"
 
 #: src-en/data/hyperspace.xml.append:2221
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[8]/customTitle"
-msgstr ""
+msgstr "核心系统"
 
 #: src-en/data/hyperspace.xml.append:2239
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[9]/customTitle"
-msgstr ""
+msgstr "辅助系统"
 
 #: src-en/data/hyperspace.xml.append:2257
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[10]/customTitle"
-msgstr ""
+msgstr "武器 [精选]"
 
 #: src-en/data/hyperspace.xml.append:2296
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[8]/mod-"
 "append:page/section/@text"
-msgstr ""
+msgstr "EMV 原声带"
