@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-15 15:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/expanded-multiverse/dataevents_sector_emv_gildedxml/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,12 +10,16 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_emv_gilded.xml:2
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/text"
 msgstr ""
+"你终于抵达了节点17——联邦首都。你曾在0号宇宙听说过这场冲突的传闻，那个发现了多"
+"元宇宙技术的现实世界。而现在，你将亲身参与其中。你在此地的所作所为，或将拯救"
+"这个现实，或将使其万劫不复……至少，你原本是这么以为的……对于一片战火纷飞的区域"
+"而言，这里实在太过安静了……放眼望去，唯有远方闪耀着金色的光芒。"
 
 #: src-en/data/events_sector_emv_gilded.xml:10
 #, fuzzy
@@ -26,7 +30,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_gilded.xml:12
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/text"
-msgstr ""
+msgstr "通常会有守卫舰在此核查入境资格……但此刻，竟无一人阻拦你靠近联邦指挥部。"
 
 #: src-en/data/events_sector_emv_gilded.xml:14
 msgid ""
@@ -37,6 +41,11 @@ msgstr "联系联邦指挥部。"
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/text"
 msgstr ""
+"你挺直身躯，尽力摆出精神饱满的姿态，等待着回应……然而，回应始终没有到来。你反"
+"复呼叫，期盼听到塔利上将的声音——却只有沉默。终于，一段自动留言响起：\n"
+"\n"
+"“抱歉，根据本宇宙塔利上将的命令，我们正在进行全面撤离。如果你听到这段留言，说"
+"明你本不该出现在这里……但我们依然欢迎你。如需补给或塔利上将的指引，请登舰。”"
 
 #: src-en/data/events_sector_emv_gilded.xml:20
 msgid ""
@@ -47,56 +56,100 @@ msgstr "登上空间站。"
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你做了件从未想过自己能……能做到的事——你登上了联邦指挥空间站，节点18的中枢点。"
+"即便是联邦高级军官，也需正式许可方能踏足此地。你穿行其间，空间站如同其他地方"
+"一样空荡。你查遍每一间办公室，船员们回报称，所有本该有指挥官坐镇的位置皆空无"
+"一人。你和船员们在休息区附近重新集结，就在这时——\n"
+"\n"
+"“喂，你们迷路了吗？”\n"
+"\n"
+"你和所有船员猛地转头，看向声音的来源。那是……那是塔利，联邦舰队上将。\n"
+"\n"
+"“撤离令早就下达了，我还以为你们早就跃迁走了。”塔利倚靠在椅背上，眺望着无垠的"
+"太空，悠然说道。"
 
 #: src-en/data/events_sector_emv_gilded.xml:30
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "撤离令……？您为何不在指挥塔？"
 
 #: src-en/data/events_sector_emv_gilded.xml:32
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“我为什么要去？整个星区都无法跃入——至少我听到的消息是这样。来这里的人，按理说"
+"早就该离开了。”\n"
+"\n"
+"你解释说，自己顺利跃入了这个星区。\n"
+"\n"
+"“……真的？你是第一个这么跟我说的人。其他人都已经走了。那些金色光芒极其明确地传"
+"达了命令\n"
+"凡是珍惜性命者，要么离开这个星区，要么逃得越远越好、躲得越严实越好……自从叛军"
+"旗舰被轰成碎末之后，我们就立刻听从了警告。”"
 
 #: src-en/data/events_sector_emv_gilded.xml:40
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "问他为何坐在休闲椅上。"
 
 #: src-en/data/events_sector_emv_gilded.xml:42
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“望着那些金色光芒……说来也怪，它们竟然有种奇异的美。我猜它们是某种古怪的变元者"
+"吧——虽然我从没听说过它们，也不知道我们是怎么和它们搭上线的。”\n"
+"\n"
+"塔利伸手拿起一瓶香槟。"
 
 #: src-en/data/events_sector_emv_gilded.xml:46
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "那是做什么的？"
 
 #: src-en/data/events_sector_emv_gilded.xml:48
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“我本来打算用这个庆祝叛军覆灭的。不过……这倒不是我预想中的庆祝场合……我想你们也"
+"该拿几个杯子来。”\n"
+"\n"
+"塔利举起通讯器，吩咐再送几只酒杯过来。"
 
 #: src-en/data/events_sector_emv_gilded.xml:52
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "这座空间站上还有其他人？"
 
 #: src-en/data/events_sector_emv_gilded.xml:54
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"塔利抬起头，再次望向你。\n"
+"\n"
+"“是的，还有几个人。他们不放心把我一个人留在这儿，所以空间站里还有一小批联邦工"
+"作人员在维持运转。不过其他人应该都走了。你还愣在那儿干什么？坐下吧，你看上去"
+"累坏了。”"
 
 #: src-en/data/events_sector_emv_gilded.xml:58
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "坐下吧…"
 
 #: src-en/data/events_sector_emv_gilded.xml:60
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"这把椅子……比你坐过的任何东西都要舒服……你早已忘记世上还有这般舒适……你努力不让"
+"自己沉溺于此刻，而金色的光芒依旧闪耀。你听见四周传来脚步声，其余的船员们也纷"
+"纷坐下了……\n"
+"\n"
+"“那么……你们来这里究竟是做什么的？”\n"
+"\n"
+"你开始讲述起鎏金信标的故事，以及一路走来所经历的一切。而最终，你还是来到了这"
+"里……\n"
+"\n"
+"“……我明白了……你们……是要去那些光芒所在之处……而那些光芒，恰好就是传说中真实出现"
+"在我们眼前的东西……？”"
 
 #: src-en/data/events_sector_emv_gilded.xml:68
 #, fuzzy
@@ -108,6 +161,12 @@ msgstr "是。"
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“……啊……我……没想到真会有人疯狂到想去拜访它们……你和你的船员们真是勇敢。说实话，"
+"如果手边有勋章，我现在就想给你们颁一枚……等等。”\n"
+"\n"
+"塔利对着通讯器说了几句，询问手边是否还有奖章或勋章。\n"
+"\n"
+"“好极了……”"
 
 #: src-en/data/events_sector_emv_gilded.xml:76
 #, fuzzy
@@ -119,6 +178,28 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"一片死寂……整个星区仿佛被遗弃了，空无一人——不，除了空间站上的人和那些金色光芒…"
+"…还有你和你的船员们……所有人都绷紧了神经，凝视着远方的光芒。\n"
+"\n"
+"塔利开口了。\n"
+"\n"
+"“……你们知道那是什么吗？知道会发生什么吗？”\n"
+"\n"
+"你多想告诉他们确切的答案，可脑海中却一片空白……你只能讲述那些传闻，那些关于它"
+"们的传说。你一直絮叨着，直到塔利打断你。\n"
+"\n"
+"“我明白了……听你这么说，胜利的希望恐怕很渺茫……”\n"
+"\n"
+"脚步声传来，一名自由螳螂走了过来，托盘上托着几只酒杯和一个小盒子。\n"
+"\n"
+"“啊，太好了，来搭把手？”\n"
+"\n"
+"自由螳螂把杯子放在桌上，兴奋地跑到塔利身边。塔利举起了酒瓶。\n"
+"\n"
+"砰！\n"
+"\n"
+"那只自由螳螂用它的爪子当起了开瓶器……要不是局势如此危急，你真想笑出来——不过，"
+"这场面确实还挺有趣的。"
 
 #: src-en/data/events_sector_emv_gilded.xml:98
 #, fuzzy
@@ -130,26 +211,49 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"那只自由螳螂跑开了。塔利开始倒酒。\n"
+"\n"
+"你问起这里怎么会有一只自由螳螂。\n"
+"\n"
+"“你觉得还有谁会这么又勇敢又傻，还留在这儿？”\n"
+"\n"
+"“我想你们也快该动身了吧——总不能让那些……我只能称之为神明的存在……等太久。”"
 
 #: src-en/data/events_sector_emv_gilded.xml:108
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "看来是的。"
 
 #: src-en/data/events_sector_emv_gilded.xml:110
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"塔利为所有人斟满酒杯，然后站起身来，打开了那个盒子。\n"
+"\n"
+"“听着，鉴于正是你们的行动击败了这个现实的叛军，也鉴于你们来到此地的勇气，我深"
+"感荣幸，能以此刻手头的资源，授予你们我所能给予的最高荣誉……”\n"
+"\n"
+"塔利为你们每人佩戴上一枚勋章，并递过酒杯。\n"
+"\n"
+"“干杯吧。这恐怕是你们接下来很长一段时间里最后一次机会了……我会确保你们的名字被"
+"铭记……”"
 
 #: src-en/data/events_sector_emv_gilded.xml:118
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "举杯致意。"
 
 #: src-en/data/events_sector_emv_gilded.xml:120
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"你举杯致意——为了这一整场任务，也为了沿途所经历的一切……所有的一切都汇聚于此，"
+"而你，将带着微笑去面对。\n"
+"\n"
+"塔利陪着你走回星舰，你的船员们各就各位，舰船也已补给完毕。\n"
+"\n"
+"“……祝你好运，变元者。如果活下来……记得找时间来看看我，好吗？我会一直为你加油的"
+"。”"
 
 #: src-en/data/events_sector_emv_gilded.xml:129
 #, fuzzy
@@ -166,6 +270,31 @@ msgstr "给塔利看货箱。"
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"TULLY_PRESENT\"]/event/text"
 msgstr ""
+"你将盒子推到桌上，塔利正在倒酒……\n"
+"\n"
+"“……啊……”\n"
+"\n"
+"塔利抬起头望向你。\n"
+"\n"
+"“原来是你啊，变元者……”\n"
+"\n"
+"塔利向你敬了个礼。\n"
+"\n"
+"“你知道吗，那盒子里虽然空空如也……却承载着太多的意义……”\n"
+"\n"
+"塔利笑了起来。\n"
+"\n"
+"“哈……哈哈……好吧，看来我们俩都要亲眼见识这些光芒究竟是什么了……”\n"
+"\n"
+"塔利倒完酒，你们举杯致意，目光投向远方的星辰。\n"
+"\n"
+"“我想，这大概是我们俩最后的酒了……我很快就跟你上船，得先给这里的员工交代一下，"
+"万一我死了该怎么办……联邦会没事的，就算我的死会让他们震动一下……既然叛军在这个"
+"现实已经败了，一切都会好的……”\n"
+"\n"
+"你走回星舰，塔利带着大批补给紧随其后。\n"
+"\n"
+"“……走吧，船长，向着命运。”"
 
 #: src-en/data/events_sector_emv_gilded.xml:165
 msgid ""
@@ -180,7 +309,7 @@ msgstr "继续。"
 
 #: src-en/data/events_sector_emv_gilded.xml:201
 msgid "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_EMPTY\"]/text"
-msgstr ""
+msgstr "空无一物，唯有寂静与金色光芒…"
 
 #: src-en/data/events_sector_emv_gilded.xml:203
 msgid ""
@@ -196,31 +325,49 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[1]"
 msgstr ""
+"正当你考虑要做点什么时，忽然收到一条通讯……信息内容是：\n"
+"\n"
+"…“[style[color:ffb045]]快点。[/style]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:216
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[2]"
 msgstr ""
+"正当你考虑要做点什么时，忽然收到一条通讯……信息内容是：\n"
+"\n"
+"…“[style[color:ffb045]]继续。[/style]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:219
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[3]"
 msgstr ""
+"正当你考虑要做点什么时，忽然收到一条通讯……信息内容是：\n"
+"\n"
+"…“[style[color:ffb045]]靠近。[/style]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:222
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[4]"
 msgstr ""
+"正当你考虑要做点什么时，忽然收到一条通讯……信息内容是：\n"
+"\n"
+"…“[style[color:ffb045]]我们等着呢……[/style]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:225
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[5]"
 msgstr ""
+"正当你考虑要做点什么时，忽然收到一条通讯……信息内容是：\n"
+"\n"
+"…“[style[color:ffb045]]别想跑。[/style]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:228
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[6]"
 msgstr ""
+"正当你考虑要做点什么时，忽然收到一条通讯……信息内容是：\n"
+"\n"
+"…“[style[color:ffb045]]我们看着呢。[/style]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:240
 #, fuzzy
@@ -232,31 +379,55 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[1]"
 msgstr ""
+"当你返回空间站，盼望着能找到救赎和逃离这片星区的出路时，还没来得及呼入请求许"
+"可，便收到了一条通讯……\n"
+"\n"
+"…“[style[color:ffbd64]]无处可逃。[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:249
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[2]"
 msgstr ""
+"当你返回空间站，盼望着能找到救赎和逃离这片星区的出路时，还没来得及呼入请求许"
+"可，便收到了一条通讯……\n"
+"\n"
+"…“[style[color:ffbd64]]回去。[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:252
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[3]"
 msgstr ""
+"当你返回空间站，盼望着能找到救赎和逃离这片星区的出路时，还没来得及呼入请求许"
+"可，便收到了一条通讯……\n"
+"\n"
+"…“[style[color:ffbd64]]还没完呢。[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:255
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[4]"
 msgstr ""
+"当你返回空间站，盼望着能找到救赎和逃离这片星区的出路时，还没来得及呼入请求许"
+"可，便收到了一条通讯……\n"
+"\n"
+"…“[style[color:ffbd64]]让我们看看这些白光如何化作鎏金……[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:258
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[5]"
 msgstr ""
+"当你返回空间站，盼望着能找到救赎和逃离这片星区的出路时，还没来得及呼入请求许"
+"可，便收到了一条通讯……\n"
+"\n"
+"…“[style[color:ffbd64]]你不能害怕……[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:261
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[6]"
 msgstr ""
+"当你返回空间站，盼望着能找到救赎和逃离这片星区的出路时，还没来得及呼入请求许"
+"可，便收到了一条通讯……\n"
+"\n"
+"…“[style[color:ffbd64]]让我们迎接金色的黎明吧……[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:273
 #, fuzzy
@@ -267,17 +438,24 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_gilded.xml:280
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/text"
-msgstr ""
+msgstr "当你跃入时，才发现信标处并非空无一人！一个熟悉的身影赫然出现在这里！是另一个"
+"人！那是…"
 
 #: src-en/data/events_sector_emv_gilded.xml:282
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/text"
-msgstr ""
+msgstr "希尔凡!?"
 
 #: src-en/data/events_sector_emv_gilded.xml:285
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/event/text"
 msgstr ""
+"“独一无二的那个，陌生人~~……”\n"
+"\n"
+"希尔凡的舰船清晰地映入眼帘。看到如此熟悉的身影，真是一种慰藉……\n"
+"\n"
+"“谈正事吧，陌生人~~？可惜我眼下对资源的需求~~……非常低。我猜你也不会用 1 块废"
+"料换 15 枚导弹~~吧！”"
 
 #: src-en/data/events_sector_emv_gilded.xml:292
 msgid ""
@@ -287,42 +465,69 @@ msgstr "交易。"
 #: src-en/data/events_sector_emv_gilded.xml:294
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "“恐怕我库存不多了！这~~~就是我能提供的全部了……”"
 
 #: src-en/data/events_sector_emv_gilded.xml:299
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "你无法说服自己对这里唯一的朋友出手…"
 
 #: src-en/data/events_sector_emv_gilded.xml:307
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[1]"
 msgstr ""
+"你回到了之前遇见希尔凡的地方，希望能看到他的舰船，或任何他存在过的痕迹……然而"
+"，你只收到了一条通讯：\n"
+"\n"
+"“[style[color:ffc369]]这次不行~~~，陌生人~~~……不过我的货物~~~还是留给你的……"
+"[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:310
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[2]"
 msgstr ""
+"你回到了之前遇见希尔凡的地方，希望能看到他的舰船，或任何他存在过的痕迹……然而"
+"，你只收到了一条通讯：\n"
+"\n"
+"…“[style[color:ffc369]]陌生人~~~，陌生人~~~。我是亲眼见证了进化，还是说——你只"
+"是夹着你新长出来的尾巴灰溜溜地跑回我这儿了？还是说我眼花了~~~？[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:313
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[3]"
 msgstr ""
+"你回到了之前遇见希尔凡的地方，希望能看到他的舰船，或任何他存在过的痕迹……然而"
+"，你只收到了一条通讯：\n"
+"\n"
+"…“[style[color:ffc369]]陌生人~~~，我要教你多少次，才学会不逃跑？[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:316
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[4]"
 msgstr ""
+"你回到了之前遇见希尔凡的地方，希望能看到他的舰船，或任何他存在过的痕迹……然而"
+"，你只收到了一条通讯：\n"
+"\n"
+"…“[style[color:ffc369]]陌生人~~~，我很感激你对你的希尔凡这么照顾……这次我就睁"
+"一只眼闭一只眼了~~~……[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:319
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[5]"
 msgstr ""
+"你回到了之前遇见希尔凡的地方，希望能看到他的舰船，或任何他存在过的痕迹……然而"
+"，你只收到了一条通讯：\n"
+"\n"
+"…“[style[color:ffc369]]陌生人~~~，你还要准备多少次才够~~？[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:322
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[6]"
 msgstr ""
+"你回到了之前遇见希尔凡的地方，希望能看到他的舰船，或任何他存在过的痕迹……然而"
+"，你只收到了一条通讯：\n"
+"\n"
+"“[style[color:ffc369]]陌生～～人，希望你知道自己面对的是什~~~么……[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:334
 #, fuzzy
@@ -334,31 +539,50 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[1]"
 msgstr ""
+"当你返回空间站，盼望着能找到救赎和逃离这片星区的出路时，还没来得及呼入请求许"
+"可，便收到了一条通讯……\n"
+"\n"
+"…“[style[color:ffd780]]不如让我们来审判你吧？[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:344
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[2]"
 msgstr ""
+"正当你考虑要做点什么时，忽然收到一条通讯……信息内容是：\n"
+"\n"
+"…“[style[color:ffd780]]让我们看看你决心的火焰吧！[/style]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:347
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[3]"
 msgstr ""
+"正当你考虑要做点什么时，忽然收到一条通讯……信息内容是：\n"
+"\n"
+"…“[style[color:ffd780]]我们凭什么要无声无息地收场？！[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:350
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[4]"
 msgstr ""
+"正当你考虑要做点什么时，忽然收到一条通讯……信息内容是：\n"
+"\n"
+"…“[style[color:ffd780]]让我们看看你燃烧的渴望吧！[/style]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:353
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[5]"
 msgstr ""
+"正当你考虑要做点什么时，忽然收到一条通讯……信息内容是：\n"
+"\n"
+"…“[style[color:ffd780]]向我们展示你的激情吧！[/style]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:356
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[6]"
 msgstr ""
+"正当你考虑要做点什么时，忽然收到一条通讯……信息内容是：\n"
+"\n"
+"…“[style[color:ffd780]]我保证不会痛的……[/style]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:368
 #, fuzzy
@@ -369,17 +593,17 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_gilded.xml:376
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/beaconType/@text"
-msgstr ""
+msgstr "终。"
 
 #: src-en/data/events_sector_emv_gilded.xml:378
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "那些金色光芒…"
 
 #: src-en/data/events_sector_emv_gilded.xml:381
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/text"
-msgstr ""
+msgstr "你终于抵达了旅程的巅峰。终点，就在眼前。"
 
 #: src-en/data/events_sector_emv_gilded.xml:383
 #, fuzzy
@@ -390,12 +614,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_gilded.xml:385
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/choice/event/text"
-msgstr ""
+msgstr "“[style[color:ffc561]]去死吧，小婊砸！[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:393
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LOSTSUN_START\"]/text"
-msgstr ""
+msgstr "下一艘舰船在你面前凭空显现.."
 
 #: src-en/data/events_sector_emv_gilded.xml:395
 #, fuzzy
@@ -406,12 +630,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_gilded.xml:397
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LOSTSUN_START\"]/choice/event/text"
-msgstr ""
+msgstr "“[style[color:ffd780]]放马过来！[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:405
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_START\"]/text"
-msgstr ""
+msgstr "下一艘舰船在你面前凭空显现.."
 
 #: src-en/data/events_sector_emv_gilded.xml:407
 #, fuzzy
@@ -422,12 +646,14 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_gilded.xml:409
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_START\"]/choice/event/text"
-msgstr ""
+msgstr "“[style[color:ffc369]]陌生～～人……你已经走了一半了，继续前进。[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:416
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_AFTERMATH\"]/text"
 msgstr ""
+"“[style[color:ffc369]]陌生～～人……干得好，真的，干得好……你以优异的成绩达到了"
+"我们的要求……但你能超越它们吗？[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:418
 #, fuzzy
@@ -439,21 +665,23 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_AFTERMATH\"]/choice/event/text"
 msgstr ""
+"“[style[color:ffc369]]陌生～～人……记住，这一切现在不过是一场光荣的决斗……知道"
+"自己何时落败，并不丢人……[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:427
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/text"
-msgstr ""
+msgstr "“[style[color:ffc369]]那么，陌生～～人……你意下如何？[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:429
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[1]/text"
-msgstr ""
+msgstr "让战斗继续吧！"
 
 #: src-en/data/events_sector_emv_gilded.xml:431
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“[style[color:ffc369]]你果然是我们中的一员~~~……[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:433
 #, fuzzy
@@ -464,12 +692,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_gilded.xml:439
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[2]/text"
-msgstr ""
+msgstr "不，我知道自己输了。"
 
 #: src-en/data/events_sector_emv_gilded.xml:441
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“[style[color:ffc369]]当然……既然如此……那就到地表与我们会合吧……[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:443
 #, fuzzy
@@ -480,17 +708,18 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_gilded.xml:449
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[3]/text"
-msgstr ""
+msgstr "让我想想……"
 
 #: src-en/data/events_sector_emv_gilded.xml:451
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[3]/event/text"
-msgstr ""
+msgstr "“[style[color:ffc369]]陌生～～人……慢慢来，不着急……好吧，除了它确实挺急的之外…"
+"…[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:458
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_FINALE\"]/text"
-msgstr ""
+msgstr "下一艘舰船在你面前凭空显现.."
 
 #: src-en/data/events_sector_emv_gilded.xml:460
 #, fuzzy
@@ -502,11 +731,13 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_FINALE\"]/choice/event/text"
 msgstr ""
+"“[style[color:ffb045]]终[[/style]][style[color:ffbd64]]局[[/style]]"
+"[style[color:ffd780]]将[[/style]][style[color:ffc369]]至……[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:469
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/text"
-msgstr ""
+msgstr "你开始向基地降落……目睹那些金色光芒与你一同降临…"
 
 #: src-en/data/events_sector_emv_gilded.xml:471
 #, fuzzy
@@ -517,37 +748,49 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_gilded.xml:473
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/text"
-msgstr ""
+msgstr "你步出舰船，因刚刚发生的一切而微微颤抖……鎏金游商向你走近。"
 
 #: src-en/data/events_sector_emv_gilded.xml:475
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/text"
-msgstr ""
+msgstr "...?"
 
 #: src-en/data/events_sector_emv_gilded.xml:477
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/text"
 msgstr ""
+"“[style[color:ffc369]]干得好，陌生～～人……你已展现出足够的资格，可以加入我们"
+"的行列了……不过也许……下次试试走得更远，嗯？[[/style]]”\n"
+"你完全不明白他这话是什么意思……刚想开口询问，他却只是向你眨了眨眼……\n"
+"“[style[color:ffc369]]现在，作为鎏金舰队的首脑之一，我正式将你认定为我们的一"
+"员……[[/style]]”\n"
+"他向你伸出手。"
 
 #: src-en/data/events_sector_emv_gilded.xml:482
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/text"
 msgstr ""
+"[style[color:ffb045]]继[[/style]][style[color:ffbd64]]续[[/style]]"
+"[style[color:ffd780]]前[[/style]][style[color:ffc369]]行……[[/style]]"
 
 #: src-en/data/events_sector_emv_gilded.xml:484
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“[style[color:ffb045]]欢[[/style]][style[color:ffbd64]]迎[[/style]]"
+"[style[color:ffd780]]登[[/style]][style[color:ffc369]]舰！[[/style]]”"
 
 #: src-en/data/events_sector_emv_gilded.xml:485
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/event/win/@text"
 msgstr ""
+"[style[color:ffb045]]继[[/style]][style[color:ffbd64]]续[[/style]]"
+"[style[color:ffd780]]深[[/style]][style[color:ffc369]]入……[[/style]]"
 
 #: src-en/data/events_sector_emv_gilded.xml:497
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_FINAL_REBEL\"]/destroyed/text"
-msgstr ""
+msgstr "谢天谢地，她总算走了。"
 
 #: src-en/data/events_sector_emv_gilded.xml:500
 #, fuzzy
@@ -558,7 +801,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_gilded.xml:505
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_FINAL_REBEL\"]/deadCrew/text"
-msgstr ""
+msgstr "谢天谢地，她总算走了。"
 
 #: src-en/data/events_sector_emv_gilded.xml:508
 #, fuzzy
@@ -569,7 +812,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_gilded.xml:516
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_LOSTSUN\"]/destroyed/text"
-msgstr ""
+msgstr "舰船在你面前灰飞烟灭，你冷汗直流。"
 
 #: src-en/data/events_sector_emv_gilded.xml:519
 #, fuzzy
@@ -580,7 +823,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_gilded.xml:524
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_LOSTSUN\"]/deadCrew/text"
-msgstr ""
+msgstr "舰船在你面前灰飞烟灭，你冷汗直流。"
 
 #: src-en/data/events_sector_emv_gilded.xml:527
 #, fuzzy
@@ -591,7 +834,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_gilded.xml:535
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_MERCHANT\"]/destroyed/text"
-msgstr ""
+msgstr "舰船在你面前灰飞烟灭，你冷汗直流。"
 
 #: src-en/data/events_sector_emv_gilded.xml:538
 #, fuzzy
@@ -602,7 +845,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_gilded.xml:543
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_MERCHANT\"]/deadCrew/text"
-msgstr ""
+msgstr "舰船在你面前灰飞烟灭，你冷汗直流。"
 
 #: src-en/data/events_sector_emv_gilded.xml:546
 #, fuzzy
@@ -613,7 +856,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_gilded.xml:554
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_FINAL\"]/destroyed/text"
-msgstr ""
+msgstr "你做到了，你赢了。"
 
 #: src-en/data/events_sector_emv_gilded.xml:557
 #, fuzzy
@@ -624,7 +867,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_emv_gilded.xml:562
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_FINAL\"]/deadCrew/text"
-msgstr ""
+msgstr "你做到了，你赢了。"
 
 #: src-en/data/events_sector_emv_gilded.xml:565
 #, fuzzy
