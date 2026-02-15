@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-15 15:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/expanded-multiverse/datablueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,143 +10,148 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/desc"
 msgstr ""
+"精英人类船员，训练有素、致命高效的浪人船员，曾受训效忠于“往昔荣光”。\n"
+"\t\n"
+"\t继承人类特性： 轻微窒息抗性"
 
 #: src-en/data/blueprints.xml.append:8
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/title"
-msgstr ""
+msgstr "浪人佣兵"
 
 #: src-en/data/blueprints.xml.append:9
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/short"
-msgstr ""
+msgstr "佣兵"
 
 #: src-en/data/blueprints.xml.append:12
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能： 快速挥斩一刀，对目标施加流血效果。"
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[2]"
-msgstr ""
+msgstr "船员战斗中造成 1.1 倍伤害。"
 
 #: src-en/data/blueprints.xml.append:14
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[3]"
-msgstr ""
+msgstr "船员战斗伤害减免 0.9 倍，火焰伤害减免 0.6 倍。"
 
 #: src-en/data/blueprints.xml.append:15
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[4]"
-msgstr ""
+msgstr "学习技能速度大幅提升。"
 
 #: src-en/data/blueprints.xml.append:20
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/desc"
-msgstr ""
+msgstr "超精英人类船员，身经百战的王牌训练，他们甚至能瓦解猎物的士气，使其沦为待宰的"
+"羔羊。"
 
 #: src-en/data/blueprints.xml.append:22
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/title"
-msgstr ""
+msgstr "浪人指挥官"
 
 #: src-en/data/blueprints.xml.append:23
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/short"
-msgstr ""
+msgstr "指挥官"
 
 #: src-en/data/blueprints.xml.append:26
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能： 发出震天战吼，强化己方人类船员，同时重挫所有非人类船员的士气。"
 
 #: src-en/data/blueprints.xml.append:27
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[2]"
-msgstr ""
+msgstr "船员战斗中造成 1.8 倍伤害。"
 
 #: src-en/data/blueprints.xml.append:28
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[3]"
-msgstr ""
+msgstr "系统破坏速度提升至 2 倍。"
 
 #: src-en/data/blueprints.xml.append:29
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[4]"
-msgstr ""
+msgstr "船员战斗、火焰及窒息伤害减免 0.7 倍。"
 
 #: src-en/data/blueprints.xml.append:30
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[5]"
-msgstr ""
+msgstr "掌握二级技能。"
 
 #: src-en/data/blueprints.xml.append:35
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/desc"
-msgstr ""
+msgstr "多元宇宙浪人舰队上将——万斯。勉强算个罪犯。"
 
 #: src-en/data/blueprints.xml.append:37
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/title"
-msgstr ""
+msgstr "浪人上将"
 
 #: src-en/data/blueprints.xml.append:38
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/short"
-msgstr ""
+msgstr "浪人上将"
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[1]"
-msgstr ""
+msgstr "最大生命值提升至 150。"
 
 #: src-en/data/blueprints.xml.append:42
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[2]"
-msgstr ""
+msgstr "移动速度降低至 0.6 倍。"
 
 #: src-en/data/blueprints.xml.append:43
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[3]"
-msgstr ""
+msgstr "船员战斗造成 2 倍伤害。破坏速度提升至 2.2 倍。"
 
 #: src-en/data/blueprints.xml.append:44
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[4]"
-msgstr ""
+msgstr "受到环境伤害时，伤害减半。"
 
 #: src-en/data/blueprints.xml.append:45
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[5]"
-msgstr ""
+msgstr "自我用药：若 15 秒内未受伤害，每秒恢复 3.2 点生命值。"
 
 #: src-en/data/blueprints.xml.append:46
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[6]"
-msgstr ""
+msgstr "掌握二级技能。"
 
 #: src-en/data/blueprints.xml.append:47
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[7]"
-msgstr ""
+msgstr "抵抗心灵控制。"
 
 #: src-en/data/blueprints.xml.append:48
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[8]"
-msgstr ""
+msgstr "生命值降至 30 时进入隐形状态，短暂失控但快速恢复生命，无法被指定为目标。"
 
 #: src-en/data/blueprints.xml.append:49
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[9]"
-msgstr ""
+msgstr "纯粹的排外心理强化同一舱室内的友方人类，使其造成 1.25 倍伤害、拥有 1.1 倍生命"
+"值，并提升 1.2 倍修复速度。"
 
 #: src-en/data/blueprints.xml.append:54
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/desc"
-msgstr ""
+msgstr "臭名昭著的光束大师，据称是多元宇宙浪人舰队的左右手。"
 
 #: src-en/data/blueprints.xml.append:56
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/title"
@@ -159,37 +164,41 @@ msgstr "光束大师"
 #: src-en/data/blueprints.xml.append:60
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[1]"
-msgstr ""
+msgstr "船员战斗中造成 1.4 倍伤害。"
 
 #: src-en/data/blueprints.xml.append:61
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[2]"
-msgstr ""
+msgstr "系统破坏速度提升至 1.5 倍。"
 
 #: src-en/data/blueprints.xml.append:62
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[3]"
-msgstr ""
+msgstr "船员战斗、火焰及窒息伤害减免 0.7 倍。"
 
 #: src-en/data/blueprints.xml.append:63
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[4]"
-msgstr ""
+msgstr "掌握一级技能。"
 
 #: src-en/data/blueprints.xml.append:64
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[5]"
-msgstr ""
+msgstr "可传送至任意舰船。"
 
 #: src-en/data/blueprints.xml.append:69
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/desc"
 msgstr ""
+"精英医疗船员\n"
+"他们是多元宇宙罪犯的盟友，但不擅长战斗，也不太热衷于治疗外星人……\n"
+"\n"
+"\t继承人类特性： 轻微环境伤害抗性，非战斗技能学习速度提升"
 
 #: src-en/data/blueprints.xml.append:73
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/title"
-msgstr ""
+msgstr "浪人医疗员"
 
 #: src-en/data/blueprints.xml.append:74
 msgid ""
@@ -199,32 +208,36 @@ msgstr "人类医疗员"
 #: src-en/data/blueprints.xml.append:77
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能：为附近所有友方单位恢复 15 点生命值，并在短时间内使所受伤害减半。"
 
 #: src-en/data/blueprints.xml.append:78
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[2]"
-msgstr ""
+msgstr "若 15 秒内未受伤害，每秒恢复 3.2 点生命值。"
 
 #: src-en/data/blueprints.xml.append:79
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[3]"
-msgstr ""
+msgstr "所有人类船员每秒恢复 2 点生命值。"
 
 #: src-en/data/blueprints.xml.append:80
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[4]"
-msgstr ""
+msgstr "船员战斗伤害减半，战斗技能学习速度降低。"
 
 #: src-en/data/blueprints.xml.append:96
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/desc"
 msgstr ""
+"精英工程师船员他们是技艺精湛的工程师，将强健的体魄用于战斗，并将无人机改造为"
+"维修工具。\n"
+"\n"
+"\t继承人类特性： 轻微窒息抗性，学习技能速度提升"
 
 #: src-en/data/blueprints.xml.append:100
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/title"
-msgstr ""
+msgstr "浪人工程师"
 
 #: src-en/data/blueprints.xml.append:101
 msgid ""
@@ -234,540 +247,593 @@ msgstr "人类工程师"
 #: src-en/data/blueprints.xml.append:104
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能：召唤一个持续 25 秒的维修无人机。"
 
 #: src-en/data/blueprints.xml.append:105
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[2]"
-msgstr ""
+msgstr "修复速度降低至 0.25 倍。"
 
 #: src-en/data/blueprints.xml.append:106
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[3]"
-msgstr ""
+msgstr "1.5 倍战斗伤害。"
 
 #: src-en/data/blueprints.xml.append:107
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[4]"
-msgstr ""
+msgstr "火灾伤害减免 0.6 倍。"
 
 #: src-en/data/blueprints.xml.append:108
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[5]"
-msgstr ""
+msgstr "修复技能学习速度大幅提升。"
 
 #: src-en/data/blueprints.xml.append:134
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/desc"
 msgstr ""
+"前主教，女王亲卫成员，如今是最伟大的螳螂赏金猎人。对维多利亚时代的服饰情有独"
+"钟。\n"
+"\n"
+"\t继承主教特性：1.65 倍移动速度，0.07 倍修复速度。"
 
 #: src-en/data/blueprints.xml.append:137
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/title"
-msgstr ""
+msgstr "螳螂赏金大师"
 
 #: src-en/data/blueprints.xml.append:138
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/short"
-msgstr ""
+msgstr "赏金大师"
 
 #: src-en/data/blueprints.xml.append:142
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能：部署信息素炸弹，大幅提升自身战斗伤害，并禁止敌方恢复生命。"
 
 #: src-en/data/blueprints.xml.append:143
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[2]"
-msgstr ""
+msgstr "造成 2.5 倍战斗伤害。船员战斗中所受伤害减免 0.6 倍。"
 
 #: src-en/data/blueprints.xml.append:144
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[3]"
-msgstr ""
+msgstr "生命值提升至 125。"
 
 #: src-en/data/blueprints.xml.append:145
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[4]"
-msgstr ""
+msgstr "免疫窒息伤害，火焰伤害减半。"
 
 #: src-en/data/blueprints.xml.append:150
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/desc"
 msgstr ""
+"一位学识异常渊博的前自由螳螂军阀，精通医术，但照样能把你踢翻在地。热衷欣赏人"
+"类以健康和医药为核心的文化。\n"
+"\n"
+"继承螳螂军阀特性：船员战斗中所受伤害减免 0.8 倍，修复速度降低至 0.5 倍。"
 
 #: src-en/data/blueprints.xml.append:153
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/title"
-msgstr ""
+msgstr "螳螂医者"
 
 #: src-en/data/blueprints.xml.append:154
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/short"
-msgstr ""
+msgstr "医者"
 
 #: src-en/data/blueprints.xml.append:158
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能：释放医疗信息素，每秒为友方船员恢复 7.5 点生命值。"
 
 #: src-en/data/blueprints.xml.append:159
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[2]"
-msgstr ""
+msgstr "战斗伤害提升至 1.4 倍。"
 
 #: src-en/data/blueprints.xml.append:160
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[3]"
-msgstr ""
+msgstr "生命值提升至 110。"
 
 #: src-en/data/blueprints.xml.append:166
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/class"
-msgstr ""
+msgstr "多元叛军自动星舰"
 
 #: src-en/data/blueprints.xml.append:167
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/name"
-msgstr ""
+msgstr "旋风"
 
 #: src-en/data/blueprints.xml.append:168
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/desc"
-msgstr ""
+msgstr "作为叛军多元宇宙旅行的先驱之一，这艘被重新编程的自动化舰船堪称近乎完美的凶残"
+"战争机器。"
 
 #: src-en/data/blueprints.xml.append:245
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/class"
-msgstr ""
+msgstr "多元星联星舰"
 
 #: src-en/data/blueprints.xml.append:246
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/name"
-msgstr ""
+msgstr "椰子蟹"
 
 #: src-en/data/blueprints.xml.append:247
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/desc"
-msgstr ""
+msgstr "星联的成立，已由臭名昭著的母巢、神权国、星盗会及共和国各方领袖共同议定。他们"
+"的目标简单明确：即便跨越现实，也要消灭敌人。"
 
 #: src-en/data/blueprints.xml.append:324
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/class"
-msgstr ""
+msgstr "多元卡达赫利安星舰"
 
 #: src-en/data/blueprints.xml.append:325
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/name"
-msgstr ""
+msgstr "生物乙醇"
 
 #: src-en/data/blueprints.xml.append:326
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/desc"
-msgstr ""
+msgstr "终于放下分歧的兰花与血兰花，连同一位意想不到的盟友，决定开着这艘船出去兜兜风"
+"。他们没想到，抛弃旧日信条竟如此有利可图。"
 
 #: src-en/data/blueprints.xml.append:485
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/class"
-msgstr ""
+msgstr "多元联邦自动舰"
 
 #: src-en/data/blueprints.xml.append:486
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/name"
-msgstr ""
+msgstr "月球车"
 
 #: src-en/data/blueprints.xml.append:487
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/desc"
-msgstr ""
+msgstr "这是联邦为弥补武装多元宇宙舰船短缺而孤注一掷的产物。尽管最初是为科研用途设计"
+"，但它已被仓促改装为战斗舰船，并保留了高精度传感器的准确性。"
 
 #: src-en/data/blueprints.xml.append:565
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/class"
-msgstr ""
+msgstr "多元告死星舰"
 
 #: src-en/data/blueprints.xml.append:566
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/name"
-msgstr ""
+msgstr "拉斐尔"
 
 #: src-en/data/blueprints.xml.append:567
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/desc"
-msgstr ""
+msgstr "当威尔察觉到多元宇宙旅行的热潮时，他毫不迟疑地将生意拓展到了各个现实。这艘杀"
+"手舰正是他扩张事业的完美选择。"
 
 #: src-en/data/blueprints.xml.append:643
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/class"
-msgstr ""
+msgstr "多元自由螳螂星舰"
 
 #: src-en/data/blueprints.xml.append:644
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/name"
-msgstr ""
+msgstr "星尘"
 
 #: src-en/data/blueprints.xml.append:645
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/desc"
 msgstr ""
+"你不清楚其中缘由，但自由螳螂的信息素成瘾似乎并未阻碍他们打造出这艘适应多元宇"
+"宙航行的舰船。这艘船完美展现了自由螳螂的原始力量，以及他们对 母巢与超能族的憎"
+"恨。"
 
 #: src-en/data/blueprints.xml.append:722
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/class"
-msgstr ""
+msgstr "多元盟卫星舰"
 
 #: src-en/data/blueprints.xml.append:723
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/name"
-msgstr ""
+msgstr "马歇尔"
 
 #: src-en/data/blueprints.xml.append:724
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/desc"
-msgstr ""
+msgstr "盟卫麾下值得信赖的多元宇宙守护者之一。这艘庞大的战舰足以守护任何现实中的同盟"
+"星区，抵御空闲的入侵者。"
 
 #: src-en/data/blueprints.xml.append:806
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/class"
-msgstr ""
+msgstr "多元超能族星舰"
 
 #: src-en/data/blueprints.xml.append:807
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/name"
-msgstr ""
+msgstr "零点"
 
 #: src-en/data/blueprints.xml.append:808
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/desc"
-msgstr ""
+msgstr "遵照卢梅部长的命令，牧师团决定将其势力拓展至多元宇宙，探寻其中的奇迹与威胁。"
 
 #: src-en/data/blueprints.xml.append:884
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/class"
-msgstr ""
+msgstr "多元共和国星舰"
 
 #: src-en/data/blueprints.xml.append:885
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/name"
-msgstr ""
+msgstr "暴君水蛭"
 
 #: src-en/data/blueprints.xml.append:886
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/desc"
-msgstr ""
+msgstr "联邦的团队发现了一些未使用的共和星舰蓝图，这些星舰专为多元航行而设计。这艘星"
+"舰重现了共和国的荣耀。"
 
 #: src-en/data/blueprints.xml.append:963
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/class"
-msgstr ""
+msgstr "多元迷失烈阳星舰"
 
 #: src-en/data/blueprints.xml.append:964
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/name"
-msgstr ""
+msgstr "旅者"
 
 #: src-en/data/blueprints.xml.append:965
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/desc"
-msgstr ""
+msgstr "由于神权国无数次追杀，迷失烈阳突击队别无选择，只得在他们穿梭现实的战斗中，与"
+"残酷的同胞正面交锋。"
 
 #: src-en/data/blueprints.xml.append:1043
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/class"
-msgstr ""
+msgstr "改-多元旗舰"
 
 #: src-en/data/blueprints.xml.append:1044
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/name"
-msgstr ""
+msgstr "现实撕裂者"
 
 #: src-en/data/blueprints.xml.append:1045
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/desc"
-msgstr ""
+msgstr "这位名叫万斯的船长，沉湎于过去，紧紧抓住不放。他特意建造这艘船，是为了纪念自"
+"己的一次失败，以及他的敌人将要面对的强大力量。"
 
 #: src-en/data/blueprints.xml.append:1116
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/class"
-msgstr ""
+msgstr "多元叛军星舰"
 
 #: src-en/data/blueprints.xml.append:1117
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/name"
-msgstr ""
+msgstr "哥伦布"
 
 #: src-en/data/blueprints.xml.append:1118
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/desc"
-msgstr ""
+msgstr "已知最古老的叛军舰船型号，专为承受多元宇宙航行而设计。尽管这艘船比新型号要弱"
+"，但其巨炮仍能打出强力一击。"
 
 #: src-en/data/blueprints.xml.append:1196
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/class"
-msgstr ""
+msgstr "多元神权国星舰"
 
 #: src-en/data/blueprints.xml.append:1197
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/name"
-msgstr ""
+msgstr "钴蓝审判官"
 
 #: src-en/data/blueprints.xml.append:1198
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/desc"
-msgstr ""
+msgstr "打捞队推测，这艘星舰最初的用途是追捕各个平行宇宙中的流放者。尽管它有着血腥的"
+"过去，但它仍然是一艘坚固耐用的战舰。"
 
 #: src-en/data/blueprints.xml.append:1274
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/class"
-msgstr ""
+msgstr "多元赫克塔星舰(tm)"
 
 #: src-en/data/blueprints.xml.append:1275
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/name"
-msgstr ""
+msgstr "延长保修"
 
 #: src-en/data/blueprints.xml.append:1276
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/desc"
-msgstr ""
+msgstr "比利·赫克塔在谋划业务扩张时，没想到要跨出自己所在的现实。效仿他那神秘的兄弟，"
+"他决定让员工陷入随着时间的推移™ 加班的深渊。"
 
 #: src-en/data/blueprints.xml.append:1354
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/class"
-msgstr ""
+msgstr "多元主教星舰"
 
 #: src-en/data/blueprints.xml.append:1355
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/name"
-msgstr ""
+msgstr "砺石"
 
 #: src-en/data/blueprints.xml.append:1356
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/desc"
-msgstr ""
+msgstr "尽管这支主教特遣队的原始任务是守卫女王莱孔普利纳克拉，但女王亲自下令，要他们"
+"助其强化母巢的统治。"
 
 #: src-en/data/blueprints.xml.append:1510
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/class"
-msgstr ""
+msgstr "改-叛军多元星舰"
 
 #: src-en/data/blueprints.xml.append:1511
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/name"
-msgstr ""
+msgstr "布鲁图斯"
 
 #: src-en/data/blueprints.xml.append:1512
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/desc"
-msgstr ""
+msgstr "这艘星舰原属叛军多元舰队之一。它脱离了那支舰队，加入了多元执法者部队，尽管该"
+"战舰的船员拒绝将其更换为标准配发的多元叛军星舰。"
 
 #: src-en/data/blueprints.xml.append:1589
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/class"
-msgstr ""
+msgstr "多元圣骑士星舰"
 
 #: src-en/data/blueprints.xml.append:1590
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/name"
-msgstr ""
+msgstr "瓦兰吉"
 
 #: src-en/data/blueprints.xml.append:1591
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/desc"
-msgstr ""
+msgstr "占据这艘战舰的圣骑士船员叛逃并逃脱了努玛五号的袭击。他们被神权国家视为不法之"
+"徒，但如今他们拥有如此庞大的战舰，也没什么可失去的了。"
 
 #: src-en/data/blueprints.xml.append:1667
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/class"
-msgstr ""
+msgstr "多元寻鬼敢死队星舰星舰"
 
 #: src-en/data/blueprints.xml.append:1668
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/name"
-msgstr ""
+msgstr "伯顿"
 
 #: src-en/data/blueprints.xml.append:1669
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/desc"
-msgstr ""
+msgstr "这艘邪恶舰船的设计者已夺去无数不幸的变元旅行者的生命，不猎得终极猎物，他誓不"
+"罢休。"
 
 #: src-en/data/blueprints.xml.append:1744
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/class"
-msgstr ""
+msgstr "多元食铁星舰"
 
 #: src-en/data/blueprints.xml.append:1745
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/name"
-msgstr ""
+msgstr "Cr-24-G6-P4"
 
 #: src-en/data/blueprints.xml.append:1746
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/desc"
-msgstr ""
+msgstr "不清楚食铁族是如何获得队员技术的，但团队推测，他们可能是“享用”了一些不幸的旅"
+"行者。"
 
 #: src-en/data/blueprints.xml.append:1824
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/class"
-msgstr ""
+msgstr "多元革新社星舰"
 
 #: src-en/data/blueprints.xml.append:1825
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/name"
-msgstr ""
+msgstr "P.U.R.E."
 
 #: src-en/data/blueprints.xml.append:1826
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/desc"
-msgstr ""
+msgstr "不知为何，叛军制造的 C.I.C.A 人工智能决定将自己迁移到这艘秘密的多元级星舰中，"
+"其用心叵测，尚未可知。"
 
 #: src-en/data/blueprints.xml.append:1901
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/class"
-msgstr ""
+msgstr "多元暮临星舰"
 
 #: src-en/data/blueprints.xml.append:1902
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/name"
-msgstr ""
+msgstr "毛球"
 
 #: src-en/data/blueprints.xml.append:1903
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/desc"
-msgstr ""
+msgstr "不知为何，暮临派带着他们珍视的技术，决定投身变元者的行列。是他们的事业动摇了"
+"吗？谁知道呢，你只知道他们的舰船绝非儿戏！"
 
 #: src-en/data/blueprints.xml.append:1979
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/class"
-msgstr ""
+msgstr "多元母巢星舰"
 
 #: src-en/data/blueprints.xml.append:1980
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/name"
-msgstr ""
+msgstr "科莫多龙"
 
 #: src-en/data/blueprints.xml.append:1981
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/desc"
 msgstr ""
+"作为女王莱孔普利纳克拉扩张蜂巢影响力、搜寻并摧毁自由螳螂殖民地计划的一部分，"
+"她委托建造了一艘最精良的螳螂舰船，专为执行此任务而装备，甚至可跨越现实作战。"
 
 #: src-en/data/blueprints.xml.append:2058
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/class"
-msgstr ""
+msgstr "多元纳星舰"
 
 #: src-en/data/blueprints.xml.append:2059
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/name"
-msgstr ""
+msgstr "苏兰"
 
 #: src-en/data/blueprints.xml.append:2060
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/desc"
-msgstr ""
+msgstr "厌倦了免费骚扰整个蛞蝓种族的传奇人物“盐人”，决定加入 MVPMC 的行列，好靠骚扰蛞"
+"蝓及其他工作来赚钱。"
 
 #: src-en/data/blueprints.xml.append:2211
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/class"
-msgstr ""
+msgstr "多元原型星舰"
 
 #: src-en/data/blueprints.xml.append:2212
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/name"
-msgstr ""
+msgstr "风向标"
 
 #: src-en/data/blueprints.xml.append:2213
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/desc"
-msgstr ""
+msgstr "尽管这艘船的特性如此，但它本身却带有一种自相矛盾的意味。没有海盗能躲过它，也"
+"没有平民能轻易击退它。"
 
 #: src-en/data/blueprints.xml.append:2289
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/class"
-msgstr ""
+msgstr "多元种植者星舰"
 
 #: src-en/data/blueprints.xml.append:2290
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/name"
-msgstr ""
+msgstr "CRISPR"
 
 #: src-en/data/blueprints.xml.append:2291
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/desc"
-msgstr ""
+msgstr "血兰邦总理苡瓦命令他的精英种植者去侦察各个现实，希望能为血兰邦提供更强大的后"
+"盾。"
 
 #: src-en/data/blueprints.xml.append:2369
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/class"
-msgstr ""
+msgstr "多元MFK王牌星舰"
 
 #: src-en/data/blueprints.xml.append:2370
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/name"
-msgstr ""
+msgstr "异邦士兵"
 
 #: src-en/data/blueprints.xml.append:2371
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/desc"
-msgstr ""
+msgstr "这是多次成功进行多元宇宙旅行的成果之一。这艘王牌星舰能够自动驾驶，而船员则可"
+"近距离亲身撕裂敌舰。"
 
 #: src-en/data/blueprints.xml.append:2450
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/class"
-msgstr ""
+msgstr "莫提斯特员星舰"
 
 #: src-en/data/blueprints.xml.append:2451
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/name"
-msgstr ""
+msgstr "蔷薇盛放"
 
 #: src-en/data/blueprints.xml.append:2452
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/desc"
-msgstr ""
+msgstr "外表如猛兽，轻易撕裂敌人；而舰内，你会发现一名对咖啡和某个特别的人情有独钟的"
+"热忱杀手。"
 
 #: src-en/data/blueprints.xml.append:2523
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/class"
-msgstr ""
+msgstr "维塔特员星舰"
 
 #: src-en/data/blueprints.xml.append:2524
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/name"
-msgstr ""
+msgstr "翠绿蔷薇"
 
 #: src-en/data/blueprints.xml.append:2525
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/desc"
-msgstr ""
+msgstr "这艘星舰的迷人色调散发出清澈与宁静的气息，这多半是因为它差不多就是个便携式诊"
+"所和水疗中心——不过它照样会杀了你，要么用爱，要么用医者的利爪。"
 
 #: src-en/data/blueprints.xml.append:2596
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_MORTIS_PHEROMONES\"]/title"
-msgstr ""
+msgstr "枯萎信息素"
 
 #: src-en/data/blueprints.xml.append:2597
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_MORTIS_PHEROMONES\"]/desc"
 msgstr ""
+"这是莫提斯亲自调制的螳螂信息素合物，混合了多种致命毒素和极高剂量的咖啡因，让"
+"空气中弥漫着致命咖啡馆的气息。\n"
+"\t\n"
+"\t氧气系统每提升一级，敌人的生命值就会降低10%，移动速度降低5%。\n"
+"\n"
+"\t满级4级氧气系统会使敌人在你的星舰上受到伤害，并在自己的星舰上受到伤害时产生"
+"类似腐烂的效果。\n"
+"\n"
+"\t友方螳螂船员的氧气系统每提升一级，伤害倍率就会提升1.1倍。"
 
 #: src-en/data/blueprints.xml.append:2609
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_VITAE_PHEROMONES\"]/title"
-msgstr ""
+msgstr "绽放信息素"
 
 #: src-en/data/blueprints.xml.append:2610
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_VITAE_PHEROMONES\"]/desc"
 msgstr ""
+"维塔特制的医疗螳螂信息素混合物。富含芳香草药和疗方，即使是最暴躁的马形生物也"
+"能被安抚，进入放松的睡眠。\n"
+"\t\n"
+"\t为友方船员提供跨舰治疗，治疗效果与医疗舱和氧气系统的功率等级成正比。\n"
+"\t氧气系统每提升一级功率，友方船员的生命值、维修速度和移动速度都将获得1.1倍的"
+"加成。"
 
 #: src-en/data/blueprints.xml.append:2620
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PERMISSION\"]/title"
-msgstr ""
+msgstr "EMV 许可证"
 
 #: src-en/data/blueprints.xml.append:2621
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PERMISSION\"]/desc"
-msgstr ""
+msgstr "让多元旗舰生效——你不该看到这个"
 
 #: src-en/data/blueprints.xml.append:2628
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AI_SCANNER\"]/title"
@@ -775,142 +841,161 @@ msgstr "超光速导航"
 
 #: src-en/data/blueprints.xml.append:2629
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AI_SCANNER\"]/desc"
-msgstr ""
+msgstr "揭示周围信标的详细信息，并允许自动航行至任何先前访问过的信标。"
 
 #: src-en/data/blueprints.xml.append:2636
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PREPERATION\"]/title"
-msgstr ""
+msgstr "先进导航 AI"
 
 #: src-en/data/blueprints.xml.append:2637
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PREPERATION\"]/desc"
-msgstr ""
+msgstr "揭示周围信标的详细信息，并允许自由跃迁至任何先前访问过的信标。为舰船提供基础"
+"自动航行功能。"
 
 #: src-en/data/blueprints.xml.append:2644
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AUTOMATION\"]/title"
-msgstr ""
+msgstr "先进叛军AI"
 
 #: src-en/data/blueprints.xml.append:2645
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AUTOMATION\"]/desc"
-msgstr ""
+msgstr "高级叛军 AI 已完全接管舰船！揭示周围信标的详细信息，并允许自由跃迁至任何先前"
+"访问过的信标。为舰船提供全自动航行功能，并关闭氧气生成。"
 
 #: src-en/data/blueprints.xml.append:2652
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_RETRO_SHIELDING\"]/title"
-msgstr ""
+msgstr "先进护盾单元"
 
 #: src-en/data/blueprints.xml.append:2653
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_RETRO_SHIELDING\"]/desc"
-msgstr ""
+msgstr "提供可叠加的能量护盾，用于多元复古旗舰。"
 
 #: src-en/data/blueprints.xml.append:2661
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/title"
-msgstr ""
+msgstr "鎏金护盾"
 
 #: src-en/data/blueprints.xml.append:2662
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/desc"
-msgstr ""
+msgstr "由最纯净的以太提供能量的高级护盾，如果长时间未受损，会缓慢恢复。"
 
 #: src-en/data/blueprints.xml.append:2670
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/title"
-msgstr ""
+msgstr "鎏金武器"
 
 #: src-en/data/blueprints.xml.append:2671
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/desc"
-msgstr ""
+msgstr "由最纯净的以太驱动的高级武器系统，可提升武器射速……"
 
 #: src-en/data/blueprints.xml.append:2678
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/title"
-msgstr ""
+msgstr "鎏金再生装甲"
 
 #: src-en/data/blueprints.xml.append:2679
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/desc"
-msgstr ""
+msgstr "祝你好运能打穿这层装甲！拥有 25% 船体与系统抗性，并具备自动修复功能！"
 
 #: src-en/data/blueprints.xml.append:2686
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/title"
-msgstr ""
+msgstr "鎏金神铠"
 
 #: src-en/data/blueprints.xml.append:2687
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/desc"
-msgstr ""
+msgstr "祝你好运能打穿这层装甲！拥有 25% 船体与系统抗性，并具备自动修复功能！"
 
 #: src-en/data/blueprints.xml.append:2694
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/title"
-msgstr ""
+msgstr "鎏金凝胶"
 
 #: src-en/data/blueprints.xml.append:2695
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/desc"
-msgstr ""
+msgstr "难以言喻的凝胶，不仅能修复破舱，还能修复系统。"
 
 #: src-en/data/blueprints.xml.append:2702
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/title"
-msgstr ""
+msgstr "鎏金医疗机器人"
 
 #: src-en/data/blueprints.xml.append:2703
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/desc"
-msgstr ""
+msgstr "强大的纳米机器人，不仅能治疗伤员，还能根据医疗舱的电力情况增强船员的战斗力！"
 
 #: src-en/data/blueprints.xml.append:2710
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PURE_INTELLECT\"]/title"
-msgstr ""
+msgstr "先进认知"
 
 #: src-en/data/blueprints.xml.append:2711
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PURE_INTELLECT\"]/desc"
-msgstr ""
+msgstr "AI 技术的巅峰，超光速导航、舱格能量场与多元劫持器功能于一身。"
 
 #: src-en/data/blueprints.xml.append:2722
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_PARASITE\"]/title"
-msgstr ""
+msgstr "[L] 寄生。"
 
 #: src-en/data/blueprints.xml.append:2723
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_PARASITE\"]/desc"
 msgstr ""
+"吸虫默认最大生命值降低 60，伤害降低至 1/4，但会从舱室内所有其他非吸虫的敌方船"
+"员身上每秒吸取 3 点生命值。\n"
+"\t\n"
+"\t[外] - 作为外置特质，该部件将提供船员的特质效果，但占用一个增强部件槽位。其"
+"无法被转换为不占槽位的物种特质，但也不影响主次要特质的配置，且相同效果不叠加"
+"。"
 
 #: src-en/data/blueprints.xml.append:2732
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_HIVESLASH\"]/title"
-msgstr ""
+msgstr "[L] 爪击"
 
 #: src-en/data/blueprints.xml.append:2733
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_HIVESLASH\"]/desc"
 msgstr ""
+"普通螳螂获得爪击能力，对舱室内所有敌方船员造成 15 点伤害。每次跃迁仅可使用两"
+"次。\n"
+"\t\n"
+"\t[外] - 作为外置特质，该部件将提供船员的特质效果，但占用一个增强部件槽位。其"
+"无法被转换为不占槽位的物种特质，但也不影响主次要特质的配置，且相同效果不叠加"
+"。"
 
 #: src-en/data/blueprints.xml.append:2742
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_CARETAKER_HAZARD\"]/title"
-msgstr ""
+msgstr "[L] 镇静孢子"
 
 #: src-en/data/blueprints.xml.append:2743
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_CARETAKER_HAZARD\"]/desc"
 msgstr ""
+"看守者为附近友方单位及自身提供火焰与眩晕免疫，但不再产生氧气。\n"
+"\t\n"
+"\t[外] - 作为外置特质，该部件将提供船员的特质效果，但占用一个增强部件槽位。其"
+"无法被转换为不占槽位的物种特质，但也不影响主次要特质的配置，且相同效果不叠加"
+"。"
 
 #: src-en/data/blueprints.xml.append:2752
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_ADV_FREQUENCIES\"]/title"
-msgstr ""
+msgstr "先进劫持器"
 
 #: src-en/data/blueprints.xml.append:2753
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_ADV_FREQUENCIES\"]/desc"
-msgstr ""
+msgstr "能够检测各种海盗事件，也具有与多元劫持器相同的功能。"
 
 #: src-en/data/blueprints.xml.append:2761
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/title"
-msgstr ""
+msgstr "重型穿甲激光巨炮"
 
 #: src-en/data/blueprints.xml.append:2762
 msgid ""
@@ -920,17 +1005,17 @@ msgstr "穿刺重激"
 #: src-en/data/blueprints.xml.append:2764
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/desc"
-msgstr ""
+msgstr "[基础冷却时间：18秒] 发射一连串重型激光，可穿透一层护盾。"
 
 #: src-en/data/blueprints.xml.append:2765
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/tooltip"
-msgstr ""
+msgstr "重型激光弹幕，2 点伤害，1 发。穿透 1 层护盾。"
 
 #: src-en/data/blueprints.xml.append:2801
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/title"
-msgstr ""
+msgstr "粒子导弹巨炮"
 
 #: src-en/data/blueprints.xml.append:2802
 msgid ""
@@ -940,17 +1025,17 @@ msgstr "粒子导弹"
 #: src-en/data/blueprints.xml.append:2803
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/desc"
-msgstr ""
+msgstr "【基础冷却时间：30】发射大量粒子导弹，摧毁舰船系统并封锁房间。"
 
 #: src-en/data/blueprints.xml.append:2804
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/tooltip"
-msgstr ""
+msgstr "粒子导弹弹幕，1 点系统伤害，命中时造成封锁。"
 
 #: src-en/data/blueprints.xml.append:2842
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/title"
-msgstr ""
+msgstr "先进斩矛巨炮"
 
 #: src-en/data/blueprints.xml.append:2843
 msgid ""
@@ -960,17 +1045,18 @@ msgstr "斩矛光束"
 #: src-en/data/blueprints.xml.append:2844
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/desc"
-msgstr ""
+msgstr "【基础冷却时间：30】发射一道威力巨大的反生物光束，撕裂敌方系统。穿透所有普通"
+"护盾。"
 
 #: src-en/data/blueprints.xml.append:2845
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/tooltip"
-msgstr ""
+msgstr "斩矛光束巨炮，极长光束，穿透护盾。"
 
 #: src-en/data/blueprints.xml.append:2873
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/title"
-msgstr ""
+msgstr "重型能量巨炮"
 
 #: src-en/data/blueprints.xml.append:2874
 msgid ""
@@ -980,27 +1066,30 @@ msgstr "重型能量炮"
 #: src-en/data/blueprints.xml.append:2877
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/desc"
-msgstr ""
+msgstr "[基础冷却时间：15秒] 发射一连串能量弹，造成船体与系统伤害，对无系统舱室造成双"
+"倍船体伤害。"
 
 #: src-en/data/blueprints.xml.append:2878
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/tooltip"
-msgstr ""
+msgstr "发射一连串重型能量弹。可命中并瘫痪护盾及系统。对无系统舱室造成 2 倍船体伤害。"
 
 #: src-en/data/blueprints.xml.append:2918
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/title"
-msgstr ""
+msgstr "原型加特林巨炮"
 
 #: src-en/data/blueprints.xml.append:2919
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/short"
-msgstr ""
+msgstr "巨炮"
 
 #: src-en/data/blueprints.xml.append:2920
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/desc"
 msgstr ""
+"[基础冷却时间：15/13.4/11.8/10.2/8.6/7/5.4秒] 设计令人印象深刻的激光炮，每次"
+"齐射后会有链式效果，使敌方护盾持续处于火力压制之下。"
 
 #: src-en/data/blueprints.xml.append:2921
 msgid ""
@@ -1025,12 +1114,12 @@ msgstr "让它打中你，你就已经死了。"
 #: src-en/data/blueprints.xml.append:3001
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/title"
-msgstr ""
+msgstr "鎏金刺枪光束"
 
 #: src-en/data/blueprints.xml.append:3002
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/short"
-msgstr ""
+msgstr "鎏金刺枪"
 
 #: src-en/data/blueprints.xml.append:3003
 msgid ""
@@ -1040,12 +1129,12 @@ msgstr "这种先进的光束是著名的镰枪和缨枪光束的原型升级。
 #: src-en/data/blueprints.xml.append:3032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/title"
-msgstr ""
+msgstr "鎏金离子冲击"
 
 #: src-en/data/blueprints.xml.append:3033
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/short"
-msgstr ""
+msgstr "鎏金离子冲击"
 
 #: src-en/data/blueprints.xml.append:3036
 msgid ""
@@ -1056,12 +1145,12 @@ msgstr "这种离子武器无需供能，充能迅速，并发射一束强大的
 #: src-en/data/blueprints.xml.append:3089
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/title"
-msgstr ""
+msgstr "鎏金先发“火炬”"
 
 #: src-en/data/blueprints.xml.append:3090
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/short"
-msgstr ""
+msgstr "鎏金先发“火炬”"
 
 #: src-en/data/blueprints.xml.append:3091
 msgid ""
@@ -1072,12 +1161,12 @@ msgstr "一种极速充能的先发武器，可发射一束缓慢的光束穿透
 #: src-en/data/blueprints.xml.append:3118
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/title"
-msgstr ""
+msgstr "鎏金“战戟”光束"
 
 #: src-en/data/blueprints.xml.append:3119
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/short"
-msgstr ""
+msgstr "鎏金“战戟”光束"
 
 #: src-en/data/blueprints.xml.append:3121
 msgid ""
@@ -1097,7 +1186,7 @@ msgstr "穿刺重激"
 #: src-en/data/blueprints.xml.append:3146
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/desc"
-msgstr ""
+msgstr "[巨炮，重型穿甲炮，2 点伤害，必中，每轮充能 3 发，命中造成封锁]"
 
 #: src-en/data/blueprints.xml.append:3184
 msgid ""
@@ -1112,7 +1201,7 @@ msgstr "粒子导弹"
 #: src-en/data/blueprints.xml.append:3186
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/desc"
-msgstr ""
+msgstr "[巨炮，粒子导弹炮，1 点系统伤害，必中，每轮充能 3 发，命中造成 封锁]"
 
 #: src-en/data/blueprints.xml.append:3224
 msgid ""
