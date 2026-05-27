@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-05-28 11:14+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/expanded-"
+"multiverse/datablueprintsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
@@ -1034,30 +1041,30 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2760
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_SHIP\"]/title"
-msgstr ""
+msgstr "Fonction de navigation automatisée"
 
 #: src-en/data/blueprints.xml.append:2761
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_SHIP\"]/desc"
-msgstr ""
+msgstr "Rend votre vaisseau autonome. VOUS NE DEVRIEZ JAMAIS VOIR CELA."
 
 #: src-en/data/blueprints.xml.append:2786
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_MANNING\"]/title"
-msgstr ""
+msgstr "Fonction d'affectation automatisée"
 
 #: src-en/data/blueprints.xml.append:2787
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_MANNING\"]/desc"
-msgstr ""
+msgstr "Systèmes de bord de l'équipage. VOUS NE DEVRIEZ JAMAIS VOIR CELA."
 
 #: src-en/data/blueprints.xml.append:2809
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_REPAIR\"]/title"
-msgstr ""
+msgstr "Fonction de réparation automatique"
 
 #: src-en/data/blueprints.xml.append:2810
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_REPAIR\"]/desc"
-msgstr ""
+msgstr "Répare les systèmes du vaisseau. VOUS NE DEVRIEZ JAMAIS VOIR CELA."
 
 #: src-en/data/blueprints.xml.append:2820
 msgid ""
