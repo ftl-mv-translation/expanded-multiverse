@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-05-27 17:19+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/expanded-multiverse/mod-appendixmetadataxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/mod-appendix/metadata.xml:2
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
@@ -15,6 +22,7 @@ msgid "mod-appendix/metadata.xml$/dummyroot/metadata/author"
 msgstr "诺特与薇洛"
 
 #: src-en/mod-appendix/metadata.xml:6
+#, fuzzy
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
 msgstr ""
 "一个专注于拓展变元者设定的扩展模组。\n"
@@ -34,4 +42,5 @@ msgstr ""
 "Willow L.M — 创意指导与舰船布局设计\n"
 "Lizzard — 音乐指导\n"
 "Alder — 编程与创意协助\n"
-"DarkieZ、Harmony、Evil PepperPlayz、leland、MsBinaryLily、Qaser7、SillySandvich 和 Vasyan — 测试与质量控制"
+"DarkieZ、Harmony、Evil PepperPlayz、leland、MsBinaryLily、Qaser7、"
+"SillySandvich 和 Vasyan — 测试与质量控制"
