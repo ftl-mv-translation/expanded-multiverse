@@ -7,15 +7,20 @@
         "data/hyperspace.xml.append",
         "data/events_sector_emv_droppoint.xml",
         "data/events_sector_emv_gilded.xml",
+		
+        "data/sector_data.xml.append",
+		
         "data/events_special_guards.xml.append",
         "data/events_special_morality.xml.append",
-        "data/sector_data.xml.append",
-        "data/text_blueprints.xml.append",
+        "data/events_special_jukebox.xml.append",
         "data/events_special_lightspeed.xml.append",
         "data/events_special_multiverse.xml.append",
         "data/events_special_storage.xml.append",
+		
         "data/text_misc.xml.append",
         "data/text_events.xml.append",
+        "data/text_blueprints.xml.append",
+
         "mod-appendix/metadata.xml"
     ],
     "stringSelectionXPath": [

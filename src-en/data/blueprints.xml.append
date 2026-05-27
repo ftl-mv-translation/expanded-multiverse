@@ -2656,8 +2656,8 @@
 	<stackable>false</stackable>
 </augBlueprint>
 
-<augBlueprint name="EMV_GILDED_SHIELDING">
-	<!--<title>[style[color:ffb045]]Gil[[/style]][style[color:ffbd64]]ded[[/style]][style[color:ffd780]] Shiel[[/style]][style[color:ffc369]]ding[[/style]]</title>-->
+<!--<augBlueprint name="EMV_GILDED_SHIELDING">
+	<title>[style[color:ffb045]]Gil[[/style]][style[color:ffbd64]]ded[[/style]][style[color:ffd780]] Shiel[[/style]][style[color:ffc369]]ding[[/style]]</title>
 	<title>Gilded Shielding</title>
 	<desc>Advanced Shielding powered by the purest aether imaginable, slowly recovers if undamaged for long periods of time..</desc>
 	<cost>145</cost>
@@ -2666,7 +2666,7 @@
 </augBlueprint>
 
 <augBlueprint name="EMV_GILDED_WEAPONS">
-	<!--<title>[style[color:ffb045]]Gil[[/style]][style[color:ffbd64]]ded[[/style]][style[color:ffd780]] Weap[[/style]][style[color:ffc369]]ons[[/style]]</title>-->
+	<title>[style[color:ffb045]]Gil[[/style]][style[color:ffbd64]]ded[[/style]][style[color:ffd780]] Weap[[/style]][style[color:ffc369]]ons[[/style]]</title>
 	<title>Gilded Weapons</title>
 	<desc>Advanced Weapon Systems powered by the purest aether imaginable, grants faster weapon fire rate..</desc>
 	<cost>145</cost>
@@ -2704,7 +2704,7 @@
 	<cost>130</cost>
 	<rarity>0</rarity>
 	<stackable>false</stackable>
-</augBlueprint>
+</augBlueprint>-->
 
 <augBlueprint name="EMV_PURE_INTELLECT">
 	<title>Advanced Cognizance</title>
@@ -2755,6 +2755,65 @@
 	<rarity>0</rarity>
 	<stackable>false</stackable>
 </augBlueprint>
+
+	<augBlueprint name="AUTOMATED_SHIP">
+		<title>Automated Ship Function</title>
+		<desc>Makes your ship auto. YOU SHOULD NEVER SEE THIS.</desc>
+		<cost>0</cost>
+		<bp>4</bp>
+		<rarity>0</rarity>
+		<value>1</value>
+		<stackable>true</stackable>
+	</augBlueprint>
+	
+	<!--
+	Augments with this function will make a ship man systems without needing crew assigned.
+	This will not: automatically repair, or allow you to play without crew.
+	
+	Setting value higher than 1 increases the level of manning:
+	
+	Function level 0 will do nothing (except count for blue options)
+	Function level 1 will give unskilled manning
+	Function level 2 will give level 1 manning
+	Function level 3+ will give level 2 manning
+	Negative function values will subtract from other auto-manning augments or the auto-manning of base Auto-Ships.
+	However, it will not subtract piloting if it would become 0.
+	
+	You can use this function with AUTOMATED_SHIP or a normal Auto-Ship with no problems. Just subtract one from the value you want.
+	So if you wanted an Auto-Ship that manned at level 2 skills, you could give it an augment with this function at a value of 2.
+	-->
+	<augBlueprint name="AUTOMATED_MANNING">
+		<title>Automated Manning Function</title>
+		<desc>Mans ship systems. YOU SHOULD NEVER SEE THIS.</desc>
+		<cost>0</cost>
+		<bp>4</bp>
+		<rarity>0</rarity>
+		<value>1</value>
+		<stackable>true</stackable>
+	</augBlueprint>
+	
+	<!--
+	Augments with this function will make a ship automatically repair systems.
+	This will not: man systems, or allow you to play without crew.
+	
+	The speed of repair is multiplied by the value. For example,
+	Function level 1 is the normal Auto-Ship repair speed
+	Function level 0.5 is half the normal Auto-Ship repair speed
+	Function level 2 is double the normal Auto-Ship repair speed
+	Function level -1 won't damage systems, but will reverse repairs.
+	
+	You can use this function with AUTOMATED_SHIP or a normal Auto-Ship with no problems. However, it will add the repair speed to the normal Auto-Ship repair speed.
+	So if you wanted an Auto-Ship that repaired at double speed, you would give it an augment with this function at a value of 1.
+	-->
+	<augBlueprint name="AUTOMATED_REPAIR">
+		<title>Automated Repair Function</title>
+		<desc>Repairs ship systems. YOU SHOULD NEVER SEE THIS.</desc>
+		<cost>0</cost>
+		<bp>4</bp>
+		<rarity>0</rarity>
+		<value>1</value>
+		<stackable>true</stackable>
+	</augBlueprint>
 
 <weaponBlueprint name="EMV_ARTILLERY_MVFS_1">
 	<type>LASER</type>
@@ -2993,11 +3052,11 @@
 	<weaponArt>emv_vindicator</weaponArt>
 </weaponBlueprint>
 
-<weaponBlueprint name="EMV_GILDED_TSUKIYARI">
+<!--<weaponBlueprint name="EMV_GILDED_TSUKIYARI">
 	<type>BEAM</type>
 	<tip>tip_adapter</tip>
-	<!--<title>[style[color:ffb045]]Gilded 'Tsukiyari' Beam[[/style]]</title>
-	<short>[style[color:ffb045]]G.[[/style]][style[color:ffbd64]] Tsu[[/style]][style[color:ffd780]]kiy[[/style]][style[color:ffc369]]ari[[/style]]</short>-->
+	<title>[style[color:ffb045]]Gilded 'Tsukiyari' Beam[[/style]]</title>
+	<short>[style[color:ffb045]]G.[[/style]][style[color:ffbd64]] Tsu[[/style]][style[color:ffd780]]kiy[[/style]][style[color:ffc369]]ari[[/style]]</short>
 	<title>Gilded 'Tsukiyari' Beam</title>
 	<short>G. 'Tsukiyari'</short>
 	<desc>This advanced Beam was a prototype upgrade of the well known Kamayari and Suyari Beams.</desc>
@@ -3027,8 +3086,8 @@
 
 <weaponBlueprint name="EMV_GILDED_PREION">
 	<type>BEAM</type>
-	<!--<title>[style[color:ffb045]]Gilded Ion Blast[[/style]]</title>
-	<short>[style[color:ffb045]]G.[[/style]][style[color:ffbd64]] Pr[[/style]][style[color:ffd780]]e-[[/style]][style[color:ffc369]]ion[[/style]]</short>-->
+	<title>[style[color:ffb045]]Gilded Ion Blast[[/style]]</title>
+	<short>[style[color:ffb045]]G.[[/style]][style[color:ffbd64]] Pr[[/style]][style[color:ffd780]]e-[[/style]][style[color:ffc369]]ion[[/style]]</short>
 	<title>Gilded Ion Blast</title>
 	<short>G. Pre-ion</short>
 	<locked>1</locked>
@@ -3084,8 +3143,8 @@
 <weaponBlueprint name="EMV_GILDED_PREFIRE">
 	<type>BEAM</type>
 	<tip>tip_preemptive</tip>
-	<!--<title>[style[color:ffb045]]Gilded Pre-emptive 'Torch'[[/style]]</title>
-	<short>[style[color:ffb045]]G.[[/style]][style[color:ffbd64]] Pre-[[/style]][style[color:ffd780]]'Tor[[/style]][style[color:ffc369]]ch'[[/style]]</short>-->
+	<title>[style[color:ffb045]]Gilded Pre-emptive 'Torch'[[/style]]</title>
+	<short>[style[color:ffb045]]G.[[/style]][style[color:ffbd64]] Pre-[[/style]][style[color:ffd780]]'Tor[[/style]][style[color:ffc369]]ch'[[/style]]</short>
 	<title>Gilded Pre-emptive 'Torch'</title>
 	<short>G. Pre-'Torch'</short>
 	<desc>A rapidly charging Pre-emptive weapon that pierces all shields and lights the enemy ship ablaze with a slow moving beam. Can only be fired once per combat.</desc>
@@ -3113,8 +3172,8 @@
 
 <weaponBlueprint name="EMV_GILDED_BEAM_4">
 	<type>BEAM</type>
-	<!--<title>[style[color:ffb045]]Gilded 'Voulge' Beam[[/style]]</title>
-	<short>[style[color:ffb045]]G.[[/style]][style[color:ffbd64]] 'Vou[[/style]][style[color:ffd780]]lg[[/style]][style[color:ffc369]]e'[[/style]]</short>-->
+	<title>[style[color:ffb045]]Gilded 'Voulge' Beam[[/style]]</title>
+	<short>[style[color:ffb045]]G.[[/style]][style[color:ffbd64]] 'Vou[[/style]][style[color:ffd780]]lg[[/style]][style[color:ffc369]]e'[[/style]]</short>
 	<title>Gilded 'Voulge' Beam</title>
 	<short>G. 'Voulge'</short>
 	<tip>tip_beams</tip>
@@ -3537,7 +3596,7 @@
 	</missSounds>
 	<weaponArt>emv_gilded_uplifted_laser</weaponArt>
 	<iconImage>laser</iconImage>
-</weaponBlueprint>
+</weaponBlueprint>-->
 
 
 

@@ -1244,7 +1244,7 @@
 			<shieldImage>ship/shield_base_bubble_white.png</shieldImage>
 		</superShield>
 	</aug>
-	<aug name="EMV_GILDED_SHIELDING">
+	<!--<aug name="EMV_GILDED_SHIELDING">
 		<locked/>
     	<function name="ENERGY_SHIELD" value="0" useForReqs="true" stackable="false"/>
     	<function name="SHIELD_RECHARGE" value="0.34" useForReqs="true"/>
@@ -1312,7 +1312,7 @@
 					<hologram/>
 					<bucket/>
 					<gnome/>
-					<repair/> <!--TRC-->
+					<repair/> 
 				</blackList>
 				<systemPowerDependency>
 					<medbay/>
@@ -1350,7 +1350,7 @@
 				</systemPowerScaling>
 			</statBoost>
 		</statBoosts>
-    </aug>
+    </aug>-->
 	<aug name="EMV_EX_PARASITE">
     	<statBoosts>
 			<statBoost name="statBoost">
@@ -1756,8 +1756,20 @@
 
 
 <mod:findLike type="scripts">
+
+	<!-- FUSION-INDEPENDENCE LINES (part 1/2) for custom fires by codyfun - MUST REMAIN AT THE TOP of this block! -->
+    <mod-append:script>data/addon_common/auto_common.lua</mod-append:script>
+
 	<mod-append:script>data/emvscripts/emvflagship.lua</mod-append:script>
+
+	<!-- FUSION-INDEPENDENCE LINES (part 2/2) for custom fires by codyfun - MUST REMAIN AT THE BOTTOM of this block! -->
+    <mod:findLike type="script" start="1" limit="1">
+        <mod:selector>data/addon_common/auto_common.lua</mod:selector>
+        <mod:removeTag/>
+    </mod:findLike>
 </mod:findLike>
+
+
 
 <!--<multiShipFix enabled="true"/>-->
 <customTextStyle enabled="true"/>

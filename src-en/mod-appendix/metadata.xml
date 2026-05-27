@@ -2,7 +2,7 @@
 	<title><![CDATA[Expanded Multiverse]]></title>
 	<threadUrl><![CDATA[ ]]></threadUrl>
 	<author><![CDATA[ Nauter and Willow ]]></author>
-	<version><![CDATA[ 0.6.1 ]]></version>
+	<version><![CDATA[ 0.6.2 ]]></version>
 	<description>
 <![CDATA[
 An addon that focuses on expanding the idea of Renegades.
@@ -23,6 +23,7 @@ Willow L.M - Creative direction and ship layout making
 Lizzard - Musical direction
 Alder - Programming and creative assistance
 DarkieZ, Harmony, Evil PepperPlayz, leland, MsBinaryLily, Qaser7, SillySandvich and Vasyan - Playtesting and Quality Control
+Dj0z and CodyFun - Breaking the fusion dependency
 ]]>
 	</description>
 </metadata>
