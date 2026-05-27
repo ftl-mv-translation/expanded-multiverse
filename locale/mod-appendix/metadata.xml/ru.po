@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-27 17:19+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/expanded-"
 "multiverse/mod-appendixmetadataxml/ru/>\n"
 "Language: ru\n"
@@ -22,7 +22,6 @@ msgid "mod-appendix/metadata.xml$/dummyroot/metadata/author"
 msgstr "Nauter и Willow"
 
 #: src-en/mod-appendix/metadata.xml:6
-#, fuzzy
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
 msgstr ""
 "Аддон, направленный на расширение концепции Ренегатов.\n"
@@ -48,4 +47,5 @@ msgstr ""
 "Lizzard - музыкальный директор\n"
 "Alder - программист и творческий ассистент\n"
 "DarkieZ, Harmony, Evil PepperPlayz, leland, MsBinaryLily, Qaser7, "
-"SillySandvich и Vasyan - тестировщики и контролеры качества"
+"SillySandvich и Vasyan - тестировщики и контролеры качества\n"
+"Dj0z и CodyFun — устранение зависимости от Fusion"
