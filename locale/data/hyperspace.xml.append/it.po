@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-17 19:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Italian <https://weblate.hyperq.be/projects/"
-"expanded-multiverse/datahyperspace-xml-append/it/>\n"
-"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/hyperspace.xml.append:19
 msgid ""
@@ -131,153 +124,153 @@ msgid ""
 "data/hyperspace.xml.append$//statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1773
+#: src-en/data/hyperspace.xml.append:1785
 msgid "data/hyperspace.xml.append$//unique_leah_mfk[@name=\"Leah\"]/@name"
 msgstr "Leah"
 
-#: src-en/data/hyperspace.xml.append:1836
+#: src-en/data/hyperspace.xml.append:1848
 msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Sylvan\"]/@name"
 msgstr "Sylvan"
 
-#: src-en/data/hyperspace.xml.append:1872
+#: src-en/data/hyperspace.xml.append:1884
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[1]/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1877
+#: src-en/data/hyperspace.xml.append:1889
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[2]/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1882
+#: src-en/data/hyperspace.xml.append:1894
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[3]/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1887
+#: src-en/data/hyperspace.xml.append:1899
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[4]/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1892
+#: src-en/data/hyperspace.xml.append:1904
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[5]/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1897
+#: src-en/data/hyperspace.xml.append:1909
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[6]/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1902
+#: src-en/data/hyperspace.xml.append:1914
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[7]/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1946
+#: src-en/data/hyperspace.xml.append:1958
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[1]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1964
+#: src-en/data/hyperspace.xml.append:1976
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[2]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1982
+#: src-en/data/hyperspace.xml.append:1994
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[3]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2000
+#: src-en/data/hyperspace.xml.append:2012
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[4]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2018
+#: src-en/data/hyperspace.xml.append:2030
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[5]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2036
+#: src-en/data/hyperspace.xml.append:2048
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[6]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2054
+#: src-en/data/hyperspace.xml.append:2066
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[7]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2072
+#: src-en/data/hyperspace.xml.append:2084
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[8]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2090
+#: src-en/data/hyperspace.xml.append:2102
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[9]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2127
+#: src-en/data/hyperspace.xml.append:2139
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[1]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2147
+#: src-en/data/hyperspace.xml.append:2159
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[2]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2167
+#: src-en/data/hyperspace.xml.append:2179
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[3]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2207
+#: src-en/data/hyperspace.xml.append:2219
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[7]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2221
+#: src-en/data/hyperspace.xml.append:2233
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[8]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2239
+#: src-en/data/hyperspace.xml.append:2251
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[9]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2257
+#: src-en/data/hyperspace.xml.append:2269
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[10]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:2296
+#: src-en/data/hyperspace.xml.append:2308
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[8]/mod-"
 "append:page/section/@text"

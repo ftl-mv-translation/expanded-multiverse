@@ -934,75 +934,6 @@ msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_RETRO_SHIELDING\"]/desc"
 msgstr "Provides a stacking energy shield, used in the MV Retro Flagship."
 
-#: src-en/data/blueprints.xml.append:2661
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/title"
-msgstr "Gilded Shielding"
-
-#: src-en/data/blueprints.xml.append:2662
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/desc"
-msgstr ""
-"Advanced Shielding powered by the purest aether imaginable, slowly recovers "
-"if undamaged for long periods of time.."
-
-#: src-en/data/blueprints.xml.append:2670
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/title"
-msgstr "Gilded Weapons"
-
-#: src-en/data/blueprints.xml.append:2671
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/desc"
-msgstr ""
-"Advanced Weapon Systems powered by the purest aether imaginable, grants "
-"faster weapon fire rate.."
-
-#: src-en/data/blueprints.xml.append:2678
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/title"
-msgstr "Gilded Regenerative Plating"
-
-#: src-en/data/blueprints.xml.append:2679
-msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/desc"
-msgstr ""
-"Good luck puncturing this armor! Wielding 25% Hull and System resistance and"
-" auto-repair functions!"
-
-#: src-en/data/blueprints.xml.append:2686
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/title"
-msgstr "Gilded Divine Armor"
-
-#: src-en/data/blueprints.xml.append:2687
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/desc"
-msgstr ""
-"Good luck puncturing this armor! Wielding 25% Hull and System resistance and"
-" auto-repair functions!"
-
-#: src-en/data/blueprints.xml.append:2694
-msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/title"
-msgstr "Gilded Gel"
-
-#: src-en/data/blueprints.xml.append:2695
-msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/desc"
-msgstr ""
-"Indescribable gel with the capability to not just repair breaches but "
-"systems as well."
-
-#: src-en/data/blueprints.xml.append:2702
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/title"
-msgstr "Gilded Medbots"
-
-#: src-en/data/blueprints.xml.append:2703
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/desc"
-msgstr ""
-"Powerful Nanobots that not only heal but buff crew depending on medbay "
-"power!"
-
 #: src-en/data/blueprints.xml.append:2710
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PURE_INTELLECT\"]/title"
@@ -1063,107 +994,134 @@ msgstr ""
 "Allows detection of various piracy events, Also serves the same functions as"
 " Hijacked Frequencies."
 
+#: src-en/data/blueprints.xml.append:2760
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_SHIP\"]/title"
+msgstr "Automated Ship Function"
+
 #: src-en/data/blueprints.xml.append:2761
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_SHIP\"]/desc"
+msgstr "Makes your ship auto. YOU SHOULD NEVER SEE THIS."
+
+#: src-en/data/blueprints.xml.append:2786
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_MANNING\"]/title"
+msgstr "Automated Manning Function"
+
+#: src-en/data/blueprints.xml.append:2787
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_MANNING\"]/desc"
+msgstr "Mans ship systems. YOU SHOULD NEVER SEE THIS."
+
+#: src-en/data/blueprints.xml.append:2809
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_REPAIR\"]/title"
+msgstr "Automated Repair Function"
+
+#: src-en/data/blueprints.xml.append:2810
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_REPAIR\"]/desc"
+msgstr "Repairs ship systems. YOU SHOULD NEVER SEE THIS."
+
+#: src-en/data/blueprints.xml.append:2820
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/title"
 msgstr "Heavy Piercing Laser Artillery"
 
-#: src-en/data/blueprints.xml.append:2762
+#: src-en/data/blueprints.xml.append:2821
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/short"
 msgstr "Pierce Heavy"
 
-#: src-en/data/blueprints.xml.append:2764
+#: src-en/data/blueprints.xml.append:2823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/desc"
 msgstr ""
 "[Base cooldown: 18] Fires a barrage of powerful heavy lasers that pierce a "
 "shield layer."
 
-#: src-en/data/blueprints.xml.append:2765
+#: src-en/data/blueprints.xml.append:2824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/tooltip"
 msgstr "Heavy laser Barrage, 2 damage, 1 shot. Pierces 1 shield layer."
 
-#: src-en/data/blueprints.xml.append:2801
+#: src-en/data/blueprints.xml.append:2860
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/title"
 msgstr "Particle Missile Artillery"
 
-#: src-en/data/blueprints.xml.append:2802
+#: src-en/data/blueprints.xml.append:2861
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/short"
 msgstr "Particle M."
 
-#: src-en/data/blueprints.xml.append:2803
+#: src-en/data/blueprints.xml.append:2862
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/desc"
 msgstr ""
 "[Base cooldown: 30] Launches a barrage of particle missiles that devastate "
 "ship systems and lockdown rooms."
 
-#: src-en/data/blueprints.xml.append:2804
+#: src-en/data/blueprints.xml.append:2863
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/tooltip"
 msgstr "Particle Missile barrage, 1 sys damage, afflicts lockdown on hit."
 
-#: src-en/data/blueprints.xml.append:2842
+#: src-en/data/blueprints.xml.append:2901
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/title"
 msgstr "Advanced Fauchard Artillery"
 
-#: src-en/data/blueprints.xml.append:2843
+#: src-en/data/blueprints.xml.append:2902
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/short"
 msgstr "'Fauchard'"
 
-#: src-en/data/blueprints.xml.append:2844
+#: src-en/data/blueprints.xml.append:2903
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/desc"
 msgstr ""
 "[Base cooldown: 30] Fires off a devastating anti-bio beam that rips through "
 "enemy systems. Pierces all normal shields."
 
-#: src-en/data/blueprints.xml.append:2845
+#: src-en/data/blueprints.xml.append:2904
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/tooltip"
 msgstr "Fauchard Artillery, Extremely long beam, Pierces shields."
 
-#: src-en/data/blueprints.xml.append:2873
+#: src-en/data/blueprints.xml.append:2932
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/title"
 msgstr "Heavy Energy Artillery"
 
-#: src-en/data/blueprints.xml.append:2874
+#: src-en/data/blueprints.xml.append:2933
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/short"
 msgstr "Heavy Energy"
 
-#: src-en/data/blueprints.xml.append:2877
+#: src-en/data/blueprints.xml.append:2936
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/desc"
 msgstr ""
 "[Base cooldown: 15] Fires a barrage of concentrated energy projectiles that "
 "deal hull and system damage with doubled hull damage in systemless rooms."
 
-#: src-en/data/blueprints.xml.append:2878
+#: src-en/data/blueprints.xml.append:2937
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/tooltip"
 msgstr ""
 "Fires a barrage of heavy energy projectiles. Can hit and disable shields as "
 "well as systems. 2x hull damage on systemless rooms."
 
-#: src-en/data/blueprints.xml.append:2918
+#: src-en/data/blueprints.xml.append:2977
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/title"
 msgstr "Prototype Gatling Artillery"
 
-#: src-en/data/blueprints.xml.append:2919
+#: src-en/data/blueprints.xml.append:2978
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/short"
 msgstr "Artillery"
 
-#: src-en/data/blueprints.xml.append:2920
+#: src-en/data/blueprints.xml.append:2979
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/desc"
 msgstr ""
@@ -1171,263 +1129,24 @@ msgstr ""
 "laser artillery that chains its cooldown after every barrage, keeping enemy "
 "shields under constant fire."
 
-#: src-en/data/blueprints.xml.append:2921
+#: src-en/data/blueprints.xml.append:2980
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/tooltip"
 msgstr ""
 "Artillery: A relatively quick charging burst of lasers with moderate status "
 "effect chances."
 
-#: src-en/data/blueprints.xml.append:2959
+#: src-en/data/blueprints.xml.append:3018
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/title"
 msgstr "Vindicator Laser"
 
-#: src-en/data/blueprints.xml.append:2960
+#: src-en/data/blueprints.xml.append:3019
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/short"
 msgstr "Vindicator"
 
-#: src-en/data/blueprints.xml.append:2962
+#: src-en/data/blueprints.xml.append:3021
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/desc"
 msgstr "Let it hit you and you're already dead."
-
-#: src-en/data/blueprints.xml.append:3001
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/title"
-msgstr "Gilded 'Tsukiyari' Beam"
-
-#: src-en/data/blueprints.xml.append:3002
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/short"
-msgstr "G. 'Tsukiyari'"
-
-#: src-en/data/blueprints.xml.append:3003
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/desc"
-msgstr ""
-"This advanced Beam was a prototype upgrade of the well known Kamayari and "
-"Suyari Beams."
-
-#: src-en/data/blueprints.xml.append:3032
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/title"
-msgstr "Gilded Ion Blast"
-
-#: src-en/data/blueprints.xml.append:3033
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/short"
-msgstr "G. Pre-ion"
-
-#: src-en/data/blueprints.xml.append:3036
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/desc"
-msgstr ""
-"This ion weapon uses no power, charges instantly, and fires a strong ion "
-"beam capable of taking out enemy shields very effectively. However, it can "
-"only be shot once per combat."
-
-#: src-en/data/blueprints.xml.append:3089
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/title"
-msgstr "Gilded Pre-emptive 'Torch'"
-
-#: src-en/data/blueprints.xml.append:3090
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/short"
-msgstr "G. Pre-'Torch'"
-
-#: src-en/data/blueprints.xml.append:3091
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/desc"
-msgstr ""
-"A rapidly charging Pre-emptive weapon that pierces all shields and lights "
-"the enemy ship ablaze with a slow moving beam. Can only be fired once per "
-"combat."
-
-#: src-en/data/blueprints.xml.append:3118
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/title"
-msgstr "Gilded 'Voulge' Beam"
-
-#: src-en/data/blueprints.xml.append:3119
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/short"
-msgstr "G. 'Voulge'"
-
-#: src-en/data/blueprints.xml.append:3121
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/desc"
-msgstr ""
-"The heaviest hitting Beam ever conceived, made in direct response for a poor"
-" fool who dared utter that the Glaive might be as strong as it gets."
-
-#: src-en/data/blueprints.xml.append:3143
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/title"
-msgstr "Piercing Heavy Laser"
-
-#: src-en/data/blueprints.xml.append:3144
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/short"
-msgstr "Pierce Heavy"
-
-#: src-en/data/blueprints.xml.append:3146
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/desc"
-msgstr ""
-"[ARTILLERY, PIERCE HEAVY ARTI, 2 DAMAGE, CANNOT MISS, 3 PER CHARGE, LOCKDOWN"
-" ON HIT]"
-
-#: src-en/data/blueprints.xml.append:3184
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/title"
-msgstr "Particle Missile"
-
-#: src-en/data/blueprints.xml.append:3185
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/short"
-msgstr "Particle M."
-
-#: src-en/data/blueprints.xml.append:3186
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/desc"
-msgstr ""
-"[ARTILLERY, PARTICLE MISSILE ARTI, 1 SYS DAMAGE, CANNOT MISS, 3 PER CHARGE, "
-"LOCKDOWN ON HIT]"
-
-#: src-en/data/blueprints.xml.append:3224
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/title"
-msgstr "'Fauchard' Beam"
-
-#: src-en/data/blueprints.xml.append:3225
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/short"
-msgstr "'Fauchard'"
-
-#: src-en/data/blueprints.xml.append:3226
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/desc"
-msgstr ""
-"This terrifying radiation Beam is capable of shredding shipboard systems in "
-"addition to crew."
-
-#: src-en/data/blueprints.xml.append:3255
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/title"
-msgstr "Heavy Energy"
-
-#: src-en/data/blueprints.xml.append:3256
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/short"
-msgstr "Heavy Energy"
-
-#: src-en/data/blueprints.xml.append:3259
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/desc"
-msgstr ""
-"Energy weapons can disable systems while also causing hull damage. This one "
-"does additional hull damage on systemless rooms."
-
-#: src-en/data/blueprints.xml.append:3300
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/title"
-msgstr "Fire-Starter"
-
-#: src-en/data/blueprints.xml.append:3301
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/short"
-msgstr "Fire-Starter"
-
-#: src-en/data/blueprints.xml.append:3303
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/desc"
-msgstr ""
-"A modified Laser weapon which starts a fire with each projectile, as well as"
-" harming enemy systems and hull but not crew."
-
-#: src-en/data/blueprints.xml.append:3341
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/title"
-msgstr "'Hades' Missiles"
-
-#: src-en/data/blueprints.xml.append:3342
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/short"
-msgstr "'Hades'"
-
-#: src-en/data/blueprints.xml.append:3343
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS."
-
-#: src-en/data/blueprints.xml.append:3382
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/title"
-msgstr "Ignited Flak Gun"
-
-#: src-en/data/blueprints.xml.append:3383
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/short"
-msgstr "Fire Flak"
-
-#: src-en/data/blueprints.xml.append:3385
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/desc"
-msgstr ""
-"Fires 4 flaming projectiles that have an increased chance to start a fire."
-
-#: src-en/data/blueprints.xml.append:3430
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/title"
-msgstr "'Cinquedea' Pinpoint"
-
-#: src-en/data/blueprints.xml.append:3431
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/short"
-msgstr "'Cinquedea'"
-
-#: src-en/data/blueprints.xml.append:3432
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/desc"
-msgstr ""
-"This Pinpoint weapon only does a moderate amount of damage, but quickly "
-"ramps up its fire rate until it becomes devastating on enemies with their "
-"shields down."
-
-#: src-en/data/blueprints.xml.append:3460
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/title"
-msgstr "Modular Laser"
-
-#: src-en/data/blueprints.xml.append:3461
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/short"
-msgstr "Mod. Laser"
-
-#: src-en/data/blueprints.xml.append:3463
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/desc"
-msgstr ""
-"Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.\n"
-"\tHas no incompatible modules.\n"
-"\t----CURRENTLY INSTALLED MODULES----\n"
-"\tAttribute - Firestarter\n"
-"\tStatus - Lockdown"
-
-#: src-en/data/blueprints.xml.append:3504
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/title"
-msgstr "Uplifted Burst Laser II"
-
-#: src-en/data/blueprints.xml.append:3505
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/short"
-msgstr "Uplifted II"
-
-#: src-en/data/blueprints.xml.append:3507
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/desc"
-msgstr "Pew pew pew, ssstranger."

@@ -1,23 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-25 10:15+0000\n"
-"Last-Translator: Nicola Morelli <nicomore1702@gmail.com>\n"
-"Language-Team: Italian <https://weblate.hyperq.be/projects/"
-"expanded-multiverse/datablueprintsxmlappend/it/>\n"
-"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/desc"
 msgstr ""
-"Equipaggio umano d'élite. L'equipaggio dei Fuorilegge abili e letali, "
-"allenati per servire la Vecchia Gloria.\n"
+"Equipaggio umano d'élite. L'equipaggio dei Fuorilegge abili e letali, allenati per servire la Vecchia Gloria.\n"
 "\t\n"
 "\tTratti umani ereditati: leggera resistenza a soffocamento"
 
@@ -75,8 +67,8 @@ msgstr "Comandante"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[1]"
 msgstr ""
-"Potere attivo: fa un grido di guerra ruggente che potenzia il tuo equipaggio "
-"umano e spezza il morale di tutto l'equipaggio non umano."
+"Potere attivo: fa un grido di guerra ruggente che potenzia il tuo equipaggio"
+" umano e spezza il morale di tutto l'equipaggio non umano."
 
 #: src-en/data/blueprints.xml.append:27
 msgid ""
@@ -816,63 +808,6 @@ msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_RETRO_SHIELDING\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2661
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/title"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:2662
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:2670
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/title"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:2671
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:2678
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/title"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:2679
-msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:2686
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/title"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:2687
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:2694
-msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/title"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:2695
-msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:2702
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/title"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:2703
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/desc"
-msgstr ""
-
 #: src-en/data/blueprints.xml.append:2710
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PURE_INTELLECT\"]/title"
@@ -920,367 +855,311 @@ msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_ADV_FREQUENCIES\"]/desc"
 msgstr ""
 
+#: src-en/data/blueprints.xml.append:2760
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_SHIP\"]/title"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:2761
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_SHIP\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2786
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_MANNING\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2787
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_MANNING\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2809
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_REPAIR\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2810
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_REPAIR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2820
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2762
+#: src-en/data/blueprints.xml.append:2821
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/short"
 msgstr "Drill. Auger"
 
-#: src-en/data/blueprints.xml.append:2764
+#: src-en/data/blueprints.xml.append:2823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2765
+#: src-en/data/blueprints.xml.append:2824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2801
+#: src-en/data/blueprints.xml.append:2860
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2802
+#: src-en/data/blueprints.xml.append:2861
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/short"
 msgstr "M. Part."
 
-#: src-en/data/blueprints.xml.append:2803
+#: src-en/data/blueprints.xml.append:2862
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2804
+#: src-en/data/blueprints.xml.append:2863
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2842
+#: src-en/data/blueprints.xml.append:2901
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2843
+#: src-en/data/blueprints.xml.append:2902
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/short"
 msgstr "'Falcione'"
 
-#: src-en/data/blueprints.xml.append:2844
+#: src-en/data/blueprints.xml.append:2903
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2845
+#: src-en/data/blueprints.xml.append:2904
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2873
+#: src-en/data/blueprints.xml.append:2932
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2874
+#: src-en/data/blueprints.xml.append:2933
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/short"
 msgstr "Driller energetico"
 
-#: src-en/data/blueprints.xml.append:2877
+#: src-en/data/blueprints.xml.append:2936
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2878
+#: src-en/data/blueprints.xml.append:2937
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2918
+#: src-en/data/blueprints.xml.append:2977
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2919
+#: src-en/data/blueprints.xml.append:2978
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/short"
 msgstr "Artiglieria"
 
-#: src-en/data/blueprints.xml.append:2920
+#: src-en/data/blueprints.xml.append:2979
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2921
+#: src-en/data/blueprints.xml.append:2980
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/tooltip"
 msgstr ""
 "Artiglieria: una raffica di laser a ricarica relativamente rapida con una "
 "moderata chance di infliggere status."
 
-#: src-en/data/blueprints.xml.append:2959
+#: src-en/data/blueprints.xml.append:3018
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2960
+#: src-en/data/blueprints.xml.append:3019
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/short"
 msgstr "Vendicatore"
 
-#: src-en/data/blueprints.xml.append:2962
+#: src-en/data/blueprints.xml.append:3021
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/desc"
 msgstr "Lascia che ti colpisca e sei già morto."
 
-#: src-en/data/blueprints.xml.append:3001
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/title"
-msgstr ""
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/desc"
+#~ msgstr ""
+#~ "Questo raggio avanzato era un prototipo per un miglioramento dei famosi "
+#~ "raggi Kamayari e Suyari."
 
-#: src-en/data/blueprints.xml.append:3002
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/short"
-msgstr ""
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/desc"
+#~ msgstr ""
+#~ "Quest'arma ionica non richiede energia, si carica istantaneamente e spara un"
+#~ " potente raggio ionico in grado di abbattere gli scudi nemici con molta "
+#~ "efficacia. Tuttavia, può essere usata solo una volta per combattimento."
 
-#: src-en/data/blueprints.xml.append:3003
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/desc"
-msgstr ""
-"Questo raggio avanzato era un prototipo per un miglioramento dei famosi "
-"raggi Kamayari e Suyari."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/desc"
+#~ msgstr ""
+#~ "Un'arma preventiva a carica rapida che penetra tutti gli scudi e dà alle "
+#~ "fiamme la nave nemica con un raggio lento. Utilizzabile solo una volta per "
+#~ "combattimento."
 
-#: src-en/data/blueprints.xml.append:3032
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/title"
-msgstr ""
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/desc"
+#~ msgstr ""
+#~ "Il raggio più devastante mai concepito, fatto per rispondere direttamente a "
+#~ "un povero sciocco che ha osato dire che il Gladio è quanto di meglio ci sia."
 
-#: src-en/data/blueprints.xml.append:3033
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/short"
-msgstr ""
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/title"
+#~ msgstr "Driller Auger"
 
-#: src-en/data/blueprints.xml.append:3036
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/desc"
-msgstr ""
-"Quest'arma ionica non richiede energia, si carica istantaneamente e spara un "
-"potente raggio ionico in grado di abbattere gli scudi nemici con molta "
-"efficacia. Tuttavia, può essere usata solo una volta per combattimento."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/short"
+#~ msgstr "Drill. Auger"
 
-#: src-en/data/blueprints.xml.append:3089
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/title"
-msgstr ""
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/title"
+#~ msgstr "Missile particellare"
 
-#: src-en/data/blueprints.xml.append:3090
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/short"
-msgstr ""
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/short"
+#~ msgstr "M. Part."
 
-#: src-en/data/blueprints.xml.append:3091
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/desc"
-msgstr ""
-"Un'arma preventiva a carica rapida che penetra tutti gli scudi e dà alle "
-"fiamme la nave nemica con un raggio lento. Utilizzabile solo una volta per "
-"combattimento."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/title"
+#~ msgstr "Raggio 'Falcione'"
 
-#: src-en/data/blueprints.xml.append:3118
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/title"
-msgstr ""
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/short"
+#~ msgstr "'Falcione'"
 
-#: src-en/data/blueprints.xml.append:3119
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/short"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:3121
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/desc"
-msgstr ""
-"Il raggio più devastante mai concepito, fatto per rispondere direttamente a "
-"un povero sciocco che ha osato dire che il Gladio è quanto di meglio ci sia."
-
-#: src-en/data/blueprints.xml.append:3143
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/title"
-msgstr "Driller Auger"
-
-#: src-en/data/blueprints.xml.append:3144
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/short"
-msgstr "Drill. Auger"
-
-#: src-en/data/blueprints.xml.append:3146
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:3184
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/title"
-msgstr "Missile particellare"
-
-#: src-en/data/blueprints.xml.append:3185
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/short"
-msgstr "M. Part."
-
-#: src-en/data/blueprints.xml.append:3186
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:3224
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/title"
-msgstr "Raggio 'Falcione'"
-
-#: src-en/data/blueprints.xml.append:3225
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/short"
-msgstr "'Falcione'"
-
-#: src-en/data/blueprints.xml.append:3226
 #, fuzzy
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/desc"
-msgstr ""
-"Questo raggio terrificante infligge danni sia all'equipaggio che ai sistemi, "
-"il che lo rende una minaccia universale."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/desc"
+#~ msgstr ""
+#~ "Questo raggio terrificante infligge danni sia all'equipaggio che ai sistemi,"
+#~ " il che lo rende una minaccia universale."
 
-#: src-en/data/blueprints.xml.append:3255
 #, fuzzy
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/title"
-msgstr "Driller energetico"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/title"
+#~ msgstr "Driller energetico"
 
-#: src-en/data/blueprints.xml.append:3256
 #, fuzzy
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/short"
-msgstr "Driller energetico"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/short"
+#~ msgstr "Driller energetico"
 
-#: src-en/data/blueprints.xml.append:3259
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/desc"
-msgstr ""
-"Le armi energetiche possono disattivare i sistemi infliggendo anche danno "
-"allo scafo. Questa infligge danni aggiuntivi allo scafo se colpisce stanze "
-"senza sistemi."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/desc"
+#~ msgstr ""
+#~ "Le armi energetiche possono disattivare i sistemi infliggendo anche danno "
+#~ "allo scafo. Questa infligge danni aggiuntivi allo scafo se colpisce stanze "
+#~ "senza sistemi."
 
-#: src-en/data/blueprints.xml.append:3300
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/title"
-msgstr "Incendiario"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/title"
+#~ msgstr "Incendiario"
 
-#: src-en/data/blueprints.xml.append:3301
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/short"
-msgstr "Incendiario"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/short"
+#~ msgstr "Incendiario"
 
-#: src-en/data/blueprints.xml.append:3303
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/desc"
-msgstr ""
-"Un laser modificato che appica un incendio con ogni proiettile, oltre a "
-"danneggiare sistemi e scafo nemici, ma non l'equipaggio."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/desc"
+#~ msgstr ""
+#~ "Un laser modificato che appica un incendio con ogni proiettile, oltre a "
+#~ "danneggiare sistemi e scafo nemici, ma non l'equipaggio."
 
-#: src-en/data/blueprints.xml.append:3341
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/title"
-msgstr "Missile 'Hades'"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/title"
+#~ msgstr "Missile 'Hades'"
 
-#: src-en/data/blueprints.xml.append:3342
 #, fuzzy
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/short"
-msgstr "'Hades'"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/short"
+#~ msgstr "'Hades'"
 
-#: src-en/data/blueprints.xml.append:3343
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/desc"
-msgstr "NON DOVRESTI MAI VEDERE QUESTO MESSAGGIO."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/desc"
+#~ msgstr "NON DOVRESTI MAI VEDERE QUESTO MESSAGGIO."
 
-#: src-en/data/blueprints.xml.append:3382
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/title"
-msgstr "Cannone incendiario"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/title"
+#~ msgstr "Cannone incendiario"
 
-#: src-en/data/blueprints.xml.append:3383
 #, fuzzy
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/short"
-msgstr "Cannone Inc."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/short"
+#~ msgstr "Cannone Inc."
 
-#: src-en/data/blueprints.xml.append:3385
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/desc"
-msgstr ""
-"Scaglia 4 proiettili infuocati che hanno una maggiore chance di appicare "
-"incendi."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/desc"
+#~ msgstr ""
+#~ "Scaglia 4 proiettili infuocati che hanno una maggiore chance di appicare "
+#~ "incendi."
 
-#: src-en/data/blueprints.xml.append:3430
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/title"
-msgstr "Raggio preciso 'Cinquedea'"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/title"
+#~ msgstr "Raggio preciso 'Cinquedea'"
 
-#: src-en/data/blueprints.xml.append:3431
 #, fuzzy
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/short"
-msgstr "'Cinquedea'"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/short"
+#~ msgstr "'Cinquedea'"
 
-#: src-en/data/blueprints.xml.append:3432
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/desc"
-msgstr ""
-"Questo raggio preciso infligge solo danni moderati, ma accelera rapidamente "
-"la velocità di fuoco fino a quando non diventa devastante contro i nemici "
-"con gli scudi abbassati."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/desc"
+#~ msgstr ""
+#~ "Questo raggio preciso infligge solo danni moderati, ma accelera rapidamente "
+#~ "la velocità di fuoco fino a quando non diventa devastante contro i nemici "
+#~ "con gli scudi abbassati."
 
-#: src-en/data/blueprints.xml.append:3460
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/title"
-msgstr "Laser modificabile"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/title"
+#~ msgstr "Laser modificabile"
 
-#: src-en/data/blueprints.xml.append:3461
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/short"
-msgstr "Laser mod."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/short"
+#~ msgstr "Laser mod."
 
-#: src-en/data/blueprints.xml.append:3463
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/desc"
-msgstr ""
-"Prodotta dalla Hektar Industries(TM), questa è la base per un laser "
-"modificabile. Supporta 1 modifica attributo e 1 modifica status.\n"
-"\tNon ha modifiche incompatibili.\n"
-"\t----MODIFICHE INSTALLATE----\n"
-"\tAttributo - Incendiario\n"
-"\tStatus - Isolamento"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/desc"
+#~ msgstr ""
+#~ "Prodotta dalla Hektar Industries(TM), questa è la base per un laser modificabile. Supporta 1 modifica attributo e 1 modifica status.\n"
+#~ "\tNon ha modifiche incompatibili.\n"
+#~ "\t----MODIFICHE INSTALLATE----\n"
+#~ "\tAttributo - Incendiario\n"
+#~ "\tStatus - Isolamento"
 
-#: src-en/data/blueprints.xml.append:3504
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/title"
-msgstr "Multi-laser II migliorato"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/title"
+#~ msgstr "Multi-laser II migliorato"
 
-#: src-en/data/blueprints.xml.append:3505
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/short"
-msgstr "Migliorato II"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/short"
+#~ msgstr "Migliorato II"
 
-#: src-en/data/blueprints.xml.append:3507
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/desc"
-msgstr "Pew pew pew, ssstraniero."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/desc"
+#~ msgstr "Pew pew pew, ssstraniero."
 
 #~ msgid ""
 #~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/tooltip"

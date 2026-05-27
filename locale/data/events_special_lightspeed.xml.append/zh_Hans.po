@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-15 15:44+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/expanded-multiverse/dataevents_special_lightspeedxmlappend/zh_Hans/>"
-"\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_lightspeed.xml.append:5
 #, fuzzy
@@ -35,8 +27,7 @@ msgstr ""
 "\t主导派系： [style[color:ffd780]]鎏金众。[/style]\n"
 "\t叛军威胁等级： [style[color:ffb045]]不复存在。[/style]\n"
 "\n"
-"\t[style[color:ffb045]]为[/style][style[color:ffbd64]]我[/style]"
-"[style[color:ffd780]]们[/style][style[color:ffc369]]准准备……[/style]"
+"\t[style[color:ffb045]]为[/style][style[color:ffbd64]]我[/style][style[color:ffd780]]们[/style][style[color:ffc369]]准准备……[/style]"
 
 #: src-en/data/events_special_lightspeed.xml.append:26
 msgid ""

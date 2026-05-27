@@ -1,23 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-07 14:57+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/expanded-"
-"multiverse/datablueprintsxmlappend/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/desc"
 msgstr ""
-"Équipage humain d'élite. L'équipage Vaurien, habile et redoutable, entraîné "
-"pour servir la Vieille Gloire.\n"
+"Équipage humain d'élite. L'équipage Vaurien, habile et redoutable, entraîné pour servir la Vieille Gloire.\n"
 "\t\n"
 "\tStats. héritées des Humains : résistance mineure à l'asphyxie"
 
@@ -59,8 +51,8 @@ msgstr "Apprend les compétences beaucoup plus rapidement."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/desc"
 msgstr ""
-"Une équipe humaine d'élite. Grâce à leur formation d'élite, ces gars peuvent "
-"même saper le moral de leurs proies, les transformant ainsi en cibles "
+"Une équipe humaine d'élite. Grâce à leur formation d'élite, ces gars peuvent"
+" même saper le moral de leurs proies, les transformant ainsi en cibles "
 "faciles."
 
 #: src-en/data/blueprints.xml.append:22
@@ -95,8 +87,8 @@ msgstr "Sabote les systèmes 2x plus rapidement."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[4]"
 msgstr ""
-"Subit 0,7x les dégâts causés par les combats d'équipage, les incendies et de "
-"la suffocation."
+"Subit 0,7x les dégâts causés par les combats d'équipage, les incendies et de"
+" la suffocation."
 
 #: src-en/data/blueprints.xml.append:30
 msgid ""
@@ -160,16 +152,16 @@ msgstr "Résiste au contrôle mental."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[8]"
 msgstr ""
-"Se camoufle à 30 PV, devenant brièvement incontrôlable mais se soignant très "
-"rapidement. Ne peut pas être ciblé."
+"Se camoufle à 30 PV, devenant brièvement incontrôlable mais se soignant très"
+" rapidement. Ne peut pas être ciblé."
 
 #: src-en/data/blueprints.xml.append:49
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[9]"
 msgstr ""
 "La xénophobie pure et simple lie les humains dans la même pièce, leur "
-"permettant d'infliger 1,25x plus de dégâts, d'avoir 1,1x plus de santé et de "
-"réparer 1,2x plus vite."
+"permettant d'infliger 1,25x plus de dégâts, d'avoir 1,1x plus de santé et de"
+" réparer 1,2x plus vite."
 
 #: src-en/data/blueprints.xml.append:54
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/desc"
@@ -199,8 +191,8 @@ msgstr "Sabote les systèmes à une vitesse de 1,5x."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[3]"
 msgstr ""
-"Subit 0,7x les dégâts causés par les combats d'équipage, les incendies et de "
-"la suffocation."
+"Subit 0,7x les dégâts causés par les combats d'équipage, les incendies et de"
+" la suffocation."
 
 #: src-en/data/blueprints.xml.append:63
 msgid ""
@@ -216,11 +208,9 @@ msgstr "Peut se téléporter sur n'importe quel vaisseau."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/desc"
 msgstr ""
-"Équipage médical d'élite. Alliés d'un criminel multiversel, mais moins "
-"combatifs et moins enclins à soigner les aliens.\n"
+"Équipage médical d'élite. Alliés d'un criminel multiversel, mais moins combatifs et moins enclins à soigner les aliens.\n"
 "\n"
-"\tStats. héritées des humains : Résistance mineure aux dégâts "
-"environnementaux, apprentissage plus rapide des compétences non-combattantes"
+"\tStats. héritées des humains : Résistance mineure aux dégâts environnementaux, apprentissage plus rapide des compétences non-combattantes"
 
 #: src-en/data/blueprints.xml.append:73
 msgid ""
@@ -236,8 +226,8 @@ msgstr "Infirmier"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[1]"
 msgstr ""
-"Capacité active : Soigne tous les alliés proches de 15PV et réduit de moitié "
-"les dégâts subis pendant une courte durée."
+"Capacité active : Soigne tous les alliés proches de 15PV et réduit de moitié"
+" les dégâts subis pendant une courte durée."
 
 #: src-en/data/blueprints.xml.append:78
 msgid ""
@@ -262,12 +252,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/desc"
 msgstr ""
-"Équipage d'ingénieurs d'élite. Des ingénieurs talentueux ayant réorienté "
-"leur force physique vers le combat et adapté des drones pour effectuer des "
-"réparations.\n"
+"Équipage d'ingénieurs d'élite. Des ingénieurs talentueux ayant réorienté leur force physique vers le combat et adapté des drones pour effectuer des réparations.\n"
 "\n"
-"\tStats. héritées des humains : résistance mineure à la suffocation, "
-"apprentissage plus rapide des compétences"
+"\tStats. héritées des humains : résistance mineure à la suffocation, apprentissage plus rapide des compétences"
 
 #: src-en/data/blueprints.xml.append:100
 msgid ""
@@ -308,12 +295,9 @@ msgstr "Apprend à réparer encore plus rapidement."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/desc"
 msgstr ""
-"Ancien évêque et membre de la garde personnelle de la Reine, il est "
-"aujourd'hui le plus grand chasseur de primes Mantis. Il a également une "
-"profonde appréciation pour les vêtements de l'époque victorienne.\n"
+"Ancien évêque et membre de la garde personnelle de la Reine, il est aujourd'hui le plus grand chasseur de primes Mantis. Il a également une profonde appréciation pour les vêtements de l'époque victorienne.\n"
 "\n"
-"\tStat. héritées des Évêques : Vitesse de déplacement x1,65, vitesse de "
-"réparation x0,07."
+"\tStat. héritées des Évêques : Vitesse de déplacement x1,65, vitesse de réparation x0,07."
 
 #: src-en/data/blueprints.xml.append:137
 msgid ""
@@ -355,12 +339,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/desc"
 msgstr ""
-"Un ancien seigneur de guerre Mantis exceptionnellement érudit, excellent en "
-"médecine, mais qui vous mettra tout de même à terre sans hésiter. Grand "
-"admirateur de la culture humaine axée sur la santé et la médecine.\n"
+"Un ancien seigneur de guerre Mantis exceptionnellement érudit, excellent en médecine, mais qui vous mettra tout de même à terre sans hésiter. Grand admirateur de la culture humaine axée sur la santé et la médecine.\n"
 "\n"
-"\tStat. héritées du Seigneur de guerre : Dégâts reçus en combat d'équipage "
-"x0,8, vitesse de réparation x0,5."
+"\tStat. héritées du Seigneur de guerre : Dégâts reçus en combat d'équipage x0,8, vitesse de réparation x0,5."
 
 #: src-en/data/blueprints.xml.append:153
 msgid ""
@@ -376,8 +357,8 @@ msgstr "Médecin"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[1]"
 msgstr ""
-"Capacité active : Libère des phéromones médicinales qui soignent les membres "
-"d'équipage alliés à raison de 7,5 PV/s."
+"Capacité active : Libère des phéromones médicinales qui soignent les membres"
+" d'équipage alliés à raison de 7,5 PV/s."
 
 #: src-en/data/blueprints.xml.append:159
 msgid ""
@@ -403,8 +384,8 @@ msgstr "Tourbillon"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/desc"
 msgstr ""
-"L'un des précurseurs des voyages multiversels effectués par la Rébellion, ce "
-"vaisseau automatisé reprogrammé est une machine de guerre vicieuse presque "
+"L'un des précurseurs des voyages multiversels effectués par la Rébellion, ce"
+" vaisseau automatisé reprogrammé est une machine de guerre vicieuse presque "
 "parfaite."
 
 #: src-en/data/blueprints.xml.append:245
@@ -422,8 +403,8 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/desc"
 msgstr ""
 "La formation de la Coalition a été approuvée par les dirigeants notoires de "
-"la Ruche, de la Théocratie, de la Kleptocratie et de la République d'Eargen. "
-"Leur objectif est simple : vaincre leurs ennemis, même à travers les "
+"la Ruche, de la Théocratie, de la Kleptocratie et de la République d'Eargen."
+" Leur objectif est simple : vaincre leurs ennemis, même à travers les "
 "réalités."
 
 #: src-en/data/blueprints.xml.append:324
@@ -478,8 +459,8 @@ msgstr "Raphaël"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/desc"
 msgstr ""
-"Lorsque Vael eut vent de l'essor des voyages multiversels, il ne tarda pas à "
-"étendre ses activités à travers les réalités. Ce vaisseau redoutable était "
+"Lorsque Vael eut vent de l'essor des voyages multiversels, il ne tarda pas à"
+" étendre ses activités à travers les réalités. Ce vaisseau redoutable était "
 "le candidat idéal pour ses projets."
 
 #: src-en/data/blueprints.xml.append:643
@@ -496,8 +477,8 @@ msgstr "Stardust"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/desc"
 msgstr ""
-"Vous ne savez pas exactement comment, mais quelle que soit la dépendance aux "
-"phéromones dont souffrent les Mantis libres, cela ne les a pas empêchés de "
+"Vous ne savez pas exactement comment, mais quelle que soit la dépendance aux"
+" phéromones dont souffrent les Mantis libres, cela ne les a pas empêchés de "
 "se procurer un vaisseau conçu pour des fins multiverselles. Ce vaisseau "
 "illustre parfaitement la force primitive des Mantis libres et leur haine "
 "envers la Ruche et les Zoltans."
@@ -516,8 +497,8 @@ msgstr "Marshall"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/desc"
 msgstr ""
-"L'un des protecteurs multiversels les plus fiables de la Milice. Cet immense "
-"vaisseau de guerre est parfaitement adapté pour protéger n'importe quel "
+"L'un des protecteurs multiversels les plus fiables de la Milice. Cet immense"
+" vaisseau de guerre est parfaitement adapté pour protéger n'importe quel "
 "secteur de l'Union, dans n'importe quelle réalité, contre les intrus "
 "indésirables."
 
@@ -535,8 +516,8 @@ msgstr "Point-Zero"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/desc"
 msgstr ""
-"Suivant les ordres du ministre Lumei, le ministère Zoltan a décidé d'étendre "
-"son influence dans le multivers, afin d'en dévoiler les merveilles et les "
+"Suivant les ordres du ministre Lumei, le ministère Zoltan a décidé d'étendre"
+" son influence dans le multivers, afin d'en dévoiler les merveilles et les "
 "menaces."
 
 #: src-en/data/blueprints.xml.append:884
@@ -553,8 +534,8 @@ msgstr "Le Tyrannobdella"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/desc"
 msgstr ""
-"Les équipes de récupération de la Fédération sont parvenues à mettre au jour "
-"des plans inutilisés d'un croiseur républicain conçu pour les voyages "
+"Les équipes de récupération de la Fédération sont parvenues à mettre au jour"
+" des plans inutilisés d'un croiseur républicain conçu pour les voyages "
 "multiversels. Ce croiseur est à la hauteur de la gloire perdue de la "
 "République Eargen."
 
@@ -572,8 +553,8 @@ msgstr "Le Pérégrin"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/desc"
 msgstr ""
-"En raison des innombrables tentatives de la Théocratie pour les traquer, les "
-"commandos des Lost Sun n'ont d'autre choix que d'entrer en conflit avec "
+"En raison des innombrables tentatives de la Théocratie pour les traquer, les"
+" commandos des Lost Sun n'ont d'autre choix que d'entrer en conflit avec "
 "leurs cruels frères dans leur propre bataille à travers les réalités."
 
 #: src-en/data/blueprints.xml.append:1043
@@ -701,8 +682,9 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/desc"
 msgstr ""
 "L'équipage Paladin occupant ce vaisseau a fait défection et échappé à "
-"l'assaut de Numa V. Ils sont des hors-la-loi aux yeux de la Théocratie, mais "
-"ils n'ont plus rien à perdre désormais avec leur énorme vaisseau de bataille."
+"l'assaut de Numa V. Ils sont des hors-la-loi aux yeux de la Théocratie, mais"
+" ils n'ont plus rien à perdre désormais avec leur énorme vaisseau de "
+"bataille."
 
 #: src-en/data/blueprints.xml.append:1667
 msgid ""
@@ -754,8 +736,8 @@ msgstr "P.U.R.E."
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/desc"
 msgstr ""
-"Pour une raison quelconque, l'IA C.I.C.A conçue par les Rebelles a décidé de "
-"migrer dans ce croiseur secret de classe multiverselle, affichant des "
+"Pour une raison quelconque, l'IA C.I.C.A conçue par les Rebelles a décidé de"
+" migrer dans ce croiseur secret de classe multiverselle, affichant des "
 "motivations cachées encore incomprises."
 
 #: src-en/data/blueprints.xml.append:1901
@@ -810,8 +792,8 @@ msgstr "Le Soolane"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/desc"
 msgstr ""
-"Ayant fini par se lasser de harceler gratuitement toute la race des Limaces, "
-"le légendaire Salin décida de rejoindre les rangs de l'EMPMV pour être "
+"Ayant fini par se lasser de harceler gratuitement toute la race des Limaces,"
+" le légendaire Salin décida de rejoindre les rangs de l'EMPMV pour être "
 "rémunéré pour harceler les Limaces et accomplir d'autres sales besognes."
 
 #: src-en/data/blueprints.xml.append:2211
@@ -829,7 +811,8 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/desc"
 msgstr ""
 "Malgré la nature de ce vaisseau, il dégage un sentiment oxymorique. Aucun "
-"pirate ne peut s'en cacher, et aucun civil ne peut facilement lui tenir tête."
+"pirate ne peut s'en cacher, et aucun civil ne peut facilement lui tenir "
+"tête."
 
 #: src-en/data/blueprints.xml.append:2289
 msgid ""
@@ -845,8 +828,8 @@ msgstr "CRISPR"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/desc"
 msgstr ""
-"Le Premier confédéré, Ivar, commanda à ses Cultivateurs d'élite de parcourir "
-"les réalités, dans l'espoir de renforcer la colonne vertébrale des "
+"Le Premier confédéré, Ivar, commanda à ses Cultivateurs d'élite de parcourir"
+" les réalités, dans l'espoir de renforcer la colonne vertébrale des "
 "Vampiflores Oro'bache."
 
 #: src-en/data/blueprints.xml.append:2369
@@ -881,8 +864,8 @@ msgstr "Arescentem Rosa"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/desc"
 msgstr ""
-"Une bête à l'extérieur, capable de déchiqueter ses ennemis sans effort, mais "
-"à l'intérieur, vous découvrirez un tueur très enthousiaste qui adore le "
+"Une bête à l'extérieur, capable de déchiqueter ses ennemis sans effort, mais"
+" à l'intérieur, vous découvrirez un tueur très enthousiaste qui adore le "
 "café... et une personne très spéciale."
 
 #: src-en/data/blueprints.xml.append:2523
@@ -913,18 +896,12 @@ msgstr "Phéromones flétries"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_MORTIS_PHEROMONES\"]/desc"
 msgstr ""
-"Un mélange de phéromones personnellement concocté par Mortis. Combiné à une "
-"variété de toxines mortelles et à une dose très létale de caféine, l'air "
-"prend l'odeur d'un café mortel.\n"
+"Un mélange de phéromones personnellement concocté par Mortis. Combiné à une variété de toxines mortelles et à une dose très létale de caféine, l'air prend l'odeur d'un café mortel.\n"
 "\t\n"
-"\tPour chaque niveau activé du système de survie, les ennemis subissent une "
-"diminution de 10 % de leur santé et de 5 % de leur vitesse de déplacement.\n"
+"\tPour chaque niveau activé du système de survie, les ennemis subissent une diminution de 10 % de leur santé et de 5 % de leur vitesse de déplacement.\n"
 "\n"
-"\tUn système de survie entièrement activé au niveau 4 inflige des dégâts aux "
-"ennemis présents sur votre vaisseau et leur applique un effet de "
-"décomposition lorsqu'ils subissent des dégâts sur le leur.\n"
-"\tLes membres d'équipage Mantis alliés bénéficient d'un multiplicateur de "
-"dégâts de 1,1x pour chaque niveau de puissance du système de survie."
+"\tUn système de survie entièrement activé au niveau 4 inflige des dégâts aux ennemis présents sur votre vaisseau et leur applique un effet de décomposition lorsqu'ils subissent des dégâts sur le leur.\n"
+"\tLes membres d'équipage Mantis alliés bénéficient d'un multiplicateur de dégâts de 1,1x pour chaque niveau de puissance du système de survie."
 
 #: src-en/data/blueprints.xml.append:2609
 msgid ""
@@ -935,15 +912,10 @@ msgstr "Phéromones florales"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_VITAE_PHEROMONES\"]/desc"
 msgstr ""
-"Mélange spécialement concocté par Vitae de phéromones médicinales. Rempli "
-"d'herbes aromatiques et de remèdes capables de tranquilliser même les "
-"équidés les plus furieux et de les plonger dans un sommeil apaisant.\n"
+"Mélange spécialement concocté par Vitae de phéromones médicinales. Rempli d'herbes aromatiques et de remèdes capables de tranquilliser même les équidés les plus furieux et de les plonger dans un sommeil apaisant.\n"
 "\t\n"
-"\tAssure une guérison inter-vaisseaux pour l'équipage allié, évolutive selon "
-"le niveau de puissance de l'Infirmerie et du système de survie.\n"
-"\tPour chaque niveau activé du système de survie, l'équipage allié bénéficie "
-"d'un multiplicateur de 1,1x à la santé, à la vitesse de réparation et à la "
-"vitesse de déplacement."
+"\tAssure une guérison inter-vaisseaux pour l'équipage allié, évolutive selon le niveau de puissance de l'Infirmerie et du système de survie.\n"
+"\tPour chaque niveau activé du système de survie, l'équipage allié bénéficie d'un multiplicateur de 1,1x à la santé, à la vitesse de réparation et à la vitesse de déplacement."
 
 #: src-en/data/blueprints.xml.append:2620
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PERMISSION\"]/title"
@@ -985,8 +957,8 @@ msgstr ""
 "L'IA Rebelle Avancée a pris le contrôle total du vaisseau ! Elle révèle des "
 "informations sur les balises environnantes et permet à l'auto-vaisseau de "
 "sauter vers n'importe quelle balise déjà visitée. Elle confère au vaisseau "
-"l'intégralité des fonctionnalités d'un auto-vaisseau, tout en désactivant la "
-"production d'oxygène."
+"l'intégralité des fonctionnalités d'un auto-vaisseau, tout en désactivant la"
+" production d'oxygène."
 
 #: src-en/data/blueprints.xml.append:2652
 msgid ""
@@ -999,75 +971,6 @@ msgid ""
 msgstr ""
 "Fournit un bouclier énergétique cumulatif, utilisé sur le vaisseau amiral "
 "multiversel Retro."
-
-#: src-en/data/blueprints.xml.append:2661
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/title"
-msgstr "Bouclier Doré"
-
-#: src-en/data/blueprints.xml.append:2662
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/desc"
-msgstr ""
-"Bouclier avancé alimenté par l'Éther le plus pur imaginable, qui se régénère "
-"lentement lorsqu'il n'est pas endommagé pendant de longues périodes."
-
-#: src-en/data/blueprints.xml.append:2670
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/title"
-msgstr "Armement Doré"
-
-#: src-en/data/blueprints.xml.append:2671
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/desc"
-msgstr ""
-"Systèmes d'armes avancés alimentés par l'Éther le plus pur imaginable, "
-"offrant une cadence de tir plus rapide."
-
-#: src-en/data/blueprints.xml.append:2678
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/title"
-msgstr "Blindage Régénératif Doré"
-
-#: src-en/data/blueprints.xml.append:2679
-msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/desc"
-msgstr ""
-"Bonne chance pour percer ce blindage ! Il offre 25 % de résistance à la "
-"coque et aux systèmes, ainsi que des fonctions d'auto-réparation !"
-
-#: src-en/data/blueprints.xml.append:2686
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/title"
-msgstr "Armure Divine Dorée"
-
-#: src-en/data/blueprints.xml.append:2687
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/desc"
-msgstr ""
-"Bonne chance pour percer ce blindage ! Il offre 25 % de résistance à la "
-"coque et aux systèmes, ainsi que des fonctions d'auto-réparation !"
-
-#: src-en/data/blueprints.xml.append:2694
-msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/title"
-msgstr "Gel Doré"
-
-#: src-en/data/blueprints.xml.append:2695
-msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/desc"
-msgstr ""
-"Gel indescriptible capable non seulement de réparer les brèches, mais aussi "
-"les systèmes."
-
-#: src-en/data/blueprints.xml.append:2702
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/title"
-msgstr "Médi-bots Dorés"
-
-#: src-en/data/blueprints.xml.append:2703
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/desc"
-msgstr ""
-"Nanorobots puissants qui non seulement soignent, mais renforcent également "
-"l'équipage en fonction de la puissance de l'infirmerie !"
 
 #: src-en/data/blueprints.xml.append:2710
 msgid ""
@@ -1088,14 +991,9 @@ msgstr "[L] Dépendances parasitaires."
 #: src-en/data/blueprints.xml.append:2723
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_PARASITE\"]/desc"
 msgstr ""
-"Les sangsues ont 60 PV maximum en moins et infligent 4x moins de dégâts par "
-"défaut, mais volent 3 PV/s à tous les autres membres d'équipage ennemis non-"
-"sangsues présents dans la pièce.\n"
+"Les sangsues ont 60 PV maximum en moins et infligent 4x moins de dégâts par défaut, mais volent 3 PV/s à tous les autres membres d'équipage ennemis non-sangsues présents dans la pièce.\n"
 "\t\n"
-"\t[L] – Amélioration de labo externe, fournit son effet mais occupe un "
-"emplacement. Elle ne peut pas être converti en véritable amélioration de "
-"laboratoire, mais n'utilisera pas votre emplacement principal. Ne se cumule "
-"pas avec elle-même."
+"\t[L] – Amélioration de labo externe, fournit son effet mais occupe un emplacement. Elle ne peut pas être converti en véritable amélioration de laboratoire, mais n'utilisera pas votre emplacement principal. Ne se cumule pas avec elle-même."
 
 #: src-en/data/blueprints.xml.append:2732
 msgid ""
@@ -1105,14 +1003,9 @@ msgstr "[L] Coup de griffe"
 #: src-en/data/blueprints.xml.append:2733
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_HIVESLASH\"]/desc"
 msgstr ""
-"Les Mantis classiques obtiennent une capacité d'entaille infligeant 15 "
-"dégâts à tous les membres d'équipage ennemis présents dans la pièce. Ne peut "
-"être utilisée que deux fois par saut.\n"
+"Les Mantis classiques obtiennent une capacité d'entaille infligeant 15 dégâts à tous les membres d'équipage ennemis présents dans la pièce. Ne peut être utilisée que deux fois par saut.\n"
 "\t\n"
-"\t[L] -Amélioration de labo externe, fournit son effet mais occupe un "
-"emplacement. Elle ne peut pas être converti en véritable amélioration de "
-"laboratoire, mais n'utilisera pas votre emplacement principal. Ne se cumule "
-"pas avec elle-même."
+"\t[L] -Amélioration de labo externe, fournit son effet mais occupe un emplacement. Elle ne peut pas être converti en véritable amélioration de laboratoire, mais n'utilisera pas votre emplacement principal. Ne se cumule pas avec elle-même."
 
 #: src-en/data/blueprints.xml.append:2742
 msgid ""
@@ -1123,13 +1016,9 @@ msgstr "[L] Spores calmantes"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_CARETAKER_HAZARD\"]/desc"
 msgstr ""
-"Les Veilleurs confèrent une immunité au feu et à l'étourdissement aux alliés "
-"proches ainsi qu'à eux-mêmes, mais ne génèrent plus d'oxygène.\n"
+"Les Veilleurs confèrent une immunité au feu et à l'étourdissement aux alliés proches ainsi qu'à eux-mêmes, mais ne génèrent plus d'oxygène.\n"
 "\t\n"
-"\t[L] -Amélioration de labo externe, fournit son effet mais occupe un "
-"emplacement. Elle ne peut pas être converti en véritable amélioration de "
-"laboratoire, mais n'utilisera pas votre emplacement principal. Ne se cumule "
-"pas avec elle-même."
+"\t[L] -Amélioration de labo externe, fournit son effet mais occupe un emplacement. Elle ne peut pas être converti en véritable amélioration de laboratoire, mais n'utilisera pas votre emplacement principal. Ne se cumule pas avec elle-même."
 
 #: src-en/data/blueprints.xml.append:2752
 msgid ""
@@ -1143,112 +1032,140 @@ msgstr ""
 "Permet de détecter divers événements de piratage. Remplit également les "
 "mêmes fonctions que les Fréquences Détournées."
 
+#: src-en/data/blueprints.xml.append:2760
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_SHIP\"]/title"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:2761
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_SHIP\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2786
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_MANNING\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2787
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_MANNING\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2809
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_REPAIR\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2810
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_REPAIR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2820
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/title"
 msgstr "Artillerie laser perforante lourde"
 
-#: src-en/data/blueprints.xml.append:2762
+#: src-en/data/blueprints.xml.append:2821
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/short"
 msgstr "Perf. Lourd"
 
-#: src-en/data/blueprints.xml.append:2764
+#: src-en/data/blueprints.xml.append:2823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/desc"
 msgstr ""
 "[Temps de recharge par défaut : 18] Tire une salve de puissants lasers "
 "lourds capables de traverser une couche de bouclier."
 
-#: src-en/data/blueprints.xml.append:2765
+#: src-en/data/blueprints.xml.append:2824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/tooltip"
-msgstr "Salve de lasers lourds, 2 dégâts, 1 tir. Traverse 1 couche de bouclier."
+msgstr ""
+"Salve de lasers lourds, 2 dégâts, 1 tir. Traverse 1 couche de bouclier."
 
-#: src-en/data/blueprints.xml.append:2801
+#: src-en/data/blueprints.xml.append:2860
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/title"
 msgstr "Artillerie de Missiles à Particules"
 
-#: src-en/data/blueprints.xml.append:2802
+#: src-en/data/blueprints.xml.append:2861
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/short"
 msgstr "M. Part."
 
-#: src-en/data/blueprints.xml.append:2803
+#: src-en/data/blueprints.xml.append:2862
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/desc"
 msgstr ""
-"[Temps de recharge par défaut : 30] Lance une salve de missiles à particules "
-"qui dévastent les systèmes du vaisseau et verrouillent les pièces."
+"[Temps de recharge par défaut : 30] Lance une salve de missiles à particules"
+" qui dévastent les systèmes du vaisseau et verrouillent les pièces."
 
-#: src-en/data/blueprints.xml.append:2804
+#: src-en/data/blueprints.xml.append:2863
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/tooltip"
 msgstr ""
 "Salve de missiles à particules, 1 dégât aux systèmes, applique l'état de "
 "verrouillage à l'impact."
 
-#: src-en/data/blueprints.xml.append:2842
+#: src-en/data/blueprints.xml.append:2901
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/title"
 msgstr "Artillerie de Fauchard Avancée"
 
-#: src-en/data/blueprints.xml.append:2843
+#: src-en/data/blueprints.xml.append:2902
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/short"
 msgstr "'Fauchard'"
 
-#: src-en/data/blueprints.xml.append:2844
+#: src-en/data/blueprints.xml.append:2903
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/desc"
 msgstr ""
 "[Temps de recharge par défaut : 30] Tire un rayon anti-biologique "
-"dévastateur qui déchire les systèmes ennemis. Traverse toutes les couches de "
-"bouclier normales."
+"dévastateur qui déchire les systèmes ennemis. Traverse toutes les couches de"
+" bouclier normales."
 
-#: src-en/data/blueprints.xml.append:2845
+#: src-en/data/blueprints.xml.append:2904
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/tooltip"
 msgstr "Artillerie Fauchard, rayon extrêmement long, traverse les boucliers."
 
-#: src-en/data/blueprints.xml.append:2873
+#: src-en/data/blueprints.xml.append:2932
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/title"
 msgstr "Artillerie Énergétique Lourde"
 
-#: src-en/data/blueprints.xml.append:2874
+#: src-en/data/blueprints.xml.append:2933
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/short"
 msgstr "Énergie Lourde"
 
-#: src-en/data/blueprints.xml.append:2877
+#: src-en/data/blueprints.xml.append:2936
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/desc"
 msgstr ""
 "[Temps de recharge de base : 15] Tire une salve de projectiles d'énergie "
-"concentrée infligeant des dégâts à la coque et aux systèmes, avec des dégâts "
-"doublés à la coque dans les pièces dépourvues de systèmes."
+"concentrée infligeant des dégâts à la coque et aux systèmes, avec des dégâts"
+" doublés à la coque dans les pièces dépourvues de systèmes."
 
-#: src-en/data/blueprints.xml.append:2878
+#: src-en/data/blueprints.xml.append:2937
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/tooltip"
 msgstr ""
 "Tire une salve de projectiles énergétiques lourds. Peut toucher et "
-"désactiver les boucliers ainsi que les systèmes. Inflige 2x plus de dégâts à "
-"la coque dans les pièces dépourvues de systèmes."
+"désactiver les boucliers ainsi que les systèmes. Inflige 2x plus de dégâts à"
+" la coque dans les pièces dépourvues de systèmes."
 
-#: src-en/data/blueprints.xml.append:2918
+#: src-en/data/blueprints.xml.append:2977
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/title"
 msgstr "Artillerie Gatling Prototype"
 
-#: src-en/data/blueprints.xml.append:2919
+#: src-en/data/blueprints.xml.append:2978
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/short"
 msgstr "Artillerie"
 
-#: src-en/data/blueprints.xml.append:2920
+#: src-en/data/blueprints.xml.append:2979
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/desc"
 msgstr ""
@@ -1256,266 +1173,280 @@ msgstr ""
 "laser remarquablement conçue dont le temps de recharge se réduit après "
 "chaque salve, maintenant les boucliers ennemis sous un feu constant."
 
-#: src-en/data/blueprints.xml.append:2921
+#: src-en/data/blueprints.xml.append:2980
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/tooltip"
 msgstr ""
 "Artillerie : Une rafale de lasers relativement rapide avec des chances "
 "modérées d'effets d'état."
 
-#: src-en/data/blueprints.xml.append:2959
+#: src-en/data/blueprints.xml.append:3018
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/title"
 msgstr "Justicier Laser"
 
-#: src-en/data/blueprints.xml.append:2960
+#: src-en/data/blueprints.xml.append:3019
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/short"
 msgstr "Justicier"
 
-#: src-en/data/blueprints.xml.append:2962
+#: src-en/data/blueprints.xml.append:3021
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_VINDICATOR\"]/desc"
 msgstr "Si elle vous frappe, vous êtes déjà mort."
 
-#: src-en/data/blueprints.xml.append:3001
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/title"
-msgstr "Rayon 'Tsukiyari' Doré"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/title"
+#~ msgstr "Bouclier Doré"
 
-#: src-en/data/blueprints.xml.append:3002
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/short"
-msgstr "'Tsukiyari' Doré"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_SHIELDING\"]/desc"
+#~ msgstr ""
+#~ "Bouclier avancé alimenté par l'Éther le plus pur imaginable, qui se régénère"
+#~ " lentement lorsqu'il n'est pas endommagé pendant de longues périodes."
 
-#: src-en/data/blueprints.xml.append:3003
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/desc"
-msgstr "Prototype de Rayon avancé des armes Kamayari et Suyari."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/title"
+#~ msgstr "Armement Doré"
 
-#: src-en/data/blueprints.xml.append:3032
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/title"
-msgstr "Canon Ionique Dorée"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_WEAPONS\"]/desc"
+#~ msgstr ""
+#~ "Systèmes d'armes avancés alimentés par l'Éther le plus pur imaginable, "
+#~ "offrant une cadence de tir plus rapide."
 
-#: src-en/data/blueprints.xml.append:3033
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/short"
-msgstr "Can-ion Doré"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/title"
+#~ msgstr "Blindage Régénératif Doré"
 
-#: src-en/data/blueprints.xml.append:3036
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/desc"
-msgstr ""
-"Cette arme à ion n'utilise pas de courant, se charge instantanément et tire "
-"un rayon ion capable de mettre à mal les bouclier ennemis. Cependant, ne "
-"peut tirer qu'une fois par combat."
+#~ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_REGEN\"]/desc"
+#~ msgstr ""
+#~ "Bonne chance pour percer ce blindage ! Il offre 25 % de résistance à la "
+#~ "coque et aux systèmes, ainsi que des fonctions d'auto-réparation !"
 
-#: src-en/data/blueprints.xml.append:3089
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/title"
-msgstr "'Torche' Préventive Doré"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/title"
+#~ msgstr "Armure Divine Dorée"
 
-#: src-en/data/blueprints.xml.append:3090
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/short"
-msgstr "'Torche' Prév. Doré"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_PALADIN\"]/desc"
+#~ msgstr ""
+#~ "Bonne chance pour percer ce blindage ! Il offre 25 % de résistance à la "
+#~ "coque et aux systèmes, ainsi que des fonctions d'auto-réparation !"
 
-#: src-en/data/blueprints.xml.append:3091
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/desc"
-msgstr ""
-"Arme préemptive à chargement rapide qui perce tous les boucliers et embrase "
-"le vaisseau ennemi avec un rayon qui se déplace lentement. Ne peut être "
-"tirée qu'une seule fois par combat."
+#~ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/title"
+#~ msgstr "Gel Doré"
 
-#: src-en/data/blueprints.xml.append:3118
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/title"
-msgstr "Rayon 'Vouge' Doré"
+#~ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_GEL\"]/desc"
+#~ msgstr ""
+#~ "Gel indescriptible capable non seulement de réparer les brèches, mais aussi "
+#~ "les systèmes."
 
-#: src-en/data/blueprints.xml.append:3119
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/short"
-msgstr "'Vouge' Doré"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/title"
+#~ msgstr "Médi-bots Dorés"
 
-#: src-en/data/blueprints.xml.append:3121
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/desc"
-msgstr ""
-"Le Rayon le plus lourd jamais conçu, apparu en réponse directe à un pauvre "
-"imbécile qui a osé dire que le Rayon Glaive était le plus puissant possible."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_GILDED_MEDBOTS\"]/desc"
+#~ msgstr ""
+#~ "Nanorobots puissants qui non seulement soignent, mais renforcent également "
+#~ "l'équipage en fonction de la puissance de l'infirmerie !"
 
-#: src-en/data/blueprints.xml.append:3143
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/title"
-msgstr "Laser Perforant Lourd"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/title"
+#~ msgstr "Rayon 'Tsukiyari' Doré"
 
-#: src-en/data/blueprints.xml.append:3144
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/short"
-msgstr "Perf. Lourd"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/short"
+#~ msgstr "'Tsukiyari' Doré"
 
-#: src-en/data/blueprints.xml.append:3146
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/desc"
-msgstr ""
-"[ARTILLERIE, TRAVERSE LES ARTILLERIES LOURDES, 2 DÉGÂTS, TIRE À TOUS LES "
-"COUPS, 3 PAR CHARGE, VERROUILLAGE À L'IMPACT]"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_TSUKIYARI\"]/desc"
+#~ msgstr "Prototype de Rayon avancé des armes Kamayari et Suyari."
 
-#: src-en/data/blueprints.xml.append:3184
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/title"
-msgstr "Missile à particules"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/title"
+#~ msgstr "Canon Ionique Dorée"
 
-#: src-en/data/blueprints.xml.append:3185
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/short"
-msgstr "M. Part."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/short"
+#~ msgstr "Can-ion Doré"
 
-#: src-en/data/blueprints.xml.append:3186
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/desc"
-msgstr ""
-"[ARTILLERIE, MISSILES À PARTICULES, 1 DÉGÂT AUX SYSTÈMES, TIRE À TOUS LES "
-"COUPS, 3 PAR CHARGE, VERROUILLAGE À L'IMPACT]"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREION\"]/desc"
+#~ msgstr ""
+#~ "Cette arme à ion n'utilise pas de courant, se charge instantanément et tire "
+#~ "un rayon ion capable de mettre à mal les bouclier ennemis. Cependant, ne "
+#~ "peut tirer qu'une fois par combat."
 
-#: src-en/data/blueprints.xml.append:3224
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/title"
-msgstr "Rayon 'Fauchard'"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/title"
+#~ msgstr "'Torche' Préventive Doré"
 
-#: src-en/data/blueprints.xml.append:3225
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/short"
-msgstr "'Fauchard'"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/short"
+#~ msgstr "'Torche' Prév. Doré"
 
-#: src-en/data/blueprints.xml.append:3226
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/desc"
-msgstr ""
-"Ce redoutable rayon de radiation est capable de déchiqueter les systèmes du "
-"vaisseau en plus de l'équipage."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_PREFIRE\"]/desc"
+#~ msgstr ""
+#~ "Arme préemptive à chargement rapide qui perce tous les boucliers et embrase "
+#~ "le vaisseau ennemi avec un rayon qui se déplace lentement. Ne peut être "
+#~ "tirée qu'une seule fois par combat."
 
-#: src-en/data/blueprints.xml.append:3255
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/title"
-msgstr "Énergie Lourde"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/title"
+#~ msgstr "Rayon 'Vouge' Doré"
 
-#: src-en/data/blueprints.xml.append:3256
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/short"
-msgstr "Énergie Lourde"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/short"
+#~ msgstr "'Vouge' Doré"
 
-#: src-en/data/blueprints.xml.append:3259
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/desc"
-msgstr ""
-"Les armes à énergie désactivent les systèmes et infligent des dégâts de "
-"coque. Variante anticoque."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_BEAM_4\"]/desc"
+#~ msgstr ""
+#~ "Le Rayon le plus lourd jamais conçu, apparu en réponse directe à un pauvre "
+#~ "imbécile qui a osé dire que le Rayon Glaive était le plus puissant possible."
 
-#: src-en/data/blueprints.xml.append:3300
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/title"
-msgstr "Laser incendiaire"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/title"
+#~ msgstr "Laser Perforant Lourd"
 
-#: src-en/data/blueprints.xml.append:3301
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/short"
-msgstr "Laser incendiaire"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/short"
+#~ msgstr "Perf. Lourd"
 
-#: src-en/data/blueprints.xml.append:3303
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/desc"
-msgstr ""
-"Une arme Laser modifiée pour allumer un feu à chaque projectile, "
-"endommageant le vaisseau, mais pas directement l'équipage."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_1\"]/desc"
+#~ msgstr ""
+#~ "[ARTILLERIE, TRAVERSE LES ARTILLERIES LOURDES, 2 DÉGÂTS, TIRE À TOUS LES "
+#~ "COUPS, 3 PAR CHARGE, VERROUILLAGE À L'IMPACT]"
 
-#: src-en/data/blueprints.xml.append:3341
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/title"
-msgstr "Missiles 'Hadès'"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/title"
+#~ msgstr "Missile à particules"
 
-#: src-en/data/blueprints.xml.append:3342
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/short"
-msgstr "'Hadès'"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/short"
+#~ msgstr "M. Part."
 
-#: src-en/data/blueprints.xml.append:3343
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/desc"
-msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_2\"]/desc"
+#~ msgstr ""
+#~ "[ARTILLERIE, MISSILES À PARTICULES, 1 DÉGÂT AUX SYSTÈMES, TIRE À TOUS LES "
+#~ "COUPS, 3 PAR CHARGE, VERROUILLAGE À L'IMPACT]"
 
-#: src-en/data/blueprints.xml.append:3382
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/title"
-msgstr "Canon Flak Préchargé"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/title"
+#~ msgstr "Rayon 'Fauchard'"
 
-#: src-en/data/blueprints.xml.append:3383
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/short"
-msgstr "Flak Incendiaire"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/short"
+#~ msgstr "'Fauchard'"
 
-#: src-en/data/blueprints.xml.append:3385
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/desc"
-msgstr ""
-"Tire 4 projectiles enflammés qui ont plus de chances de déclencher un "
-"incendie."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_3\"]/desc"
+#~ msgstr ""
+#~ "Ce redoutable rayon de radiation est capable de déchiqueter les systèmes du "
+#~ "vaisseau en plus de l'équipage."
 
-#: src-en/data/blueprints.xml.append:3430
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/title"
-msgstr "Aiguillon 'Cinquedea'"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/title"
+#~ msgstr "Énergie Lourde"
 
-#: src-en/data/blueprints.xml.append:3431
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/short"
-msgstr "'Cinquedea'"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/short"
+#~ msgstr "Énergie Lourde"
 
-#: src-en/data/blueprints.xml.append:3432
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/desc"
-msgstr ""
-"Cette arme aiguillon inflige des dégâts modérés, mais augmente rapidement sa "
-"cadence de tir jusqu'à devenir dévastatrice contre les ennemis dont les "
-"boucliers sont abaissés."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_ARTI_4\"]/desc"
+#~ msgstr ""
+#~ "Les armes à énergie désactivent les systèmes et infligent des dégâts de "
+#~ "coque. Variante anticoque."
 
-#: src-en/data/blueprints.xml.append:3460
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/title"
-msgstr "Laser Modulaire"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/title"
+#~ msgstr "Laser incendiaire"
 
-#: src-en/data/blueprints.xml.append:3461
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/short"
-msgstr "Laser Mod."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/short"
+#~ msgstr "Laser incendiaire"
 
-#: src-en/data/blueprints.xml.append:3463
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/desc"
-msgstr ""
-"Produit par Hektar Industries(TM), cette arme est une base de Laser "
-"modulaire. Peut intégrer 1 module d'attribut et 1 module de statut.\n"
-"\tPas de module incompatible.\n"
-"\t----MODULES INSTALLÉS----\n"
-"\tAttribut - Incendiaire\n"
-"\tStatut - Verrouillage"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_LASER_FIRE\"]/desc"
+#~ msgstr ""
+#~ "Une arme Laser modifiée pour allumer un feu à chaque projectile, "
+#~ "endommageant le vaisseau, mais pas directement l'équipage."
 
-#: src-en/data/blueprints.xml.append:3504
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/title"
-msgstr "Laser Rafale II amélioré"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/title"
+#~ msgstr "Missiles 'Hadès'"
 
-#: src-en/data/blueprints.xml.append:3505
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/short"
-msgstr "Laser amélioré II"
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/short"
+#~ msgstr "'Hadès'"
 
-#: src-en/data/blueprints.xml.append:3507
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/desc"
-msgstr "Piou piou piou, étranger."
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/desc"
+#~ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
+
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/title"
+#~ msgstr "Canon Flak Préchargé"
+
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/short"
+#~ msgstr "Flak Incendiaire"
+
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_SHOTGUN_FIRE\"]/desc"
+#~ msgstr ""
+#~ "Tire 4 projectiles enflammés qui ont plus de chances de déclencher un "
+#~ "incendie."
+
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/title"
+#~ msgstr "Aiguillon 'Cinquedea'"
+
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/short"
+#~ msgstr "'Cinquedea'"
+
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_FOCUS_CHAIN_ENEMY\"]/desc"
+#~ msgstr ""
+#~ "Cette arme aiguillon inflige des dégâts modérés, mais augmente rapidement sa"
+#~ " cadence de tir jusqu'à devenir dévastatrice contre les ennemis dont les "
+#~ "boucliers sont abaissés."
+
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/title"
+#~ msgstr "Laser Modulaire"
+
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/short"
+#~ msgstr "Laser Mod."
+
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MODULAR_LASER\"]/desc"
+#~ msgstr ""
+#~ "Produit par Hektar Industries(TM), cette arme est une base de Laser modulaire. Peut intégrer 1 module d'attribut et 1 module de statut.\n"
+#~ "\tPas de module incompatible.\n"
+#~ "\t----MODULES INSTALLÉS----\n"
+#~ "\tAttribut - Incendiaire\n"
+#~ "\tStatut - Verrouillage"
+
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/title"
+#~ msgstr "Laser Rafale II amélioré"
+
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/short"
+#~ msgstr "Laser amélioré II"
+
+#~ msgid ""
+#~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_UPLIFTED_LASER\"]/desc"
+#~ msgstr "Piou piou piou, étranger."
 
 #~ msgid ""
 #~ "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_GILDED_MISSILE_FIRE_ENEMY\"]/tooltip"
