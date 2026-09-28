@@ -1,146 +1,220 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-09-29 17:36+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/expanded-"
+"multiverse/datatext_blueprintsxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/text_blueprints.xml.append:1
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MILITIA_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 MV 증강자 순양함을 획득하십시오."
 
 #: src-en/data/text_blueprints.xml.append:2
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MINISTRY_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 민병대 멀티버스 순양함으로 5구역에 도달하십시오."
 
 #: src-en/data/text_blueprints.xml.append:3
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_THEOCRACY_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 내각 멀티버스 순양함으로 5구역에 도달하십시오."
 
 #: src-en/data/text_blueprints.xml.append:4
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_ANGEL_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 신정 멀티버스 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 민병대 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:7
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_FEDAUTO_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 엔젤릭 데스브링거 멀티버스 순양함으로 5 구역에 "
+"도달하십시오.\n"
+"\n"
+"혹은 졸탄 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:10
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_ALTREBEL_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 연방 멀티버스 무인 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 신정 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:13
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_DUSK_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 변형 반군 멀티버스 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 엔젤릭 데스브링거 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:16
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_AUTO_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 더스크브링어 멀티버스 순양함으로 5 구역에 "
+"도달하십시오.\n"
+"\n"
+"혹은 연방 멀티버스 무인 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:19
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_SPOOK_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 반군 멀티버스 무인 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 변형 반군 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:22
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_LEECH_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 유령 사냥꾼 멀티버스 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 더스크브링어 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:25
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_HEKTAR_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 공화국 멀티버스 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 반군 멀티버스 무인 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:28
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_FREEMANTIS_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 헥타르 멀티버스 순양함™으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 유령 사냥꾼 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:31
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_ENFORCER_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 독립 맨티스 멀티버스 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 공화국 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:34
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_SMUGGLER_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 변형 MV 집행자 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 헥타르 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:37
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_HIVE_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 프로토타입 멀티버스 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 독립 맨티스 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:40
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_COALITION_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 하이브 멀티버스 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 변형 MV 집행자 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:43
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_LANIUS_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 연합 멀티버스 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 프로토타입 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:46
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_LOSTSUN_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 라니우스 멀티버스 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 맨티스 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:49
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_BISHOP_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 로스트선 멀티버스 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 연합 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:52
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MFK_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 주교 멀티버스 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 라니우스 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:55
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_PALADIN_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 MFK 멀티버스 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 로스트선 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:58
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_CULTIVATOR_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 성기사 멀티버스 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 주교 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:61
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_SALT_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 경작자 멀티버스 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 MFK 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:64
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_KADAHELLIAN_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 소듐 멀티버스 순양함으로 5 구역에 도달하십시오.\n"
+"\n"
+"혹은 성기사 멀티버스 순양함으로 승리하십시오."
 
 #: src-en/data/text_blueprints.xml.append:67
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_FLAGSHIP_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 애드온으로 새롭게 추가된 모든 멀티버스 순양함으로 "
+"승리를 거두십시오."
 
 #: src-en/data/text_blueprints.xml.append:68
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_PURE_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 MV 무인 순양함으로 C.U.R.A.를 처치하십시오."
 
 #: src-en/data/text_blueprints.xml.append:69
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_VITAE_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 MV 독립 맨티스 순양함으로 하이브 궁전을 파괴하십시오."
 
 #: src-en/data/text_blueprints.xml.append:70
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EMV_MORTIS_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 MV 하이브 맨티스 순양함으로 프레디를 구출하십시오."
