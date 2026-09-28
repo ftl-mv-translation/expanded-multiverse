@@ -1,76 +1,83 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-09-29 17:36+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/expanded-"
+"multiverse/datasector_dataxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/sector_data.xml.append:3
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_GILDED_FINALE\"]/nameList/name"
-msgstr ""
+msgstr "노드 17 [연방 수도]"
 
 #: src-en/data/sector_data.xml.append:66
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[1]"
-msgstr ""
+msgstr "배회자 구역"
 
 #: src-en/data/sector_data.xml.append:67
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[2]"
-msgstr ""
+msgstr "배회자의 우주"
 
 #: src-en/data/sector_data.xml.append:68
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[3]"
-msgstr ""
+msgstr "배회자 정착지"
 
 #: src-en/data/sector_data.xml.append:69
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[4]"
-msgstr ""
+msgstr "배회자 국경 지역"
 
 #: src-en/data/sector_data.xml.append:70
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[5]"
-msgstr ""
+msgstr "배회자 영토"
 
 #: src-en/data/sector_data.xml.append:71
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[6]"
-msgstr ""
+msgstr "배회자의 영역"
 
 #: src-en/data/sector_data.xml.append:72
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[7]"
-msgstr ""
+msgstr "배회자 변지"
 
 #: src-en/data/sector_data.xml.append:73
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[8]"
-msgstr ""
+msgstr "배회자 지역"
 
 #: src-en/data/sector_data.xml.append:74
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[9]"
-msgstr ""
+msgstr "배회자 통치 구역"
 
 #: src-en/data/sector_data.xml.append:75
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[10]"
-msgstr ""
+msgstr "배회자 지구"
 
 #: src-en/data/sector_data.xml.append:76
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[11]"
-msgstr ""
+msgstr "배회자 근거지"
 
 #: src-en/data/sector_data.xml.append:77
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[12]"
-msgstr ""
+msgstr "배회자 주거지"
 
 #: src-en/data/sector_data.xml.append:78
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_EMV_RENEGADE\"]/nameList/name[13]"
-msgstr ""
+msgstr "배회자 외곽 지역"
