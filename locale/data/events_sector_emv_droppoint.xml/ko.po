@@ -1,14 +1,28 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-09-29 17:36+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/expanded-"
+"multiverse/dataevents_sector_emv_droppointxml/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_emv_droppoint.xml:31
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/text"
 msgstr ""
+"당신은 구조 신호를 추적하지만, 한계속도에서 이탈하면서 신호를 송출하던 "
+"함선의 선체를 겨우 스치듯 지나칩니다. 상황을 파악한 후 그 함선과 교신을 "
+"맺습니다.\n"
+"\n"
+"\"안녕하세요, 어음... 혹시 도와주실 수 있나요? 이번 여정에 필요한 연료를 "
+"너무 과소평가하는 바람에... 어, 연료가 전혀 없어서 그런데 약간의 자비를 "
+"베풀어주실 수 있을까요?\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:35
 msgid ""
@@ -19,26 +33,44 @@ msgstr "연료를 넘겨준다."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[1]/event/text"
 msgstr ""
+"당신은 배회자에게 연료 셀 몇 개를 건네며 안전한 여정이 되길 빌어줍니다. "
+"떠나기 전, 그들이 당신에게 교신을 보냅니다.\n"
+"\n"
+"\"저기, 도와줘서 고맙습니다. 당신이 여행하면서 이걸 쓰면 좋겠네요. 나보다는 "
+"당신에게 더 필요할 테니까요. 행운을 빕니다, 함장님.\"\n"
+"배회자는 도움에 대한 답례로 자신의 함선에 있던 무기를 당신의 함선에 "
+"설치해주겠다고 제안합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:48
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[2]/text"
-msgstr ""
+msgstr "우리도 연료가 별로 없다고 말하면서 연료 셀 하나를 준다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:50
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[2]/event/text"
 msgstr ""
+"당신은 배회자에게 자신도 연료가 떨어져 겨우 인근 송신소까지 갈 수 있는 "
+"수준이라고 설명하면서도, 연료 셀 하나를 건네며 행운을 빌어줍니다.\n"
+"                \n"
+"\"뭐... 거지가 된 기분이라 좀 그렇지만, 없는 것보단 낫죠. 적어도 연료가 잔뜩 "
+"있으면서 숨기는 그 밥맛 없는 녀석들 같진 않네요. 자, 이걸 받으세요. 전 "
+"공짜로 뭘 받지는 않거든요.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:60
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[3]/text"
-msgstr ""
+msgstr "교신을 차단하고 사격을 개시한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:62
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[3]/event/text"
 msgstr ""
+"요청을 듣자마자 당신은 교신을 끊어버리지만, 상대 함선이 당신을 향해 속도를 "
+"올리며 다시 교신을 연결해옵니다.\n"
+"\n"
+"\"아니, 지금 목숨 하나보다 연료 셀 한 개를 더 가치 있게 본 거야!? 내가 널 "
+"죽여서 목숨이 얼마나 소중한지 똑똑히 보여주마!\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:67
 msgid ""
@@ -48,12 +80,14 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_droppoint.xml:77
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[4]/text"
-msgstr ""
+msgstr "정중하게 사과하고 도망친다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:79
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[4]/event/text"
 msgstr ""
+"당신이 사과하고 자리를 떠나자, 고립된 배회자는 엄청난 혼란에 빠진 채 "
+"남겨집니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:81
 msgid ""
@@ -63,32 +97,65 @@ msgstr "함선에서 무언가를 한다."
 #: src-en/data/events_sector_emv_droppoint.xml:85
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FUEL_DISTRESS\"]/choice[4]/event/choice[2]/text"
-msgstr ""
+msgstr "어색한 상황에서 가능한 한 빨리 벗어난다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:93
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/text"
 msgstr ""
+"시야 한구석으로 멀리서 무기를 무장한 함선 두 대가 보입니다. 이곳에서는 MVPMC "
+"배회자들이 서로에게 무기를 겨누는 것이 엄격히 금지되어 있기에 이는 이례적인 "
+"일입니다. 하지만 자세히 살펴보니, 한 대는 배회자이고 다른 한 대는 협회 "
+"함선입니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:95
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/text"
-msgstr ""
+msgstr "주파수를 도청한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:97
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/text"
 msgstr ""
+"당신은 상황을 파악하기 위해 주파수를 맞춰 라디오를 조정합니다.\n"
+"                \n"
+"\"좋아, 대체 여기까지 어떻게 들어온 겁니까? 혼자 힘으로 여기까지 왔을 리가 "
+"절대 없는데, 누가 당신을 들여보내 준 거죠?\"\n"
+"\n"
+"\"당신이 신경 쓸 바 아닙니다. 난 이 구역에 살고 있고, 내 집이 말 그대로 여기 "
+"있단 말이야!\"\n"
+"\n"
+"\"뭐- 왜- 아니-... 됐고, 내 말 잘 들어요. 단순하게 말해줄 테니, 아무런 저항 "
+"없이 다른 곳으로 경로를 변경하겠다면, 이 모든 일을 없었던 걸로 해주죠.\"\n"
+"\n"
+"\"싫은데.\"\n"
+"\n"
+"\"뭐라고요? \"싫은데\"라니 그게 무슨 소립니까?\"\n"
+"\n"
+"\"당신 따라 안 갈 거라고.\"\n"
+"\n"
+"\"아오 진짜, 사람들이 기도하는 신이 누구든 간에 제발 좀- 잠깐, 너 언제부터 "
+"거기 서 있었... 아니, 아무튼 저 무단 침입자 녀석 좀 죽여줄 수 있나? 충분히 "
+"보상할 테니, 제발 내 일 좀 쉽게 만들어주게.\"\n"
+"\n"
+"\"잠깐, 안 돼 안 돼 안 돼 안 되지, 저 사람 말을 들을 건 아니죠, 그렇죠? 전 "
+"그냥 민간인이라고요, 날 그냥 죽일 순 없잖아요!\"\n"
+"\n"
+"\"어, 죽일 수 있는데? 그리고 글쎄, 내가 알기로 민간인은 여기 안 살거든?\"\n"
+"\n"
+"\"제발요, 진실을 말했다고 날 죽일 순 없어요!\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:119
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "협회 함선을 공격한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:122
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"규칙을 준수하고 이 우주에서 무단 침입한 인원을 제거하기로 결정합니다. \"안 "
+"돼! 나한테 이러면 안 되지!\" 전투를 준비하십시오!"
 
 #: src-en/data/events_sector_emv_droppoint.xml:124
 msgid ""
@@ -98,12 +165,14 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_droppoint.xml:130
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "배회자를 공격한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:133
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"당신이 무기를 무장하자, 배회자가 믿을 수 없다는 듯 교신을 보내옵니다. \"아주 "
+"오늘 일 제대로 꼬이네! 민간인 보호하는 운동가가 나타나셨군! 전투 배치해!\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:135
 msgid ""
@@ -113,12 +182,15 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_droppoint.xml:141
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "그들이 알아서 처리하도록 둔다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:143
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"\"뭐라냐? 아 이제 와서 갑자기 도덕심이라도 생겼냐? 지랄, 왜 다들 나한테 "
+"약해지려고 난리인지-\" 당신은 교신을 끄고, 당신의 존재로 인해 상황이 더 "
+"과열되기 전에 도약할 준비를 합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:145
 msgid ""
@@ -128,17 +200,20 @@ msgstr "함선에서 무언가를 한다."
 #: src-en/data/events_sector_emv_droppoint.xml:149
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[1]/event/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:157
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[2]/text"
-msgstr ""
+msgstr "서로 알아서 싸우게 둔다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:159
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[2]/event/text"
 msgstr ""
+"이 두 함선 사이에 무슨 일이 벌어지든 당신과는 상관없는 일입니다. 당신은 "
+"상황이 더 험악해지거나 무슨 이유로든 자신까지 말려들기 전에 자리를 떱니다. "
+"도약을 위해 엔진을 준비합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:161
 msgid ""
@@ -148,12 +223,14 @@ msgstr "함선에서 무언가를 한다."
 #: src-en/data/events_sector_emv_droppoint.xml:165
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_UNAUTHORIZED\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:188
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DESTROYED_UNION_UNAUTHORIZED\"]/text"
 msgstr ""
+"민간 함선이 격파되었습니다. 당신의 기록에 좋게 남을 것 같진 않지만, 다른 "
+"한편으로는 획득할 스크랩이 짭짤합니다.."
 
 #: src-en/data/events_sector_emv_droppoint.xml:191
 msgid ""
@@ -164,6 +241,9 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DESTROYED_UNION_UNAUTHORIZED\"]/choice/event/text"
 msgstr ""
+"배회자 함선이 다시 한번 교신을 보내옵니다. \"드디어 누군가가 이 꼬맹이한테서 "
+"날 해방시켜 주는군. 덕분에 방해 없이 내 근무로 돌아갈 수 있겠어. 자, 위험에 "
+"처한 배회자를 도와준 선물이다.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:196
 msgid ""
@@ -174,6 +254,8 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEADCREW_UNION_UNAUTHORIZED\"]/text"
 msgstr ""
+"민간 함선이 격파되었습니다. 당신의 기록에 좋게 남을 것 같진 않지만, 다른 "
+"한편으로는 획득할 스크랩이 짭짤합니다.."
 
 #: src-en/data/events_sector_emv_droppoint.xml:207
 msgid ""
@@ -184,6 +266,9 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEADCREW_UNION_UNAUTHORIZED\"]/choice/event/text"
 msgstr ""
+"배회자 함선이 다시 한번 교신을 보내옵니다. \"드디어 누군가가 이 꼬맹이한테서 "
+"날 해방시켜 주는군. 덕분에 방해 없이 내 근무로 돌아갈 수 있겠어. 자, 위험에 "
+"처한 배회자를 도와준 선물이다.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:212
 msgid ""
@@ -194,6 +279,8 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_GUARD_UNAUTHORIZED\"]/text"
 msgstr ""
+"이로 인해 어떤 결과가 뒤따르든, 당신은 협회 함선을 보호하기 위해 배회자 "
+"함선을 제거합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:223
 msgid ""
@@ -204,6 +291,10 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_GUARD_UNAUTHORIZED\"]/choice/event/text"
 msgstr ""
+"함선을 해체하는 동안 협회 함선에서 교신이 옵니다. \"무- 무슨 말을 해야 할지 "
+"모르겠지만, 고맙습니다. 피를 보는 걸로 끝내고 싶진 않았지만 저쪽에서 "
+"포기하질 않더군요. 당신에게도 결과가 좋지는 않을 것 같지만, 이걸 받으세요. "
+"행운을 빕니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:228
 msgid ""
@@ -213,12 +304,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_droppoint.xml:237
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/beaconType/@text"
-msgstr ""
+msgstr "[style[color:ffffff]]무단 침입자[[/style]]"
 
 #: src-en/data/events_sector_emv_droppoint.xml:239
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "무단 침입자가 위치한 장소입니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:240
 msgid ""
@@ -229,6 +320,8 @@ msgstr "이미 방문한 송신소입니다. 더 이상 흥미로운 것은 없�
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_TRESPASSERS\"]/text"
 msgstr ""
+"방송에 따르면 이곳으로 침입자가 접근하고 있다고 합니다.. 그리고 타이밍도 "
+"좋게, 지금 막 그들이 나타났습니다!"
 
 #: src-en/data/events_sector_emv_droppoint.xml:244
 msgid ""
@@ -239,6 +332,10 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_RETIREMENT\"]/text"
 msgstr ""
+"한 배회자가 당신의 길을 막아서며 한 가지를 요청합니다. \"안녕, 잘나신 친구. "
+"이거 받아, 난 이제 내 배가 필요 없거든. 죽어서 먼지와 하나가 될 때까지 옛 "
+"고향에서 살 생각이니, 나중에 보자고.\" 어째서인지 배회자는 해체하라며 자신의 "
+"함선을 내어줍니다. 공짜 물건을 거절할 이유는 없죠."
 
 #: src-en/data/events_sector_emv_droppoint.xml:253
 msgid ""
@@ -254,86 +351,124 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_BADASSITUDE\"]/text"
 msgstr ""
+"당신의 무전기가 우주 속에 숨겨져 있다는 일종의 고대 금고와, 이를 열 금고 "
+"헌터를 찾는다는 TV 신호에 자동으로 맞춰집니다. 당신이 제안을 살펴보는 순간, "
+"방송이 갑자기 큰 콧수염과 선글라스를 낀 근육질 남성으로 전환되며 지루하다고 "
+"외칩니다. \"난 토그다! 그리고 질문은 딱 하나, 오직 하나뿐이다. 폭발????\" "
+"남자가 그렇게 말하자 신호가 조잡하게 편집된 폭발 효과가 들어간 회사 로고로 "
+"깜빡입니다. 화면에서 두 사람이 왈가왈부 다투는 모습이 보여 당신은 방송을 "
+"꺼버립니다. 그 와중에 어째서인지 웬 미사일 무기 하나가 우주에 떠다니는 것을 "
+"발견합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:265
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_BADASSITUDE\"]/choice/text"
-msgstr ""
+msgstr "계속."
 
 #: src-en/data/events_sector_emv_droppoint.xml:270
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_CONSPIRACY\"]/text"
 msgstr ""
+"성계로 도약하자마자 무전기에서 우리가 아는 지식 너머에 존재하는 \"슬러그 "
+"그림자 정부\"와 \"고대 신들\"에 대해 말하는 누군가의 이해할 수 없는 "
+"횡설수설이 쏟아집니다. 그는 또한 가장 강력한 자들만을 시험하는 \"도금된 "
+"무언가\"에 대해서도 주절거립니다. 방송을 차단하려는 배회자 함선에 의해 "
+"그들이 즉시 증발해 버렸기 때문에 당신은 오래 듣지 않습니다. 그 여파로 약간의 "
+"스크랩 조각이 당신의 함선으로 날아옵니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:273
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_CONSPIRACY\"]/choice/text"
-msgstr ""
+msgstr "계속."
 
 #: src-en/data/events_sector_emv_droppoint.xml:279
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/text"
 msgstr ""
+"함선의 무전기를 통해, 배회자들의 관심을 끌기 위해 선전을 방송하는 반군의 "
+"주파수를 감지합니다. 하필 그들은 당신에 대해서도 언급하며, 당신의 위치를 "
+"제보하는 사람에게 스크랩을 지급하겠다고 합니다. 이로 인해 함대가 당신의 "
+"위치를 확실하게 파악할까 봐 걱정됩니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:281
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[1]/text"
-msgstr ""
+msgstr "무전기를 켜고 더 큰 보상을 제시한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:283
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[1]/event/text"
 msgstr ""
+"당신은 함선 채널을 공개로 설정하여 누군가 당신인 척하며 함대를 차단해주면 "
+"두둑한 보상을 주겠다고 방송합니다. 반군 방송측에게는 안된 일이지만, 한 "
+"배회자가 당신의 제안을 받아들여 스크랩을 신속하게 챙긴 뒤 함대에 정면으로 "
+"맞서러 갑니다. 이로써 반군에 비해 상당한 거리적 우위를 확보할 수 있을 "
+"것입니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:289
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속."
 
 #: src-en/data/events_sector_emv_droppoint.xml:295
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[2]/text"
-msgstr ""
+msgstr "반군을 위협해 본다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:299
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[3]/text"
-msgstr ""
+msgstr "가능한 한 빨리 떠난다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:301
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[3]/event/text"
 msgstr ""
+"위치가 노출되더라도, 다가오는 함대의 ASB에 박살 나는 것을 피하기 위해 서둘러 "
+"가능한 한 빨리 그곳을 벗어납니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:305
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "(해킹) 주파수를 탈취한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:307
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA\"]/choice[@req=\"hacking\"]/event/text"
 msgstr ""
+"당신은 반군의 주파수를 원격으로 탈취하여 모두가 들을 수 있도록 약간... "
+"부적절한 방송을 틀기 시작합니다. 반군들이 자신들의 \"실수\"를 수습하려고 "
+"서두르는 동안 MVPMC 관계자들이 접근하여 성계에서 떠날 것을 요구합니다. "
+"내친김에 당신은 함대에 허위 데이터도 전송합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:320
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA_GOOD\"]/text"
 msgstr ""
+"선전 방송을 하고 있는 반군들에게 무기를 겨누며 접근합니다. 그들의 방송은 "
+"즉시 중단되고, 그들은 불편을 드려 죄송하다며 떠날 준비를 합니다. 당신은 "
+"수고비 명목으로 그들에게서 약간의 스크랩도 갈취합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:326
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA_BAD\"]/text"
 msgstr ""
+"무기를 겨눈 채 반군에게 접근하자, 정예 전투기 한 대가 응수하러 마중 나오는 "
+"것을 보고 기분이 썩 좋지 않아집니다! 즉시 반군 함장으로부터 교신이 "
+"들어옵니다. \"호오? 도망치지 않고 이 반군 장교에게 다가오는 거냐?!\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:329
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PROPAGANDA_BAD\"]/choice/text"
-msgstr ""
+msgstr "가까이 다가지 않고서 너를 파괴할 수는 없으니까!"
 
 #: src-en/data/events_sector_emv_droppoint.xml:344
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_REBEL_ELITE_PROPAGANDA\"]/text"
 msgstr ""
+"반군의 정예 기체에 의한 기습 공격이었음에도 불구하고, 그들은 당신의 기량에 "
+"상대가 되지 않았습니다. 당신은 반군의 방송 기지에 맞서기 전에 그들의 함선을 "
+"해체하러 이동합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:347
 msgid ""
@@ -344,31 +479,43 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_REBEL_ELITE_PROPAGANDA\"]/choice/event/text"
 msgstr ""
+"알았어 알았다고, 무슨 말인지 알-알아들었어! 더 이상 함-함대는 부르지 않을 "
+"테니, 이제 됐지? 우리만 죽이지 말고 원하는 건 뭐든 해, 필요한 것도 가져가고! "
+"우린 떠난다!"
 
 #: src-en/data/events_sector_emv_droppoint.xml:358
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/text"
 msgstr ""
+"\"보안관\"처럼 보이는 인물이 당신이 성계에 들어서자 교신을 보내 도움을 "
+"요청합니다. \"안녕하신가, 배회자. 내 이름은 링어 보안관이네. 이 구역 "
+"주변에서 무법자를 찾고 있는데, 보안관 대리가 되어보지 않겠나?"
 
 #: src-en/data/events_sector_emv_droppoint.xml:360
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[1]/text"
-msgstr ""
+msgstr "좋습니다, 안 될 거 없죠."
 
 #: src-en/data/events_sector_emv_droppoint.xml:362
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[1]/event/text"
 msgstr ""
+"\"잘했네, 동업자. 여기 아주... 거친 행보를 보이는 악당 녀석이 하나 있네. 단 "
+"이틀 전에 내 대원 넷을 쓰러뜨렸지, 명복을 빌 따름이라네. 생사 상관없이 그 "
+"녀석을 나한테 끌고 오게나.\" 보안관은 무법자의 마지막으로 알려진 위치를 "
+"알려주고, 당신은 그들을 사냥하기 위해 이동합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:367
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[2]/text"
-msgstr ""
+msgstr "별로 내키지 않는다, 너무 바쁘다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:369
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[2]/event/text"
 msgstr ""
+"\"흠, 알았네. 요즘 젊은것들은 명예도 법도 잊었구만...\" 당신은 실망한 "
+"보안관과 거리를 두고 다음으로 이동할 준비를 합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:371
 msgid ""
@@ -378,17 +525,21 @@ msgstr "함선에서 무언가를 한다."
 #: src-en/data/events_sector_emv_droppoint.xml:375
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:381
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[3]/text"
-msgstr ""
+msgstr "보안관을 공격한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:384
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF\"]/choice[3]/event/text"
 msgstr ""
+"당신이 무기를 무장하고 보안관의 함선을 겨누자 보안관은 당황합니다. 이내 "
+"보안관이 교신을 보내옵니다. \"석양이 진다...\" 이 상황에서 \"정오\"라는 게 "
+"얼마나 무의미한지 고려하면, 그가 시간 개념을 어떻게 파악하고 있는지 "
+"의아해집니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:386
 msgid ""
@@ -399,6 +550,9 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_SHERIFF_DESTROYED\"]/text"
 msgstr ""
+"당신은 링어 보안관을 처치했습니다. 당신의 오만함을 응징하러 보안관 대리들이 "
+"도착하기 전에 서둘러 그의 함선을 해체합니다. 스릴은 있었지만, 이제 아무도 "
+"당신에게 안전한 안식처를 제공해 주지 않을 것 같습니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:402
 msgid ""
@@ -409,6 +563,9 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_DEFEAT_SHERIFF_CREWKILL\"]/text"
 msgstr ""
+"당신은 링어 보안관을 처치했습니다. 당신의 오만함을 응징하러 보안관 대리들이 "
+"도착하기 전에 서둘러 그의 함선을 해체합니다. 스릴은 있었지만, 이제 아무도 "
+"당신에게 안전한 안식처를 제공해 주지 않을 것 같습니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:411
 msgid ""
@@ -418,22 +575,27 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_droppoint.xml:419
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "보안관이 알린 고가치 표적이 위치한 장소입니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:422
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/text"
 msgstr ""
+"보안관이 말한 최고의 수배범 중 한 명을 추적합니다. 놀랍게도 그는 막 학교를 "
+"졸업한 신참 해적이 아니라 독특한 기체를 조종하는 노련한 해적입니다. 이것은 "
+"그야말로 선과 악의 고결한 결투입니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:424
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[1]/text"
-msgstr ""
+msgstr "석양이 진다, 쓰레기야."
 
 #: src-en/data/events_sector_emv_droppoint.xml:426
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[1]/event/text"
 msgstr ""
+"\"앙, 뭐라고? 석양? 뭔 소릴 하는 거야- 아 이런 젠장! 얘들아, 문제가 "
+"생겼다!\" 해적은 당신의 갑작스러운 등장에 허점을 찔려 공격에 들어갑니다!"
 
 #: src-en/data/events_sector_emv_droppoint.xml:429
 msgid ""
@@ -443,12 +605,14 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_droppoint.xml:435
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[2]/text"
-msgstr ""
+msgstr "재빨리 튄다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:437
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[2]/event/text"
 msgstr ""
+"당신은 임무에 위험이 따를 때는 명예나 예의 따위가 도움이 되지 않는다고 "
+"판단하고, 이 일을 다른 사람에게 맡깁니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:439
 msgid ""
@@ -458,17 +622,28 @@ msgstr "함선에서 무언가를 한다."
 #: src-en/data/events_sector_emv_droppoint.xml:443
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SHERIFF_QUEST\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:458
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_PIRATE_CREWKILL\"]/text"
 msgstr ""
+"당신은 해적선의 선원들을 모두 처리하고 해적 함장을 함장실 구석으로 몰아넣는 "
+"데 성공합니다. \"뭐, 여기까지가 내 끝인가 보군. 그동안 즐거웠지만, 이제 내 "
+"때가 된 모양이야.\" 당신은 보안관에게 무전을쳐 해적 함장을 신병 확보했다고 "
+"알립니다. \"허허, 그거 듣던 중 반가운 소식이군. 그자를 가장 가까운 개척지로 "
+"끌고 오게, 나도 그리로 달려가서 정오까지 교수형을 준비해 두지. 수고했네, "
+"꼬마.\" 우주에서 보안관이 시간 개념을 어떻게 파악하는지 혼란스럽지만, 해적을 "
+"넘겨줄 가장 가까운 개척지의 좌표를 받았으니 지금은 중요한 게 아닙니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:464
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_PIRATE_DESTROY\"]/text"
 msgstr ""
+"당신은 해적 범죄자의 함선이 화염에 휩싸이고, 캡틴의 까맣게 탄 모자가 우주로 "
+"튕겨 나가는 것을 지켜봅니다. 당신은 보안관에게 무전을 쳐 임무 완수를 "
+"알립니다. \"수고했네, 동업자. 요즘 젊은 세대에게도 여전히 명예가 있다는 걸 "
+"알게 되어 기쁘군. 또 보자고, 카우보이.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:467
 msgid ""
@@ -478,12 +653,18 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_droppoint.xml:476
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_FINALE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "보안관이 이곳에서 보상을 준비하고 있습니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:478
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_FINALE\"]/text"
 msgstr ""
+"당신은 보안관의 기준에 따라 정오이기를 바라며 마침내 개척지에 도착합니다. "
+"보안관 대리들이 해적 함장을 끌고 가는 동안 보안관이 교신을 보냅니다. "
+"\"수고했네, 카우보이. 그것도 이 내리쬐는 석양의 빛 속에서 딱 맞게 말이야. 이 "
+"밑바닥 녀석에게 살해당한 사람들의 유족들이 이 쓰레기를 정의의 심판대에 "
+"세워준 자네에게 자신들만의 방식으로 감사를 표하고 싶어 한다네. 가장 가까운 "
+"무기창고로 가서 마음에 드는 건 뭐든 가져가게나. 또 보자고, 카우보이.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:480
 msgid ""
@@ -494,6 +675,10 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_SHERIFF_FINALE\"]/choice/event/text"
 msgstr ""
+"당신은 개척지 소속 무기창고로 서둘러 안내받아 열쇠를 지급받고 여정에 필요한 "
+"것은 무엇이든 챙깁니다. 자신에게 맞는 것을 챙기면서도 마을이 완전히 무방비 "
+"상태가 되지 않도록 배려합니다. 당신은 멀리서 해적 함장이 총살형을 당하는 "
+"모습을 지켜보며 작별을 고합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:486
 msgid ""
@@ -504,36 +689,48 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/text"
 msgstr ""
+"시야 한구석으로 함대 규모의 배회자 함선 십여 대가 황량한 행성을 향해 화물을 "
+"운반하는 것을 발견합니다. 당신은 그들이 출발한 전초기지로 향해 무엇을 "
+"운반하고 있는지 문의합니다. \"아, 저 행성 말입니까? 지나가는 배회자 함선들이 "
+"이용하는 거대한 폐기물 매립지일 뿐입니다. 쓰레기를 먹고사는 자들이 저기서 "
+"침입해 성가시게 구는 걸 막기 위해 경비하는 중이죠.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:496
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/text"
-msgstr ""
+msgstr "아래에 있는 쓰레기를 조금 인양할 수 있는지 묻는다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:498
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/text"
 msgstr ""
+"배회자 전초기지 주인은 동료 배회자들과 상의한 뒤 다시 당신을 돌아봅니다. "
+"\"좋습니다, 스크랩 더미를 지급하기만 한다면 내려가도 좋습니다. 내려가서 "
+"벌어지는 모든 일은 당신 책임이며, 보모 노릇은 해주지 않을 겁니다.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:500
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "스크랩을 조금 제안한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:502
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"당신은 스크랩을 제안하고 이번 인양 작업의 위험성에 대한 경고를 다시 한번 "
+"듣습니다. 강하하자 함선에 악취가 진동하고 녹슨 입자들이 공중에 날아다니는 "
+"것이 보입니다. 자신과 선원들에게 진정한 위협이 되기 전까지는 잠시 동안만 "
+"수색할 수 있습니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:507
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "무엇이든 찾아본다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:511
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[1]/event/choice[@req=\"SCRAP_COLLECTOR\"]/text"
-msgstr ""
+msgstr "(스크랩 수거 팔) 물건을 조금 건져 올리려고 시도한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:517
 msgid ""
@@ -544,6 +741,8 @@ msgstr "거절하고 떠난다."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"당신은 가격은 둘째 치더라도 이번 인양 작업에 대한 안전 보장이 없다는 이유로 "
+"정중히 거절합니다. 전초기지를 떠나 다음으로 이동할 준비를 합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:521
 msgid ""
@@ -553,17 +752,20 @@ msgstr "함선에서 무언가를 한다."
 #: src-en/data/events_sector_emv_droppoint.xml:525
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:533
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[2]/text"
-msgstr ""
+msgstr "더 이상 묻지 않고 떠난다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:535
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[2]/event/text"
 msgstr ""
+"당신은 허울만 좋은 거대한 쓰레기장에 관심이 없습니다. 전초기지 인원들과 작별 "
+"인사를 나누며, 다음으로 이동할 준비를 하는 동안 아직 무언가를 할 시간이 남아 "
+"있음을 깨닫습니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:537
 msgid ""
@@ -573,47 +775,66 @@ msgstr "함선에서 무언가를 한다."
 #: src-en/data/events_sector_emv_droppoint.xml:541
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:558
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_SCRAP\"]/text"
 msgstr ""
+"당신은 파괴된 함선의 선체에서 엄청난 양의 스크랩을 끌어올립니다. 어째서인지 "
+"스크랩 전반에 빛나는 먼지가 가득 덮여 있지만, 신경 쓰지 않고 함선으로 "
+"운반합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:563
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_SUPPLIES\"]/text"
 msgstr ""
+"물자 상자들을 발굴해 냅니다. 상자 안에서 얼마 안 되는 남은 물자를 "
+"발견하지만, 그럼에도 훌륭한 수확입니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:568
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_WEAPON\"]/text"
 msgstr ""
+"가치 있는 물건을 찾던 중, 선원이 한 번도 열리지 않은 무기 상자를 발견했다고 "
+"알려옵니다! 당신은 이를 함선으로 가져와 놀라운 수확을 확인합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:574
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_DRONE\"]/text"
 msgstr ""
+"한 선원이 상자 안에서 드론 설계의 청사진을 찾아내는 데 성공합니다. 선원은 "
+"이를 함선으로 가져오며, 즉시 사용할 수 있도록 준비합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:580
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_AUGMENT\"]/text"
 msgstr ""
+"파괴된 함선의 껍데기 내부에서 해당 함선의 것이었던 보조장비를 발견합니다. "
+"당신은 자신의 함선에 사용하기 위해 그것을 떼어냅니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:586
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_MAPINFO\"]/text"
 msgstr ""
+"아쉽게도 가치 있는 물건은 찾지 못했지만, 한 선원이 좌표와 지도 정보로 가득 "
+"찬 드라이브를 가져옵니다. 많은 양은 아니지만 경로를 항해하기에는 충분합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:592
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_SCRAPYARD_ARM\"]/text"
 msgstr ""
+"당신은 선원들의 목숨을 걸 가치가 없다고 판단하고, 스크랩 수거 팔을 사용해 "
+"스크랩을 함선으로 건져 올리는 쪽을 선택합니다. 그것만으로도 제법 괜찮은 "
+"수확을 거둡니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:599
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_CONVOY\"]/text"
 msgstr ""
+"성계로 도약하자마자 위치 근처에서 또 다른 멀티버스 드라이브 반응을 "
+"감지합니다! 일종의 사냥꾼일까 봐 걱정했지만, 동료 배회자 소속의 대형 "
+"수송선단인 것으로 보입니다. 당신은 마음을 조금 놓고 위치로 돌아갑니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:601
 msgid ""
@@ -623,12 +844,18 @@ msgstr "함선에서 무언가를 한다."
 #: src-en/data/events_sector_emv_droppoint.xml:605
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_CONVOY\"]/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:611
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_ENVY\"]/text"
 msgstr ""
+"시야 한구석에서 몇몇 함선으로부터 흘러나오는 수많은 시끄러운 잡음을 "
+"듣습니다. \"아싸 얘들아! 우린 부자가 될 거야! 엄청난 부자! 그 볼트만 있으면 "
+"우린 평생 떵떵거리며 살 수 있다고! 시간 끌지 말고 어서 가자!!\" 당신은 "
+"그들의 여유로움을 부러워하며 뒤따라갈 준비를 하다가, 그들이 노리는 "
+"\"금고\"가 반군 함대 어딘가에 있을 것이 거의 확실하다는 점을 깨닫습니다. "
+"당신은 대신 이동할 채비를 갖춥니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:613
 msgid ""
@@ -638,12 +865,18 @@ msgstr "함선에서 무언가를 한다."
 #: src-en/data/events_sector_emv_droppoint.xml:617
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_ENVY\"]/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:625
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/text"
 msgstr ""
+"박살난 함선 한 대가 당신을 막아서며 거듭 교신을 보내옵니다. \"제발 "
+"도와주세요, 부탁드립니다! 미친 괴물 같은 놈이 우리 뒤를 쫓아오며 박살 내고 "
+"있어요! 그 미치광이한테서 우리를 보호해 주시면 뭐든 드릴게요-\" 캡틴이 말을 "
+"다 마치기도 전에 추격자로부터 교신이 들어옵니다. \"이거 참, 내 사냥이 아주 "
+"다사다난하구만. 이렇게 하지, 그 조그만 토끼 녀석을 놓아주면 내가 자네에게 "
+"좋은 걸 조금 떼어주지. 같은 사냥꾼끼리 어때, 어떤가?"
 
 #: src-en/data/events_sector_emv_droppoint.xml:627
 msgid ""
@@ -654,16 +887,23 @@ msgstr "뇌물을 받아들인다."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[1]/event/text"
 msgstr ""
+"당신은 사냥감과의 교신을 차단하고 배회자 함선으로 이동하기로 결정합니다. "
+"그들은 약간의 물자를 교환해 준 뒤 당신에게 행운을 빌어줍니다. 시야 "
+"한구석으로 사냥당하던 함선이 배회자에게 갈가리 찢기는 모습이 보입니다. "
+"장관이었지만, 더 이상 서성거리고 싶지는 않습니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:634
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[2]/text"
-msgstr ""
+msgstr "함선을 보호한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:636
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[2]/event/text"
 msgstr ""
+"당신은 보호 태세를 취하며 무기를 무장합니다. 배회자는 이를 가볍게 넘기지 "
+"못하고 미소 뒤에 짜증을 겨우 감춥니다. \"뭐, 우주의 해충을 더 치워주는 걸 "
+"마다할 순 없지!\" 전투를 준비하십시오!"
 
 #: src-en/data/events_sector_emv_droppoint.xml:639
 msgid ""
@@ -673,17 +913,28 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_droppoint.xml:645
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "(고급 무기) 거절한다면?"
 
 #: src-en/data/events_sector_emv_droppoint.xml:647
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_PREY\"]/choice[@req=\"weapons\"]/event/text"
 msgstr ""
+"당신은 생명을 지키는 문제에 있어 자신에게 장난은 통하지 않는다는 것을 "
+"배회자에게 똑똑히 보여줍니다. 그들은 당신의 강력한 무장 체계를 확인하곤 "
+"슬금슬금 뒤로 물러섭니다. \"아, 음... 바람이 분 거겠지. 얘들아 장비 챙겨라! "
+"철수한다!\" 그들이 행성계를 떠나자, 사냥당하던 함선의 상태를 다시 살펴볼 "
+"시간이 생깁니다.\n"
+"\n"
+"\"도와주신 은혜는 말로 다 표현할 수가 없습니다. 함선에 탑승해있는 수많은 "
+"목숨을 구해주셨어요. 당신의 도움에 영원히 감사할 것입니다. 부디 이것을 "
+"받으시고 몸조심하십시오.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:662
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_DESTROY\"]/text"
 msgstr ""
+"배회자 함선이 마침내 패배했습니다. 당신은 사냥당하던 함선을 다시 확인하기 "
+"전에 그 함선을 해체합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:665
 msgid ""
@@ -694,11 +945,16 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_DESTROY\"]/choice/event/text"
 msgstr ""
+"너덜너덜해진 함선에서 교신이 옵니다. \"도와주신 것에 대해 뭐라고 감사의 "
+"말씀을 드려야 할지 모르겠습니다. 당신은 선상의 수많은 목숨을 구하셨고 저희는 "
+"당신의 도움에 영원히 감사할 것입니다. 부디 이것을 받으시고 몸조심하십시오.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:674
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_CREWKILL\"]/text"
 msgstr ""
+"배회자 함선이 마침내 패배했습니다. 당신은 사냥당하던 함선을 다시 확인하기 "
+"전에 그 함선을 해체합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:677
 msgid ""
@@ -709,11 +965,18 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_PSYCHOTIC_CREWKILL\"]/choice/event/text"
 msgstr ""
+"너덜너덜해진 함선에서 교신이 옵니다. \"도와주신 것에 대해 뭐라고 감사의 "
+"말씀을 드려야 할지 모르겠습니다. 당신은 선상의 수많은 목숨을 구하셨고 저희는 "
+"당신의 도움에 영원히 감사할 것입니다. 부디 이것을 받으시고 몸조심하십시오.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:691
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/text"
 msgstr ""
+"당신은 MV 침투선이 상점을 인질로 잡고 있는 것을 발견합니다. 상점 "
+"주인으로부터 도움을 요청하는 교신이 도착합니다. \"제발 여기서 나가게 "
+"도와주세요! 이 미친놈이 저희가 이용을 거부한 이후로 술에 취해 반군 헛소리를 "
+"고래고래 지르고 있어요, 이 비참한 놈을 제발 처리해 주세요!"
 
 #: src-en/data/events_sector_emv_droppoint.xml:693
 msgid ""
@@ -724,6 +987,9 @@ msgstr "상점을 구한다."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[1]/event/text"
 msgstr ""
+"당신은 이용을 거부당해 비참해진 반군 함장으로부터 상점을 보호하기 위해 "
+"개입합니다. \"너희이이 배회자 끄나풀 녀석들은- 딸꾹- 짓밟-짓밟힐 것이다!! "
+"딸꾹- 반군의 위엄 아래에에에!\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:698
 msgid ""
@@ -733,12 +999,15 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_droppoint.xml:704
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[2]/text"
-msgstr ""
+msgstr "제풀에 늘어지게 내버려 둔다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:706
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[2]/event/text"
 msgstr ""
+"당신은 배회자 행동 수칙을 읽느라 허둥대는 상점 주인의 목소리를 무시하며, "
+"무슨 일이 벌어지든 자신과 상관없는 일이라고 판단합니다. 다음으로 이동할 "
+"준비를 합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:708
 msgid ""
@@ -748,12 +1017,15 @@ msgstr "함선에서 무언가를 한다."
 #: src-en/data/events_sector_emv_droppoint.xml:712
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_SERVICE\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:725
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_DESTROYED\"]/text"
 msgstr ""
+"상점으로 들어가 함선을 해체하는 동안, 당신의 정신은 매장과 통조림 캔, 풀과 "
+"지옥에 관한 어떤 인용구를 떠올리려 애씁니다. 상점에서 무언가를 얻을 때까지 "
+"당신은 그 생각을 잊어버립니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:728
 msgid ""
@@ -764,6 +1036,10 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_DESTROYED\"]/choice/event/text"
 msgstr ""
+"상점 주인은 특별히 엄선된 목록에서 상품을 선택할 수 있는 상점 안으로 당신을 "
+"안내합니다. \"도와주셔서 감사합니다. 원래는 입장료를 뜯어내야 하지만, 뭐 "
+"어떤가요, 당신이 우리를 구해주셨으니 스크랩 몇 조각보다 훨씬 낫죠! 친구여, "
+"상점은 완전히 당신을 위한 겁니다.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:733
 msgid ""
@@ -779,6 +1055,9 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_CREWKILL\"]/text"
 msgstr ""
+"상점으로 들어가 함선을 해체하는 동안, 당신의 정신은 매장과 통조림 캔, 풀과 "
+"지옥에 관한 어떤 인용구를 떠올리려 애씁니다. 상점에서 무언가를 얻을 때까지 "
+"당신은 그 생각을 잊어버립니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:748
 msgid ""
@@ -789,6 +1068,10 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_STORE_REBEL_CREWKILL\"]/choice/event/text"
 msgstr ""
+"상점 주인은 특별히 엄선된 목록에서 상품을 선택할 수 있는 상점 안으로 당신을 "
+"안내합니다. \"도와주셔서 감사합니다. 원래는 입장료를 뜯어내야 하지만, 뭐 "
+"어떤가요, 당신이 우리를 구해주셨으니 스크랩 몇 조각보다 훨씬 낫죠! 친구여, "
+"상점은 완전히 당신을 위한 겁니다.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:753
 msgid ""
@@ -804,26 +1087,36 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/text"
 msgstr ""
+"송신소로 도약하자마자, 우주에 떠다니는 거대한 컨테이너를 간신히 피합니다. "
+"정신을 차리고 보니 수송선의 잔해 한가운데에 있다는 것을 깨닫습니다. 이 일을 "
+"벌인 자가 가치 있는 것을 남겨두었을 것 같지는 않지만, 당신은 떨어져 나온 "
+"스크랩을 떼어내기 위해 최선을 다합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:769
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
-msgstr ""
+msgstr "(라니우스) 라니우스 선원에게 스크랩을 더 추출하게 한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:771
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/text"
 msgstr ""
+"당신은 라니우스 선원에게 잔해 속으로 들어가 스크랩을 더 챙겨오라고 "
+"명령합니다. 사용할 만한 적당한 양의 스크랩 더미를 가져오는 데는 그리 오랜 "
+"시간이 걸리지 않습니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:776
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[@req=\"SCRAP_COLLECTOR\"]/text"
-msgstr ""
+msgstr "(스크랩 수거 팔) 스크랩을 더 얻으려고 시도한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:778
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_FREIGHTER\"]/choice[@req=\"SCRAP_COLLECTOR\"]/event/text"
 msgstr ""
+"함선의 스크랩 수거 팔을 사용해 함선의 더 단단한 부위에서 스크랩을 조금 더 "
+"떼어냅니다. 회수 팔이 기적을 발휘하여 잔해에서 더 많은 스크랩을 건져내고 "
+"상황을 마무리지어 정리합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:783
 msgid ""
@@ -839,36 +1132,46 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_MVPMC_GRADUATION\"]/text"
 msgstr ""
+"멀리서 어떤 축제가 열리고 있는 것을 발견합니다. 자세히 조사해 보니 배회자 "
+"졸업 파티이며 누구나 참석할 수 있다는 사실을 알게 됩니다. 당신은 잠시 머물며 "
+"신참 배회자와 일이 어떻게 돌아가는지, 배회자의 삶은 어떤지에 대해 이야기를 "
+"나눕니다. 그들은 당신의 조언에 감사해하며 감사의 표시로 자신들의 재고에서 "
+"무기 하나를 내어줍니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:798
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/text"
 msgstr ""
+"성계에 진입하자마자 함선 센서가 근처에서 발신되는 희미하고 미심쩍은 신호를 "
+"감지합니다. 하지만 육안으로는 찾을 수 없는 듯하며 레이더에도 나타나지 "
+"않습니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:800
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[1]/text"
-msgstr ""
+msgstr "신호의 발원지를 찾아보려고 시도한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:804
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "(고급 센서) 센서를 오버클럭한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:808
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[@req=\"ADV_SCANNERS\"]/text"
-msgstr ""
+msgstr "(장거리 탐사용 스캐너) 센서를 오버클럭한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:812
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[4]/text"
-msgstr ""
+msgstr "그대로 방치한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:814
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SEARCH\"]/choice[4]/event/text"
 msgstr ""
+"당신은 정체불명의 신호가 얽힌 무의미한 탐색에 관심이 없습니다. 미스터리를 "
+"있는 그대로 내버려 두고 길을 떠납니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:816
 msgid ""
@@ -884,6 +1187,8 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_BAD\"]/text"
 msgstr ""
+"신호를 찾기 위해 최선을 다해보지만 아무리 애써도 센서의 성능이 부족해 "
+"찾아내지 못하고, 신호는 지도상에서 깜빡이다 사라집니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:837
 msgid ""
@@ -899,11 +1204,13 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_GOOD\"]/text"
 msgstr ""
+"신호의 발원지를 찾기 위해 센서의 감지 범위 능력을 최대한 끌어올립니다. "
+"다행히 성능이 충분하여 신호를 보낸 근처 정착지의 정확한 위치를 짚어냅니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:849
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_GOOD\"]/choice[1]/text"
-msgstr ""
+msgstr "정착지에 접근한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:853
 msgid ""
@@ -914,6 +1221,8 @@ msgstr "떠난다."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP_SENSORS_GOOD\"]/choice[2]/event/text"
 msgstr ""
+"명심해야 할 점이 하나 있다면, 이런 숨겨진 정착지는 사정을 모르는 함선이 "
+"정박했다가 목숨을 잃기 딱 좋은 곳이라는 사실입니다. 가능한 한 빨리 떠납니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:857
 msgid ""
@@ -929,26 +1238,37 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/text"
 msgstr ""
+"조심스럽게 정박하면서, 당신은 이곳 정착지가 과거 반군의 은신처였다는 점을 "
+"눈채채지 않을 수 없었습니다. 바랜 주황색 색조, 탄 자국이 남은 MFK 독수리 "
+"문양, 바닥에 흩어진 에이스 헬멧들. 팽팽한 긴장감이 마음속을 불안으로 적시고, "
+"어둠 속에서 푸르게 빛나는 색채가 갑자기 나타나자 상황은 더욱 악화됩니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:871
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/text"
-msgstr ""
+msgstr "신원을 밝힌다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:873
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/text"
 msgstr ""
+"당신은 정착지 주민들에게 존재를 알립니다. 하나둘씩 빛나는 불빛들이 더욱더 "
+"많아지며 당신과 선원들의 수를 압도합니다. \" 그래... 영문도 모르는 반군이 또 "
+"하나 왔군, 아주 흥미로워. 우리가 생각했던 것만큼 숨겨진 곳이 아니었나 보지. "
+"죽어서 그 썩어 빠진 형제들의 뒤를 따를 준비나 해라!\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:875
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/text"
-msgstr ""
+msgstr "잠깐! 난 반군 편이 아니다!"
 
 #: src-en/data/events_sector_emv_droppoint.xml:877
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/text"
 msgstr ""
+"그 말이 흘러나오자마자 정체불명의 인물들은 제자리에 멈춰 서서 불빛 속으로 "
+"나와 모습을 드러냅니다. \"반군이... 아니라고? 그럼 넌 뭐냐? 여긴 어떻게 "
+"찾아온 거지?\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:879
 msgid ""
@@ -959,76 +1279,110 @@ msgstr "노드 17로 가는 중입니다."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"\"17번 노드라... 그 파멸의... 그건 나중에 다른 이야기로 남겨두도록 하지. "
+"그렇다면 왜 그곳에 가려는 거지?\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:883
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "연방을 구하기 위해서다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:885
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"\"허, 그래. 떠나라.\" 당신이 의도를 밝히자마자 자신과 선원들을 향해 장전된 "
+"수십 자루의 블래스터가 겨눠지는 것을 확인하고, 발길을 돌려 다시는 이 "
+"정착지에 발을 들이지 않기로 합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:890
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "스크랩을 좀 얻기 위해서다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:892
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"\"그렇다면 적어도 여기서는 자신을 위해 일하고 있군. 이번에 반군이 무너지는 "
+"걸 보는 건 꽤나 볼만한 구경거리가 되겠어. 이걸 받고 행운을 비네.\" 몇몇 "
+"공병이 당신의 함선으로 향해 무기 시스템을 업그레이드하는 것을 확인합니다! "
+"정착지 주민들이 행운을 빌어주는 가운데 당신은 그들에게 작별을 고합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:897
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "재미를 찾아서다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:899
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"\"스릴을 즐기는 자인가? 그거... 딱히 놀랍지도 않지만, 나한테 문제가 될 것도 "
+"없지. 그렇다면 어서 가보는 게 좋을 거야. 정착지 주민들은 여정에 행운을 "
+"빌어주며, 목표에 빨리 도달할 수 있도록 공병들에게 엔진을 업그레이드하라고 "
+"명령합니다. 당신은 그들에게 작별 인사를 하고 길을 떠납니다.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:904
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"human_mfk\"]/text"
 msgstr ""
+"(MFK 에이스) 반군은 약해졌고 가장 어두운 시기를 지나고 있다. 우리가 그 일을 "
+"마무리 짓는 중이다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:906
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"human_mfk\"]/event/text"
 msgstr ""
+"당신의 에이스가 나타나 정착민 중 한 명을 맞서며, 반군은 권력에 눈이 멀어 "
+"광기에 사로잡힌 미치광이들에 불과하고 혼란에 빠져 있으며 머지않아 천둥보다 "
+"강하게 무너져 내릴 것이라고 설명합니다. 정착지 리더가 당신에게 다가와 악수를 "
+"청한 뒤 부하 중 한 명을 함께 보냅니다. \"적의 적은 친구지. 내 정예 대원 중 "
+"한 명이 이번 여정에 동행할 걸세. 지옥을 맛보게 해주게, 꼬마.\""
 
 #: src-en/data/events_sector_emv_droppoint.xml:912
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"EMV_LIST_CREW_ROGUE\"]/text"
-msgstr ""
+msgstr "(로그 선원) 형제여, 도움을 요청한다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:914
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"EMV_LIST_CREW_ROGUE\"]/event/text"
 msgstr ""
+"당신이 로그 선원을 내세우자, 정체불명의 인물은 경례 자세를 취하며 가능한 "
+"모든 도움을 제공하겠다고 합니다. \"깃발도 수칙도 얽매이지 않고, 우리는 옛 "
+"영광을 섬긴다!\" 함선으로 서둘러 돌아와 보니 공병들이 함선을 개조하고 최상의 "
+"업그레이드를 적용하고 있으며, 충성스럽고 강력한 선원이 임무에 합류하기를 "
+"원하고 있습니다! 작별 인사를 하고 앞으로 나아갑니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:923
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "우리도 당신들과 비슷하다, 깃발도 충성할 대상도 없다!"
 
 #: src-en/data/events_sector_emv_droppoint.xml:925
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"\"또 다른 동류로군. 글쎄, 우리가 해줄 수 있는 최선은 제법 많은 물자를 주고 "
+"행운을 빌어주는 것뿐일세. 이 일에 대해 아무에게도 말하지 말게.\" 정체불명의 "
+"집단은 물자 은닉처를 전달하며 행운을 빌어주고, 이에 대해 아무에게도 말하지 "
+"말라고 다시 한번 강조합니다. 당신은 방금 본 낯선 이들에 대해 궁금해하며 "
+"정착지를 떠납니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:930
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "당신들에 상관할 바인가?"
 
 #: src-en/data/events_sector_emv_droppoint.xml:932
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"EMV_ROGUE_CAMP\"]/choice/event/choice/event/choice[3]/event/text"
 msgstr ""
+"\"뭐, 그게 내 질문의 답이 되겠군. 침입자다! 사격 개시!\" 그 인물이 명령을 "
+"내리자마자 수십 개의 레이저가 당신과 선원들에게 쏟아집니다! 다행히 사지 "
+"멀쩡히 함선으로 돌아왔지만, 함선 내에서 순간이동 신호가 감지되는 것을 "
+"발견합니다!"
 
 #: src-en/data/events_sector_emv_droppoint.xml:949
 msgid ""
@@ -1049,6 +1403,9 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_emv_droppoint.xml$//event[@name=\"FINISH_BEACON_FLEET_MVPMC\"]/text"
 msgstr ""
+"출구 송신소를 찾았지만 반군이 먼저 도착해 있었고, 당신을 쫓기 위해 엘리트가 "
+"파견되었습니다! MVPMC 부대가 반격하고 있지만, 가능한 한 빨리 다음 구역으로 "
+"도약해야 합니다."
 
 #: src-en/data/events_sector_emv_droppoint.xml:973
 msgid ""
