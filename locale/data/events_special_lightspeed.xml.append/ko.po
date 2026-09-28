@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-09-29 17:36+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/expanded-"
+"multiverse/dataevents_special_lightspeedxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_lightspeed.xml.append:5
 msgid ""
@@ -14,12 +21,21 @@ msgstr "계속..."
 msgid ""
 "data/events_special_lightspeed.xml.append$/dummyroot/mod:findName[1]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "연방 수도로 나아갑니까?"
 
 #: src-en/data/events_special_lightspeed.xml.append:18
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"EMV_GILDED_WARP\"]/text"
 msgstr ""
+"명칭: [style[color:ffb045]]대피한 수도[[/style]]\n"
+"\t유형: [style[color:ffbd64]]무력화됨.[[/style]]\n"
+"\t고유성: [style[color:ffc369]]당연함.[[/style]]\n"
+"\t통치 세력: [style[color:ffd780]]황금의 무리.[[/style]]\n"
+"\t반군 위협 수준: [style[color:ffb045]]존재하지 않음.[[/style]]\n"
+"\n"
+"\t[style[color:ffb045]]우[[/style]][style[color:ffbd64]]리[[/"
+"style]][style[color:ffd780]]를[[/style]][style[color:ffc369]] 맞이하라...[[/"
+"style]]"
 
 #: src-en/data/events_special_lightspeed.xml.append:26
 msgid ""
@@ -50,19 +66,19 @@ msgstr "경로를 바꾼다."
 msgid ""
 "data/events_special_lightspeed.xml.append$/dummyroot/mod:findName[2]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "멀티버스 보급 지점으로 나아간다."
 
 #: src-en/data/events_special_lightspeed.xml.append:64
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "멀티버스 보급 지점으로 나아간다."
 
 #: src-en/data/events_special_lightspeed.xml.append:71
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "MVPMC 보급 지점으로 간다."
 
 #: src-en/data/events_special_lightspeed.xml.append:79
 msgid ""
@@ -80,7 +96,6 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_special_lightspeed.xml.append:91
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_EMV_MVPMC_RENEGADE\"]/choice[2]/text"
 msgstr "아무것도 아니다."
