@@ -1,145 +1,166 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-09-29 17:36+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/expanded-"
+"multiverse/datablueprintsxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/desc"
 msgstr ""
+"엘리트 인간 선원입니다. 오래된 영광에 봉사하도록 훈련받은 숙련되고 치명적인 "
+"로그 선원입니다.\n"
+"\t\n"
+"\t인간의 기본 특성: 약간의 질식 저항"
 
 #: src-en/data/blueprints.xml.append:8
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/title"
-msgstr ""
+msgstr "로그 용병"
 
 #: src-en/data/blueprints.xml.append:9
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/short"
-msgstr ""
+msgstr "Mercenary"
 
 #: src-en/data/blueprints.xml.append:12
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[1]"
-msgstr ""
+msgstr "활성화 능력: 단검을 빠르게 휘둘러 출혈 디버프를 부여"
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[2]"
-msgstr ""
+msgstr "대인 공격력 1.1배"
 
 #: src-en/data/blueprints.xml.append:14
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[3]"
-msgstr ""
+msgstr "전투로부터 0.9배, 화재로부터 0.6배의 피해만을 받음"
 
 #: src-en/data/blueprints.xml.append:15
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_mercenary\"]/powerList/power[4]"
-msgstr ""
+msgstr "숙련도가 훨씬 빠르게 증가"
 
 #: src-en/data/blueprints.xml.append:20
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/desc"
 msgstr ""
+"슈퍼 엘리트 인간 선원입니다. 에이스 훈련을 이수한 이들은 먹잇감의 사기마저 "
+"꺾어놓아 손쉬운 표적으로 만들어 버립니다."
 
 #: src-en/data/blueprints.xml.append:22
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/title"
-msgstr ""
+msgstr "로그 사령관"
 
 #: src-en/data/blueprints.xml.append:23
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/short"
-msgstr ""
+msgstr "Commander"
 
 #: src-en/data/blueprints.xml.append:26
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[1]"
 msgstr ""
+"활성화 능력: 우렁찬 함성을 질러 아군 인간 선원을 강화하는 동시에 모든 비인간 "
+"선원의 사기를 꺾음"
 
 #: src-en/data/blueprints.xml.append:27
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[2]"
-msgstr ""
+msgstr "대인 공격력 1.8배"
 
 #: src-en/data/blueprints.xml.append:28
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[3]"
-msgstr ""
+msgstr "시스템 파괴 속도 2배"
 
 #: src-en/data/blueprints.xml.append:29
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[4]"
-msgstr ""
+msgstr "전투, 화재 및 질식으로부터 0.7배의 피해만을 받음"
 
 #: src-en/data/blueprints.xml.append:30
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_commander\"]/powerList/power[5]"
-msgstr ""
+msgstr "숙련도 2단계 보유"
 
 #: src-en/data/blueprints.xml.append:35
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/desc"
-msgstr ""
+msgstr "멀티버스 로그 함대의 밴스 제독입니다. 일종의 범죄자라 할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:37
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/title"
-msgstr ""
+msgstr "로그 제독"
 
 #: src-en/data/blueprints.xml.append:38
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/short"
-msgstr ""
+msgstr "Rogue Admiral"
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[1]"
-msgstr ""
+msgstr "최대 체력이 150으로 증가"
 
 #: src-en/data/blueprints.xml.append:42
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[2]"
-msgstr ""
+msgstr "이동속도 0.6배"
 
 #: src-en/data/blueprints.xml.append:43
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[3]"
-msgstr ""
+msgstr "대인 공격력 2배, 시스템 파괴 속도 2.2배"
 
 #: src-en/data/blueprints.xml.append:44
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[4]"
-msgstr ""
+msgstr "재해로부터 절반의 피해만을 받음"
 
 #: src-en/data/blueprints.xml.append:45
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[5]"
 msgstr ""
+"자가 치료 약물을 투여하여 15초 동안 피해를 받지 않을 시 초당 3.2의 체력을 "
+"회복"
 
 #: src-en/data/blueprints.xml.append:46
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[6]"
-msgstr ""
+msgstr "숙련도 2단계 보유"
 
 #: src-en/data/blueprints.xml.append:47
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[7]"
-msgstr ""
+msgstr "정신 지배 저항"
 
 #: src-en/data/blueprints.xml.append:48
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[8]"
 msgstr ""
+"체력이 30 이하로 떨어지면 은폐 상태에 돌입하여 잠시 동안 조종 불가가 되지만 "
+"체력을 매우 빠르게 회복함. 표적으로 지정될 수 없음"
 
 #: src-en/data/blueprints.xml.append:49
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_vance\"]/powerList/power[9]"
 msgstr ""
+"순수한 외계인 혐오증으로 인해 같은 방에 있는 아군 인간을 강화하여 대인 "
+"공격력 1.25배, 체력 1.1배, 수리 속도 1.2배 효과를 부여함"
 
 #: src-en/data/blueprints.xml.append:54
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/desc"
-msgstr ""
+msgstr "악명 높은 빔 마스터이자, 멀티버스 로그 함대의 오른팔로 보이는 인물입니다."
 
 #: src-en/data/blueprints.xml.append:56
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/title"
@@ -152,37 +173,41 @@ msgstr "빔 마스터"
 #: src-en/data/blueprints.xml.append:60
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[1]"
-msgstr ""
+msgstr "대인 공격력 1.4배"
 
 #: src-en/data/blueprints.xml.append:61
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[2]"
-msgstr ""
+msgstr "시스템 파괴 속도 1.5배"
 
 #: src-en/data/blueprints.xml.append:62
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[3]"
-msgstr ""
+msgstr "전투, 화재 및 질식으로부터 0.7배의 피해만을 받음"
 
 #: src-en/data/blueprints.xml.append:63
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[4]"
-msgstr ""
+msgstr "숙련도 1단계 보유"
 
 #: src-en/data/blueprints.xml.append:64
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_leah\"]/powerList/power[5]"
-msgstr ""
+msgstr "어느 함선으로든 순간이동 가능"
 
 #: src-en/data/blueprints.xml.append:69
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/desc"
 msgstr ""
+"엘리트 의무병 선원입니다. 다중우주 범죄자의 동맹이지만, 그다지 전투적이지는 "
+"않으며 외계인을 치료하는 데도 그리 열성적이지 않습니다..\n"
+"\n"
+"\t인간의 기본 특성: 경미한 재해 저항, 비전투 숙련도 빠르게 증가"
 
 #: src-en/data/blueprints.xml.append:73
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/title"
-msgstr ""
+msgstr "로그 의무병"
 
 #: src-en/data/blueprints.xml.append:74
 msgid ""
@@ -193,31 +218,37 @@ msgstr "Medic"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[1]"
 msgstr ""
+"활성화 능력: 주위에 있는 모든 아군의 체력을 15 회복시키고 잠시 동안 받는 "
+"피해를 절반으로 감소"
 
 #: src-en/data/blueprints.xml.append:78
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[2]"
-msgstr ""
+msgstr "15초 동안 피해를 받지 않을 시 초당 3.2의 체력을 회복"
 
 #: src-en/data/blueprints.xml.append:79
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[3]"
-msgstr ""
+msgstr "모든 인간 선원의 체력을 초당 2 회복"
 
 #: src-en/data/blueprints.xml.append:80
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_medic\"]/powerList/power[4]"
-msgstr ""
+msgstr "대인 공격력 0.5배, 전투 숙련도가 느리게 증가"
 
 #: src-en/data/blueprints.xml.append:96
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/desc"
 msgstr ""
+"엘리트 공병 선원입니다. 자신의 힘을 전투용으로, 드론을 수리용으로 개조한 "
+"숙련된 엔지니어입니다.\n"
+"\n"
+"\t인간의 기본 특성: 경미한 질식 저항, 모든 숙련도 빠르게 증가"
 
 #: src-en/data/blueprints.xml.append:100
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/title"
-msgstr ""
+msgstr "로그 공병"
 
 #: src-en/data/blueprints.xml.append:101
 msgid ""
@@ -227,540 +258,642 @@ msgstr "Engineer"
 #: src-en/data/blueprints.xml.append:104
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[1]"
-msgstr ""
+msgstr "활성화 능력: 25초 동안 유지되는 수리 드론 배치"
 
 #: src-en/data/blueprints.xml.append:105
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[2]"
-msgstr ""
+msgstr "수리 속도 0.25배"
 
 #: src-en/data/blueprints.xml.append:106
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[3]"
-msgstr ""
+msgstr "대인 공격력 1.5배"
 
 #: src-en/data/blueprints.xml.append:107
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[4]"
-msgstr ""
+msgstr "화재로부터 0.6배의 피해만을 받음"
 
 #: src-en/data/blueprints.xml.append:108
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"emv_mv_human_engineer\"]/powerList/power[5]"
-msgstr ""
+msgstr "수리 숙련도가 훨씬 더 빠르게 증가"
 
 #: src-en/data/blueprints.xml.append:134
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/desc"
 msgstr ""
+"전직 주교이자 여왕의 친위대 일원이었으며, 현재는 가장 위대한 맨티스 현상금 "
+"사냥꾼입니다. 빅토리아 시대 의복에 대한 깊은 애정도 가지고 있습니다.\n"
+"\n"
+"\t주교의 기본 특성: 이동 속도 1.65배, 수리 속도 0.07배."
 
 #: src-en/data/blueprints.xml.append:137
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/title"
-msgstr ""
+msgstr "맨티스 현상금 마스터"
 
 #: src-en/data/blueprints.xml.append:138
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/short"
-msgstr ""
+msgstr "Bountymaster"
 
 #: src-en/data/blueprints.xml.append:142
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[1]"
 msgstr ""
+"활성화 능력: 페로몬 폭탄을 투하하여 대인 공격력을 크게 증가시키고 적의 "
+"치료를 차단"
 
 #: src-en/data/blueprints.xml.append:143
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[2]"
-msgstr ""
+msgstr "대인 공격력 2.5배. 전투로부터 0.6배의 피해만을 받음"
 
 #: src-en/data/blueprints.xml.append:144
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[3]"
-msgstr ""
+msgstr "체력이 125로 증가"
 
 #: src-en/data/blueprints.xml.append:145
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_mortis\"]/powerList/power[4]"
-msgstr ""
+msgstr "질식에 면역, 화재로부터 절반의 피해만을 받음"
 
 #: src-en/data/blueprints.xml.append:150
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/desc"
 msgstr ""
+"의료 실무에 해박한 보기 드문 전직 맨티스 장군으로, 그렇다 한들 당신을 짓밟는 "
+"데는 변함이 없습니다. 보건과 의학에 집중된 인간 문화의 열렬한 애호가입니다.\n"
+"\n"
+"\t장군의 기본 특성: 백병전 시 받는 피해 0.8배, 수리 속도 0.5배."
 
 #: src-en/data/blueprints.xml.append:153
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/title"
-msgstr ""
+msgstr "맨티스 의사"
 
 #: src-en/data/blueprints.xml.append:154
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/short"
-msgstr ""
+msgstr "Doctor"
 
 #: src-en/data/blueprints.xml.append:158
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[1]"
-msgstr ""
+msgstr "활성화 능력: 치료 페로몬을 방출하여 아군 선원의 체력을 초당 7.5 회복"
 
 #: src-en/data/blueprints.xml.append:159
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[2]"
-msgstr ""
+msgstr "대인 공격력 1.4배"
 
 #: src-en/data/blueprints.xml.append:160
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_emv_vitae\"]/powerList/power[3]"
-msgstr ""
+msgstr "체력이 110으로 증가"
 
 #: src-en/data/blueprints.xml.append:166
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/class"
-msgstr ""
+msgstr "MV 무인 순양함"
 
 #: src-en/data/blueprints.xml.append:167
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/name"
-msgstr ""
+msgstr "Whirlwind"
 
 #: src-en/data/blueprints.xml.append:168
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8\"]/desc"
 msgstr ""
+"반란군이 수행한 다중우주 여행의 선구자 중 하나인 이 재프로그램된 자동함선은 "
+"거의 완벽에 가까운 잔혹한 전쟁 병기입니다."
 
 #: src-en/data/blueprints.xml.append:245
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/class"
-msgstr ""
+msgstr "MV 연합 순양함"
 
 #: src-en/data/blueprints.xml.append:246
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/name"
-msgstr ""
+msgstr "Birgus latro"
 
 #: src-en/data/blueprints.xml.append:247
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_2\"]/desc"
 msgstr ""
+"하이브, 신정, 도둑정, 그리고 이어젠 공화국의 악명 높은 지도자들이 연합 "
+"형성에 합의했습니다. 이들의 목표는 단순합니다. 현실을 넘어선 적들까지 "
+"정복하는 것입니다."
 
 #: src-en/data/blueprints.xml.append:324
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/class"
-msgstr ""
+msgstr "MV 카다헬리안 순양함"
 
 #: src-en/data/blueprints.xml.append:325
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/name"
-msgstr ""
+msgstr "Bioethanol"
 
 #: src-en/data/blueprints.xml.append:326
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT8_3\"]/desc"
 msgstr ""
+"마침내 서로의 차이점을 접어둔 화초와 흡혈초는 의외의 동맹과 함께 이 함선을 "
+"타고 흥겨운 유람을 떠나기로 했습니다. 자신들의 이전 이상을 버리는 것이 "
+"이렇게 짭짤할 줄은 미처 몰랐습니다."
 
 #: src-en/data/blueprints.xml.append:485
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/class"
-msgstr ""
+msgstr "MV 연방 무인 순양함"
 
 #: src-en/data/blueprints.xml.append:486
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/name"
-msgstr ""
+msgstr "Lunokhod"
 
 #: src-en/data/blueprints.xml.append:487
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5\"]/desc"
 msgstr ""
+"중무장한 멀티버스 함선의 부족을 메우기 위해 연방이 시도한 궁여지책입니다. "
+"원래 연구용으로 제작되었음에도 정밀한 센서 정밀도와 함께 전투 목적으로 급히 "
+"개조되었습니다."
 
 #: src-en/data/blueprints.xml.append:565
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/class"
-msgstr ""
+msgstr "MV 엔젤릭 데스브링어"
 
 #: src-en/data/blueprints.xml.append:566
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/name"
-msgstr ""
+msgstr "Raphael"
 
 #: src-en/data/blueprints.xml.append:567
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4\"]/desc"
 msgstr ""
+"바엘은 멀티버스 여행이 급증한다는 소식을 접하자마자, 주저하지 않고 현실 "
+"전역으로 사업을 확장했습니다. 이 치명적인 청부업자 함선은 그의 과업에 "
+"완벽하게 부합하는 후보였습니다."
 
 #: src-en/data/blueprints.xml.append:643
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/class"
-msgstr ""
+msgstr "MV 독립 맨티스 순양함"
 
 #: src-en/data/blueprints.xml.append:644
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/name"
-msgstr ""
+msgstr "Stardust"
 
 #: src-en/data/blueprints.xml.append:645
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_2\"]/desc"
 msgstr ""
+"어떻게 된 일인지는 모르겠지만, 독립 맨티스가 가진 페로몬 중독조차 그들이 "
+"멀티버스용으로 제작된 함선을 손에 넣는 것을 막지 못했습니다. 이 함선은 독립 "
+"맨티스의 원초적인 힘과, 하이브 및 졸탄을 향한 그들의 증오를 보여주는 훌륭한 "
+"예시입니다."
 
 #: src-en/data/blueprints.xml.append:722
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/class"
-msgstr ""
+msgstr "MV 민병대 순양함"
 
 #: src-en/data/blueprints.xml.append:723
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/name"
-msgstr ""
+msgstr "Marshall"
 
 #: src-en/data/blueprints.xml.append:724
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1\"]/desc"
 msgstr ""
+"민병대의 신뢰할 수 있는 멀티버스의 수호자 중 하나입니다. 이 거대한 군함은 "
+"어떤 현실에서든 원치 않는 침입자로부터 협회 구역을 보호하는 데 매우 "
+"적합합니다."
 
 #: src-en/data/blueprints.xml.append:806
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/class"
-msgstr ""
+msgstr "MV 졸탄 순양함"
 
 #: src-en/data/blueprints.xml.append:807
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/name"
-msgstr ""
+msgstr "Zero-Point"
 
 #: src-en/data/blueprints.xml.append:808
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2\"]/desc"
 msgstr ""
+"루메이 장관의 명령에 따라, 졸탄 내각은 그 경이로움과 위협을 밝혀내기 위해 "
+"멀티버스로 영향력을 확장하기로 결정했습니다."
 
 #: src-en/data/blueprints.xml.append:884
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/class"
-msgstr ""
+msgstr "MV 공화국 순양함"
 
 #: src-en/data/blueprints.xml.append:885
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/name"
-msgstr ""
+msgstr "The Tyrannobdella"
 
 #: src-en/data/blueprints.xml.append:886
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_2\"]/desc"
 msgstr ""
+"연방 복구팀은 MV 여행용으로 장비된 공화국 순양함의 사용되지 않은 청사진을 "
+"밝혀내는 데 성공했습니다. 이 순양함은 이어젠 공화국의 잃어버린 영광에 "
+"부응합니다."
 
 #: src-en/data/blueprints.xml.append:963
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/class"
-msgstr ""
+msgstr "MV 로스트선 순양함"
 
 #: src-en/data/blueprints.xml.append:964
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/name"
-msgstr ""
+msgstr "The Sojourner"
 
 #: src-en/data/blueprints.xml.append:965
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT2_3\"]/desc"
 msgstr ""
+"신정의 끊임없는 추적 시도로 인해, 로스트선 특공대는 현실을 넘나드는 "
+"자신들만의 전투 속에서 잔혹한 동족들과 충돌하는 것 외에는 다른 선택지가 "
+"없습니다."
 
 #: src-en/data/blueprints.xml.append:1043
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/class"
-msgstr ""
+msgstr "변형 MV 기함"
 
 #: src-en/data/blueprints.xml.append:1044
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/name"
-msgstr ""
+msgstr "Ruptura Realitatis"
 
 #: src-en/data/blueprints.xml.append:1045
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_FLAGSHIP\"]/desc"
 msgstr ""
+"과거에 얽매여 집착하던 이 함선의 밴스는, 자신의 패배 중 하나와 적들이 "
+"직면하게 될 위력에 대한 오마주로서 이 함선을 특별히 건조했습니다."
 
 #: src-en/data/blueprints.xml.append:1116
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/class"
-msgstr ""
+msgstr "변형 MV 반군 순양함"
 
 #: src-en/data/blueprints.xml.append:1117
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/name"
-msgstr ""
+msgstr "Columbus"
 
 #: src-en/data/blueprints.xml.append:1118
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6\"]/desc"
 msgstr ""
+"멀티버스 여행을 견디도록 설계된 반군 함선 중 가장 오래된 것으로 알려진 "
+"모델입니다. 이 함선은 신형 함선들에 비해 약함에도 불구하고, 개틀링 포격으로 "
+"여전히 강력한 한 방을 날립니다."
 
 #: src-en/data/blueprints.xml.append:1196
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/class"
-msgstr ""
+msgstr "MV 신정 순양함"
 
 #: src-en/data/blueprints.xml.append:1197
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/name"
-msgstr ""
+msgstr "Cobalt Inquisitor"
 
 #: src-en/data/blueprints.xml.append:1198
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3\"]/desc"
 msgstr ""
+"복구팀은 이 순양함의 원래 목적이 현실 전역에서 추방자들을 추적하여 사냥하는 "
+"것이었음을 시사합니다. 피비린내 나는 과거에도 불구하고, 이 함선은 여전히 "
+"강력하고 견고합니다."
 
 #: src-en/data/blueprints.xml.append:1274
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/class"
-msgstr ""
+msgstr "MV 헥타르 순양함(tm)"
 
 #: src-en/data/blueprints.xml.append:1275
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/name"
-msgstr ""
+msgstr "Extended Warranty"
 
 #: src-en/data/blueprints.xml.append:1276
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_2\"]/desc"
 msgstr ""
+"빌리 헥타르가 사업 확장 아이디어를 구상할 때, 자신의 현실을 수없이 "
+"넘어서까지 나아갈 생각은 하지 못했습니다. 가늠하기 힘든 형의 발자취를 따라, "
+"그는 직원들을 야근(tm) 업무의 도가니로 몰아넣기로 결정했습니다."
 
 #: src-en/data/blueprints.xml.append:1354
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/class"
-msgstr ""
+msgstr "MV 주교 순양함"
 
 #: src-en/data/blueprints.xml.append:1355
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/name"
-msgstr ""
+msgstr "The Whetstone"
 
 #: src-en/data/blueprints.xml.append:1356
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT3_3\"]/desc"
 msgstr ""
+"레이콘플리나크라 여왕을 호위하는 본래의 임무에도 불구하고, 이 주교 "
+"기동부대는 하이브의 지배력을 강화하는 데 일조하라는 여왕의 직속 명령을 "
+"받았습니다."
 
 #: src-en/data/blueprints.xml.append:1510
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/class"
-msgstr ""
+msgstr "변형 MV 집행자 순양함"
 
 #: src-en/data/blueprints.xml.append:1511
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/name"
-msgstr ""
+msgstr "Brutus"
 
 #: src-en/data/blueprints.xml.append:1512
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_2\"]/desc"
 msgstr ""
+"원래는 반군의 MV 함대 중 하나에 속해 있었습니다. 이 순양함은 해당 함대를 "
+"탈영하여 MV 집행자 부대에 합류했으나, 이 군함의 조종사는 표준 규격의 MV "
+"집행자 순양함으로 교체하는 것을 거부했습니다."
 
 #: src-en/data/blueprints.xml.append:1589
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/class"
-msgstr ""
+msgstr "MV 성기사 순양함"
 
 #: src-en/data/blueprints.xml.append:1590
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/name"
-msgstr ""
+msgstr "Varangian"
 
 #: src-en/data/blueprints.xml.append:1591
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT5_3\"]/desc"
 msgstr ""
+"이 함선을 점령한 성기사 선원들은 변절하여 누마 V의 습격에서 탈출했습니다. "
+"신정 입장에서는 무법자 신세지만, 이 거대한 덩치의 전함을 쥔 이상 이제 잃을 "
+"것도 없습니다."
 
 #: src-en/data/blueprints.xml.append:1667
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/class"
-msgstr ""
+msgstr "MV 유령 사냥꾼 순양함"
 
 #: src-en/data/blueprints.xml.append:1668
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/name"
-msgstr ""
+msgstr "Burton"
 
 #: src-en/data/blueprints.xml.append:1669
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_2\"]/desc"
 msgstr ""
+"이 사악한 함선의 설계자는 수많은 불운한 배회자 여행자들의 목숨을 빼앗았으며, "
+"거물 사냥감을 낚을 때까지 멈추지 않을 것입니다."
 
 #: src-en/data/blueprints.xml.append:1744
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/class"
-msgstr ""
+msgstr "MV 라니우스 순양함"
 
 #: src-en/data/blueprints.xml.append:1745
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/name"
-msgstr ""
+msgstr "Cr-24-G6-P4"
 
 #: src-en/data/blueprints.xml.append:1746
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT1_3\"]/desc"
 msgstr ""
+"라니우스가 어떻게 MV 기술을 습득했는지는 불분명하지만, 복구팀은 불운한 "
+"여행자 몇 명을 뜯어먹은 것으로 추정하고 있습니다."
 
 #: src-en/data/blueprints.xml.append:1824
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/class"
-msgstr ""
+msgstr "MV 이노베이션 순양함"
 
 #: src-en/data/blueprints.xml.append:1825
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/name"
-msgstr ""
+msgstr "P.U.R.E."
 
 #: src-en/data/blueprints.xml.append:1826
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MV_CURA\"]/desc"
 msgstr ""
+"어떤 이유에서인지 반군이 제작한 C.I.C.A 인공지능은 아직 이해되지 않은 숨은 "
+"의도를 품은 채, 이 비밀스러운 MV급 순양함으로 스스로 이주하기로 결정했습니다."
 
 #: src-en/data/blueprints.xml.append:1901
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/class"
-msgstr ""
+msgstr "MV 더스크브링어 순양함"
 
 #: src-en/data/blueprints.xml.append:1902
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/name"
-msgstr ""
+msgstr "Fuzzball"
 
 #: src-en/data/blueprints.xml.append:1903
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7\"]/desc"
 msgstr ""
+"어떤 이유에서인지, 더스크브링어들은 귀중한 기술을 챙겨 배회자로 활동하기로 "
+"결정했습니다. 그들의 대의가 흔들린 걸까요? 알 수 없는 일이지만, 그들의 "
+"함선이 장난이 아니라는 것만큼은 확실합니다!"
 
 #: src-en/data/blueprints.xml.append:1979
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/class"
-msgstr ""
+msgstr "MV 하이브 순양함"
 
 #: src-en/data/blueprints.xml.append:1980
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/name"
-msgstr ""
+msgstr "The Komodoensis"
 
 #: src-en/data/blueprints.xml.append:1981
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_2\"]/desc"
 msgstr ""
+"하이브의 영향력을 확장하고 독립 맨티스 식민지를 찾아 파괴하려는 "
+"레이콘플리나크라 여왕의 계획 일환으로, 여왕은 현실을 넘나들며 이러한 임무를 "
+"수행할 수 있도록 가장 뛰어난 맨티스 함선 중 하나를 개조하도록 명령했습니다."
 
 #: src-en/data/blueprints.xml.append:2058
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/class"
-msgstr ""
+msgstr "MV 소듐 순양함"
 
 #: src-en/data/blueprints.xml.append:2059
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/name"
-msgstr ""
+msgstr "The Soolane"
 
 #: src-en/data/blueprints.xml.append:2060
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT7_3\"]/desc"
 msgstr ""
+"슬러그 종족 전체를 무보수로 괴롭히는 데 싫증을 느낀 전설의 솔트맨은, "
+"슬러그를 괴롭히는 일과 다른 험한 일로 돈을 벌기 위해 MVPMC의 계급에 "
+"합류하기로 결정했습니다."
 
 #: src-en/data/blueprints.xml.append:2211
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/class"
-msgstr ""
+msgstr "MV 프로토타입 순양함"
 
 #: src-en/data/blueprints.xml.append:2212
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/name"
-msgstr ""
+msgstr "Vane"
 
 #: src-en/data/blueprints.xml.append:2213
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_2\"]/desc"
 msgstr ""
+"이 함선의 본질에도 불구하고, 모순적인 감정이 서려 있습니다. 어떤 해적도 이 "
+"함선으로부터 숨을 수 없으며, 어떤 민간인도 쉽게 맞서 싸울 수 없습니다."
 
 #: src-en/data/blueprints.xml.append:2289
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/class"
-msgstr ""
+msgstr "MV 경작자 순양함"
 
 #: src-en/data/blueprints.xml.append:2290
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/name"
-msgstr ""
+msgstr "CRISPR"
 
 #: src-en/data/blueprints.xml.append:2291
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT6_3\"]/desc"
 msgstr ""
+"공동체의 수상 이바르는 Oro'bache 흡혈초에게 더 강력한 중추를 제공하길 "
+"바라며, 자신의 엘리트 경작자들에게 여러 현실을 정찰하도록 명령했습니다."
 
 #: src-en/data/blueprints.xml.append:2369
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/class"
-msgstr ""
+msgstr "MV MFK 에이스 순양함"
 
 #: src-en/data/blueprints.xml.append:2370
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/name"
-msgstr ""
+msgstr "Soldat Etranger"
 
 #: src-en/data/blueprints.xml.append:2371
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MVSLOT4_3\"]/desc"
 msgstr ""
+"수많은 성공적인 멀티버스 여행 시도의 결과물입니다. 이 에이스 순양함은 자율 "
+"조종에 매우 적합하여 선원들이 근접전으로 적함을 갈아버릴 수 있게 해줍니다."
 
 #: src-en/data/blueprints.xml.append:2450
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/class"
-msgstr ""
+msgstr "모르티스의 순양함"
 
 #: src-en/data/blueprints.xml.append:2451
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/name"
-msgstr ""
+msgstr "Arescentem Rosa"
 
 #: src-en/data/blueprints.xml.append:2452
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_MORTIS\"]/desc"
 msgstr ""
+"겉보기엔 적을 손쉽게 찢어발기는 야수이지만, 내부에는 커피와 아주 특별한 "
+"누군가를 사랑하는 대단히 열정적인 살인마가 타고 있습니다."
 
 #: src-en/data/blueprints.xml.append:2523
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/class"
-msgstr ""
+msgstr "비타에의 순양함"
 
 #: src-en/data/blueprints.xml.append:2524
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/name"
-msgstr ""
+msgstr "Rosa Viridis"
 
 #: src-en/data/blueprints.xml.append:2525
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EMV_VITAE\"]/desc"
 msgstr ""
+"이 순양함의 매혹적인 색조는 명료함과 평화의 분위기를 풍깁니다. 이는 이 "
+"함선이 거의 이동식 클리닉이자 스파나 다름없기 때문인데, 그렇다 한들 "
+"사랑으로든 의사의 날카로운 발톱으로든 당신을 죽여놓는 건 마찬가지입니다."
 
 #: src-en/data/blueprints.xml.append:2596
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_MORTIS_PHEROMONES\"]/title"
-msgstr ""
+msgstr "시든 페로몬"
 
 #: src-en/data/blueprints.xml.append:2597
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_MORTIS_PHEROMONES\"]/desc"
 msgstr ""
+"모르티스가 직접 제조한 페로몬 혼합물입니다. 다양한 치명적인 독소와 대량의 "
+"카페인이 섞여 있어, 공기 중에서 치명적인 카페 향기가 풍깁니다.\n"
+"\t\n"
+"\t산소실에 전력이 1칸 들어갈 때마다 적의 체력이 10% 감소하고 이동 속도가 5% "
+"감소합니다.\n"
+"\n"
+"\t4단계 전력이 완전히 공급된 산소실은 아군 함선에 있는 적에게 지속 피해를 "
+"입히며, 적함에서 피해를 입었을 때 부패와 유사한 효과를 부여합니다.\n"
+"\t아군 맨티스 선원은 산소실의 전력 1칸당 1.1배의 피해량 배율을 얻습니다."
 
 #: src-en/data/blueprints.xml.append:2609
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_VITAE_PHEROMONES\"]/title"
-msgstr ""
+msgstr "개화하는 페로몬"
 
 #: src-en/data/blueprints.xml.append:2610
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_VITAE_PHEROMONES\"]/desc"
 msgstr ""
+"비타에가 특별히 제조한 의료용 페로몬 혼합물입니다. 향기로운 허브와 치료제로 "
+"가득 차 있어 가장 분노한 에퀴노이드조차 진정시키고 편안한 잠에 빠져들게 할 "
+"수 있습니다.\n"
+"\t\n"
+"\t의료실과 산소실의 전력 단계에 비례하여 아군 선원에게 함선 간 치유를 "
+"제공합니다.\n"
+"\t산소실에 전력이 1칸 들어갈 때마다 아군 선원의 체력, 수리 속도, 이동 속도가 "
+"1.1배 증가합니다."
 
 #: src-en/data/blueprints.xml.append:2620
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PERMISSION\"]/title"
-msgstr ""
+msgstr "EMV PERMISSION"
 
 #: src-en/data/blueprints.xml.append:2621
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PERMISSION\"]/desc"
-msgstr ""
+msgstr "MAKES MV FLAGSHIP WORK YOU SHOULDNT SEE THIS"
 
 #: src-en/data/blueprints.xml.append:2628
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AI_SCANNER\"]/title"
@@ -769,111 +902,140 @@ msgstr "고급 항법 장치"
 #: src-en/data/blueprints.xml.append:2629
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AI_SCANNER\"]/desc"
 msgstr ""
+"주변 송신소의 상세 정보를 드러내며, 무인함선이 이전에 방문했던 모든 송신소로 "
+"도약할 수 있게 해줍니다."
 
 #: src-en/data/blueprints.xml.append:2636
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PREPERATION\"]/title"
-msgstr ""
+msgstr "고급 항법 인공지능"
 
 #: src-en/data/blueprints.xml.append:2637
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PREPERATION\"]/desc"
 msgstr ""
+"주변 송신소의 상세 정보를 드러내며, 자동함선이 이전에 방문했던 모든 송신소로 "
+"도약할 수 있게 해줍니다. 함선에 기본적인 무인함선 기능을 부여합니다."
 
 #: src-en/data/blueprints.xml.append:2644
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AUTOMATION\"]/title"
-msgstr ""
+msgstr "고급 반군 인공지능"
 
 #: src-en/data/blueprints.xml.append:2645
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_AUTOMATION\"]/desc"
 msgstr ""
+"고급 반군 인공지능이 함선을 완전히 제어했습니다! 주변 신호소의 상세 정보를 "
+"드러내며, 자동함선이 이전에 방문했던 모든 신호소로 도약할 수 있게 해줍니다. "
+"함선에 완전한 무인함선 기능을 부여하고 산소 생성을 비활성화합니다."
 
 #: src-en/data/blueprints.xml.append:2652
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_RETRO_SHIELDING\"]/title"
-msgstr ""
+msgstr "고급 방어막 장치"
 
 #: src-en/data/blueprints.xml.append:2653
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_RETRO_SHIELDING\"]/desc"
-msgstr ""
+msgstr "중첩되는 에너지 방어막을 제공하며, MV 레트로 기함에 사용됩니다."
 
 #: src-en/data/blueprints.xml.append:2710
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PURE_INTELLECT\"]/title"
-msgstr ""
+msgstr "고급 인지 장치"
 
 #: src-en/data/blueprints.xml.append:2711
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_PURE_INTELLECT\"]/desc"
 msgstr ""
+"인공지능 기술의 정점으로, 고급 항법 장치, 물질 분해 그리드, 드라이브 해커의 "
+"능력을 결합한 장치입니다."
 
 #: src-en/data/blueprints.xml.append:2722
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_PARASITE\"]/title"
-msgstr ""
+msgstr "[L] 기생적 의존"
 
 #: src-en/data/blueprints.xml.append:2723
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_PARASITE\"]/desc"
 msgstr ""
+"리치의 최대 생명력이 60 줄어들고 가하는 피해가 1/4가 됩니다. 대신 리치가 "
+"아닌 적에게서 초당 3Hp를 흡수합니다.\n"
+"\t\n"
+"\t[L] - 이 보조장비는 외장형 연구실 업그레이드로, 정상적인 효과를 제공하지만 "
+"보조장비 슬롯을 차지합니다. 내장형 업그레이드로 전환할 수는 없지만, 1차 "
+"업그레이드 슬롯을 차지하지 않습니다. 동일한 장비와 중첩되지 않습니다."
 
 #: src-en/data/blueprints.xml.append:2732
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_HIVESLASH\"]/title"
-msgstr ""
+msgstr "[L] 베어가르기"
 
 #: src-en/data/blueprints.xml.append:2733
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_HIVESLASH\"]/desc"
 msgstr ""
+"일반 맨티스가 방에 있는 모든 적 선원에게 15 피해를 주는 베기 능력을 "
+"얻습니다. 한 도약 당 두번 가능합니다.\n"
+"\t\n"
+"\t[L] - 이 보조장비는 외장형 연구실 업그레이드로, 정상적인 효과를 제공하지만 "
+"보조장비 슬롯을 차지합니다. 내장형 업그레이드로 전환할 수는 없지만, 1차 "
+"업그레이드 슬롯을 차지하지 않습니다. 동일한 장비와 중첩되지 않습니다."
 
 #: src-en/data/blueprints.xml.append:2742
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_CARETAKER_HAZARD\"]/title"
-msgstr ""
+msgstr "[L] 안정되는 포자"
 
 #: src-en/data/blueprints.xml.append:2743
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_EX_CARETAKER_HAZARD\"]/desc"
 msgstr ""
+"정원지기가 자신을 포함하여 주변의 아군에게 화재 및 기절 면역을 제공하지만, "
+"더 이상 산소를 생성하지 않습니다.\n"
+"\t\n"
+"\t[L] - 이 보조장비는 외장형 연구실 업그레이드로, 정상적인 효과를 제공하지만 "
+"보조장비 슬롯을 차지합니다. 내장형 업그레이드로 전환할 수는 없지만, 1차 "
+"업그레이드 슬롯을 차지하지 않습니다. 동일한 장비와 중첩되지 않습니다."
 
 #: src-en/data/blueprints.xml.append:2752
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_ADV_FREQUENCIES\"]/title"
-msgstr ""
+msgstr "고급 주파수"
 
 #: src-en/data/blueprints.xml.append:2753
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EMV_ADV_FREQUENCIES\"]/desc"
 msgstr ""
+"다양한 해적 행위 이벤트를 감지할 수 있게 해주며, 탈취된 주파수와 동일한 "
+"기능도 수행합니다."
 
 #: src-en/data/blueprints.xml.append:2760
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_SHIP\"]/title"
-msgstr ""
+msgstr "무인함선 기능"
 
 #: src-en/data/blueprints.xml.append:2761
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_SHIP\"]/desc"
-msgstr ""
+msgstr "Makes your ship auto. YOU SHOULD NEVER SEE THIS."
 
 #: src-en/data/blueprints.xml.append:2786
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_MANNING\"]/title"
-msgstr ""
+msgstr "무인 제어 기능"
 
 #: src-en/data/blueprints.xml.append:2787
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_MANNING\"]/desc"
-msgstr ""
+msgstr "Mans ship systems. YOU SHOULD NEVER SEE THIS."
 
 #: src-en/data/blueprints.xml.append:2809
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_REPAIR\"]/title"
-msgstr ""
+msgstr "무인 수리 기능"
 
 #: src-en/data/blueprints.xml.append:2810
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUTOMATED_REPAIR\"]/desc"
-msgstr ""
+msgstr "Repairs ship systems. YOU SHOULD NEVER SEE THIS."
 
 #: src-en/data/blueprints.xml.append:2820
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/title"
-msgstr ""
+msgstr "중형 관통 레이저 함포"
 
 #: src-en/data/blueprints.xml.append:2821
 msgid ""
@@ -884,16 +1046,18 @@ msgstr "Pierce Heavy"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/desc"
 msgstr ""
+"[기본 충전 시간: 18] 방어막 1겹을 관통하는 강력한 중형 레이저 탄막을 "
+"발사합니다."
 
 #: src-en/data/blueprints.xml.append:2824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_1\"]/tooltip"
-msgstr ""
+msgstr "중형 레이저 탄막, 피해량 2, 1발 발사. 방어막 1겹 관통."
 
 #: src-en/data/blueprints.xml.append:2860
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/title"
-msgstr ""
+msgstr "입자 미사일 함포"
 
 #: src-en/data/blueprints.xml.append:2861
 msgid ""
@@ -904,16 +1068,18 @@ msgstr "Particle M."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/desc"
 msgstr ""
+"[기본 충전 시간: 30] 함선 시스템을 황폐화하고 방을 봉쇄하는 입자 미사일 "
+"탄막을 발사합니다."
 
 #: src-en/data/blueprints.xml.append:2863
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_2\"]/tooltip"
-msgstr ""
+msgstr "입자 미사일 탄막, 시스템 피해량 1, 적중 시 봉쇄 적용."
 
 #: src-en/data/blueprints.xml.append:2901
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/title"
-msgstr ""
+msgstr "고급 포샤드 빔 함포"
 
 #: src-en/data/blueprints.xml.append:2902
 msgid ""
@@ -924,36 +1090,42 @@ msgstr "'Fauchard'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/desc"
 msgstr ""
+"[기본 충전 시간: 30] 적 시스템을 찢어발기는 파괴적인 대생물 빔을 발사합니다. "
+"모든 일반 방어막을 관통합니다."
 
 #: src-en/data/blueprints.xml.append:2904
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_3\"]/tooltip"
-msgstr ""
+msgstr "포샤드 함포, 매우 긴 빔, 방어막 관통."
 
 #: src-en/data/blueprints.xml.append:2932
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/title"
-msgstr ""
+msgstr "중형 에너지 함포"
 
 #: src-en/data/blueprints.xml.append:2933
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/short"
-msgstr ""
+msgstr "Heavy Energy"
 
 #: src-en/data/blueprints.xml.append:2936
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/desc"
 msgstr ""
+"[기본 충전 시간: 15] 선체와 시스템에 피해를 입히며, 시스템이 없는 방에서는 "
+"2배의 선체 피해를 입히는 응축된 에너지 발사체 탄막을 발사합니다."
 
 #: src-en/data/blueprints.xml.append:2937
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_MVFS_4\"]/tooltip"
 msgstr ""
+"중형 에너지 발사체 탄막을 발사합니다. 시스템뿐만 아니라 방어막 타격 및 "
+"무력화 가능. 시스템이 없는 방에 2배의 선체 피해."
 
 #: src-en/data/blueprints.xml.append:2977
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/title"
-msgstr ""
+msgstr "프로토타입 개틀링 함포"
 
 #: src-en/data/blueprints.xml.append:2978
 msgid ""
@@ -964,6 +1136,9 @@ msgstr "Artillery"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EMV_ARTILLERY_REBEL_LASER\"]/desc"
 msgstr ""
+"[기본 충전 시간: 15/13.4/11.8/10.2/8.6/7/5.4] 탄막을 발사할 때마다 쿨다운이 "
+"연쇄적으로 줄어들어 적의 방어막에 지속적인 사격을 퍼붓는 뛰어난 공학 기술의 "
+"레이저 함포입니다."
 
 #: src-en/data/blueprints.xml.append:2980
 msgid ""
