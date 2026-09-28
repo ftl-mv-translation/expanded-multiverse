@@ -1,14 +1,26 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-09-29 17:36+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/expanded-"
+"multiverse/dataevents_sector_emv_gildedxml/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_emv_gilded.xml:2
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/text"
 msgstr ""
+"마침내 연방의 수도인 17번 노드에 도착했습니다. 당신은 멀티버스 기술이 발견된 "
+"제0 우주에서도 벌어졌던 이 전투에 대해 들어봤습니다. 지금부터 그 전투에 직접 "
+"참가하게 될 것입니다. 여기서 당신이 취할 행동은 이 현실을 구원할 수도 파멸로 "
+"이끌 수도 있습니다.... 아니... 그럴 것이라 생각하겠지만... 분쟁 구역치고는 "
+"매우 조용합니다... 멀리서 보이는 것은 금빛 불빛들뿐입니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:10
 msgid ""
@@ -19,6 +31,8 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/text"
 msgstr ""
+"보통은 입구를 관리하는 경비정이 있겠지만... 연방 사령부에 가까워지는데도 "
+"당신을 저지하는 자는 아무도 없는 것 같습니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:14
 msgid ""
@@ -29,76 +43,143 @@ msgstr "연방 사령부와 접촉한다."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/text"
 msgstr ""
+"당신은 차분히 자세를 정돈하고 응답을 기다립니다... 그러나 응답은 오지 "
+"않습니다. 툴리 제독의 목소리를 들을 수 있기를 기대하며 거듭 교신을 "
+"시도하지만, 아무런 반응이 없습니다. 결국 자동 응답 메시지가 울립니다.\n"
+"\n"
+"\"죄송합니다. 현재 이 현실의 툴리 제독 명령에 따라 전원 대피가 진행 "
+"중입니다. 이 메시지를 듣고 계신다면 당신은 이곳에 있어서는 안 되는 "
+"분입니다... 하지만 환영합니다. 물자나 툴리 제독의 안내가 필요하다면 "
+"승선하십시오.\""
 
 #: src-en/data/events_sector_emv_gilded.xml:20
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/text"
-msgstr "정거장에 오른다."
+msgstr "정거장에 승선한다."
 
 #: src-en/data/events_sector_emv_gilded.xml:22
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"당신은 감히 할 수 있으리라 생각지도 못했던 일... 18번 노드의 웨이포인트이자 "
+"연방 사령부 정거장에 승선합니다. 원래대로라면 고위 연방 장교들만이 이곳에 "
+"정식으로 승선할 수 있습니다. 전초기지를 거닐어 보지만, 이곳 역시 다른 곳처럼 "
+"텅 비어 있습니다. 지휘관이 있을 법한 모든 집무실을 둘러보지만, 선원들은 "
+"아무것도 발견하지 못했다고 보고합니다. 당신과 나머지 선원들이 휴게실 근처에 "
+"다시 모였을 때, 무언가가 들려옵니다...\n"
+"\n"
+"\"안녕하신가, 다들 길을 잃었나?\"\n"
+"\n"
+"당신과 모든 선원들은 그 목소리가 난 쪽을 황급히 돌아봅니다. 그건... 연방 "
+"함대의 제독, 툴리였습니다.\n"
+"\n"
+"\"대피령은 얼마 전에 내렸는데, 아직 도약해 나가지 않았다니 놀랍군.\" 툴리가 "
+"의자에 느긋하게 기대어 우주를 바라보며 말합니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:30
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "대피령...? 어째서 사령탑에 계시지 않는 겁니까?"
 
 #: src-en/data/events_sector_emv_gilded.xml:32
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"내가 왜 거기 있어야 하나? 들리는 바로는 이 구역 전체로 도약해 들어오는 것 "
+"자체가 불가능하다고 하더군. 결국 여기 찾아올 사람들은 어떻게든 진작에 "
+"떠났어야 했을 사람들뿐이지.\"\n"
+"\n"
+"당신은 아무 문제 없이 이 구역으로 점프해 들어왔다고 설명합니다.\n"
+"\n"
+"\"...정말인가? 내가 들은 사람 중엔 자네가 유일하군. 다른 이들은 이미 모두 "
+"떠났네. 저 금빛 불빛들이 자신들의 명령을 아주 명확하게 전달했거든. 목숨을 "
+"아끼는 자는 누구든 이 구역을 떠나거나 가능한 한 멀리, 그리고 안전한 곳으로 "
+"피신하라는 경고였네.. 반군 기함이 흔적도 없이 산산조각 난 직후, 우리는 그 "
+"경고에 따랐지..\""
 
 #: src-en/data/events_sector_emv_gilded.xml:40
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "왜 라운지 의자에 누워 있는지 묻는다."
 
 #: src-en/data/events_sector_emv_gilded.xml:42
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"저 금빛 불빛들을 바라보고 있었네. 여러모로... 이상하게 아름답더군. 내 "
+"생각엔 어떤 기괴한 배회자들 같은데, 나 자신도 그들에 대해 들어본 적이 없고 "
+"어떻게 접촉하게 되었는지도 모르겠네.\"\n"
+"\n"
+"툴리가 샴페인 병으로 손을 뻗습니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:46
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "그건 뭡니까?"
 
 #: src-en/data/events_sector_emv_gilded.xml:48
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"이걸로 반군의 패배를 축하할 계획이었네. 솔직히.. 내가 축하하려 했던 상황은 "
+"이런 게 아니었다만.. 자네들에게도 잔이 필요하겠군.\"\n"
+"\n"
+"툴리가 통신기를 들어 잔을 더 가져와 달라고 요청합니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:52
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "이 전초기지에 다른 사람도 있습니까?"
 
 #: src-en/data/events_sector_emv_gilded.xml:54
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"툴리가 당신을 다시 올려다봅니다.\n"
+"\n"
+"\"그렇다네, 몇 명 있네. 나를 여기 혼자 남겨두고 싶어 하지 않아서, 정거장을 "
+"가동 상태로 유지하기 위해 적은 수의 연방 직원들이 남아 있지. 나머지는 전부 "
+"떠났다고 확신한다만. 그런데 왜 그렇게 거기 서있기만 하는건가? 앉으시게. 꽤 "
+"지쳐 보이는군.\""
 
 #: src-en/data/events_sector_emv_gilded.xml:58
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "자리에 앉는다.."
 
 #: src-en/data/events_sector_emv_gilded.xml:60
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"의자는.. 당신이 평생 앉아본 그 어떤 것보다도 편안하게 느껴집니다.. 그동안 "
+"이런 편안함을 잊고 살았습니다.. 금빛 불빛들이 빛나는 동안 당신은 이 순간에 "
+"빠져들지 않으려 애쌉니다. 주변에서 발소리가 들리고, 나머지 선원들도 자리에 "
+"앉는 것 같습니다..\n"
+"\n"
+"\"그래서.. 다들 여기서 뭘 하고 있는건가?\"\n"
+"\n"
+"당신은 도금된 송신소의 이야기와 여기까지 오게 된 모든 과정에 대해 이야기하기 "
+"시작합니다. 그럼에도 결국 당신이 이곳에 오게 된 이유를..\n"
+"\n"
+"\"...그렇군.. 자네는.. 저 불빛들을 향해 가고 있군.. 그리고 그 불빛들은 하필 "
+"우리 눈앞에 나타난 진정한 전설이라..?\""
 
 #: src-en/data/events_sector_emv_gilded.xml:68
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "그렇습니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:70
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"...아.. 저들을 만나러 갈 만큼 미친 사람이 있으리라곤.. 생각지도 못했네.. "
+"그대와 선원들은 진정 용감하군. 정말이지 손에 쥐어둔 게 있다면 지금 당장 "
+"여기서 훈장을 수여하고 싶을 정도일세.. 아, 잠깐만.\"\n"
+"\n"
+"툴리가 통신기에 대고 지금 당장 수여할 상이나 훈장이 남아 있는지 물어봅니다.\n"
+"\n"
+"\"훌륭하군..\""
 
 #: src-en/data/events_sector_emv_gilded.xml:76
 msgid ""
@@ -109,6 +190,32 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"고요합니다.. 구역 전체가 버려진 것처럼 보이며, 이 기지에 있는 사람들과 금빛 "
+"불빛들.. 그리고 당신과 당신의 선원들 외에는 아무도 없습니다.. 멀리서 빛나는 "
+"불빛들을 바라보며 모두가 긴장한 표정입니다.\n"
+"\n"
+"툴리가 입을 뗍니다.\n"
+"\n"
+"\"..무엇을 예상해야 할지 알고 있나? 저들이 무엇인지?\"\n"
+"\n"
+"구체적인 내용을 말해줄 수 있다면 좋겠지만, 아무것도 떠오르지 않습니다.. 그저 "
+"저들에 대해 들었던 소문과 전설만을 이야기할 뿐입니다. 툴리가 당신의 말을 "
+"끊을 때까지 당신은 계속 두서없이 이야기를 이어갑니다.\n"
+"\n"
+"\"알겠네.. 들리는 바로는, 승리할 확률이 매우 희박해 보이는군..\"\n"
+"\n"
+"발소리가 들리고, 한 독립 맨티스가 쟁반에 잔들과 작은 상자를 들고 "
+"다가옵니다.\n"
+"\n"
+"\"아, 아주 좋군. 손 좀 거들어 주겠나?\"\n"
+"\n"
+"독립 맨티스는 테이블 위에 잔을 놓더니 흥분한 듯 툴리에게 달려갔고, 툴리는 "
+"병을 들어 올립니다.\n"
+"\n"
+"뻥!\n"
+"\n"
+"독립 맨티스는 집게발을 병따개처럼 사용합니다.. 상황이 이렇게 심각하지 "
+"않았다면 웃었을 텐데, 그럼에도 여전히 유쾌한 광경입니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:98
 msgid ""
@@ -119,26 +226,53 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"독립 맨티스가 뛰어나갑니다. 툴리가 술을 따르기 시작합니다.\n"
+"\n"
+"어째서 여기에 독립 맨티스가 있는지 물어봅니다.\n"
+"\n"
+"\"아직도 여기 남아있을 만큼 무모하게 용감한 녀석이 누구라고 생각하나?\"\n"
+"\n"
+"\"이제 곧 떠나야 할 시간이 될 것 같군. 신이라고밖에 생각할 수 없는 존재들을 "
+"기다리게 하고 싶진 않을 테니..\""
 
 #: src-en/data/events_sector_emv_gilded.xml:108
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "그런 것 같습니다.."
 
 #: src-en/data/events_sector_emv_gilded.xml:110
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"툴리가 모두에게 술을 다 따라주고는 일어나 상자를 엽니다.\n"
+"\n"
+"\"들으시게. 이 현실에서 반군을 무찌른 것이 자네들의 공헌이었고, 여기까지 "
+"찾아온 용기를 감안하여, 현재 주어진 자원으로 수여할 수 있는 최고의 명예를 "
+"그대들 모두에게 주게 되어 영광이였네..\"\n"
+"\n"
+"툴리가 당신들 각자에게 훈장과 술잔을 건냅니다.\n"
+"\n"
+"\"마시게나. 당분간은 마지막으로 얻을 수 있는 기회일 테니.. 그대들의 이름이 "
+"널리 알려지도록 내가 보장하지..\""
 
 #: src-en/data/events_sector_emv_gilded.xml:118
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "건배사를 건넨다."
 
 #: src-en/data/events_sector_emv_gilded.xml:120
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"당신은 이 임무 전체와.. 여기까지 오며 거쳐온 모든 과정에 대해 건배를 "
+"외칩니다.. 모든 것은 이 순간을 위해 이어져 왔고, 당신은 미소를 지으며 이에 "
+"맞설 것입니다.\n"
+"\n"
+"선원들이 각자 위치에 착석하고 함선에 물자가 재충전되는 동안, 툴리는 당신의 "
+"순양함까지 함께 걸어옵니다.\n"
+"\n"
+"\"...행운을 비네, 배회자. 살아남는다면.. 언젠가 날 찾아오게, 알겠나? 자네를 "
+"응원하고 있겠네.\""
 
 #: src-en/data/events_sector_emv_gilded.xml:129
 msgid ""
@@ -154,6 +288,36 @@ msgstr "툴리에게 보급 상자를 보여준다."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_SECTOR_START\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"TULLY_PRESENT\"]/event/text"
 msgstr ""
+"툴리가 술을 따르는 동안 당신은 보급 상자를 테이블 위로 슬그머니 밀어 "
+"넣습니다..\n"
+"\n"
+"\"...아...\"\n"
+"\n"
+"툴리가 당신을 올려다봅니다.\n"
+"\n"
+"\"자네가 바로 그 배회자였군..\"\n"
+"\n"
+"툴리가 당신에게 거수경례를 올립니다.\n"
+"\n"
+"\"알다시피, 그 상자엔 아무것도 들어있지 않네.. 하지만 참으로 깊은 의미를 "
+"담고 있지..\"\n"
+"\n"
+"툴리가 웃기 시작합니다.\n"
+"\n"
+"\"하.. 하하하.. 글쎄, 우리 둘 다 저 불빛들의 정체가 무엇인지 확인하러 가게 "
+"되는 셈이군..\"\n"
+"\n"
+"툴리가 술 따르기를 마치고, 당신은 별들을 돌아보며 건배를 건냅니다.\n"
+"\n"
+"\"이게 아마 우리 둘 다 마시는 마지막 술이 될지도 모르겠군.. 곧 자네의 함선에 "
+"동승하겠네. 내가 사망할 경우 어떻게 대처해야 할지 이곳 직원들에게 지시를 "
+"내릴 필요가 있으니.. 내가 죽는다 해도 연방은 흔들릴지언정 무너지지 않을 "
+"걸세.. 이미 반군이 이 현실에서 패배했으니, 괜찮을 테지..\"\n"
+"\n"
+"당신은 순양함으로 걸어 돌아가고, 툴리도 넉넉한 보급품을 챙겨 곧 "
+"뒤따라옵니다.\n"
+"\n"
+"\"...가보세나 함장, 운명을 향해.\""
 
 #: src-en/data/events_sector_emv_gilded.xml:165
 msgid ""
@@ -167,7 +331,7 @@ msgstr "계속..."
 
 #: src-en/data/events_sector_emv_gilded.xml:201
 msgid "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_EMPTY\"]/text"
-msgstr ""
+msgstr "이곳엔 아무것도 없습니다, 그저 침묵과 금빛 불빛들뿐..."
 
 #: src-en/data/events_sector_emv_gilded.xml:203
 msgid ""
@@ -183,31 +347,55 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[1]"
 msgstr ""
+"무엇을 할지 고민하던 중, 어떤 메시지가 당신에게 전달되는 것을 깨달았습니다. "
+"메시지에는 다음과 같이 적혀 있습니다...\n"
+"\n"
+"    \"[style[color:ffb045]]서둘러라.[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:216
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[2]"
 msgstr ""
+"무엇을 할지 고민하던 중, 어떤 메시지가 당신에게 전달되는 것을 깨달았습니다. "
+"메시지에는 다음과 같이 적혀 있습니다...\n"
+"\n"
+"    \"[style[color:ffb045]]계속해라.[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:219
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[3]"
 msgstr ""
+"무엇을 할지 고민하던 중, 어떤 메시지가 당신에게 전달되는 것을 깨달았습니다. "
+"메시지에는 다음과 같이 적혀 있습니다...\n"
+"\n"
+"    \"[style[color:ffb045]]다가가라.[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:222
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[4]"
 msgstr ""
+"무엇을 할지 고민하던 중, 어떤 메시지가 당신에게 전달되는 것을 깨달았습니다. "
+"메시지에는 다음과 같이 적혀 있습니다...\n"
+"\n"
+"    \"[style[color:ffb045]]기다리고 있다..[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:225
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[5]"
 msgstr ""
+"무엇을 할지 고민하던 중, 어떤 메시지가 당신에게 전달되는 것을 깨달았습니다. "
+"메시지에는 다음과 같이 적혀 있습니다...\n"
+"\n"
+"    \"[style[color:ffb045]]이제 와서 도망치지 마라.[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:228
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_DELAY\"]/text[6]"
 msgstr ""
+"무엇을 할지 고민하던 중, 어떤 메시지가 당신에게 전달되는 것을 깨달았습니다. "
+"메시지에는 다음과 같이 적혀 있습니다...\n"
+"\n"
+"    \"[style[color:ffb045]]지켜보고 있다.[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:240
 msgid ""
@@ -218,31 +406,56 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[1]"
 msgstr ""
+"구원을 얻고 이 구역을 벗어날 방법을 바라며 전초기지로 돌아온 당신은, 교신 "
+"허가를 보내기도 전에 한 통의 메시지를 수신합니다..\n"
+"\n"
+"    \"[style[color:ffbd64]]탈출구는 없다.[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:249
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[2]"
 msgstr ""
+"구원을 얻고 이 구역을 벗어날 방법을 바라며 전초기지로 돌아온 당신은, 교신 "
+"허가를 보내기도 전에 한 통의 메시지를 수신합니다..\n"
+"\n"
+"    \"[style[color:ffbd64]]돌아가라.[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:252
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[3]"
 msgstr ""
+"구원을 얻고 이 구역을 벗어날 방법을 바라며 전초기지로 돌아온 당신은, 교신 "
+"허가를 보내기도 전에 한 통의 메시지를 수신합니다..\n"
+"\n"
+"    \"[style[color:ffbd64]]우리는 아직 끝나지 않았다.[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:255
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[4]"
 msgstr ""
+"구원을 얻고 이 구역을 벗어날 방법을 바라며 전초기지로 돌아온 당신은, 교신 "
+"허가를 보내기도 전에 한 통의 메시지를 수신합니다..\n"
+"\n"
+"    \"[style[color:ffbd64]]이 하얀 빛들이 금빛으로 물드는 것을 보여다오..[[/"
+"style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:258
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[5]"
 msgstr ""
+"구원을 얻고 이 구역을 벗어날 방법을 바라며 전초기지로 돌아온 당신은, 교신 "
+"허가를 보내기도 전에 한 통의 메시지를 수신합니다..\n"
+"\n"
+"    \"[style[color:ffbd64]]두려워할 필요 없다..[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:261
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_START_REVISIT\"]/text[6]"
 msgstr ""
+"구원을 얻고 이 구역을 벗어날 방법을 바라며 전초기지로 돌아온 당신은, 교신 "
+"허가를 보내기도 전에 한 통의 메시지를 수신합니다..\n"
+"\n"
+"    \"[style[color:ffbd64]]황금빛 여명을 맞이하자꾸나..[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:273
 msgid ""
@@ -253,16 +466,25 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/text"
 msgstr ""
+"도약하자마자, 송신소가 텅 빈 게 아니라는 사실을 깨닫습니다! 익숙한 실루엣이 "
+"이곳에 자리 잡고 있습니다! 다른 사람이라니! 그건..."
 
 #: src-en/data/events_sector_emv_gilded.xml:282
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/text"
-msgstr ""
+msgstr "실반!?"
 
 #: src-en/data/events_sector_emv_gilded.xml:285
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/event/text"
 msgstr ""
+"\"유일무이한 하나이쬬, 낯썬이..\"\n"
+"\n"
+"실반의 함선이 제대로 모습을 드러냅니다. 이토록 익숙한 광경을 보는 것만으로도 "
+"마음이 안정됩니다..\n"
+"\n"
+"\"거래를 씨짝해 볼까요, 낯썬이? 아쓉게도 찌금은 짜원 쑤요가.. 매우 나쯘 "
+"쌍태라써요. 미싸일 15개에 쓰크랩 1개 쪼차 받찌도 못할 테쬬!\""
 
 #: src-en/data/events_sector_emv_gilded.xml:292
 msgid ""
@@ -272,42 +494,73 @@ msgstr "그가 무엇을 제공하는지 본다."
 #: src-en/data/events_sector_emv_gilded.xml:294
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "\"아쓉게도 남아 있는 째고가 많찌 않아요! 쩨안할 쑤 있는 건 이것밖에...\""
 
 #: src-en/data/events_sector_emv_gilded.xml:299
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LAST_STORE\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "이곳의 유일한 친구를 차마 공격할 수는 없습니다..."
 
 #: src-en/data/events_sector_emv_gilded.xml:307
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[1]"
 msgstr ""
+"실반이 있던 곳으로 돌아와, 이전에 그를 보았던 그 장소에서 그 그의 함선이나 "
+"흔적을 찾을 수 있기를 바랍니다.. 그 순간 한 통의 메세지를 수신합니다..\n"
+"\n"
+"    \"[style[color:ffc369]]이번엔 안되요, 낯썬이.. 하찌만 쩨 물건은 여쩐히 "
+"당씬을 위한 거씨쬬..[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:310
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[2]"
 msgstr ""
+"실반이 있던 곳으로 돌아와, 이전에 그를 보았던 그 장소에서 그 그의 함선이나 "
+"흔적을 찾을 수 있기를 바랍니다.. 그 순간 한 통의 메세지를 수신합니다..\n"
+"\n"
+"    \"[style[color:ffc369]]낯썬이, 낯썬이. 찐화라도 거쳐써 쌔로 짜란 꼬리를 "
+"다리 싸이에 싹 감추고 돌아왔나요? 아니면 내가 환각이라도 보는 건가요?[[/"
+"style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:313
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[3]"
 msgstr ""
+"실반이 있던 곳으로 돌아와, 이전에 그를 보았던 그 장소에서 그 그의 함선이나 "
+"흔적을 찾을 수 있기를 바랍니다.. 그 순간 한 통의 메세지를 수신합니다..\n"
+"\n"
+"    \"[style[color:ffc369]]낯썬이, 도망치찌 말라고 쩨가 몇 번이나 더 가르쳐 "
+"쭤야겠나요?[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:316
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[4]"
 msgstr ""
+"실반이 있던 곳으로 돌아와, 이전에 그를 보았던 그 장소에서 그 그의 함선이나 "
+"흔적을 찾을 수 있기를 바랍니다.. 그 순간 한 통의 메세지를 수신합니다..\n"
+"\n"
+"    \"[style[color:ffc369]]낯썬이, 당씬의 씰반을 향한 그 단골 쩡씬에는 "
+"감싸하고 이써요.. 이번은 그냥 넘어가쬬..[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:319
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[5]"
 msgstr ""
+"실반이 있던 곳으로 돌아와, 이전에 그를 보았던 그 장소에서 그 그의 함선이나 "
+"흔적을 찾을 수 있기를 바랍니다.. 그 순간 한 통의 메세지를 수신합니다..\n"
+"\n"
+"    \"[style[color:ffc369]]낯썬이, 이걸 대비하겠다고 얼마나 더 노력을 해볼 "
+"쌩각인가요?[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:322
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_SYLV_REVISIT\"]/text[6]"
 msgstr ""
+"실반이 있던 곳으로 돌아와, 이전에 그를 보았던 그 장소에서 그 그의 함선이나 "
+"흔적을 찾을 수 있기를 바랍니다.. 그 순간 한 통의 메세지를 수신합니다..\n"
+"\n"
+"    \"[style[color:ffc369]]낯썬이, 당씬이 무어쎄 마써고 있는찌 깨달았기를 "
+"바래요...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:334
 msgid ""
@@ -318,31 +571,57 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[1]"
 msgstr ""
+"구원을 얻고 이 구역을 벗어날 방법을 바라며 정거장으로 돌아온 당신은, 교신 "
+"허가를 보내기도 전에 한 통의 메시지를 수신합니다..\n"
+"\n"
+"    \"[style[color:ffd780]]차라리 우리가 너를 심판해보는 건 어떠냐?[[/"
+"style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:344
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[2]"
 msgstr ""
+"무엇을 할지 고민하던 중, 어떤 메시지가 당신에게 전달되는 것을 깨달았습니다. "
+"메시지에는 다음과 같이 적혀 있습니다...\n"
+"\n"
+"    \"[style[color:ffd780]]너의 결의가 태우는 불꽃을 보여라![[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:347
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[3]"
 msgstr ""
+"무엇을 할지 고민하던 중, 어떤 메시지가 당신에게 전달되는 것을 깨달았습니다. "
+"메시지에는 다음과 같이 적혀 있습니다...\n"
+"\n"
+"    \"[style[color:ffd780]]어째서 끝이 탄식과 흐느낌으로 끝나야 하는가?![[/"
+"style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:350
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[4]"
 msgstr ""
+"무엇을 할지 고민하던 중, 어떤 메시지가 당신에게 전달되는 것을 깨달았습니다. "
+"메시지에는 다음과 같이 적혀 있습니다...\n"
+"\n"
+"    \"[style[color:ffd780]]너의 불타는 열망을 보여다오![[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:353
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[5]"
 msgstr ""
+"무엇을 할지 고민하던 중, 어떤 메시지가 당신에게 전달되는 것을 깨달았습니다. "
+"메시지에는 다음과 같이 적혀 있습니다...\n"
+"\n"
+"    \"[style[color:ffd780]]너의 열정을 보여라![[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:356
 msgid ""
 "data/events_sector_emv_gilded.xml$//textList[@name=\"EMV_GILDED_JUDGESTEXT_REVISIT\"]/text[6]"
 msgstr ""
+"무엇을 할지 고민하던 중, 어떤 메시지가 당신에게 전달되는 것을 깨달았습니다. "
+"메시지에는 다음과 같이 적혀 있습니다...\n"
+"\n"
+"    \"[style[color:ffd780]]약속하건대, 아프지는 않을 것이다..[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:368
 msgid ""
@@ -352,17 +631,17 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_gilded.xml:376
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/beaconType/@text"
-msgstr ""
+msgstr "종장."
 
 #: src-en/data/events_sector_emv_gilded.xml:378
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "금빛 불빛들.."
 
 #: src-en/data/events_sector_emv_gilded.xml:381
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/text"
-msgstr ""
+msgstr "마침내 당신 여정의 절정에 도달했습니다. 종장이 이곳에 있습니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:383
 msgid ""
@@ -372,12 +651,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_gilded.xml:385
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_THE_END\"]/choice/event/text"
-msgstr ""
+msgstr "\"[style[color:ffc561]]죽어라, 개년아![[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:393
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LOSTSUN_START\"]/text"
-msgstr ""
+msgstr "다음 함선이 당신 앞에 허공에서 구체화됩니다..."
 
 #: src-en/data/events_sector_emv_gilded.xml:395
 msgid ""
@@ -387,12 +666,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_gilded.xml:397
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_LOSTSUN_START\"]/choice/event/text"
-msgstr ""
+msgstr "\"[style[color:ffd780]]덤벼라![[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:405
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_START\"]/text"
-msgstr ""
+msgstr "다음 함선이 당신 앞에 허공에서 구체화됩니다..."
 
 #: src-en/data/events_sector_emv_gilded.xml:407
 msgid ""
@@ -403,11 +682,16 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_START\"]/choice/event/text"
 msgstr ""
+"\"[style[color:ffc369]]낯썬이... 쩔반까찌 와써요, 계쏙 나아가쎄요.[[/"
+"style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:416
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_AFTERMATH\"]/text"
 msgstr ""
+"\"[style[color:ffc369]]낯썬이... 쑤고해써요, 찐씸으로 쑤고해써... 우리의 "
+"짜격 요건을 훌륭히 만쪽씨켰군요... 하찌만 그것마쩌 뛰어넘을 쑤 이쓸까요?[[/"
+"style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:418
 msgid ""
@@ -418,21 +702,24 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_MERCHANT_AFTERMATH\"]/choice/event/text"
 msgstr ""
+"\"[style[color:ffc369]]낯썬이... 기억하쎄요, 이쩨 이 모든 거쓴 고결한 결투일 "
+"뿐이예요... 짜씬의 패배를 인쩡하는 거쎈 어떠한 부끄러움도 업써요...[[/"
+"style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:427
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/text"
-msgstr ""
+msgstr "\"[style[color:ffc369]]그러니 낯썬이... 어떻게 하씨게써요?[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:429
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[1]/text"
-msgstr ""
+msgstr "싸움을 계속 진행하자!"
 
 #: src-en/data/events_sector_emv_gilded.xml:431
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "\"[style[color:ffc369]]당씬은 찐쩡 우리와 같은 부류로군요...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:433
 msgid ""
@@ -442,12 +729,14 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_gilded.xml:439
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[2]/text"
-msgstr ""
+msgstr "아니다, 나는 내 패배를 인정한다."
 
 #: src-en/data/events_sector_emv_gilded.xml:441
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[2]/event/text"
 msgstr ""
+"\"[style[color:ffc369]]물론이쬬... 그렇다면... 표면에써 만나도록 합씨다...[[/"
+"style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:443
 msgid ""
@@ -457,17 +746,19 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_gilded.xml:449
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[3]/text"
-msgstr ""
+msgstr "생각할 시간을 주십시오..."
 
 #: src-en/data/events_sector_emv_gilded.xml:451
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_CHOICE\"]/choice[3]/event/text"
 msgstr ""
+"\"[style[color:ffc369]]낯썬이... 천천히 하쎄요. 써두를 필요 업써요... "
+"써둘러야 한다는 싸씰만 쩨외한다면 말이쬬...[[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:458
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_FINALE\"]/text"
-msgstr ""
+msgstr "다음 함선이 당신 앞에 허공에서 구체화됩니다..."
 
 #: src-en/data/events_sector_emv_gilded.xml:460
 msgid ""
@@ -478,11 +769,16 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_FINALE\"]/choice/event/text"
 msgstr ""
+"\"[style[color:ffb045]]종[[/style]][style[color:ffbd64]]말[[/"
+"style]][style[color:ffd780]]이 가[[/style]][style[color:ffc369]]까워졌다..[[/"
+"style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:469
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/text"
 msgstr ""
+"당신은 기지로 강하하기 시작합니다... 당신과 함께 강하하는 금빛 불빛들을 "
+"바라보며..."
 
 #: src-en/data/events_sector_emv_gilded.xml:471
 msgid ""
@@ -493,6 +789,8 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/text"
 msgstr ""
+"벌어진 일들에 몸을 떨며 함선에서 걸어 나오자... 황금의 행상인이 당신에게 "
+"다가옵니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:475
 msgid ""
@@ -503,26 +801,41 @@ msgstr "...?"
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/text"
 msgstr ""
+"\"[style[color:ffc369]]쑤고해써요, 낯썬이. 당씬은 우리 계급에 어울릴 만큼 "
+"충분한 짜격을 보여쭈어써요.. 비록 다음번엔.. 더 멀리 나아가보길 바라찌만요, "
+"예?[[/style]]\"\n"
+"그가 도대체 무슨 말을 하는지 당신은 전혀 이해할 수 없습니다.. 그에게 "
+"물어보려고 입을 떼는 순간, 그는 당신을 향해 그저 윙크를 보낼 뿐입니다..\n"
+"\"[style[color:ffc369]]짜, 금빛 함대의 찌도짜 쭝 한 명으로써, 당씬을 "
+"공씩쩍으로 우리의 일쪽으로 찌명하고짜 해요...[[/style]]\"\n"
+"그가 손을 내밀어 옵니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:482
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/text"
 msgstr ""
+"[style[color:ffb045]]계[[/style]][style[color:ffbd64]]속[[/"
+"style]][style[color:ffd780]]하[[/style]][style[color:ffc369]]라...[[/style]]"
 
 #: src-en/data/events_sector_emv_gilded.xml:484
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"[style[color:ffb045]]환[[/style]][style[color:ffbd64]]영[[/"
+"style]][style[color:ffd780]]한[[/style]][style[color:ffc369]]다![[/style]]\""
 
 #: src-en/data/events_sector_emv_gilded.xml:485
 msgid ""
 "data/events_sector_emv_gilded.xml$//event[@name=\"EMV_GILDED_VICTORY_BORING\"]/choice/event/choice/event/choice/event/win/@text"
 msgstr ""
+"[style[color:ffb045]]더 [[/style]][style[color:ffbd64]]멀[[/"
+"style]][style[color:ffd780]]리 [[/style]][style[color:ffc369]]나아가라..[[/"
+"style]]"
 
 #: src-en/data/events_sector_emv_gilded.xml:497
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_FINAL_REBEL\"]/destroyed/text"
-msgstr ""
+msgstr "다행히 그녀가 떠났습니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:500
 msgid ""
@@ -532,7 +845,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_gilded.xml:505
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_FINAL_REBEL\"]/deadCrew/text"
-msgstr ""
+msgstr "다행히 그녀가 떠났습니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:508
 msgid ""
@@ -542,7 +855,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_gilded.xml:516
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_LOSTSUN\"]/destroyed/text"
-msgstr ""
+msgstr "함선이 눈앞에서 소멸하자 당신은 땀을 흘립니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:519
 msgid ""
@@ -552,7 +865,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_gilded.xml:524
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_LOSTSUN\"]/deadCrew/text"
-msgstr ""
+msgstr "함선이 눈앞에서 소멸하자 당신은 땀을 흘립니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:527
 msgid ""
@@ -562,7 +875,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_gilded.xml:535
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_MERCHANT\"]/destroyed/text"
-msgstr ""
+msgstr "함선이 눈앞에서 소멸하자 당신은 땀을 흘립니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:538
 msgid ""
@@ -572,7 +885,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_gilded.xml:543
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_MERCHANT\"]/deadCrew/text"
-msgstr ""
+msgstr "함선이 눈앞에서 소멸하자 당신은 땀을 흘립니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:546
 msgid ""
@@ -582,7 +895,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_gilded.xml:554
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_FINAL\"]/destroyed/text"
-msgstr ""
+msgstr "해냈습니다, 당신이 승리했습니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:557
 msgid ""
@@ -592,7 +905,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_emv_gilded.xml:562
 msgid ""
 "data/events_sector_emv_gilded.xml$//ship[@name=\"EMV_GILDED_FINAL\"]/deadCrew/text"
-msgstr ""
+msgstr "해냈습니다, 당신이 승리했습니다."
 
 #: src-en/data/events_sector_emv_gilded.xml:565
 msgid ""
