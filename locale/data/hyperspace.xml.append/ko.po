@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-09-29 17:36+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/expanded-"
+"multiverse/datahyperspace-xml-append/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/hyperspace.xml.append:19
 msgid ""
@@ -16,6 +23,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_mercenary\"]/powerEffect/tooltip"
 msgstr ""
+"[충전 시간:5초]\n"
+"\t\t\t\t현재 대상에게 출혈 디버프를 부여합니다."
 
 #: src-en/data/hyperspace.xml.append:67
 msgid ""
@@ -28,6 +37,9 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_medic\"]/powerEffect/tooltip"
 msgstr ""
+"[충전 시간:30초]\n"
+"\t\t\t\t근처의 모든 아군 선원에게 자극제를 투여하여 체력을 15 회복시키고 "
+"일시적인 피해 저항을 부여합니다."
 
 #: src-en/data/hyperspace.xml.append:136
 msgid ""
@@ -40,18 +52,24 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_engineer\"]/powerEffect/tooltip"
 msgstr ""
+"[충전 시간:25초]\n"
+"\t\t\t\t수리는 가능하지만 전투와 시스템 파괴를 할 수 있는 보조 드론을 "
+"일시적으로 소환합니다. 25초간 지속됩니다."
 
 #: src-en/data/hyperspace.xml.append:190
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_commander\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "함성"
 
 #: src-en/data/hyperspace.xml.append:191
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_human_commander\"]/powerEffect/tooltip"
 msgstr ""
+"[충전 시간:25초]\n"
+"\t\t\t\t같은 방에 있는 모든 아군 인간이 버프를 받으며, 소속과 관계없이 다른 "
+"모든 종족은 디버프를 받습니다."
 
 #: src-en/data/hyperspace.xml.append:305
 msgid ""
@@ -64,6 +82,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"emv_mv_vance\"]/powerEffect/tooltip"
 msgstr ""
+"잠시 동안 조종 불능 상태가 되지만 매우 빠르게 회복됩니다. 타겟으로 지정될 수 "
+"없습니다."
 
 #: src-en/data/hyperspace.xml.append:399
 msgid ""
@@ -76,6 +96,9 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_emv_mortis\"]/powerEffect/tooltip"
 msgstr ""
+"[충전 시간:20초  지속 시간:10초]\n"
+"\t\t\t\t이동 속도가 3.5배, 대인 공격력이 5배로 증가하며 지속시간 동안 수리가 "
+"불가능해집니다. 또한 지속시간 동안 적의 회복을 차단합니다."
 
 #: src-en/data/hyperspace.xml.append:457
 msgid ""
@@ -88,13 +111,14 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_emv_vitae\"]/powerEffect/tooltip"
 msgstr ""
+"[충전 시간:20초  지속 시간:10초]\n"
+"\t\t\t아군 선원의 체력을 초당 7.5 회복시키는 의료 페로몬을 방출합니다."
 
 #: src-en/data/hyperspace.xml.append:563
 msgid "data/hyperspace.xml.append$//slug_ranger[@name=\"Bob\"]/@name"
 msgstr "Bob"
 
 #: src-en/data/hyperspace.xml.append:884
-#, fuzzy
 msgid "data/hyperspace.xml.append$//unique_obyn[@name=\"Obyn\"]/@name"
 msgstr "Obyn"
 
@@ -108,11 +132,11 @@ msgstr "Leah"
 
 #: src-en/data/hyperspace.xml.append:1073
 msgid "data/hyperspace.xml.append$//unique_emv_mortis[@name=\"Mortis\"]/@name"
-msgstr ""
+msgstr "Mortis"
 
 #: src-en/data/hyperspace.xml.append:1095
 msgid "data/hyperspace.xml.append$//unique_emv_vitae[@name=\"Vitae\"]/@name"
-msgstr ""
+msgstr "Vitae"
 
 #: src-en/data/hyperspace.xml.append:1430
 msgid ""
@@ -131,7 +155,6 @@ msgid "data/hyperspace.xml.append$//unique_leah_mfk[@name=\"Leah\"]/@name"
 msgstr "Leah"
 
 #: src-en/data/hyperspace.xml.append:1848
-#, fuzzy
 msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Sylvan\"]/@name"
 msgstr "Sylvan"
 
@@ -140,141 +163,176 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[1]/tooltip"
 msgstr ""
+"[style[color:ffb045]]황[[/style]][style[color:ffbd64]]금의[[/"
+"style]][style[color:ffd780]] 위[[/style]][style[color:ffc369]]협:[[/style]]\n"
+"[style[color:ffb045]]너의[[/style]][style[color:ffbd64]] 무력[[/"
+"style]][style[color:ffd780]]을 보여[[/style]][style[color:ffc369]]다오![[/"
+"style]]"
 
 #: src-en/data/hyperspace.xml.append:1889
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[2]/tooltip"
 msgstr ""
+"[style[color:ffb045]]황[[/style]][style[color:ffbd64]]금의[[/"
+"style]][style[color:ffd780]] 방[[/style]][style[color:ffc369]]어막:[[/"
+"style]]\n"
+"[style[color:ffbd64]]고대의 힘이 우리의 방어막을 다른 어떤 것보다 뛰어나게 "
+"하여 10의 내구도를 부여하고, 그대로 두면 다시 재충전되게 합니다...[[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1894
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[3]/tooltip"
 msgstr ""
+"[style[color:ffb045]]황[[/style]][style[color:ffbd64]]금의[[/"
+"style]][style[color:ffd780]] 무[[/style]][style[color:ffc369]]기:[[/style]]\n"
+"[style[color:ffd780]]순수한 신화적 권능이 우리의 무기에 흘러들어 충전 시간을 "
+"단축시킵니다![[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1899
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[4]/tooltip"
 msgstr ""
+"[style[color:ffb045]]황[[/style]][style[color:ffbd64]]금의[[/"
+"style]][style[color:ffd780]] 재생[[/style]][style[color:ffc369]] 장갑:[[/"
+"style]]\n"
+"[style[color:ffd780]]이 장갑을 뚫을 수 있다면 뚫어보시지! 25%의 선체 및 "
+"시스템 저항과 자동 수리 기능을 갖추고 있습니다![[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1904
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[5]/tooltip"
 msgstr ""
+"[style[color:ffb045]]황[[/style]][style[color:ffbd64]]금의[[/"
+"style]][style[color:ffd780]] 신성한[[/style]][style[color:ffc369]] 장갑:[[/"
+"style]]\n"
+"[style[color:ffd780]]이 장갑을 뚫을 수 있다면 뚫어보시지! 25%의 선체 및 "
+"시스템 저항과 자동 수리 기능을 갖추고 있습니다![[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1909
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[6]/tooltip"
 msgstr ""
+"[style[color:ffb045]]황[[/style]][style[color:ffbd64]]금의[[/"
+"style]][style[color:ffd780]] 의료용[[/style]][style[color:ffc369]] 나노봇:[[/"
+"style]]\n"
+"[style[color:ffc369]]이 의료용 나노봇들은 쩨 썬원들이 의료씰 밖에써도 "
+"치료받을 쑤 있게 할 뿐만 아니라 추가 체력과 피해량, 이동 쏙도까찌 얻게 "
+"해쭤요...[[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1914
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[5]/mod:findLike/mod-"
 "append:shipIcon[7]/tooltip"
 msgstr ""
+"[style[color:ffb045]]황[[/style]][style[color:ffbd64]]금의[[/"
+"style]][style[color:ffd780]] 의료용[[/style]][style[color:ffc369]] 나노봇:[[/"
+"style]]\n"
+"[style[color:ffc369]]균열뿐만 아니라 씨쓰템까찌 쑤리해 쭈는 이루 말할 쑤 "
+"없는 겔이예요...[[/style]]"
 
 #: src-en/data/hyperspace.xml.append:1958
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[1]/customTitle"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/hyperspace.xml.append:1976
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[2]/customTitle"
-msgstr ""
+msgstr "빔"
 
 #: src-en/data/hyperspace.xml.append:1994
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[3]/customTitle"
-msgstr ""
+msgstr "이온"
 
 #: src-en/data/hyperspace.xml.append:2012
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[4]/customTitle"
-msgstr ""
+msgstr "쓰레기 무기"
 
 #: src-en/data/hyperspace.xml.append:2030
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[5]/customTitle"
-msgstr ""
+msgstr "드론"
 
 #: src-en/data/hyperspace.xml.append:2048
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[6]/customTitle"
-msgstr ""
+msgstr "필수 시스템"
 
 #: src-en/data/hyperspace.xml.append:2066
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[7]/customTitle"
-msgstr ""
+msgstr "보조 시스템"
 
 #: src-en/data/hyperspace.xml.append:2084
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[8]/customTitle"
-msgstr ""
+msgstr "전리품"
 
 #: src-en/data/hyperspace.xml.append:2102
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[1]/category[9]/customTitle"
-msgstr ""
+msgstr "전리품"
 
 #: src-en/data/hyperspace.xml.append:2139
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[1]/customTitle"
-msgstr ""
+msgstr "오늘의 특선무기 [33% 할인]"
 
 #: src-en/data/hyperspace.xml.append:2159
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[2]/customTitle"
-msgstr ""
+msgstr "오늘의 특선드론 [33% 할인]"
 
 #: src-en/data/hyperspace.xml.append:2179
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[3]/customTitle"
-msgstr ""
+msgstr "오늘의 특선보조장비 [33% 할인]"
 
 #: src-en/data/hyperspace.xml.append:2219
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[7]/customTitle"
-msgstr ""
+msgstr "선원 [선별됨]"
 
 #: src-en/data/hyperspace.xml.append:2233
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[8]/customTitle"
-msgstr ""
+msgstr "필수 시스템"
 
 #: src-en/data/hyperspace.xml.append:2251
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[9]/customTitle"
-msgstr ""
+msgstr "보조 시스템"
 
 #: src-en/data/hyperspace.xml.append:2269
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[6]/mod-"
 "append:customStore[2]/category[10]/customTitle"
-msgstr ""
+msgstr "무기 [선별됨]"
 
 #: src-en/data/hyperspace.xml.append:2308
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[8]/mod-"
 "append:page/section/@text"
-msgstr ""
+msgstr "EMV 사운드트랙"
