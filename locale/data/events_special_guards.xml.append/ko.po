@@ -1,24 +1,40 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-09-29 17:36+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/expanded-"
+"multiverse/dataevents_special_guardsxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_guards.xml.append:2
 msgid ""
 "data/events_special_guards.xml.append$//textList[@name=\"TEXT_EMV_DROPPOINT_GUARD\"]/text[1]"
 msgstr ""
+"통과하자마자 주위를 둘러봅니다. 수많은 함선이 오가고, 엄중한 경계와 중무장이 "
+"갖추어져 있습니다. 적절한 신분증을 소지한 것이 매우 다행입니다."
 
 #: src-en/data/events_special_guards.xml.append:3
 msgid ""
 "data/events_special_guards.xml.append$//textList[@name=\"TEXT_EMV_DROPPOINT_GUARD\"]/text[2]"
 msgstr ""
+"MVPMC 영역으로 도약하는 것은 처음이 아니더라도 언제나 긴장됩니다. 입출항 "
+"등록을 기다리는 함선들이 뒤로 길게 줄지어 서 있는 것이 보이며, 이 경비 "
+"태세가 반군 함대를 조금이라도 지연시킬 수 있기를 바랍니다."
 
 #: src-en/data/events_special_guards.xml.append:4
 msgid ""
 "data/events_special_guards.xml.append$//textList[@name=\"TEXT_EMV_DROPPOINT_GUARD\"]/text[3]"
 msgstr ""
+"한계속도를 이탈하여 주위를 둘러보고 MVPMC가 구축한 거대한 방어벽을 "
+"바라봅니다. 광활한 우주의 여러 종족이 사용하는 모든 방어 시설이 혼합된, "
+"지금까지 본 적 없는 광경입니다. 저 거대한 대포들의 공격 대상으로 등록되지 "
+"않은 것이 다행입니다."
 
 #: src-en/data/events_special_guards.xml.append:17
 msgid ""
@@ -29,12 +45,15 @@ msgstr "계속..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/text"
 msgstr ""
+"한계속도를 끝내자마자 졸탄 경비병 중 한 명이 당신에게 교신을 보냅니다. "
+"\"반갑습니다, 동료 배회자여. 제17조 B항 알파에 따라, 감사를 위해 함선 검사를 "
+"받지 않으면 안 되며 신분 기록, 고용 일자, 임무 보고서를 제출해야 합니다.\""
 
 #: src-en/data/events_special_guards.xml.append:36
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/choice[@req=\"emv_rep_renegades\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "검사를 진행한다."
 
 #: src-en/data/events_special_guards.xml.append:40
 msgid ""
@@ -51,6 +70,9 @@ msgstr "경비정을 공격한다."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN\"]/choice[3]/event/text"
 msgstr ""
+"\"경보, 여기는 스트라이커 6-6, 진입 지점 12에서 코드 블랙 발생. 반복한다, "
+"진입 지점 12에서 코드 블랙, 지금 즉시 지원이 필요하다!\" 경비정이 당신을 "
+"향해 무기를 겨누며 근처 지원군에게 알린 것이 분명합니다. 전투를 준비하십시오!"
 
 #: src-en/data/events_special_guards.xml.append:49
 msgid ""
@@ -61,6 +83,8 @@ msgstr "계속..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_CRIMINAL\"]/text"
 msgstr ""
+"무언가 이상합니다. 보통 MVPMC는 당신 같은 함선에 눈길조차 주지 않겠지만, "
+"지금 경비정에서 수상한 무전 교신이 잡힙니다."
 
 #: src-en/data/events_special_guards.xml.append:59
 msgid ""
@@ -83,11 +107,16 @@ msgstr "계속..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/text"
 msgstr ""
+"졸탄 검사관이 당신의 함선에 승선해 철저한 검사를 시작합니다. 정밀한 "
+"검사였음에도 불구하고, 미리 준비된 정보 덕분에 검사는 다소 빠르게 끝납니다. "
+"\"아주 좋습니다, 이제 이 구역의 안전함을 마음껏 누려도 좋습니다. 또한 누구의 "
+"적대 행위도 없는 상태에서 거래가 관련된 모든 당사자에게 유익하다면 제09조 "
+"Z항 델타에 따라 이 진입 지점의 서비스를 이용해도 좋습니다.\""
 
 #: src-en/data/events_special_guards.xml.append:74
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[1]/text"
-msgstr ""
+msgstr "수리. [3$]"
 
 #: src-en/data/events_special_guards.xml.append:76
 msgid ""
@@ -112,7 +141,7 @@ msgstr "탄약."
 #: src-en/data/events_special_guards.xml.append:96
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[3]/event/text"
-msgstr ""
+msgstr "당신의 함선에 물자를 보급하기 위해 보급 드론이 파견됩니다."
 
 #: src-en/data/events_special_guards.xml.append:104
 msgid ""
@@ -122,17 +151,19 @@ msgstr "드론 부품."
 #: src-en/data/events_special_guards.xml.append:106
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[4]/event/text"
-msgstr ""
+msgstr "당신의 함선에 물자를 보급하기 위해 보급 드론이 파견됩니다."
 
 #: src-en/data/events_special_guards.xml.append:114
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[5]/text"
-msgstr ""
+msgstr "상점."
 
 #: src-en/data/events_special_guards.xml.append:116
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[5]/event/text"
 msgstr ""
+"장비를 구매할 권한을 부여받았지만, 함선 내에서 다른 일을 할 시간도 어느 정도 "
+"있습니다..."
 
 #: src-en/data/events_special_guards.xml.append:119
 msgid ""
@@ -147,12 +178,12 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_special_guards.xml.append:132
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/text"
-msgstr ""
+msgstr "(긍정적인 MVPMC 평판) 상점."
 
 #: src-en/data/events_special_guards.xml.append:134
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/text"
-msgstr ""
+msgstr "\"아 제 실수군요, 당신은 좋은 고객이시죠! 어서 들어오세요, 무료입니다.\""
 
 #: src-en/data/events_special_guards.xml.append:137
 msgid ""
@@ -167,12 +198,14 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_special_guards.xml.append:147
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[7]/text"
-msgstr ""
+msgstr "지나친다."
 
 #: src-en/data/events_special_guards.xml.append:149
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ZOLTAN_INSPECTION\"]/choice[7]/event/text"
 msgstr ""
+"하필 이런 곳에서 스크랩을 쓰고 싶지는 않습니다. 여전히 때울 시간은 남아 "
+"있습니다..."
 
 #: src-en/data/events_special_guards.xml.append:151
 msgid ""
@@ -188,12 +221,16 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/text"
 msgstr ""
+"한계속도를 끝내자마자 엔지 경비병 중 한 명이 당신에게 교신을 보냅니다. "
+"\"신원 확인 = 배회자. 검증 증명: 필요함. 검증 실패 != 선택지.\" 엔지 "
+"경비정이 당신의 신원을 확인하기 위해 함선에 승선하여 신속한 검사를 "
+"실시하도록 명령하는 것 같습니다."
 
 #: src-en/data/events_special_guards.xml.append:167
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/choice[@req=\"emv_rep_renegades\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "검사를 진행한다."
 
 #: src-en/data/events_special_guards.xml.append:171
 msgid ""
@@ -210,6 +247,9 @@ msgstr "경비정을 공격한다."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI\"]/choice[3]/event/text"
 msgstr ""
+"\"오류 589. 함선 상태: 적대적. 코드 = 블랙. 방어 프로토콜 전개.\" 경비병이 "
+"당신을 향해 무기를 겨누며 근처 지원군에게 알린 것이 분명합니다. 전투를 "
+"준비하십시오!"
 
 #: src-en/data/events_special_guards.xml.append:180
 msgid ""
@@ -220,11 +260,17 @@ msgstr "계속..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/text"
 msgstr ""
+"엔지 검사관이 당신의 함선에 승선하여 검사를 시작합니다. 당신을 완전히 "
+"등록하고 신원을 확인하여 입장을 허가하는 데는 그리 오랜 시간이 걸리지 "
+"않습니다. \"신원 검증: 성공. 배회자 = 허용됨. 금전 서비스 이용 가능. 요구 "
+"사항: 유효한 화폐 수단.\" 보아하니 이 구역의 진입 지점에 마련된 상점에서 "
+"물품을 구매할 수 있는 것으로 보이며, 여정을 계속하기 전에 물자를 재보급하는 "
+"것이 좋을 것입니다."
 
 #: src-en/data/events_special_guards.xml.append:190
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[1]/text"
-msgstr ""
+msgstr "수리. [3$]"
 
 #: src-en/data/events_special_guards.xml.append:192
 msgid ""
@@ -249,7 +295,7 @@ msgstr "탄약."
 #: src-en/data/events_special_guards.xml.append:212
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[3]/event/text"
-msgstr ""
+msgstr "당신의 함선에 물자를 보급하기 위해 보급 드론이 파견됩니다."
 
 #: src-en/data/events_special_guards.xml.append:220
 msgid ""
@@ -259,17 +305,19 @@ msgstr "드론 부품."
 #: src-en/data/events_special_guards.xml.append:222
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[4]/event/text"
-msgstr ""
+msgstr "당신의 함선에 물자를 보급하기 위해 보급 드론이 파견됩니다."
 
 #: src-en/data/events_special_guards.xml.append:230
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[5]/text"
-msgstr ""
+msgstr "상점."
 
 #: src-en/data/events_special_guards.xml.append:232
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[5]/event/text"
 msgstr ""
+"장비를 구매할 권한을 부여받았지만, 함선 내에서 다른 일을 할 시간도 어느 정도 "
+"있습니다..."
 
 #: src-en/data/events_special_guards.xml.append:235
 msgid ""
@@ -284,12 +332,12 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_special_guards.xml.append:248
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/text"
-msgstr ""
+msgstr "(긍정적인 MVPMC 평판) 상점."
 
 #: src-en/data/events_special_guards.xml.append:250
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[@req=\"emv_rep_renegades\"]/event/text"
-msgstr ""
+msgstr "\"아 제 실수군요, 당신은 좋은 고객이시죠! 어서 들어오세요, 무료입니다.\""
 
 #: src-en/data/events_special_guards.xml.append:253
 msgid ""
@@ -304,12 +352,14 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_special_guards.xml.append:263
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[7]/text"
-msgstr ""
+msgstr "지나친다."
 
 #: src-en/data/events_special_guards.xml.append:265
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"EMV_GUARD_ENGI_INSPECTION\"]/choice[7]/event/text"
 msgstr ""
+"하필 이런 곳에서 스크랩을 쓰고 싶지는 않습니다. 여전히 때울 시간은 남아 "
+"있습니다..."
 
 #: src-en/data/events_special_guards.xml.append:267
 msgid ""
@@ -325,6 +375,9 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ZOLTAN_DESTROY\"]/text"
 msgstr ""
+"배회자 경비정을 처치했습니다. 그들의 화물에 있었던 것은 그게 무엇이었든 간에 "
+"확실히 파괴되었지만, 적어도 그들의 함선으로부터 약간의 보급품을 수거할 수 "
+"있었습니다."
 
 #: src-en/data/events_special_guards.xml.append:289
 msgid ""
@@ -335,6 +388,9 @@ msgstr "계속..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ZOLTAN_DEADCREW\"]/text"
 msgstr ""
+"배회자 경비정을 처치했습니다. 당신을 막을 선원이 모두 죽어서 그들의 화물을 "
+"조사할 수 있었습니다. 당신은 무기를 찾아내 함선으로 갖고 돌아온 후 적함의 "
+"선체를 긁어모으기 위해 이동했습니다."
 
 #: src-en/data/events_special_guards.xml.append:298
 msgid ""
@@ -345,6 +401,9 @@ msgstr "계속..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ENGI_DESTROY\"]/text"
 msgstr ""
+"배회자 경비정을 처치했습니다. 그들의 화물에 있었던 것은 그게 무엇이었든 간에 "
+"확실히 파괴되었지만, 적어도 그들의 함선으로부터 약간의 보급품을 수거할 수 "
+"있었습니다."
 
 #: src-en/data/events_special_guards.xml.append:313
 msgid ""
@@ -355,6 +414,9 @@ msgstr "계속..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"SHIP_GUARD_EMV_ENGI_DEADCREW\"]/text"
 msgstr ""
+"배회자 경비정을 처치했습니다. 당신을 막을 선원이 모두 죽어서 그들의 화물을 "
+"조사할 수 있었습니다. 당신은 무기를 찾아내 함선으로 갖고 돌아온 후 적함의 "
+"선체를 긁어모으기 위해 이동했습니다."
 
 #: src-en/data/events_special_guards.xml.append:322
 msgid ""
@@ -365,6 +427,8 @@ msgstr "계속..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"GUARD_EMV_RENEGADE_FOLLOWUP\"]/text"
 msgstr ""
+"경비함 해체를 마칠 즈음, 또 다른 침입자가 함선 옆을 지나갑니다. 나중에 "
+"추격할 수도 있도록 해당 위치를 기록해 둡니다..."
 
 #: src-en/data/events_special_guards.xml.append:335
 msgid ""
