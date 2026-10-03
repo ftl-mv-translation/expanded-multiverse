@@ -38,6 +38,8 @@ jobs:
         bash snippets/ci-nightly.sh fr
         bash snippets/ci-nightly.sh zh_Hans
         bash snippets/ci-nightly-machine.sh ja
+        bash snippets/ci-nightly.sh ko
+
 
     - name: Tag the commit
       run: |
